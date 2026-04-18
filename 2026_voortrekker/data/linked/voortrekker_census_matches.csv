@@ -1,0 +1,559 @@
+"row_id","vt_surname","vt_name","name_raw","district","match_score","match_quality","census_id"
+1040,"VAN DYK","JOSEPH (RYK JOSEPH)","Van Dyk, Joseph","Albany",0.93,"Good",1
+1042,"VAN DYK","ANDRIES JACOBUS","Van Dyk, Andries Jacobus","Albany",0.98,"Good",7
+328,"ERASMUS","DANIEL BALTHAZAR","Erasmus, Daniel Balthazar","Albany",0.974,"Good",53
+246,"DE WET","PIETER","De Wet, Pieter","Albany",0.83,"Fair",67
+248,"DE WET","CHRISTOFFEL JOHANNES","De Wet, Christoffel Johannes","Albany",1,"Good",68
+1036,"VAN DYK","SYBRAND","Van Dyk, Sybrand","Albany",0.93,"Good",80
+601,"MEYER","WILLEM PETRUS (PIET)","Meyer, Willem Petrus","Albany",0.996,"Good",90
+802,"RETIEF","PIETER","Retief, Pieter","Albany",0.968,"Good",95
+728,"POTGIETER","MARTHINUS JACOBUS","Potgieter, Marthinus Jacobus","Albany",0.996,"Good",146
+40,"BEUKES","CORNELIUS JOHANNES","Beukes, Cornelis Johannes","Beaufort",0.948,"Good",201
+443,"JACOBS","DANIEL PIETER","Jacobs, Daniel Pieter","Beaufort",0.972,"Good",234
+440,"JACOBS","DANIEL","Jacobs, Daniel","Beaufort",0.888,"Fair",244
+354,"FOURIE","DAVID STEPHANUS SR","Fourie, David Stephanus","Beaufort",0.882,"Fair",266
+441,"JACOBS","JOHANNES JACOBUS","Jacobs, Johannes Jacobus","Beaufort",0.936,"Good",274
+46,"BEZUIDENHOUT","FREDERIK JACOBUS","Bezuidenhout, Fredrik Jacobus","Beaufort",0.922,"Good",281
+1045,"VAN EMMENES","GERRIT","Van Emmenes, Gerrit","Beaufort",0.946,"Good",282
+347,"ESTERHUIZEN","JAN CHRISTOFFEL","Esterhuizen, Jan Christoffel","Beaufort",0.936,"Good",296
+62,"BOTES","ANDRIES STEPHANUS","Botes, Andries Stephanus","Beaufort",0.992,"Good",303
+935,"STRYDOM","DAVID JAN JACOBUS","Strydom, David Jan Jacobus","Beaufort",0.998,"Good",338
+195,"DE BEER","MATTHYS ANDRIES","De Beer, Matthys Andries","Beaufort",0.984,"Good",359
+61,"BOTES","ANTHONIE JOHANNES LOURENS","Botes, Anthonie Johannes Lourens","Beaufort",0.992,"Good",397
+66,"BOTES","CAREL FREDERIK","Botes, Charel Fredrik","Beaufort",0.874,"Fair",403
+424,"HORN","CHRISTIAAN WYNAND","Horn, Christiaan Wynand","Beaufort",0.996,"Good",430
+880,"SMIT","FRANCOIS PETRUS","Smit, Francois Petrus","Beaufort",0.898,"Fair",443
+143,"BRONKHORST","HENDRIK LAMBERT","Bronkhorst, Hendrik Lambert","Beaufort",0.956,"Good",455
+205,"DE BEER","JACOBUS FREDERIK","De Beer, Jacobus Fredrik","Beaufort",0.886,"Fair",464
+982,"VAN DEN BERG","HENDRIK","Van den Berg, Hendrik","Beaufort",0.954,"Good",467
+673,"OOSTHUIZEN","JOHANNES JACOBUS SR.","Oosthuizen, Johannes Jacobus","Beaufort",0.966,"Good",471
+575,"MARAIS","GERHARDUS PETRUS","Marais, Gerhardus Petrus","Beaufort",0.986,"Good",488
+436,"JACOBS","PETRUS JACOBUS","Jacobs, Petrus Jacobus","Beaufort",0.988,"Good",511
+453,"JONKER","PIETER","Jonker, Pieter","Beaufort",0.97,"Good",515
+454,"JONKER","JOHANNES","Jonker, Johannes","Beaufort",0.954,"Good",516
+663,"OLIVIER","ADRIAAN JACOBUS JEREMIAS","Olivier, Adriaan Jacobus Jeremias","Beaufort",0.986,"Good",533
+17,"BARNARD","WILLEM HENDRIK","Barnard, Willem Hendrik","Beaufort",0.992,"Good",554
+1209,"WEIDEMAN","ROELOF","Weideman, Roelof","Beaufort",0.908,"Good",567
+134,"BRONKHORST","LUCAS CORNELIUS","Bronkhorst, Lucas Cornelis","Beaufort",0.808,"Fair",571
+135,"BRONKHORST","JOHANNES GERHARDUS STEPHANUS","Bronkhorst, Johannes Gerhardus Stephanus","Beaufort",0.956,"Good",595
+740,"PRETORIUS","C(H)AREL (SAREL) JOHANNES","Pretorius, Charel Johannes","Beaufort",0.824,"Fair",618
+742,"PRETORIUS","GERHARDUS PETRUS","Pretorius, Gerhardus Petrus","Beaufort",0.95,"Good",619
+737,"PRETORIUS","WILLEM STERRENBERG","Pretorius, Willem Sterrenberg","Beaufort",0.894,"Fair",620
+433,"JACOBS","PETRUS CASPARUS","Jacobs, Petrus Casparus","Beaufort",0.988,"Good",637
+404,"HARMSE","BARTHOLOMEUS","Harmse, Bartholomeus","Beaufort",0.97,"Good",646
+887,"SNYDERS","GERRIT CHRISTOFFEL","Snyders, Gerrit Christoffel","Beaufort",0.96,"Good",651
+886,"SNYDERS","JOHANNES HENDRIK","Snyders, Johannes Hendrik","Beaufort",0.984,"Good",653
+1028,"VAN DER WESTHUIZEN","JOHANNES","Van der Westhuizen, Johannes","Beaufort",0.952,"Good",655
+1026,"VAN DER WESTHUIZEN","NICOLAAS","Van der Westhuizen, Nicolaas","Beaufort",0.906,"Good",656
+676,"OOSTHUIZEN","CORNELIS ANDRIES","Oosthuizen, Cornelis Andries","Beaufort",0.988,"Good",684
+934,"STRYDOM","JOHANNES MATTHYS","Strydom, Johannes Matthys","Beaufort",0.98,"Good",691
+937,"STRYDOM","JAN HENDRIK","Strydom, Jan Hendrik","Beaufort",0.99,"Good",695
+42,"BEZUIDENHOUT","JOHANNES SR","Bezuidenhout, Johannes","Beaufort",0.894,"Fair",716
+920,"STEYN","JOHANNES","Steyn, Johannes","Beaufort",0.844,"Fair",745
+923,"STEYN","PETRUS HERMANUS","Steyn, Petrus Hermanus","Beaufort",0.994,"Good",760
+922,"STEYN","JACOBUS MARTHINUS","Steyn, Jacobus Marthinus","Beaufort",0.988,"Good",762
+283,"DU PLOOY","LEENDERT HENDRIK","Du Plooy, Leendert Hendrik","Beaufort",0.978,"Good",780
+1139,"VAN WYK","ADRIAAN JACOBUS ADOLPH","Van Wyk, Adriaan Jacobus Adolph","Beaufort",0.972,"Good",782
+637,"NEL","LUCAS MARTHINUS","Nel, Lucas Marthinus","Beaufort",0.98,"Good",783
+357,"FOURIE","DANIEL JACOBUS","Fourie, Daniel Jacobus","Beaufort",0.962,"Good",826
+877,"SMIT","JOHANNES HENDRIK","Smit, Johan Hendrik","Beaufort",0.93,"Good",852
+295,"DU TOIT","ROELOF PETRUS","Du Toit, Roelof Petrus","Beaufort",0.972,"Good",914
+182,"COMBRINK","WILLEM ANDRIES","Combrink, Willem Andries","Beaufort",0.97,"Good",915
+796,"RAS","MARTHINUS NICOLAAS","Ras, Marthinus Nicolaas","Clanwilliam",0.978,"Good",1118
+799,"RAS","CHRISTIAAN DAVID","Ras, Christiaan David","Clanwilliam",0.956,"Good",1120
+797,"RAS","HERMANUS NICOLAAS","Ras, Hermanus Nicolaas","Clanwilliam",0.956,"Good",1158
+1032,"VAN DEVENTER","JAN GERRITSE","van Deventer, Jan Gerritze","Cradock",0.868,"Fair",1516
+1033,"VAN DEVENTER","WILLEM ANDREAS","van Deventer, Willem Andries","Cradock",0.846,"Fair",1517
+1064,"VAN NIEKERK","JACOBUS GUSTAVUS","van Niekerk, Jacobus Gustaphus","Cradock",0.888,"Fair",1538
+483,"KLOPPER","JOHANNES JACOBUS","Klopper, Johannes Jacobus","Cradock",0.946,"Good",1543
+680,"OPPERMAN","GODLIEB RUDOLPH","Opperman, Godlieb Rudolph","Cradock",0.934,"Good",1561
+514,"KRUGER","CASPER JAN HENDRIK","Kruger, Caspar Jan Hendrik","Cradock",0.93,"Good",1579
+652,"NEL","LOUIS","Nel, Louis","Cradock",0.902,"Good",1592
+904,"STEENKAMP","JAN HARMSE","Steenkamp, Jan Harmse","Cradock",0.882,"Fair",1599
+378,"GREYLING","ARNOLDUS JACOBUS","Greyling, Arnoldus Jacobus","Cradock",0.952,"Good",1601
+685,"PELZER","CAREL JOHANNES","Pelzer, Carel Johannes","Cradock",0.996,"Good",1605
+16,"BADENHORST","JACOBUS PETRUS","Badenhorst, Jacobus Petrus","Cradock",0.988,"Good",1622
+1182,"VILJOEN","DAVID SCHALK","Viljoen, David Schalk","Cradock",0.974,"Good",1644
+499,"KOEKEMOER","DIEDERIK JOHANNES","Koekemoer, Diederik Johannes","Cradock",0.978,"Good",1650
+163,"COETZEE","PIETER HENDRIK","Coetzee, Pieter Hendrik","Cradock",0.982,"Good",1655
+166,"COETZEE","STEPHANUS HERMANUS","Coetzee, Stephanus Hermanus","Cradock",0.95,"Good",1656
+1000,"VAN DER MERWE","PIETER WILLEM","van der Merwe, Pieter Willem","Cradock",0.88,"Fair",1674
+99,"BOTHA","PHILIP RUDOLPH","Botha, Philip Rudolph","Cradock",0.828,"Fair",1691
+137,"BRONKHORST","JOHANNES","Bronkhorst, Johannes","Cradock",0.94,"Good",1714
+768,"PRINSLOO","NICOLAAS JACOBUS (KLAAS)","Prinsloo, Nicolaas Jacobus","Cradock",0.966,"Good",1716
+881,"SMIT","ABRAHAM JOHANNES","Smit, Abraham Johannes","Cradock",0.946,"Good",1721
+992,"VAN DER MERWE","GERRIT JACOBUS","van der Merwe, Gert Jacobus","Cradock",0.932,"Good",1723
+380,"GREYLING","BAREND CHRISTIAAN","Greyling, Barend Christiaan","Cradock",0.944,"Good",1730
+337,"ERASMUS","PIETER JOHANNES","Erasmus, Pieter Johannes","Cradock",0.982,"Good",1737
+339,"ERASMUS","MICHIEL COENRAAD","Erasmus, Michiel Coenraad","Cradock",0.976,"Good",1738
+170,"COETZER","JOHANNES JACOBUS","Coetzer, Johannes Jacobus","Cradock",0.804,"Fair",1756
+117,"BREED","JACOB","Breed, Jacob","Cradock",0.98,"Good",1763
+1001,"VAN DER MERWE","DIEDELOF JACOBUS","van der Merwe, Diedelof Jacobus","Cradock",0.978,"Good",1777
+201,"DE BEER","ARNOLDUS STEPHANUS","de Beer, Arnoldus Stephanus","Cradock",0.994,"Good",1799
+598,"MEYER","LUCAS JOHANNES","Meyer, Lucas Johannes","Cradock",0.996,"Good",1801
+1039,"VAN DYK","JOSEPH","van Dyk, Joseph","Cradock",0.93,"Good",1808
+718,"POTGIETER","PIETER JACOBUS","Potgieter, Pieter Jacobus","Cradock",0.998,"Good",1813
+463,"JORDAAN","PIETER GEORG","Jordaan, Pieter George","Cradock",0.894,"Fair",1822
+720,"POTGIETER","HANS JURGEN","Potgieter, Hans Jurgen","Cradock",0.994,"Good",1823
+334,"ERASMUS","JOHANNES JACOBUS","Erasmus, Johannes Jacobus","Cradock",0.942,"Good",1827
+724,"POTGIETER","HERMANUS PHILIPPUS SR.","Potgieter, Hermanus Philippus","Cradock",0.952,"Good",1830
+723,"POTGIETER","ANDRIES HENDRIK","Potgieter, Andries Hendrik","Cradock",0.998,"Good",1831
+726,"POTGIETER","WILLEM JACOBUS","Potgieter, Willem Jacobus","Cradock",0.994,"Good",1832
+727,"POTGIETER","NICOLAAS JOHANNES","Potgieter, Nicolaas Johannes","Cradock",0.998,"Good",1833
+719,"POTGIETER","JACOBUS CHRISTOFFEL (KOOS GROOTVOET)","Potgieter, Jacobus Christoffel","Cradock",0.948,"Good",1836
+906,"STEENKAMP","THOMAS IGNATIUS (JACOBUS)","Steenkamp, Thomas Ignatius","Cradock",0.992,"Good",1837
+462,"JORDAAN","LOUIS HOSEA","Jordaan, Louis Hosea","Cradock",0.942,"Good",1847
+457,"JORDAAN","DAVID BENJAMIN","Jordaan, David Benjamin","Cradock",0.996,"Good",1848
+458,"JORDAAN","JACOB DANIEL","Jordaan, Jacob Daniel","Cradock",0.996,"Good",1850
+460,"JORDAAN","JOHANNES JACOBUS","Jordaan, Johannes Jacobus","Cradock",0.974,"Good",1851
+461,"JORDAAN","GERRIT JACOBUS","Jordaan, Gert Jacobus","Cradock",0.884,"Fair",1853
+74,"BOTHA","FREDERIK JACOBUS","Botha, Fredrik Jacobus","Cradock",0.86,"Fair",1856
+1031,"VAN DEVENTER","GERRIT","van Deventer, Gerrit","Cradock",0.96,"Good",1870
+500,"KOEKEMOER","GERRIT JACOBUS","Koekemoer, Gerrit Jacobus","Cradock",0.99,"Good",1884
+38,"BEUKES","JOHANNES ANDREAS","Beukes, Johannes Andreas","Cradock",0.986,"Good",1885
+39,"BEUKES","JACOBUS CORNELIS","Beukes, Jacobus Cornelis","Cradock",0.942,"Good",1889
+810,"ROBBERTSE","JOHANNES HENDRIK","Robbertse, Jan Hendrik","Cradock",0.826,"Fair",1915
+665,"OLIVIER","OCKERT JOHANNES STEPHANUS","Olivier, Ockert Johannes Stephanus","Cradock",0.982,"Good",1951
+91,"BOTHA","PIETER JOHANNES","Botha, Pieter Johannes","Cradock",0.914,"Good",1954
+1121,"VAN TONDER","ADRIAAN JACOBUS","van Tonder, Adriaan","Cradock",0.868,"Fair",1961
+1063,"VAN NIEKERK","CHRISTIAAN","van Niekerk, Christiaan","Cradock",0.96,"Good",1967
+620,"MULLER","JOHANNES CHRISTIAAN","Muller, Johannes Christiaan","Cradock",0.974,"Good",1993
+482,"KLOPPER","HENDRIK COENRAAD ( DE OUDE)","Klopper, Hendrik Coenraad","Cradock",0.928,"Good",1997
+168,"COETZER","HENDRIK","Coetzer, Hendrik","Cradock",0.968,"Good",2005
+90,"BOTHA","THEUNIS GERHARDUS","Botha, Theunis Gerhardus","Cradock",0.902,"Good",2006
+167,"COETZER","PHILLIPPUS JEREMIAS SR","Coetzer, Philippus Jeremias","Cradock",0.932,"Good",2007
+882,"SMIT","BURGERT GODLIEB","Smit, Burgert Godlieb","Cradock",0.946,"Good",2015
+862,"SCHOEMAN","CAROLUS GUSTAAF","Schoeman, Carolus Gustaph","Cradock",0.868,"Fair",2029
+872,"SMIT","JOHANNES PETRUS","Smit, Johannes Petrus","Cradock",0.856,"Fair",2044
+885,"SMIT","ANDRIES ADRIAAN","Smit, Andries Adriaan","Cradock",0.898,"Fair",2125
+475,"JOUBERT","JOSUA","Joubert, Josua","Cradock",0.838,"Fair",2129
+254,"DELPORT","JACOBUS PETRUS","Delport, Jacobus Petrus","Cradock",0.976,"Good",2130
+512,"KRUGER","DANIEL FREDERIK SR","Kruger, Daniel Fredrik","Cradock",0.89,"Fair",2132
+1183,"VILJOEN","WILLEM WOUTER","Viljoen, Willem Wouter","Cradock",0.986,"Good",2156
+1184,"VILJOEN","JAN ALBERTUS","Viljoen, Jan Albertus","Cradock",0.916,"Good",2157
+679,"OPPERMAN","PHILIPPUS ALBERTUS","Opperman, Philippus Albertus","Cradock",0.978,"Good",2166
+681,"OPPERMAN","DANIËL JACOBUS","Opperman, Daniel Jacobus","Cradock",0.864,"Fair",2172
+1208,"VOSLOO","GERHARDUS JOHANNES","Vosloo, Gerhardus Johannes","Cradock",0.884,"Fair",2174
+379,"GREYLING","JOHANNES ARNOLDUS","Greyling, Johannes Arnoldus","Cradock",0.898,"Fair",2194
+487,"KLOPPER","JOHANNES FREDERIK","Klopper, Johannes Fredrik","Cradock",0.856,"Fair",2196
+776,"PRINSLOO","JOHANNES","Prinsloo, Johannes","Cradock",0.968,"Good",2200
+775,"PRINSLOO","MARTHINUS","Prinsloo, Marthinus","Cradock",0.952,"Good",2201
+770,"PRINSLOO","WILLEM MARTHINUS","Prinsloo, Willem Marthinus","Cradock",0.924,"Good",2202
+771,"PRINSLOO","PIETER WILLEM","Prinsloo, Pieter Willem","Cradock",0.966,"Good",2205
+784,"PRINSLOO","MARTHINUS LOURENS","Prinsloo, Marthinus Lourens","Cradock",0.944,"Good",2211
+779,"PRINSLOO","JOACHIM JOHANNES","Prinsloo, Joachim Johannes","Cradock",0.966,"Good",2213
+785,"PRINSLOO","WILLEM PETRUS","Prinsloo, Willem Petrus","Cradock",0.924,"Good",2215
+326,"ERASMUS","ANTONIE PHILIPPUS","Erasmus, Anthonie Philippus","Cradock",0.948,"Good",2220
+327,"ERASMUS","BALTHASAR JOHANNES","Erasmus, Balthazar Johannes","Cradock",0.948,"Good",2222
+332,"ERASMUS","LOURENS JOHANNES","Erasmus, Lourens Johannes","Cradock",0.942,"Good",2223
+331,"ERASMUS","JACOB","Erasmus, Jacob","Cradock",0.908,"Good",2224
+324,"ERASMUS","DANIEL JACOBUS","Erasmus, Daniel Jacobus","Cradock",0.974,"Good",2233
+232,"DE LANGE","BAREND JACOBUS","de Lange, Barend Jacobus","Cradock",0.956,"Good",2234
+773,"PRINSLOO","WILLEM JACOBUS","Prinsloo, Willem Jacobus","Cradock",0.924,"Good",2235
+360,"FOURIE","PETRUS JOHANNES","Fourie, Petrus Johannes","Cradock",0.984,"Good",2236
+257,"DREYER","ROELOF PETRUS GERHARDUS","Dreyer, Roelof Petrus Gerhardus","Cradock",0.978,"Good",2242
+890,"SNYMAN","NICOLAAS","Snyman, Nicolaas","Cradock",0.984,"Good",2245
+104,"BOTHMA","ABRAHAM CAREL","Bothma, Abraham Carel","Cradock",0.884,"Fair",2259
+1017,"VAN DER MERWE","JOHANNES PETRUS","van der Merwe, Johannes Petrus","Cradock",0.842,"Fair",2310
+955,"SWART","GERHARDUS JACOBUS","Swart, Gerhardus Jacobus","Cradock",0.926,"Good",2347
+250,"DE WINNAAR","CAREL STEPHANUS","de Winnaar, Carel Stephanus","Cradock",0.95,"Good",2381
+249,"DE WINNAAR","JAN HENDRIK","de Winnaar, Jan Hendrik","Cradock",0.95,"Good",2388
+1147,"VENTER","PETRUS JAN HENDRIK","Venter, Petrus Jan Hendrik","Cradock",0.882,"Fair",2409
+973,"VAN ASWEGEN","HENDRIK ABRAHAM","van Aswegen, Hendrik Abraham","Cradock",0.9,"Good",2425
+687,"PELZER","ABRAHAM JOHANNES","Pelzer, Abraham Johannes","Cradock",0.996,"Good",2429
+234,"DE LANGE","ADRIAAN","de Lange, Adriaan","Cradock",0.96,"Good",2444
+1118,"VAN TONDER","WILLEM MARTHINUS","van Tonder, Willem Marthinus","Cradock",0.972,"Good",2454
+597,"MEYER","JACOBUS JOHANNES PHILLIPPUS","Meyer, Jacobus Johannes Philippus","George",0.914,"Good",3532
+893,"SNYMAN","GERRIT CHRISTOFFEL","Snyman, Gert Christoffel","George",0.804,"Fair",3844
+841,"SCHEEPERS","JACOBUS JOHANNES","Scheepers, Jacobus Johannes","George",0.99,"Good",3851
+840,"SCHEEPERS","GIDEON","Scheepers, Gidion","George",0.85,"Fair",3852
+587,"MARNEWECK","JOHAN COENRAAD","Marneweck, Johannes","George",0.838,"Fair",3860
+859,"SCHOEMAN","FREDERIK STEPHANUS","Schoeman, Fredrik Stephanus","George",0.962,"Good",3873
+861,"SCHOEMAN","STEPHANUS JOHANNES","Schoeman, Stephanus Johannes","George",0.982,"Good",3875
+654,"NEL","PIETER WILLEM ADRIAAN","Nel, Pieter Willem Andries","George",0.858,"Fair",3878
+79,"BOTHA","PETRUS JOHANNES","Botha, Petrus Johannes","George",0.914,"Good",3887
+80,"BOTHA","WILLEM ADRIAAN","Botha, Willem Adriaan","George",0.9,"Good",3904
+1219,"WOLMARANS","FREDERIK GERHARDUS","Wolmarans, Fredrik Gerhardus","George",0.916,"Good",3949
+132,"BRITS","WILLEM","Brits, Willem Petrus","Graaff-Reinet",0.768,"Good",4050
+692,"PIENAAR","JACOB ARNOLDUS","Pienaar, Jacob Arnoldus","Graaff-Reinet",0.928,"Excellent",4140
+516,"KRUGER","GERRIT JOHANNES","Kruger, Gert Johannes","Graaff-Reinet",0.9,"Excellent",4203
+515,"KRUGER","STEPHANUS JOHANNES","Kruger, Stephanus Johannes","Graaff-Reinet",0.942,"Excellent",4205
+118,"BREED","PETRUS","Breed, Petrus","Graaff-Reinet",0.764,"Good",4212
+120,"BREED","WILLEM STERRENBERG","Breed, Willem Herzenberg","Graaff-Reinet",0.728,"Good",4214
+504,"KOTZE","JACOBUS JOHANNES JURGEN","Kotze, Jacobus Johannes Jurgen","Graaff-Reinet",0.924,"Excellent",4249
+592,"MEINTJES","SCHALK WILLEM","Meintjes, Schalk Willem","Graaff-Reinet",0.932,"Excellent",4252
+950,"SWANEPOEL","JACOBUS (ROOI KOOS)","Swanepoel, Jacobus","Graaff-Reinet",0.73,"Good",4341
+993,"VAN DER MERWE","JOHANNES LODEVICUS","v. d. Merwe, Johannes Lodewicus","Graaff-Reinet",0.758,"Good",4342
+180,"COMBRINK","PHILLIPPUS WILHELMUS","Combrink, Ph. Wilhelmus","Graaff-Reinet",0.652,"Fair",4345
+181,"COMBRINK","JAN FREDERIK JOHANNES","Combrink, Jan Frederik Johannes","Graaff-Reinet",0.996,"Good",4360
+545,"LIEBENBERG","BAREND JOHANNES SR.","Liebenberg, Barend Johannes","Graaff-Reinet",0.732,"Good",4381
+203,"DE BEER","SAMUEL JACOBUS SR","De Beer, Samuel Jacobus","Graaff-Reinet",0.968,"Excellent",4384
+606,"MINNAAR","PHILIP CAREL JR","Minnaar, Philip Carel","Graaff-Reinet",0.918,"Excellent",4395
+414,"HENNING","JAN HENDRIK","Henning, Jan Hendrik","Graaff-Reinet",0.892,"Good",4415
+959,"THERON","THOMAS FRANCOIS","Theron, Thomas Francois","Graaff-Reinet",0.824,"Good",4456
+1043,"VAN DYK","JACOBUS NICOLAAS","Van Dyk, Jacobus Nicolaas","Graaff-Reinet",0.96,"Excellent",4482
+1202,"VISSER","CHRISTOFFEL JACOBUS","Visser, Christoffel Jacobus","Graaff-Reinet",0.996,"Good",4489
+1006,"VAN DER MERWE","JAN (JOHANNES) LODEWYK","v. d. Merwe, Jan Lodewyk","Graaff-Reinet",0.862,"Good",4493
+298,"DU TOIT","JOHANNES HERMANUS (JAN)","Du Toit, Johannes Hermanus","Graaff-Reinet",0.828,"Fair",4530
+546,"LIEBENBERG","BAREND GODLIEB","Liebenberg, Barend Godlieb","Graaff-Reinet",0.81,"Good",4544
+549,"LIEBENBERG","STEPHANUS RUDOLPH","Liebenberg, Stephanus Rudolf","Graaff-Reinet",0.886,"Fair",4553
+763,"PRETORIUS","DANIEL PETRUS","Pretorius, Daniel Petrus","Graaff-Reinet",0.934,"Good",4598
+1136,"VAN WYK","JACOB PIETER","Van Wyk, Jacob Pieter","Graaff-Reinet",0.972,"Excellent",4639
+691,"PIENAAR","PETRUS ARNOLDUS","Pienaar, Petrus Arnoldus","Graaff-Reinet",0.912,"Excellent",4681
+828,"ROOS","GYSBERTUS JOHANNES","Roos, Gysbertus","Graaff-Reinet",0.888,"Fair",4726
+1157,"VENTER","MARCUS ALBERTUS","Venter, Marius Albertus","Graaff-Reinet",0.948,"Excellent",4747
+947,"SWANEPOEL","WILLEM ABRAHAM","Swanepoel, Willem Adriaan","Graaff-Reinet",0.842,"Good",4749
+289,"DU PREEZ","JOHANNES PETRUS","Du Preez, Johannes Petrus","Graaff-Reinet",0.794,"Good",4778
+1014,"VAN DER MERWE","FRANCOIS ANROLDUS","v. d. Merwe, Francois Arnoldus","Graaff-Reinet",0.942,"Excellent",4804
+492,"KLOPPER","JOHANNES JACOBUS","Klopper, Johannes Jacobus","Graaff-Reinet",0.946,"Good",4811
+756,"PRETORIUS","SYBRAND GERHARDUS","Pretorius, Sybrand Gerhardus","Graaff-Reinet",0.934,"Good",4815
+889,"SNYMAN","DAVID BENJAMIN","Snyman, David Benjamin","Graaff-Reinet",0.962,"Excellent",4840
+366,"FOURIE","MARCUS JOHANNES","Fourie, Marius Johannes","Graaff-Reinet",0.982,"Excellent",4871
+1117,"VAN STRATEN","FRANCOIS CORNELIUS","Van Straten, Francois Cornelis","Graaff-Reinet",0.84,"Fair",4884
+948,"SWANEPOEL","WILLEM BAREND","Swanepoel, Willem Barend","Graaff-Reinet",0.998,"Good",4902
+21,"BASSON","MATTHYS MICHIEL","Basson, Matthys Michiel","Graaff-Reinet",0.984,"Good",4910
+838,"SCHEEPERS","STEPHANUS JOHANNES SR.","Scheepers, Stephanus","Graaff-Reinet",0.792,"Good",4942
+156,"CILLIERS","PETRUS GERHARDUS","Cilliers, Petrus Gerhardus","Graaff-Reinet",0.968,"Good",4978
+154,"CILLIERS","CHARL ARNOLDUS","Cilliers, Charel Arnoldus","Graaff-Reinet",0.728,"Good",4979
+396,"GROVE","HERMANUS GERHARDUS","Grove, Hermanus Gerhardus","Graaff-Reinet",0.818,"Good",5052
+735,"PRETORIUS","WYNAND JOHANNES","Pretorius, Wynand Johannes","Graaff-Reinet",0.944,"Good",5078
+749,"PRETORIUS","HERCULES ALBERTUS (BART)","Pretorius, Hercules Albertus","Graaff-Reinet",0.948,"Excellent",5079
+496,"KOEKEMOER","MARTHINUS WESSEL","Koekemoer, Marthinus Wessel","Graaff-Reinet",0.99,"Good",5093
+746,"PRETORIUS","ANDRIES WILHELMUS JACOBUS SR.","Pretorius, Andries Wilhelm Jacobus","Graaff-Reinet",0.906,"Excellent",5146
+801,"RETIEF","FRANCOIS","Retief, Francois","Graaff-Reinet",0.818,"Good",5153
+760,"PRETORIUS","PETRUS GERHARDUS ( SWART PIET)","Pretorius, Petrus Gerhardus","Graaff-Reinet",0.968,"Good",5164
+743,"PRETORIUS","MATTHYS WYNAND SR.","Pretorius, Matthys Wynand","Graaff-Reinet",0.806,"Good",5167
+1176,"VERMEULEN","JAN GABRIEL","Vermeulen, Jan Gabriel","Graaff-Reinet",0.952,"Excellent",5179
+759,"PRETORIUS","WILLEM JURGEN","Pretorius, Willem Jurgen","Graaff-Reinet",0.894,"Fair",5181
+1190,"VILJOEN","CHRISTIAAN RUDOLPH","Viljoen, Christiaan Rudolph","Graaff-Reinet",0.88,"Good",5197
+864,"SCHOLTZ","JOACHIM HERMANUS","Scholtz, Joachim","Graaff-Reinet",0.806,"Good",5205
+520,"KRUGER","JOHANNES LODEWYK","Kruger, Johannes Lodewicus","Graaff-Reinet",0.782,"Good",5213
+303,"DU TOIT","CHRISTIAAN PETRUS","Du Toit, Christiaan Petrus","Graaff-Reinet",0.972,"Good",5216
+302,"DU TOIT","THOMAS ARNOLDUS","Du Toit, Thomas Arnoldus","Graaff-Reinet",0.88,"Good",5218
+1180,"VILJOEN","ALBERTUS JOHANNES (BART)","Viljoen, Albertus Johannes","Graaff-Reinet",0.954,"Good",5223
+13,"BADENHORST","HENDRIK JOHANNES","Badenhorst, Hendrik Johannes","Graaff-Reinet",0.978,"Good",5245
+329,"ERASMUS","LOURENS MARTHINUS","Erasmus, Laurens Marthinus","Graaff-Reinet",0.862,"Fair",5292
+54,"BORNMAN","JOHAN CHRISTIAAN","Bornman, Johannes Christiaan","Graaff-Reinet",0.802,"Good",5305
+67,"BOTHA","CHRISTOFFEL FRANCOIS","Botha, Christoffel Francois","Graaff-Reinet",0.716,"Good",5311
+1179,"VILJOEN","JOHANNES HERCULES","Viljoen, Johannes Hercules","Graaff-Reinet",0.948,"Excellent",5326
+417,"HERBST","CHRISTIAAN FREDERIK","Herbst, Christiaan Frederik","Graaff-Reinet",0.954,"Excellent",5327
+131,"BRITS","CHRISTIAAN PIETER","Brits, Christiaan P.","Graaff-Reinet",0.882,"Good",5335
+590,"MEINTJES","JOHANNES PETRUS","Meintjes, Johannes Petrus","Graaff-Reinet",0.97,"Good",5456
+567,"MAARTENS","HENDRIK JACOBUS","Maartens, Hendrik Jacobus","Graaff-Reinet",0.858,"Fair",5505
+831,"ROOS","JOHANNES JACOBUS","Roos, Johannes Jacobus","Graaff-Reinet",0.928,"Good",5538
+832,"ROOS","FRANCOIS (FRANS)","Roos, Francois Sr.","Stellenbosch",0.968,"Good",6388
+59,"BOSMAN","HERMANUS STEPHANUS","Bosman, Hermanus Stephanus","Stellenbosch",0.912,"Good",6761
+921,"STEYN","MARTHINUS","Steyn, Marthinus Sr.","Swellendam",0.946,"Good",7209
+619,"MULLER","JOHANNES PETRUS","Muller, Johannes Petrus","Swellendam",0.974,"Good",7210
+260,"DU PLESSIS","WILLEM","Du Plessis, Willem","Swellendam",0.936,"Good",7268
+550,"LINDE","GEORG FREDERIK","Linde, Georg Frederik","Swellendam",0.972,"Good",7486
+32,"BESTER","HERMANUS JACOBUS","Bester, Hermanus Jacobus","Swellendam",0.992,"Good",7502
+263,"DU PLESSIS","ANDRIES STEPHANUS","Du Plessis, Andries Stephanus","Swellendam",0.952,"Good",7513
+353,"FOUCHE","STEPHANUS JACOBUS","Fouche, Stephanus","Swellendam",0.832,"Fair",7576
+147,"BRUWER","SCHALK WILLEM","Bruwer, Schalk Willem","Swellendam",0.94,"Good",7586
+978,"VAN COLLER","ADOLPH JOHANNES","Van Coller, Adolph Johannes","Swellendam",0.926,"Good",7685
+977,"VAN COLLER","JOHANNES DANIëL","Van Coller, Jan Daniel","Swellendam",0.882,"Fair",7686
+478,"JOUBERT","JACOBUS FRANCOIS","Joubert, Jacobus Francois","Swellendam",0.998,"Good",7718
+474,"JOUBERT","ANDRIES JOHANNES","Joubert, Andries Johannes","Swellendam",0.992,"Good",7724
+1123,"VAN TONDER","ANDRIES JOHANNES","Van Tonder, Andries Johannes","Swellendam",0.85,"Fair",7786
+643,"NEL","JOHANNES PAULUS","Nel, Johannes Paulus Jr.","Swellendam",0.894,"Fair",7804
+642,"NEL","WILLEM ANDRIES","Nel, Willem Andries","Swellendam",0.982,"Good",7822
+3,"ALBERTS","JOHANNES","Alberts, Johanna Helena","Swellendam",0.818,"Fair",7848
+4,"ALBERTS","JOHANNES JOACHIM","Alberts, Johannes Joachim","Swellendam",0.962,"Good",7850
+1124,"VAN TONDER","FREDERIK JOHANNES","Van Tonder, Fredrik","Swellendam",0.84,"Fair",7907
+33,"BESTER","ANDRIES NICOLAAS","Bester, Andries Nicolaas","Swellendam",0.986,"Good",7938
+924,"STEYN","PIETER WOUTER","Steyn, Pieter Wouter","Swellendam",0.988,"Good",8148
+925,"STEYN","HERMANUS JACOBUS (DOUW SEUN)","Steyn, Hermanus Jacobus","Swellendam",0.926,"Good",8198
+899,"SPIES","ANDRIES THEODORUS","Spies, Andries Theodorus","Swellendam",0.97,"Good",8253
+365,"FOURIE","LOUIS JOHANNES","Fourie, Louis Johannes Sr.","Swellendam",0.938,"Good",8254
+897,"SPIES","LODEWYK PETRUS","Spies, Lodewyk Petrus","Swellendam",0.97,"Good",8274
+958,"SWART","JACOBUS NICOLAAS","Swart, Jacobus Nicolaas Sr.","Swellendam",0.87,"Fair",8379
+219,"DE JAGER","ANDREAS JOHANNES","De Jager, Andries","Swellendam",0.818,"Fair",8388
+1216,"WESSELS","HERMANUS WILHELMUS","Wessels, Hermanus Wilhelmus","Swellendam",0.992,"Good",8850
+1093,"VAN ROOYEN","CHRISTIAAN STEPHANUS","Van Rooyen, Christiaan Stephanus","Uitenhage",0.986,"Good",9142
+1163,"VERMAAK","JACOBUS STEPHANUS","Vermaak, Jacobus Stephanus","Uitenhage",0.97,"Good",9150
+842,"SCHEEPERS","GERHARDUS STEPHANUS","Scheepers, Gerhardus Stephanus","Uitenhage",0.948,"Good",9156
+712,"POTGIETER","THEODORUS","Potgieter, Theodorus","Uitenhage",0.95,"Good",9169
+1086,"VAN ROOYEN","GERRIT","Van Rooyen, Gerrit","Uitenhage",0.898,"Fair",9174
+429,"HUMAN","PETRUS GERHARDUS SR.","Human, Petrus Gerhardus","Uitenhage",0.966,"Good",9177
+1211,"WESSELS","HERMANUS JOHANNES","Wessels, Hermanus Johannes","Uitenhage",0.992,"Good",9192
+615,"MOOLMAN","PETRUS LAFRAS","Moolman, Petrus Lafras","Uitenhage",0.842,"Fair",9208
+730,"POTGIETER","HANS JURGEN","Potgieter, Hans Jurie","Uitenhage",0.908,"Good",9209
+481,"KEMP","GERHARDUS PHILIPPUS","Kemp, Gerhardus Philippus","Uitenhage",0.97,"Good",9216
+1212,"WESSELS","WESSEL HENDRIK","Wessels, Wessel Hendrik","Uitenhage",0.946,"Good",9219
+617,"MOOLMAN","JAN ADRIAAN","Moolman, Jan Adriaan","Uitenhage",0.97,"Good",9231
+964,"UYS","JACOBUS JOHANNES","Uys, Jacobus Johannes","Uitenhage",0.988,"Good",9232
+213,"DE JAGER","LODEWYK SR","De Jager, Lodewyk","Uitenhage",0.84,"Fair",9261
+217,"DE JAGER","ANDRIES PETRUS","De Jager, Andris Petrus","Uitenhage",0.872,"Fair",9263
+218,"DE JAGER","FREDERIK JOHANNES","De Jager, Fredrik Johannes","Uitenhage",0.942,"Good",9264
+536,"LANDMAN","JOHANNES ABRAHAM","Landman, Johan Abraham","Uitenhage",0.906,"Good",9271
+1091,"VAN ROOYEN","GERRIT REYNIER","Van Rooyen, Gerret Rynier","Uitenhage",0.952,"Good",9288
+1170,"VERMAAK","PETRUS THEODORUS","Vermaak, Petrus Theodorus","Uitenhage",0.968,"Good",9311
+1114,"VAN STADEN","PETRUS","Van Staden, Petrus","Uitenhage",0.932,"Good",9330
+255,"DORFLING","JACOB BERNARD","Dorfling, Jacob Barnard","Uitenhage",0.826,"Fair",9345
+1007,"VAN DER MERWE","JOHANNES MARTHINUS","Van der Merwe, Johannes Marthinus","Uitenhage",0.842,"Fair",9346
+348,"FERREIRA","MARTHINUS GERRIT THOMAS","Ferreira, Marthinus Gerrit Thomas","Uitenhage",0.942,"Good",9348
+638,"NEL","JOHANNES HENDRIK","Nel, Johannes Hendrik","Uitenhage",0.994,"Good",9352
+1100,"VAN STADEN","JACOBUS FREDERIK","Van Staden, Jacobus Fredrik","Uitenhage",0.84,"Fair",9361
+945,"STRYDOM","COENRAAD JACOBUS STEPHANUS","Strydom, Coenraad Jacobus Stephanus","Uitenhage",0.99,"Good",9385
+390,"GROBLER","CEORT NICOLAAS","Grobler, Coert Nicolaas","Uitenhage",0.824,"Fair",9391
+20,"BASSON","WILLEM JOHANNES","Basson, Willem Johannes","Uitenhage",0.984,"Good",9438
+22,"BASSON","NICOLAAS JOHANNES SALOMON","Basson, Nicolaas Johannes Salomon","Uitenhage",0.942,"Good",9439
+603,"MEYER","JOHAN GEORGE","Meyer, Johan George","Uitenhage",0.99,"Good",9444
+1108,"VAN STADEN","JOHANNES JURIE","Van Staden, Johannes Jurie","Uitenhage",0.962,"Good",9463
+1098,"VAN STADEN","PHILIPPUS THEUNIS","Van Staden, Pillippus Theunis","Uitenhage",0.858,"Fair",9477
+1191,"VILJOEN","CORNELIS HENDRICUS","Viljoen, Cornelis Hendrik","Uitenhage",0.9,"Good",9478
+892,"SNYMAN","GERHARDUS","Snyman, Gerhardus","Uitenhage",0.984,"Good",9481
+942,"STRYDOM","JOHANNES","Strydom, Johannes","Uitenhage",0.88,"Fair",9482
+552,"LINDEQUE","PETRUS","Lindeque, Petrus","Uitenhage",0.946,"Good",9485
+850,"SCHEEPERS","JOHANNES JACOBUS","Scheepers, Johannes Jacobus","Uitenhage",0.926,"Good",9487
+698,"PIETERSE","DAVID JOHANNES","Pieterse, David Johannes","Uitenhage",0.972,"Good",9501
+699,"PIETERSE","NICOLAAS THEODORUS","Pieterse, Nicolaas Theodoris","Uitenhage",0.942,"Good",9503
+932,"STRYDOM","GIDEON LOURENS","Strydom, Gideon Laurence","Uitenhage",0.844,"Fair",9512
+1009,"VAN DER MERWE","LUCAS JOHANNES","Van der Merwe, Lucas Johannes","Uitenhage",0.978,"Good",9525
+24,"BEKKER","JOHANNES JURGEN SR","Bekker, Johannes Jurie","Uitenhage",0.826,"Fair",9561
+857,"SCHOEMAN","MARTHINUS JOHANNES SR.","Schoeman, Marthinus Johannes","Uitenhage",0.892,"Fair",9562
+389,"GROBLER","JOHANNES HERMANUS","Grobler, Johannes Hermanus","Uitenhage",0.976,"Good",9567
+895,"SNYMAN","JACOBUS PHILIPPUS","Snyman, Jacobus Phillippus","Uitenhage",0.922,"Good",9577
+858,"SCHOEMAN","PETRUS ALBERTUS","Schoeman, Petrus Albertus","Uitenhage",0.978,"Good",9592
+472,"JOUBERT","PIETER SCHALK","Joubert, Pieter Schalk","Uitenhage",0.998,"Good",9595
+473,"JOUBERT","CHRISTOFFEL JOHANNES","Joubert, Christoffel Johannes","Uitenhage",0.986,"Good",9597
+1193,"VILJOEN","STEPHANUS PETRUS","Viljoen, Stephanus Petrus","Uitenhage",0.966,"Good",9605
+844,"SCHEEPERS","COENRAAD","Scheepers, Coenraad","Uitenhage",0.94,"Good",9613
+1119,"VAN TONDER","JOHANNES","Van Tonder, Johannes","Uitenhage",0.888,"Fair",9615
+843,"SCHEEPERS","FREDERIK COENRAAD","Scheepers, Fredrik Coenraad","Uitenhage",0.906,"Good",9621
+1172,"VERMAAK","NICOLAAS JACOBUS","Vermaak, Nicolaas Jacobus","Uitenhage",0.988,"Good",9622
+711,"POTGIETER","EVERT FREDERIK SR.","Potgieter, Evert Fredrik","Uitenhage",0.846,"Fair",9629
+1171,"VERMAAK","CORNELIS TOBIAS","Vermaak, Cornelis Tobias","Uitenhage",0.968,"Good",9650
+1173,"VERMAAK","COENRAAD MARTHINUS","Vermaak, Coenraad Marthinus","Uitenhage",0.988,"Good",9652
+639,"NEL","PIETER WILLEM","Nel, Pieter Willem","Uitenhage",0.982,"Good",9658
+572,"MARAIS","DANIËL PETRUS","Marais, Daniel Petrus","Uitenhage",0.86,"Fair",9668
+848,"SCHEEPERS","COENRAAD JOHANNES ABRAHAM","Scheepers, Coenraad Johannes Abraham","Uitenhage",0.988,"Good",9696
+577,"MARAIS","MATTHYS HENDRIK","Marais, Matthys Hendrik","Uitenhage",0.992,"Good",9703
+1162,"VERMAAK","CORNELIS JOHANNES","Vermaak, Cornelis Johannes","Uitenhage",0.968,"Good",9704
+1089,"VAN ROOYEN","GERRIT THOMAS","Van Rooyen, Gerrit Thomas","Uitenhage",0.978,"Good",9716
+358,"FOURIE","PHILIPPUS JACOBUS","Fourie, Philip Jacobus","Uitenhage",0.868,"Fair",9718
+1166,"VERMAAK","SALOMON","Vermaak, Salomon","Uitenhage",0.964,"Good",9733
+891,"SNYMAN","THEUNIS","Snyman, Theunis","Uitenhage",0.984,"Good",9737
+705,"PIETERSEN","HERMANUS JOHANNES","Pietersen, Hermanus Johannes","Uitenhage",0.956,"Good",9739
+715,"POTGIETER","JOHANNES (THEODORUS)","Potgieter, Johannes","Uitenhage",0.874,"Fair",9745
+1168,"VERMAAK","JOHANNES GERHARDUS","Vermaak, Johannes Gerhardus","Uitenhage",0.972,"Good",9754
+112,"BOTHMA","LODEWYK","Bothma, Lodewyk Stephanus","Worcester",0.854,"Fair",9859
+259,"DU PLESSIS","WYNAND LOUW","Du Plessis, Wynand Louw","Worcester",0.986,"Good",9941
+875,"SMIT","NICOLAAS WILHELMUS","Smit, Nicolaas Wilhelmus","Worcester",0.898,"Fair",9953
+2,"ALBERTS","GERRIT ANDRIES (JACOBUS)","Alberts, Gert Andries Jacobus","Graaff-Reinet",0.798,"Manual",4594
+6,"AUCAMP","JOHAN DIEDERIK","Aucamp, Johannes Dirk","Graaff-Reinet",0.476,"Manual",5130
+7,"BADENHORST","LOURENS SR","Badenhorst, Laurens Sr.","Swellendam",0.302,"Manual",8308
+8,"BADENHORST","LOURENS JR","Badenhorst, Laurens Sr.","Swellendam",0.302,"Manual",8308
+30,"BEKKER","JACOBUS PETRUS","Bekker, Jacobus Petrus","Uitenhage",0.706,"Manual",9582
+36,"BESTER","BARNARD JACOBUS SR","Bester, Barend Jacobus","Cradock",0.308,"Manual",1843
+41,"BEUKES","MATTHEUS GERHARDUS","Beukes, Mattheus Gerhardus Sr.","Swellendam",0.784,"Manual",7454
+43,"BEZUIDENHOUT","MATTHYS MARTHINUS","Bezuidenhout, Matthys Marthinus","Beaufort",0.72,"Manual",776
+44,"BEZUIDENHOUT","WYNAND CAREL","Bezuidenhout, Wynand","Beaufort",0.742,"Manual",420
+47,"BEZUIDENHOUT","CORNELIS JOHANNES","Bezuidenhout, Cornelis Johannes","Beaufort",0.84,"Manual",316
+57,"BOSHOF","JACOBUS NICOLAAS JR","Boshof, Jacobus Nicolaas","Graaff-Reinet",0.27,"Manual",5552
+63,"BOTES","ANTHONIE JOHANNES","Botes, Anthonie Johannes","Beaufort",0.876,"Manual",371
+65,"BOTES","WIETSE LOURENS","Botes, Wietsche","Beaufort",0.67,"Manual",200
+70,"BOTHA","CHRISTOFFEL JACOBUS","Botha, Christoffel","Cradock",0.534,"Manual",1689
+71,"BOTHA","JOHANNES JURGEN","Botha, Johannes Jurgen","Cradock",0.75,"Manual",1949
+73,"BOTHA","PIETER JOHANNES HENDRIK","Botha, Petrus","Graaff-Reinet",0.634,"Manual",4671
+76,"BOTHA","REYNIER","Botha, Rynier","Uitenhage",0.746,"Manual",9472
+77,"BOTHA","THEUNIS JOHANNES","Botha, Theunis Johannes","Graaff-Reinet",0.466,"Manual",5270
+78,"BOTHA","WILLEM","Botha, Willem","Cradock",0.712,"Manual",2243
+83,"BOTHA","WILLEM JACOBUS","Botha, Willem Jacobus","Graaff-Reinet",0.528,"Manual",5241
+84,"BOTHA","ALWYN PETRUS","Botha, Alewijn Petrus","Graaff-Reinet",0.588,"Manual",4387
+85,"BOTHA","JOHANNES CHRISTIAAN","Botha, Johannes Christoffel","Cradock",0.45,"Manual",2016
+89,"BOTHA","CHRISTOFFEL JACOBUS THEUNIS","Botha, Christoffel","Cradock",0.322,"Manual",1689
+92,"BOTHA","JACOBUS","Botha, Jacobus","Uitenhage",0.65,"Manual",9514
+95,"BOTHA","PIETER HENDRIK","Botha, Pieter","Cradock",0.484,"Manual",1952
+119,"BREED","GERHARDUS CHRISTIAAN","Breed, Gerhardus Chistiaan","Graaff-Reinet",0.83,"Manual",4210
+121,"BREED","DAVID","Breed, David","Cradock",0.666,"Manual",2094
+130,"BRITS","JAN","Brits, Jan","Graaff-Reinet",0.518,"Manual",4077
+144,"BROODRYK","JAN ANDRIES","Broodryk, Jan Andries","Beaufort",0.294,"Manual",503
+145,"BROODRYK","JOHANNES CHRISTOFFEL","Broodryk, Johannes Christoffel","Beaufort",0.294,"Manual",504
+148,"BUCHNER","CAREL VALENTYN","Buchner, Carel Valentyn","Uitenhage",0.294,"Manual",9609
+153,"CILLIERS","JOHANNES DANIEL","Cilliers, Jan Daniel","Graaff-Reinet",0.568,"Manual",5411
+171,"COETZER","WENSEL CHRISTOFFEL","Coetzer, Wentzel Christoffel","Cradock",0.736,"Manual",1815
+178,"COMBRINK","STEPHANUS LUCAS","Combrink, Stephanus Lucas","Uitenhage",0.694,"Manual",9547
+191,"DAVEL","JOHANNES CHRISTIAAN","Davel, Johan Christiaan","Uitenhage",0.464,"Manual",9469
+193,"DE BEER","ZACHARIAS JOHANNES","De Beer, Zacharias Johannes","Uitenhage",0.834,"Manual",9540
+194,"DE BEER","ZACHARIAS JOHANNES","De Beer, Zacharias Johannes","Uitenhage",0.834,"Manual",9540
+196,"DE BEER","ADRIAAN CAREL","de Beer, Adriaan Charel","Cradock",0.604,"Manual",1757
+197,"DE BEER","ZACHARIAS CHRISTIAAN SR","de Beer, Zacharias","Cradock",0.15,"Manual",1782
+198,"DE BEER","ZACHARIAS CHRISTIAAN JR","de Beer, Zacharias","Cradock",0.15,"Manual",1782
+200,"DE BEER","CHRISTIAAN MARTHINUS SR","de Beer, Christiaan Marthinus","Cradock",0.794,"Manual",1779
+202,"DE BEER","HENDRIK PETRUS JACOBUS","De Beer, Hendrik Jacobus","Beaufort",0.284,"Manual",590
+206,"DE BEER","ZACHARIAS JOSEPH","De Beer, Sacharias Joseph","Beaufort",0.762,"Manual",592
+208,"DE BEER","JOHANNES HENDRIK","de Beer, Jan Hendrik","Cradock",0.438,"Manual",1788
+223,"DE JAGER","LOURENS","De Jager, Laurens Johannes","Swellendam",0.65,"Manual",8110
+225,"DE JAGER","LOUIS","De Jager, Louis Sr.","Swellendam",0.49,"Manual",8118
+238,"DE MEYER","JACOBUS WILLEM","de Meyer, Jacobus William","Cradock",0.716,"Manual",2440
+240,"DE NECKER","PIETER HENDRIKUS","De Necker, Pieter Hendrik","Swellendam",0.618,"Manual",8341
+241,"DE NECKER","ADRIAAN FRANCOIS","De Necker, Adriaan Francois","Swellendam",0.74,"Manual",8112
+242,"DE NECKER","JOHANNES DANIEL JACOBUS","De Necker, Johannes Daniel","Swellendam",0.75,"Manual",8342
+247,"DE WET","PIETER RUDOLPH","De Wet, Pieter Rudolph","Albany",0.724,"Manual",120
+278,"DU PLOOY","DIRK WOUTER SR","Du Plooy, Dirk Wouter","Beaufort",0.72,"Manual",921
+279,"DU PLOOY","GERHARDUS ANDRIES","Du Plooy, Gerrit Andries","Beaufort",0.406,"Manual",919
+280,"DU PLOOY","CORNELIS MICHIEL SR","Du Plooy, Cornelis Michiel","Beaufort",0.752,"Manual",812
+281,"DU PLOOY","CORNELIS MICHIEL JR","Du Plooy, Cornelis Michiel","Beaufort",0.752,"Manual",812
+296,"DU TOIT","ANDRIES STEPHANUS","Du Toit, Andries Stephanus","Beaufort",0.782,"Manual",926
+297,"DU TOIT","FRANCOIS JACOBUS","du Toit, Francois Jacobus","Cradock",0.642,"Manual",2048
+299,"DU TOIT","FRANCOIS JACOBUS","du Toit, Francois Jacobus","Cradock",0.642,"Manual",2048
+301,"DU TOIT","FRANCOIS PETRUS JACOBUS","du Toit, Francois Jacobus","Cradock",0.67,"Manual",2048
+310,"ELS","FREDERIK CHRISTIAAN","Els, Fredrik","Cradock",0.598,"Manual",1999
+311,"ELS","FREDERIK NICOLAAS","Els, Fredrik","Cradock",0.726,"Manual",1999
+318,"ENSLIN","JOHAN ADAM","Enslin, Jan Adam","Cradock",0.45,"Manual",1694
+321,"ERASMUS","LOURENS ABRAHAM","Erasmus, Laurens Abram","Graaff-Reinet",0.64,"Manual",4239
+322,"ERASMUS","DANIEL ELARDUS","Erasmus, Daniel E. (?)","Graaff-Reinet",0.194,"Manual",4243
+330,"ERASMUS","BAREND CHRISTOFFEL","Erasmus, Barend Christoffel","Cradock",0.794,"Manual",2221
+333,"ERASMUS","PIETER RASMUS","Erasmus, Petrus Rasmus","Cradock",0.274,"Manual",2218
+336,"ERASMUS","WILLEM JACOBUS","Erasmus, Willem Jacob Rudolph","Graaff-Reinet",0.506,"Manual",5304
+349,"FICK","ANTHONIE FREDERIK","Fick, Anthon Fredricus","Stellenbosch",0.792,"Manual",5567
+355,"FOURIE","BARTHOLOMEUS JACOBUS","Fourie, Baret (?) Jacobus","Beaufort",0.328,"Manual",225
+356,"FOURIE","WILLEM ANDRIES JOHANNES","Fourie, Willem","Graaff-Reinet",0.442,"Manual",4750
+362,"FOURIE","JOHANNES LOUIS","Fourie, Johannes","Cradock",0.49,"Manual",2341
+364,"FOURIE","JOSEPH JOHANNES","Fourie, Josephus","Swellendam",0.498,"Manual",8033
+377,"GREYLING","PIETER JACOBUS","Greyling, Pieter","Albany",0.752,"Manual",96
+382,"GROBBELAAR","RENIER NICOLAAS JOHANNES","Grobbelaar, Nicolaas Johannes","Cradock",0.712,"Manual",1547
+383,"GROBLER","PAULUS JOHANNES","Grobler, Paul Johannes","Swellendam",0.798,"Manual",7957
+388,"GROBLER","WILLEM PIETER","Grobler, Willem Pieter","Graaff-Reinet",0.54,"Manual",4843
+393,"GROBLER","PIETER","Grobler, Pieter","Uitenhage",0.748,"Manual",9568
+394,"GROBLER","PIETER SCHALK","Grobler, Pieter","Uitenhage",0.392,"Manual",9568
+401,"HANSONIUS","AEGIDIUS ANTHONIE","Hansonius, Egidius","Beaufort",0.764,"Manual",396
+402,"HARMSE","CHRISTIAAN BAREND STEPHANUS","Harmse, Christiaan Barnard Stephanus","Beaufort",0.618,"Manual",668
+403,"HARMSE","CORNELIS","Harmse, Cornelis Johannes","Beaufort",0.812,"Manual",757
+426,"HORN","MICHIEL FREDERIK","Horn, M. F.","Graaff-Reinet",0.172,"Manual",5175
+427,"HUGO","JACOBUS JOHANNES PETRUS PAULUS","Hugo, Jacobus Johannes Petrus Paulus","Graaff-Reinet",0.862,"Manual",4849
+444,"JACOBS","PIETER DANIEL SR.","Jacobs, Pieter Daniel","Beaufort",0.508,"Manual",204
+446,"JACOBS","PIETER DANIEL JR.","Jacobs, Pieter Daniel","Beaufort",0.508,"Manual",204
+447,"JACOBS","GERT PETRUS","Jacobs, Gerret Petrus","Beaufort",0.702,"Manual",206
+448,"JACOBS","DANIEL ROELOF SR.","Jacobs, Daniel Roelof","Beaufort",0.628,"Manual",664
+459,"JORDAAN","PIETER WILLEM SR.","Jordaan, Pieter Willem","Cradock",0.608,"Manual",1846
+465,"JOUBERT","JAN ABRAHAM","Joubert, Jan","Cradock",0.78,"Manual",2176
+486,"KLOPPER","PAUL STEPHANUS","Klopper, Paul Stephanus","Graaff-Reinet",0.288,"Manual",4809
+491,"KLOPPER","LUCAS CORNELIS JOHANNES","Klopper, Lucas Cornelis Johannes","Graaff-Reinet",0.372,"Manual",4686
+494,"KOEKEMOER","JOACHIM MARTHINUS SR.","Koekemoer, Joachim Marthinus","Graaff-Reinet",0.462,"Manual",5090
+501,"KOOPMAN","DAWID","Koopman, David","Beaufort",0.712,"Manual",275
+503,"KOOPMAN","WILLEM PETRUS","Koopman, Willem Petrus","Beaufort",0.452,"Manual",879
+506,"KRIEL","JACBOBUS ALBERTUS","Kriel, Jacobus Albertus","Swellendam",0.796,"Manual",8310
+507,"KRITZINGER","JOHAN JACOB","Kritzinger, Johan Jacob","Uitenhage",0.294,"Manual",9193
+508,"KRITZINGER","PIETER HENDRIK","Kritzinger, Pieter Hendrik","Uitenhage",0.294,"Manual",9187
+513,"KRUGER","JOHANNES (JOHAN) CHRISTIAAN","Kruger, Johannes","Cradock",0.214,"Manual",1705
+524,"LABUSCHAGNE","JAN HARM","Labuschagne, Jan","Uitenhage",0.542,"Manual",9548
+528,"LABUSCHAGNE","JAN HARM","Labuschagne, Jan","Uitenhage",0.542,"Manual",9548
+532,"LABUSCHAGNE","JAN HENDRIK","Labuschagne, Jan","Uitenhage",0.474,"Manual",9548
+535,"LANDMAN","KAREL (CAREL) PIETER","Landman, Carel Pieter","Uitenhage",0.6,"Manual",9644
+537,"LANDMAN","WILLEM ADOLPH","Landman, Willem","Uitenhage",0.38,"Manual",9632
+544,"LIEBENBERG","CHRISTIAAN JACOBUS","Liebenberg, Christiaan Jacobus","Graaff-Reinet",0.622,"Manual",4614
+548,"LIEBENBERG","CHRISTIAAN JACOBUS","Liebenberg, Christiaan Jacobus","Graaff-Reinet",0.454,"Manual",4756
+551,"LINDEQUE","GERRIT JOHANNES SR.","Lindeque, Gerhardus Johannes","Uitenhage",0.398,"Manual",9488
+563,"LUBBE","PAULUS WILHELMUS","Lubbe, Paul Willem","Clanwilliam",0.704,"Manual",1063
+591,"MEINTJES","WILLEM JACOBUS ALBERTUS","Meintjes, Jacobus","Graaff-Reinet",0.278,"Manual",5362
+595,"MEINTJES","PETRUS JACOBUS","Meintjes, Pieter Jacobus","Cradock",0.568,"Manual",1631
+604,"MEYER","ISAK JOHANNES SR.","Meyer, Isaac Johannes","Uitenhage",0.616,"Manual",9294
+613,"MOCKE","JOHAN GODFRIED","Mocke, Johan Godfried","Beaufort",0.294,"Manual",838
+614,"MOCKE","JOHAN GODFRIED","Mocke, Johan Godfried","Beaufort",0.294,"Manual",838
+644,"NEL","WILLEM","Nel, Willem Adriaan","Cradock",0.396,"Manual",2018
+655,"NIEMAND","IZAK JOHANNES","Niemand, Isaac Johannes","Graaff-Reinet",0.434,"Manual",4640
+682,"OTTO","JOHAN PHILIP","Otto, Johan Philip Matthys","Beaufort",0.288,"Manual",246
+683,"OTTO","JOHAN FREDERIK","Otto, Johan Fredrik","Beaufort",0.734,"Manual",441
+700,"PIETERSE","FREDERIK","Pieterse, Fredrik","Uitenhage",0.792,"Manual",9368
+701,"PIETERSE","HENDRIK JESAIAS/ JOSEPHUS","Pieterse, Hendrik Josephus","Uitenhage",0.624,"Manual",9602
+702,"PIETERSE","FERDINANDUS ALBERTUS","Pieterse, Ferdinand Albertus","Uitenhage",0.784,"Manual",9410
+710,"POTGIETER","MATTYS GERHARDUS SR.","Potgieter, Marthinus Gerhardus","Uitenhage",0.252,"Manual",9639
+716,"POTGIETER","PETRUS HENDRIK THEUNIS","Potgieter, Petrus Hendrik","Uitenhage",0.616,"Manual",9118
+717,"POTGIETER","WILLEM FREDERIK","Potgieter, Willem Frederick","Albany",0.608,"Manual",77
+722,"POTGIETER","HERMANUS SR.","Potgieter, Hermanus","Cradock",0.674,"Manual",1862
+729,"POTGIETER","MARTHINUS JOHANNES","Potgieter, Marthinus Johannes","Uitenhage",0.858,"Manual",9616
+733,"PRETORIUS","ZACHARIAS ARNOLDUS STEPHANUS","Pretorius, Zacharias","Cradock",0.436,"Manual",1781
+744,"PRETORIUS","GERHARDUS PETRUS JACOBUS","Pretorius, Gerhardus Petrus","Graaff-Reinet",0.144,"Manual",5168
+748,"PRETORIUS","JOHANNES LODEWYK WYNAND","Pretorius, Johannes Lodewyk Wynand","Graaff-Reinet",0.422,"Manual",5073
+750,"PRETORIUS","GERHARDUS PETRUS","Pretorius, Gerhardus Petrus","Graaff-Reinet",0.674,"Manual",5168
+751,"PRETORIUS","JOHANNES PETRUS (JAN SR.)","Pretorius, Jan Petrus Jacobus","Graaff-Reinet",0.702,"Manual",5029
+752,"PRETORIUS","JOHANNES PETRUS (JAN JR.)","Pretorius, Jan Petrus Jacobus","Graaff-Reinet",0.702,"Manual",5029
+753,"PRETORIUS","JOHANNES JACOBUS","Pretorius, Johannes Jacobus","Graaff-Reinet",0.502,"Manual",5034
+754,"PRETORIUS","JOHANNES JACOBUS","Pretorius, Johannes Jacobus","Graaff-Reinet",0.45,"Manual",4814
+755,"PRETORIUS","WILLEM LODEWYK","Pretorius, Willem Lodewyk","Graaff-Reinet",0.57,"Manual",4709
+757,"PRETORIUS","JOHANNES ANDRIES","Pretorius, Johannes Andries","Graaff-Reinet",0.496,"Manual",5178
+758,"PRETORIUS","JOHANNES JACOBUS CORNELIS","Pretorius, Johannes Jacobus Cornelis","Graaff-Reinet",0.484,"Manual",5180
+761,"PRETORIUS","WILLEM STERRENBERG","Pretorius, Willem Sterrenberg","Graaff-Reinet",0.53,"Manual",4107
+765,"PRETORIUS","WILLEM","Pretorius, Willem","Cradock",0.64,"Manual",1511
+766,"PRINSLOO","HENDRIK FREDERIK","Prinsloo, Hendrik Fredrik","Cradock",0.766,"Manual",2231
+769,"PRINSLOO","BALTHSAR JOHANNES","Prinsloo, Balthazar Johannes","Cradock",0.766,"Manual",2206
+774,"PRINSLOO","HENDRIK FREDERIK","Prinsloo, Hendrik Fredrik","Cradock",0.766,"Manual",2231
+777,"PRINSLOO","WILLEM JOHANNES","Prinsloo, Willem","Cradock",0.47,"Manual",2204
+781,"PRINSLOO","JOACHIM (JOACHEMUS) JOHANNES PETRUS","Prinsloo, Joachemus Johannes","Cradock",0.658,"Manual",2209
+782,"PRINSLOO","HENDRIK PETRUS SR.","Prinsloo, Hendrik Petrus","Cradock",0.786,"Manual",2208
+791,"PUTTER","PAUL JACOBUS","Putter, Paul Jacobus","Cradock",0.74,"Manual",1948
+809,"ROBBERTSE","JOHANNES MATTHYS","Robbertse, Johannes Matthys","Cradock",0.74,"Manual",1970
+824,"ROOS","CHARL PETRUS","Roos, Charel Petrus","Graaff-Reinet",0.542,"Manual",4728
+827,"ROOS","PAULUS STEPHANUS","Roos, Paul Stephanus","Uitenhage",0.284,"Manual",9588
+829,"ROOS","IZAAK FRANCOIS","Roos, Isaac Francois","Graaff-Reinet",0.302,"Manual",5537
+845,"SCHEEPERS","MARTHINUS EASIAS","Scheepers, Marthinus","Uitenhage",0.494,"Manual",9661
+846,"SCHEEPERS","GERHARDUS JOHANNES ADOLPHUS","Scheepers, Gerhardus","Uitenhage",0.184,"Manual",9088
+847,"SCHEEPERS","JAN (JOHANNES) MARTHINUS","Scheepers, Marthinus","Uitenhage",0.444,"Manual",9661
+849,"SCHEEPERS","HENDRIK PETRUS GERRIT","Scheepers, Hendrik Petrus","Uitenhage",0.69,"Manual",9523
+851,"SCHEEPERS","HENDRIK CHRISTOFFEL PRETRUS","Scheepers, Hendrik Petrus","Uitenhage",0.24,"Manual",9523
+855,"SCHEEPERS","PETRUS JOHANNES CHRISTOFFEL","Scheepers, Petrus Jacobus","Uitenhage",0.438,"Manual",9400
+860,"SCHOEMAN","JOHANNES","Schoeman, Johannes","George",0.716,"Manual",3874
+866,"SCHUTTE","STEPHANUS PHILIPPUS","Schutte, Stephanus Philippus","Uitenhage",0.676,"Manual",9339
+874,"SMIT","GERRIT WILLEM","Smit, Gert Willem","Clanwilliam",0.782,"Manual",1069
+878,"SMIT","WILLEM JACOBUS","Smit, Willem Jacobus","Beaufort",0.638,"Manual",241
+883,"SMIT","CHRISTIAAN HENDRIK STEPHANUS SR.","Smit, Christiaan Hendrik S.","Graaff-Reinet",0.53,"Manual",5111
+888,"SNYDERS","PETRUS JACOBUS","Snyders, Petrus Jacobus","Beaufort",0.422,"Manual",635
+903,"STEENKAMP","WILLEM","Steenkamp, Willem Johannes Paulus","Clanwilliam",0.52,"Manual",1131
+905,"STEENKAMP","BAREND WILLEM JACOBUS","Steenkamp, Barend Willem","Cradock",0.556,"Manual",1838
+907,"STEENKAMP","PHILIPPUS LOURENS","Steenkamp, Philip Laurens","Cradock",0.7,"Manual",1972
+910,"STEYN","JOHANNES CHRISTOFFEL (HANS)","Steyn, Johannes Christiaan","Swellendam",0.588,"Manual",7339
+911,"STEYN","PETRUS PAULUS","Steyn, Pieter Paulus Sr.","Swellendam",0.386,"Manual",7376
+912,"STEYN","HERMANUS (P.SEUN)","Steyn, Hermanus","Swellendam",0.62,"Manual",7334
+919,"STEYN","HERMANUS (M. SEUN)","Steyn, Hermanus","Beaufort",0.778,"Manual",400
+933,"STRYDOM","DANIEL JACOBUS JOHANNES (JACOBUS)","Strydom, Daniel Jacobus","Beaufort",0.54,"Manual",693
+940,"STRYDOM","JOHANNES PETRUS (HANS)","Strydom, Johannes","Graaff-Reinet",0.252,"Manual",4234
+944,"STRYDOM","BAREND HENDRIK JOSEPHUS","Strydom, Hendrik Barend Josephus","Graaff-Reinet",0.65,"Manual",4149
+949,"SWANEPOEL","ABRAHAM CHRISTOFFEL JOHANNES","Swanepoel, Abraham Christoffel","Beaufort",0.604,"Manual",624
+965,"UYS","CORNELIS JANSE","Uys, Cornelis Johannes","Uitenhage",0.79,"Manual",9233
+968,"UYS","JOHANNES GERHARDUS","Uys, Johannes Gerhardus Sr.","Swellendam",0.676,"Manual",8321
+989,"VAN DER HEEVER","LUCAS ADRIAAN JACOBUS","v. d. Heever, Lucas Adriaan","Graaff-Reinet",0.58,"Manual",4188
+990,"VAN DER LINDE","JOHANNES HENDRIK GERHARDUS","v. d. Linde, Jan Hendrik Gerhardus","Graaff-Reinet",0.272,"Manual",4522
+994,"VAN DER MERWE","SCHALK WILLEM","v. d. Merwe, Schalk Willem","Graaff-Reinet",0.522,"Manual",4307
+996,"VAN DER MERWE","DAVID SCHALK","v. d. Merwe, David Schalk","Graaff-Reinet",0.786,"Manual",4743
+997,"VAN DER MERWE","BAREND","v. d. Merwe, Barend Jacobus","Graaff-Reinet",0.68,"Manual",5002
+998,"VAN DER MERWE","WILLEM CAREL","v. d. Merwe, Willem Carel","Graaff-Reinet",0.27,"Manual",5147
+999,"VAN DER MERWE","THEUNIS JACOBUS","van der Merwe, Theunis","Cradock",0.556,"Manual",1748
+1002,"VAN DER MERWE","JACOBUS JOHANNES RUDOLPH","v. d. Merwe, Johannes Jacobus","Graaff-Reinet",0.636,"Manual",4787
+1005,"VAN DER MERWE","DAVID SCHALK","v. d. Merwe, David Schalk","Graaff-Reinet",0.786,"Manual",4743
+1013,"VAN DER MERWE","JACOBUS FRANCOIS","v. d. Merwe, Jacob Fredrik","Graaff-Reinet",0.416,"Manual",4950
+1015,"VAN DER MERWE","WILLEM CAREL","v. d. Merwe, Willem Carel","Graaff-Reinet",0.346,"Manual",5147
+1016,"VAN DER MERWE","DAVID SCHALK","van der Merwe, David Schalk","Cradock",0.786,"Manual",1566
+1024,"VAN DER WESTHUIZEN","JACOB SR.","Van der Westhuizen, Jacobus Andries","Beaufort",0.758,"Manual",674
+1029,"VAN DEVENTER","GERRIT ALBERTUS","van Deventer, Gert","Cradock",0.634,"Manual",1514
+1034,"VAN DEVENTER","GIDEON GERHARDUS","Van Deventer, Gideon","Swellendam",0.774,"Manual",7744
+1038,"VAN DYK","FRANS JOHANNES SR.","Van Dyk, Frans","Albany",0.502,"Manual",102
+1049,"VAN JAARSVELD","ADRIAAN JOHANNES FREDERIK GUSTAAF","v. Jaarsveld, Johannes","Graaff-Reinet",0.148,"Manual",4353
+1052,"VAN LOGGERENBERG","HENDRIK JOSEPH","Van Loggerenberg, Hendrik Josephus","Uitenhage",0.74,"Manual",9242
+1081,"VAN ROOYEN","CORNELIS","Van Rooyen, Cornelis Johannes","Uitenhage",0.608,"Manual",9176
+1101,"VAN STADEN","PETRUS JOHANNES SR.","Van Staden, Petrus Johannes","Uitenhage",0.528,"Manual",9341
+1112,"VAN STADEN","MARTHINUS PETRUS","Van Staden, Marthinus","Uitenhage",0.442,"Manual",9552
+1113,"VAN STADEN","MARTHINUS JACOBUS","Van Staden, Marthinus","Uitenhage",0.524,"Manual",9552
+1115,"VAN STADEN","MARTHINUS JOHANNES","Van Staden, Marthinus","Uitenhage",0.524,"Manual",9552
+1116,"VAN STRATEN","JACOB ABRAHAM","Van Straten, Jacobus","Graaff-Reinet",0.438,"Manual",4356
+1137,"VAN WYK","ADRIAAN PIETER","Van Wyk, Adriaan Pieter","Graaff-Reinet",0.748,"Manual",5162
+1140,"VAN WYK","ROELOF DANIEL SR.","Van Wyk, Roelof Daniel","Swellendam",0.652,"Manual",8228
+1142,"VAN WYK","GERRIT MATTHYS","Van Wyk, Gerrit","Clanwilliam",0.468,"Manual",966
+1145,"VAN ZYL","CORNELIS JOHANNES","v. Zyl, Cornelis Johannes","Graaff-Reinet",0.41,"Manual",4659
+1146,"VAN ZYL","WILLEM JACOBUS","Van Zyl, Willem","Clanwilliam",0.312,"Manual",1015
+1150,"VENTER","BERNHARDUS (BARNARD) GERHARDUS","Venter, Barnard","Graaff-Reinet",0.116,"Manual",4220
+1151,"VENTER","JACOBUS DANIEL SR.","Venter, Jacobus Daniel","Beaufort",0.792,"Manual",743
+1152,"VENTER","JAN LOUIS","Venter, Jan Louis","Beaufort",0.482,"Manual",737
+1153,"VENTER","JAN ADRIAAN","Venter, Jan Adriaan","Graaff-Reinet",0.612,"Manual",4520
+1158,"VENTER","JAN ADRIAAN SR.","Venter, Jan Adriaan","Graaff-Reinet",0.324,"Manual",4632
+1159,"VENTER","PAULUS STEPHANUS SR.","Venter, Paul Stephanus","Graaff-Reinet",0.638,"Manual",4808
+1174,"VERMAAS","HENDRIK CORNELIS WHILHELMUS","Vermaas, Hendrik","Swellendam",0.402,"Manual",7358
+1175,"VERMEULEN","SAREL (CAREL) JOHANNES","Vermeulen, Carel Johannes","Graaff-Reinet",0.616,"Manual",5284
+1187,"VILJOEN","JAN","Viljoen, Jan","Graaff-Reinet",0.776,"Manual",5310
+1192,"VILJOEN","CHRISTOFFEL SR.","Viljoen, Christoffel","Graaff-Reinet",0.398,"Manual",4292
+1195,"VILJOEN","CAREL MARTHINUS","Viljoen, Carel Marthinus","Uitenhage",0.672,"Manual",9603
+1207,"VOSLOO","GERRIT","Vosloo, Gert","Cradock",0.674,"Manual",1695
+1215,"WESSELS","WESSEL JACOBUS","Wessels, Wessel","Swellendam",0.466,"Manual",8510
+1217,"WILKEN","JOHANNES ADAM","Wilken, Johan Adam","Uitenhage",0.474,"Manual",9453
