@@ -11,6 +11,7 @@ its own README, codebook, license and loader script.
 | Folder | Project | Paper |
 |---|---|---|
 | [`2026_voortrekker/`](2026_voortrekker/) | Demographic Pressure, Emancipation and Selection into the Great Trek | Fourie & Links (2026), *European Review of Economic History* |
+| [`2026_sac/`](2026_sac/) | Discrimination After Hiring: Within-Firm Sorting, Slow Employer Learning, and the Cost to the Sorted Worker | Fourie, Inwood & Mariotti (2026), submitted to *Labour Economics* |
 
 ## License
 
