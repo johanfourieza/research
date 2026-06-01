@@ -1,0 +1,1261 @@
+source_column,label,dataset,direction,disembarked_imp,iso3,modern_name,map_quality,notes
+dest_broad,Caribbean,intra_american,destination,205834,,,unmapped,No conservative country assignment yet.
+dest_broad,Spanish Mainland Americas,intra_american,destination,174557,,,unmapped,No conservative country assignment yet.
+dest_broad,Brazil,intra_american,destination,173702,,,unmapped,No conservative country assignment yet.
+dest_broad,Mainland North America,intra_american,destination,133345,,,unmapped,No conservative country assignment yet.
+dest_broad,Other,intra_american,destination,6379,,,unmapped,No conservative country assignment yet.
+dest_broad,Africa,intra_american,destination,84,,,unmapped,No conservative country assignment yet.
+dest_broad,British Honduras,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Rio de Janeiro,intra_american,destination,163589,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Havana,intra_american,destination,103182,CUB,Cuba,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,New Orleans,intra_american,destination,70998,USA,United States,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Portobelo,intra_american,destination,59217,PAN,Panama,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Cartagena,intra_american,destination,27998,COL,Colombia,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Buenos Aires,intra_american,destination,27366,ARG,Argentina,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Montevideo,intra_american,destination,24818,URY,Uruguay,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Charleston,intra_american,destination,16916,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,La Guaira,intra_american,destination,15793,VEN,Venezuela,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Galveston,intra_american,destination,14432,USA,United States,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Santiago de Cuba,intra_american,destination,12774,CUB,Cuba,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,São Luis,intra_american,destination,9317,BRA,Brazil,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,"Puerto Rico, port unspecified",intra_american,destination,7329,PRI,Puerto Rico,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Veracruz,intra_american,destination,6619,MEX,Mexico,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,"Spanish American Mainland, port unspecified",intra_american,destination,6211,,,unmapped,No conservative country assignment yet.
+dest_port,St Eustatius,intra_american,destination,5686,,,unmapped,No conservative country assignment yet.
+dest_port,Savannah,intra_american,destination,5110,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Curaçao,intra_american,destination,4693,CUW,Curacao,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Saint-Domingue, then Haiti, port unspecified",intra_american,destination,4097,HTI,Haiti,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,"Antigua, place unspecified",intra_american,destination,3969,ATG,Antigua and Barbuda,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,San Juan,intra_american,destination,3885,PRI,Puerto Rico,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Barbados, place unspecified",intra_american,destination,3785,BRB,Barbados,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,New York,intra_american,destination,3784,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Jamaica, place unspecified",intra_american,destination,3481,JAM,Jamaica,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Guadeloupe, place unspecified",intra_american,destination,3377,GLP,Guadeloupe,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"St Kitts, port unspecified",intra_american,destination,3174,KNA,Saint Kitts and Nevis,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Jérémie,intra_american,destination,2977,,,unmapped,No conservative country assignment yet.
+dest_port,"Dominica, place unspecified",intra_american,destination,2889,DMA,Dominica,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"St Vincent, port unspecified",intra_american,destination,2883,,,unmapped,No conservative country assignment yet.
+dest_port,Hampton,intra_american,destination,2840,,,unmapped,No conservative country assignment yet.
+dest_port,Demerara,intra_american,destination,2828,GUY,Guyana,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,New Providence,intra_american,destination,2573,,,unmapped,No conservative country assignment yet.
+dest_port,"Spanish Circum-Caribbean,unspecified",intra_american,destination,2412,,,unmapped,No conservative country assignment yet.
+dest_port,"Trinidad, port unspecified",intra_american,destination,2235,,,unmapped,No conservative country assignment yet.
+dest_port,"Martinique, place unspecified",intra_american,destination,1977,MTQ,Martinique,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Puerto Cabello,intra_american,destination,1864,,,unmapped,No conservative country assignment yet.
+dest_port,San Domingo (a) Santo Domingo,intra_american,destination,1774,,,unmapped,No conservative country assignment yet.
+dest_port,"Cuba, port unspecified",intra_american,destination,1754,CUB,Cuba,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Cayenne,intra_american,destination,1645,,,unmapped,No conservative country assignment yet.
+dest_port,"Montserrat, port unspecified",intra_american,destination,1601,,,unmapped,No conservative country assignment yet.
+dest_port,Louisiana,intra_american,destination,1518,,,unmapped,No conservative country assignment yet.
+dest_port,Lower James River,intra_american,destination,1481,,,unmapped,No conservative country assignment yet.
+dest_port,"Grenada, place unspecified",intra_american,destination,1448,GRD,Grenada,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Venezuela, port unspecified",intra_american,destination,1426,,,unmapped,No conservative country assignment yet.
+dest_port,"Tobago, port unspecified",intra_american,destination,1421,,,unmapped,No conservative country assignment yet.
+dest_port,"British Honduras, port unspecified",intra_american,destination,1419,,,unmapped,No conservative country assignment yet.
+dest_port,York River,intra_american,destination,1419,,,unmapped,No conservative country assignment yet.
+dest_port,"South Carolina, place unspecified",intra_american,destination,1348,,,unmapped,No conservative country assignment yet.
+dest_port,Philadelphia,intra_american,destination,1344,,,unmapped,No conservative country assignment yet.
+dest_port,"Virginia, port unspecified",intra_american,destination,1326,,,unmapped,No conservative country assignment yet.
+dest_port,Berbice,intra_american,destination,1315,,,unmapped,No conservative country assignment yet.
+dest_port,Santa Marta,intra_american,destination,1314,,,unmapped,No conservative country assignment yet.
+dest_port,"St Lucia, port unspecified",intra_american,destination,1247,,,unmapped,No conservative country assignment yet.
+dest_port,Maracaibo,intra_american,destination,1237,,,unmapped,No conservative country assignment yet.
+dest_port,St Maarten,intra_american,destination,1205,,,unmapped,No conservative country assignment yet.
+dest_port,Port-au-Prince,intra_american,destination,1176,HTI,Haiti,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,St Thomas,intra_american,destination,1007,,,unmapped,No conservative country assignment yet.
+dest_port,Cayes (Les),intra_american,destination,988,,,unmapped,No conservative country assignment yet.
+dest_port,"North Carolina, port unspecified",intra_american,destination,952,,,unmapped,No conservative country assignment yet.
+dest_port,Kingston,intra_american,destination,929,JAM,Jamaica,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Campeche,intra_american,destination,898,,,unmapped,No conservative country assignment yet.
+dest_port,"Georgia, port unspecified",intra_american,destination,780,,,unmapped,No conservative country assignment yet.
+dest_port,Mississippi,intra_american,destination,760,,,unmapped,No conservative country assignment yet.
+dest_port,St Croix,intra_american,destination,709,,,unmapped,No conservative country assignment yet.
+dest_port,St Augustine,intra_american,destination,702,,,unmapped,No conservative country assignment yet.
+dest_port,"Maryland, port unspecified",intra_american,destination,685,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Belém,intra_american,destination,670,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Upper James River,intra_american,destination,627,,,unmapped,No conservative country assignment yet.
+dest_port,Brunswick,intra_american,destination,614,,,unmapped,No conservative country assignment yet.
+dest_port,South Keys,intra_american,destination,590,,,unmapped,No conservative country assignment yet.
+dest_port,Grand Caymans,intra_american,destination,580,,,unmapped,No conservative country assignment yet.
+dest_port,Bottomaneau,intra_american,destination,572,,,unmapped,No conservative country assignment yet.
+dest_port,Annapolis,intra_american,destination,545,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Rio de la Hacha,intra_american,destination,541,,,unmapped,No conservative country assignment yet.
+dest_port,Rappahannock,intra_american,destination,510,,,unmapped,No conservative country assignment yet.
+dest_port,Coro,intra_american,destination,507,,,unmapped,No conservative country assignment yet.
+dest_port,Lima,intra_american,destination,486,,,unmapped,No conservative country assignment yet.
+dest_port,Cap Français,intra_american,destination,480,HTI,Haiti,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Florida, port unspecified",intra_american,destination,449,,,unmapped,No conservative country assignment yet.
+dest_port,"Nevis, port unspecified",intra_american,destination,428,,,unmapped,No conservative country assignment yet.
+dest_port,Cap Tiberon,intra_american,destination,408,,,unmapped,No conservative country assignment yet.
+dest_port,Savanna la Mar,intra_american,destination,383,,,unmapped,No conservative country assignment yet.
+dest_port,Perth Amboy,intra_american,destination,382,,,unmapped,No conservative country assignment yet.
+dest_port,Roanoke,intra_american,destination,366,,,unmapped,No conservative country assignment yet.
+dest_port,"Tortola, port unspecified",intra_american,destination,361,,,unmapped,No conservative country assignment yet.
+dest_port,"Hispaniola, unspecified",intra_american,destination,335,,,unmapped,No conservative country assignment yet.
+dest_port,Jacmel,intra_american,destination,331,,,unmapped,No conservative country assignment yet.
+dest_port,"Guayana, Venezuela",intra_american,destination,300,,,unmapped,No conservative country assignment yet.
+dest_port,Bermuda,intra_american,destination,298,,,unmapped,No conservative country assignment yet.
+dest_port,"Suriname, place unspecified",intra_american,destination,290,SUR,Suriname,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Turk's Island,intra_american,destination,278,,,unmapped,No conservative country assignment yet.
+dest_port,Saint-Marc,intra_american,destination,254,,,unmapped,No conservative country assignment yet.
+dest_port,"Anguilla, port unspecified",intra_american,destination,247,,,unmapped,No conservative country assignment yet.
+dest_port,Môle Saint Nicolas,intra_american,destination,244,,,unmapped,No conservative country assignment yet.
+dest_port,Cecil County,intra_american,destination,232,,,unmapped,No conservative country assignment yet.
+dest_port,Cumana,intra_american,destination,229,,,unmapped,No conservative country assignment yet.
+dest_port,Nassau,intra_american,destination,222,,,unmapped,No conservative country assignment yet.
+dest_port,Oxford,intra_american,destination,219,,,unmapped,No conservative country assignment yet.
+dest_port,"Peru, port unspecified",intra_american,destination,212,,,unmapped,No conservative country assignment yet.
+dest_port,Ponce,intra_american,destination,206,,,unmapped,No conservative country assignment yet.
+dest_port,Bonaire,intra_american,destination,202,,,unmapped,No conservative country assignment yet.
+dest_port,Matagorda,intra_american,destination,201,,,unmapped,No conservative country assignment yet.
+dest_port,Pensacola,intra_american,destination,199,,,unmapped,No conservative country assignment yet.
+dest_port,Brazoria,intra_american,destination,196,,,unmapped,No conservative country assignment yet.
+dest_port,Margarita,intra_american,destination,195,,,unmapped,No conservative country assignment yet.
+dest_port,Port Lavaca,intra_american,destination,191,,,unmapped,No conservative country assignment yet.
+dest_port,Beaufort,intra_american,destination,190,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Borburata,intra_american,destination,183,,,unmapped,No conservative country assignment yet.
+dest_port,Caracas,intra_american,destination,183,,,unmapped,No conservative country assignment yet.
+dest_port,Boston,intra_american,destination,164,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Guatemala,intra_american,destination,159,,,unmapped,No conservative country assignment yet.
+dest_port,South Potomac,intra_american,destination,159,,,unmapped,No conservative country assignment yet.
+dest_port,Cape Fear,intra_american,destination,151,,,unmapped,No conservative country assignment yet.
+dest_port,Morant Bay,intra_american,destination,150,,,unmapped,No conservative country assignment yet.
+dest_port,Colonia de Sacramento,intra_american,destination,146,,,unmapped,No conservative country assignment yet.
+dest_port,Patuxent,intra_american,destination,137,,,unmapped,No conservative country assignment yet.
+dest_port,Monte Christi,intra_american,destination,135,,,unmapped,No conservative country assignment yet.
+dest_port,Puerto Principe,intra_american,destination,133,,,unmapped,No conservative country assignment yet.
+dest_port,"Rio de la Plata, port unspecified",intra_american,destination,133,,,unmapped,No conservative country assignment yet.
+dest_port,Slaves rescued at sea from a shipwreck,intra_american,destination,132,,,unmapped,No conservative country assignment yet.
+dest_port,Sunbury,intra_american,destination,128,,,unmapped,No conservative country assignment yet.
+dest_port,Nueva Barcelona,intra_american,destination,121,,,unmapped,No conservative country assignment yet.
+dest_port,Piscataqua,intra_american,destination,115,,,unmapped,No conservative country assignment yet.
+dest_port,British Leewards,intra_american,destination,112,,,unmapped,No conservative country assignment yet.
+dest_port,Georgetown,intra_american,destination,101,,,unmapped,No conservative country assignment yet.
+dest_port,Lucea (a) St Lucea,intra_american,destination,100,,,unmapped,No conservative country assignment yet.
+dest_port,Cienfuegos,intra_american,destination,99,,,unmapped,No conservative country assignment yet.
+dest_port,"Bahamas, port unspecified",intra_american,destination,94,,,unmapped,No conservative country assignment yet.
+dest_port,Mosquito Shore,intra_american,destination,94,,,unmapped,No conservative country assignment yet.
+dest_port,North Potomac,intra_american,destination,93,,,unmapped,No conservative country assignment yet.
+dest_port,Caribbean (colony unspecified),intra_american,destination,88,,,unmapped,No conservative country assignment yet.
+dest_port,"Grande-Terre, port unspecified",intra_american,destination,77,,,unmapped,No conservative country assignment yet.
+dest_port,Marie-Galante,intra_american,destination,77,,,unmapped,No conservative country assignment yet.
+dest_port,New Bern,intra_american,destination,77,,,unmapped,No conservative country assignment yet.
+dest_port,Potomac river,intra_american,destination,77,,,unmapped,No conservative country assignment yet.
+dest_port,Macapá,intra_american,destination,74,,,unmapped,No conservative country assignment yet.
+dest_port,New London,intra_american,destination,73,,,unmapped,No conservative country assignment yet.
+dest_port,"St Barthélemy, port unspecified",intra_american,destination,68,,,unmapped,No conservative country assignment yet.
+dest_port,Brazos Santiago,intra_american,destination,67,,,unmapped,No conservative country assignment yet.
+dest_port,San Andrés,intra_american,destination,67,,,unmapped,No conservative country assignment yet.
+dest_port,Providence,intra_american,destination,65,,,unmapped,No conservative country assignment yet.
+dest_port,Talcahuano,intra_american,destination,64,,,unmapped,No conservative country assignment yet.
+dest_port,Mobile,intra_american,destination,62,,,unmapped,No conservative country assignment yet.
+dest_port,Halifax,intra_american,destination,57,,,unmapped,No conservative country assignment yet.
+dest_port,Carolinas,intra_american,destination,55,,,unmapped,No conservative country assignment yet.
+dest_port,Baracoa,intra_american,destination,48,,,unmapped,No conservative country assignment yet.
+dest_port,"Bahia, place unspecified",intra_american,destination,46,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Houston,intra_american,destination,46,,,unmapped,No conservative country assignment yet.
+dest_port,Saint-Louis,intra_american,destination,46,,,unmapped,No conservative country assignment yet.
+dest_port,Madeira,intra_american,destination,38,,,unmapped,No conservative country assignment yet.
+dest_port,Laureles,intra_american,destination,37,,,unmapped,No conservative country assignment yet.
+dest_port,Matagorda Bay,intra_american,destination,33,,,unmapped,No conservative country assignment yet.
+dest_port,"Spanish Caribbean, unspecified",intra_american,destination,32,,,unmapped,No conservative country assignment yet.
+dest_port,Aransas Bay,intra_american,destination,29,,,unmapped,No conservative country assignment yet.
+dest_port,Aransas,intra_american,destination,28,,,unmapped,No conservative country assignment yet.
+dest_port,Pocomoke,intra_american,destination,27,,,unmapped,No conservative country assignment yet.
+dest_port,Accomac,intra_american,destination,26,,,unmapped,No conservative country assignment yet.
+dest_port,Edenton,intra_american,destination,25,,,unmapped,No conservative country assignment yet.
+dest_port,"French Caribbean, colony unspecified",intra_american,destination,23,,,unmapped,No conservative country assignment yet.
+dest_port,Orinoko,intra_american,destination,23,,,unmapped,No conservative country assignment yet.
+dest_port,Maldonado,intra_american,destination,22,,,unmapped,No conservative country assignment yet.
+dest_port,Asunción,intra_american,destination,20,,,unmapped,No conservative country assignment yet.
+dest_port,"British Caribbean, colony unspecified",intra_american,destination,20,,,unmapped,No conservative country assignment yet.
+dest_port,Darien,intra_american,destination,20,,,unmapped,No conservative country assignment yet.
+dest_port,"New Spain, port unspecified",intra_american,destination,20,,,unmapped,No conservative country assignment yet.
+dest_port,Punta del Este,intra_american,destination,19,,,unmapped,No conservative country assignment yet.
+dest_port,Essequibo,intra_american,destination,17,,,unmapped,No conservative country assignment yet.
+dest_port,Nova Scotia,intra_american,destination,17,,,unmapped,No conservative country assignment yet.
+dest_port,Sabine Pass,intra_american,destination,17,,,unmapped,No conservative country assignment yet.
+dest_port,Bijsterpan,intra_american,destination,16,,,unmapped,No conservative country assignment yet.
+dest_port,Sabine,intra_american,destination,16,,,unmapped,No conservative country assignment yet.
+dest_port,Providence Island,intra_american,destination,14,,,unmapped,No conservative country assignment yet.
+dest_port,Sold at sea to another vessel,intra_american,destination,14,,,unmapped,No conservative country assignment yet.
+dest_port,Becquia,intra_american,destination,12,,,unmapped,No conservative country assignment yet.
+dest_port,Montego Bay,intra_american,destination,12,,,unmapped,No conservative country assignment yet.
+dest_port,Wilmington,intra_american,destination,12,,,unmapped,No conservative country assignment yet.
+dest_port,Brazos,intra_american,destination,11,,,unmapped,No conservative country assignment yet.
+dest_port,Corpus Christi,intra_american,destination,11,,,unmapped,No conservative country assignment yet.
+dest_port,"Marrader (Morada?), location undetermined",intra_american,destination,11,,,unmapped,No conservative country assignment yet.
+dest_port,Samana,intra_american,destination,11,,,unmapped,No conservative country assignment yet.
+dest_port,Aruba,intra_american,destination,10,,,unmapped,No conservative country assignment yet.
+dest_port,Port Royal,intra_american,destination,10,,,unmapped,No conservative country assignment yet.
+dest_port,Brazos River,intra_american,destination,9,,,unmapped,No conservative country assignment yet.
+dest_port,Cat Island,intra_american,destination,9,,,unmapped,No conservative country assignment yet.
+dest_port,Indian Point,intra_american,destination,9,,,unmapped,No conservative country assignment yet.
+dest_port,Sabine River,intra_american,destination,9,,,unmapped,No conservative country assignment yet.
+dest_port,Exuma,intra_american,destination,8,,,unmapped,No conservative country assignment yet.
+dest_port,St Mary's River,intra_american,destination,8,,,unmapped,No conservative country assignment yet.
+dest_port,Pamunkey,intra_american,destination,7,,,unmapped,No conservative country assignment yet.
+dest_port,Pass Cavallo,intra_american,destination,7,,,unmapped,No conservative country assignment yet.
+dest_port,Wreck,intra_american,destination,7,,,unmapped,No conservative country assignment yet.
+dest_port,Caracas Coast and Tucacas,intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,Orici,intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,"Rhode Island, port unspecified",intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,Sabine City,intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,Saluria,intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,San Juan de los Cayos,intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,"USA, location unspecified",intra_american,destination,6,,,unmapped,No conservative country assignment yet.
+dest_port,Port Isabel,intra_american,destination,5,,,unmapped,No conservative country assignment yet.
+dest_port,Powderhorn,intra_american,destination,5,,,unmapped,No conservative country assignment yet.
+dest_port,"Ceará, port unspecified",intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,Delaware River,intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,"Guecka, location undetermined",intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,Indianola,intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,Jacksonville,intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,"Pennsylvania, port unspecified",intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,Recife,intra_american,destination,3,,,unmapped,No conservative country assignment yet.
+dest_port,Amelia Island,intra_american,destination,2,,,unmapped,No conservative country assignment yet.
+dest_port,Linn's Landing,intra_american,destination,2,,,unmapped,No conservative country assignment yet.
+dest_port,Léogane,intra_american,destination,2,HTI,Haiti,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Newfoundland,intra_american,destination,2,,,unmapped,No conservative country assignment yet.
+dest_port,Port Caddo,intra_american,destination,2,,,unmapped,No conservative country assignment yet.
+dest_port,Rio Grande,intra_american,destination,2,,,unmapped,No conservative country assignment yet.
+dest_port,St Joseph's Island,intra_american,destination,2,,,unmapped,No conservative country assignment yet.
+dest_port,Choptank,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Kittery Point,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Linnville,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Quintana,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Rattan (a) Roatán,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,"Rocus, location undetermined",intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Sabine Lake,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_port,Velasco,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_region,Southeast Brazil,intra_american,destination,163589,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Spanish Circum-Caribbean,intra_american,destination,121271,,,unmapped,No conservative country assignment yet.
+dest_region,Cuba,intra_american,destination,118729,CUB,Cuba,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Gulf coast,intra_american,destination,73338,USA,United States,region_exact_or_admin,Intra-American destination region mapped to modern country or territory.
+dest_region,Rio de la Plata,intra_american,destination,52524,ARG,Argentina,region_exact_or_admin,Intra-American destination region mapped to modern country or territory.
+dest_region,South Carolina,intra_american,destination,18509,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Texas,intra_american,destination,15386,USA,United States,region_exact_or_admin,Intra-American destination region mapped to modern country or territory.
+dest_region,Dutch Caribbean,intra_american,destination,11796,,,unmapped,No conservative country assignment yet.
+dest_region,Puerto Rico,intra_american,destination,11420,PRI,Puerto Rico,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Saint-Domingue,intra_american,destination,10957,HTI,Haiti,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Amazonia,intra_american,destination,10064,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Virginia,intra_american,destination,8465,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Spanish Americas,intra_american,destination,6211,,,unmapped,No conservative country assignment yet.
+dest_region,Georgia,intra_american,destination,6018,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Jamaica,intra_american,destination,5065,JAM,Jamaica,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Antigua,intra_american,destination,3969,ATG,Antigua and Barbuda,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Barbados,intra_american,destination,3785,BRB,Barbados,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,New York,intra_american,destination,3784,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Guadeloupe,intra_american,destination,3531,GLP,Guadeloupe,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Bahamas,intra_american,destination,3184,BHS,Bahamas,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Kitts,intra_american,destination,3174,KNA,Saint Kitts and Nevis,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Dominica,intra_american,destination,2889,DMA,Dominica,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Vincent,intra_american,destination,2883,VCT,Saint Vincent and the Grenadines,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,British Guiana,intra_american,destination,2828,GUY,Guyana,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Hispaniola,intra_american,destination,2255,,,unmapped,No conservative country assignment yet.
+dest_region,North Carolina,intra_american,destination,2243,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Trinidad,intra_american,destination,2235,TTO,Trinidad and Tobago,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Martinique,intra_american,destination,1977,MTQ,Martinique,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Maryland,intra_american,destination,1954,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Danish West Indies,intra_american,destination,1716,VIR,U.S. Virgin Islands,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,French Guiana,intra_american,destination,1645,,,unmapped,No conservative country assignment yet.
+dest_region,Dutch Guianas,intra_american,destination,1622,,,unmapped,No conservative country assignment yet.
+dest_region,Montserrat,intra_american,destination,1601,,,unmapped,No conservative country assignment yet.
+dest_region,British Honduras,intra_american,destination,1513,BLZ,Belize,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Grenada,intra_american,destination,1448,GRD,Grenada,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Tobago,intra_american,destination,1421,,,unmapped,No conservative country assignment yet.
+dest_region,Florida,intra_american,destination,1355,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Pennsylvania,intra_american,destination,1347,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Lucia,intra_american,destination,1247,,,unmapped,No conservative country assignment yet.
+dest_region,Other British Caribbean,intra_american,destination,1022,,,unmapped,No conservative country assignment yet.
+dest_region,Peru,intra_american,destination,698,,,unmapped,No conservative country assignment yet.
+dest_region,Other Caribbean,intra_american,destination,666,,,unmapped,No conservative country assignment yet.
+dest_region,Nevis,intra_american,destination,428,,,unmapped,No conservative country assignment yet.
+dest_region,New Jersey,intra_american,destination,385,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Tortola,intra_american,destination,361,,,unmapped,No conservative country assignment yet.
+dest_region,Anguilla,intra_american,destination,247,,,unmapped,No conservative country assignment yet.
+dest_region,Massachusetts,intra_american,destination,164,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Non-geographical,intra_american,destination,153,,,unmapped,No conservative country assignment yet.
+dest_region,New Hampshire,intra_american,destination,115,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Other Spanish Caribbean,intra_american,destination,113,,,unmapped,No conservative country assignment yet.
+dest_region,Senegambia and offshore Atlantic,intra_american,destination,84,,,unmapped,No conservative country assignment yet.
+dest_region,Canada,intra_american,destination,76,,,unmapped,No conservative country assignment yet.
+dest_region,Connecticut,intra_american,destination,73,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Rhode Island,intra_american,destination,71,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Barthélemy (Sweden),intra_american,destination,68,,,unmapped,No conservative country assignment yet.
+dest_region,Chile,intra_american,destination,64,,,unmapped,No conservative country assignment yet.
+dest_region,Other North America,intra_american,destination,61,,,unmapped,No conservative country assignment yet.
+dest_region,Bahia,intra_american,destination,46,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Other French Caribbean,intra_american,destination,23,,,unmapped,No conservative country assignment yet.
+dest_region,Other Dutch Americas,intra_american,destination,16,,,unmapped,No conservative country assignment yet.
+dest_region,Americas,intra_american,destination,15,,,unmapped,No conservative country assignment yet.
+dest_region,Pernambuco,intra_american,destination,3,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,"British Honduras, port unspecified",intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+dest_region,Maine,intra_american,destination,1,,,unmapped,No conservative country assignment yet.
+origin_broad,Caribbean,intra_american,origin,327299,,,unmapped,No conservative country assignment yet.
+origin_broad,Brazil,intra_american,origin,227300,,,unmapped,No conservative country assignment yet.
+origin_broad,Mainland North America,intra_american,origin,93139,,,unmapped,No conservative country assignment yet.
+origin_broad,Other,intra_american,origin,6258,,,unmapped,No conservative country assignment yet.
+origin_broad,Spanish Mainland Americas,intra_american,origin,5582,,,unmapped,No conservative country assignment yet.
+origin_broad,Europe,intra_american,origin,21,,,unmapped,No conservative country assignment yet.
+origin_broad,Africa,intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_place,"Jamaica, place unspecified",intra_american,origin,78021,JAM,Jamaica,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Portos do Norte,intra_american,origin,69234,BRA,Brazil,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Kingston,intra_american,origin,52182,JAM,Jamaica,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Barbados, place unspecified",intra_american,origin,41434,BRB,Barbados,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Curaçao,intra_american,origin,40038,CUW,Curacao,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Bahia, place unspecified",intra_american,origin,38504,BRA,Brazil,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Rio de Janeiro,intra_american,origin,27181,,,unmapped,No conservative country assignment yet.
+origin_place,"Dominica, place unspecified",intra_american,origin,18925,DMA,Dominica,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Norfolk,intra_american,origin,15683,USA,United States,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Pernambuco, place unspecified",intra_american,origin,15264,BRA,Brazil,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,New Orleans,intra_american,origin,15001,USA,United States,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Charleston,intra_american,origin,13637,USA,United States,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Baltimore,intra_american,origin,12686,USA,United States,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,St Thomas,intra_american,origin,12517,VIR,U.S. Virgin Islands,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"British Caribbean, colony unspecified",intra_american,origin,11662,,,unmapped,No conservative country assignment yet.
+origin_place,Richmond (VA),intra_american,origin,11012,USA,United States,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Brazil, place unspecified",intra_american,origin,10212,BRA,Brazil,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Santos,intra_american,origin,9677,BRA,Brazil,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Campos,intra_american,origin,9178,BRA,Brazil,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Antigua, place unspecified",intra_american,origin,8664,,,unmapped,No conservative country assignment yet.
+origin_place,"Puerto Rico, port unspecified",intra_american,origin,8482,,,unmapped,No conservative country assignment yet.
+origin_place,"St Kitts, port unspecified",intra_american,origin,8034,,,unmapped,No conservative country assignment yet.
+origin_place,"Grenada, place unspecified",intra_american,origin,6303,,,unmapped,No conservative country assignment yet.
+origin_place,"Americas, port unspecified",intra_american,origin,5470,,,unmapped,No conservative country assignment yet.
+origin_place,Alexandria,intra_american,origin,5464,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Grande,intra_american,origin,5099,,,unmapped,No conservative country assignment yet.
+origin_place,Roseau,intra_american,origin,4641,,,unmapped,No conservative country assignment yet.
+origin_place,Mobile,intra_american,origin,4040,USA,United States,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,St Croix,intra_american,origin,3876,,,unmapped,No conservative country assignment yet.
+origin_place,Parati,intra_american,origin,3825,,,unmapped,No conservative country assignment yet.
+origin_place,St Eustatius,intra_american,origin,3760,,,unmapped,No conservative country assignment yet.
+origin_place,Macaé,intra_american,origin,3598,,,unmapped,No conservative country assignment yet.
+origin_place,Montevideo,intra_american,origin,3450,,,unmapped,No conservative country assignment yet.
+origin_place,Pará,intra_american,origin,3394,,,unmapped,No conservative country assignment yet.
+origin_place,Galveston,intra_american,origin,3228,,,unmapped,No conservative country assignment yet.
+origin_place,Caribbean (colony unspecified),intra_american,origin,2952,,,unmapped,No conservative country assignment yet.
+origin_place,Mangaratiba,intra_american,origin,2762,,,unmapped,No conservative country assignment yet.
+origin_place,"Saint-Domingue, then Haiti, port unspecified",intra_american,origin,2738,,,unmapped,No conservative country assignment yet.
+origin_place,"St Vincent, port unspecified",intra_american,origin,2060,VCT,Saint Vincent and the Grenadines,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"St Marks, FL",intra_american,origin,2030,,,unmapped,No conservative country assignment yet.
+origin_place,Santa Catarina,intra_american,origin,1852,,,unmapped,No conservative country assignment yet.
+origin_place,Ilha Grande,intra_american,origin,1811,,,unmapped,No conservative country assignment yet.
+origin_place,Imbetiba,intra_american,origin,1783,,,unmapped,No conservative country assignment yet.
+origin_place,Pensacola,intra_american,origin,1743,,,unmapped,No conservative country assignment yet.
+origin_place,Maceió,intra_american,origin,1645,,,unmapped,No conservative country assignment yet.
+origin_place,Ubatuba,intra_american,origin,1594,,,unmapped,No conservative country assignment yet.
+origin_place,São Mateus,intra_american,origin,1562,,,unmapped,No conservative country assignment yet.
+origin_place,"St Barthélemy, port unspecified",intra_american,origin,1535,,,unmapped,No conservative country assignment yet.
+origin_place,Angra dos Reis,intra_american,origin,1463,,,unmapped,No conservative country assignment yet.
+origin_place,Porto Alegre,intra_american,origin,1445,,,unmapped,No conservative country assignment yet.
+origin_place,Caravelas,intra_american,origin,1334,,,unmapped,No conservative country assignment yet.
+origin_place,Rio São João,intra_american,origin,1329,,,unmapped,No conservative country assignment yet.
+origin_place,Apalachicola,intra_american,origin,1326,,,unmapped,No conservative country assignment yet.
+origin_place,"Suriname, place unspecified",intra_american,origin,1310,SUR,Suriname,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Hispaniola, unspecified",intra_american,origin,1288,,,unmapped,No conservative country assignment yet.
+origin_place,"Trinidad, port unspecified",intra_american,origin,1283,TTO,Trinidad and Tobago,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Cabo Frio,intra_american,origin,1280,,,unmapped,No conservative country assignment yet.
+origin_place,Port Royal,intra_american,origin,1267,,,unmapped,No conservative country assignment yet.
+origin_place,Jerumirim,intra_american,origin,1230,,,unmapped,No conservative country assignment yet.
+origin_place,New Providence,intra_american,origin,1202,BHS,Bahamas,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,"Tortola, port unspecified",intra_american,origin,1137,,,unmapped,No conservative country assignment yet.
+origin_place,"Martinique, place unspecified",intra_american,origin,1116,MTQ,Martinique,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Havana,intra_american,origin,1074,,,unmapped,No conservative country assignment yet.
+origin_place,Montego Bay,intra_american,origin,1063,,,unmapped,No conservative country assignment yet.
+origin_place,"Danish West Indies, colony unspecified",intra_american,origin,1062,,,unmapped,No conservative country assignment yet.
+origin_place,"Guadeloupe, place unspecified",intra_american,origin,1054,GLP,Guadeloupe,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Savannah,intra_american,origin,1048,,,unmapped,No conservative country assignment yet.
+origin_place,Jacksonville,intra_american,origin,1035,,,unmapped,No conservative country assignment yet.
+origin_place,Vitória,intra_american,origin,998,,,unmapped,No conservative country assignment yet.
+origin_place,São Sebastião,intra_american,origin,991,,,unmapped,No conservative country assignment yet.
+origin_place,Penedo,intra_american,origin,768,,,unmapped,No conservative country assignment yet.
+origin_place,"South Carolina, place unspecified",intra_american,origin,709,,,unmapped,No conservative country assignment yet.
+origin_place,Bermuda,intra_american,origin,695,,,unmapped,No conservative country assignment yet.
+origin_place,Cap Français,intra_american,origin,672,,,unmapped,No conservative country assignment yet.
+origin_place,Portos do Sul,intra_american,origin,594,,,unmapped,No conservative country assignment yet.
+origin_place,Aracaju,intra_american,origin,580,,,unmapped,No conservative country assignment yet.
+origin_place,Laguna,intra_american,origin,556,,,unmapped,No conservative country assignment yet.
+origin_place,Itaguaí,intra_american,origin,551,,,unmapped,No conservative country assignment yet.
+origin_place,"Montserrat, port unspecified",intra_american,origin,533,,,unmapped,No conservative country assignment yet.
+origin_place,St Maarten,intra_american,origin,532,,,unmapped,No conservative country assignment yet.
+origin_place,"Spanish Americas, port unspecified",intra_american,origin,528,,,unmapped,No conservative country assignment yet.
+origin_place,Itapemirim,intra_american,origin,505,,,unmapped,No conservative country assignment yet.
+origin_place,New York,intra_american,origin,491,,,unmapped,No conservative country assignment yet.
+origin_place,"Nevis, port unspecified",intra_american,origin,486,,,unmapped,No conservative country assignment yet.
+origin_place,Cartagena,intra_american,origin,431,,,unmapped,No conservative country assignment yet.
+origin_place,Maranhão,intra_american,origin,413,,,unmapped,No conservative country assignment yet.
+origin_place,Mambucaba,intra_american,origin,398,,,unmapped,No conservative country assignment yet.
+origin_place,Açu,intra_american,origin,395,,,unmapped,No conservative country assignment yet.
+origin_place,Paranaguá,intra_american,origin,393,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Cotinguiba,intra_american,origin,382,,,unmapped,No conservative country assignment yet.
+origin_place,Savanna la Mar,intra_american,origin,375,,,unmapped,No conservative country assignment yet.
+origin_place,Saint John (Antigua),intra_american,origin,371,,,unmapped,No conservative country assignment yet.
+origin_place,"Rio de la Plata, port unspecified",intra_american,origin,354,,,unmapped,No conservative country assignment yet.
+origin_place,Iguape,intra_american,origin,343,,,unmapped,No conservative country assignment yet.
+origin_place,"Georgia, port unspecified",intra_american,origin,332,,,unmapped,No conservative country assignment yet.
+origin_place,Isla de Aves,intra_american,origin,320,,,unmapped,No conservative country assignment yet.
+origin_place,"Dutch Caribbean, colony unspecified",intra_american,origin,318,,,unmapped,No conservative country assignment yet.
+origin_place,"Rhode Island, port unspecified",intra_american,origin,305,,,unmapped,No conservative country assignment yet.
+origin_place,"Virginia, port unspecified",intra_american,origin,290,,,unmapped,No conservative country assignment yet.
+origin_place,San Domingo (a) Santo Domingo,intra_american,origin,277,,,unmapped,No conservative country assignment yet.
+origin_place,Mucuri,intra_american,origin,272,,,unmapped,No conservative country assignment yet.
+origin_place,La Guaira,intra_american,origin,271,,,unmapped,No conservative country assignment yet.
+origin_place,Petersburg,intra_american,origin,269,,,unmapped,No conservative country assignment yet.
+origin_place,Tampa,intra_american,origin,265,,,unmapped,No conservative country assignment yet.
+origin_place,Providence,intra_american,origin,249,,,unmapped,No conservative country assignment yet.
+origin_place,Rio de Janeiro province,intra_american,origin,238,,,unmapped,No conservative country assignment yet.
+origin_place,York River,intra_american,origin,224,,,unmapped,No conservative country assignment yet.
+origin_place,Espírito Santo,intra_american,origin,222,,,unmapped,No conservative country assignment yet.
+origin_place,Boston,intra_american,origin,220,,,unmapped,No conservative country assignment yet.
+origin_place,Panama City,intra_american,origin,212,,,unmapped,No conservative country assignment yet.
+origin_place,"Cuba, port unspecified",intra_american,origin,204,,,unmapped,No conservative country assignment yet.
+origin_place,Philadelphia,intra_american,origin,200,,,unmapped,No conservative country assignment yet.
+origin_place,Rio São Francisco,intra_american,origin,199,,,unmapped,No conservative country assignment yet.
+origin_place,Port-au-Prince,intra_american,origin,195,,,unmapped,No conservative country assignment yet.
+origin_place,"Anguilla, port unspecified",intra_american,origin,188,,,unmapped,No conservative country assignment yet.
+origin_place,Itajaí,intra_american,origin,181,,,unmapped,No conservative country assignment yet.
+origin_place,Rappahannock,intra_american,origin,172,,,unmapped,No conservative country assignment yet.
+origin_place,Benevente,intra_american,origin,168,,,unmapped,No conservative country assignment yet.
+origin_place,Itabapoana,intra_american,origin,163,,,unmapped,No conservative country assignment yet.
+origin_place,"French Caribbean, colony unspecified",intra_american,origin,162,,,unmapped,No conservative country assignment yet.
+origin_place,São Vicente,intra_american,origin,160,,,unmapped,No conservative country assignment yet.
+origin_place,Caracas,intra_american,origin,159,,,unmapped,No conservative country assignment yet.
+origin_place,Key West,intra_american,origin,156,,,unmapped,No conservative country assignment yet.
+origin_place,"Tobago, port unspecified",intra_american,origin,153,,,unmapped,No conservative country assignment yet.
+origin_place,Morant Bay,intra_american,origin,150,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Grande do Norte,intra_american,origin,146,,,unmapped,No conservative country assignment yet.
+origin_place,Berbice,intra_american,origin,130,,,unmapped,No conservative country assignment yet.
+origin_place,Long Island,intra_american,origin,122,,,unmapped,No conservative country assignment yet.
+origin_place,Trinidad de Cuba,intra_american,origin,121,,,unmapped,No conservative country assignment yet.
+origin_place,Prize (unknown place),intra_american,origin,112,,,unmapped,No conservative country assignment yet.
+origin_place,"Gustavia, St Barthélemy",intra_american,origin,110,,,unmapped,No conservative country assignment yet.
+origin_place,New Smyrna,intra_american,origin,110,,,unmapped,No conservative country assignment yet.
+origin_place,"Rio Grande do Sul, place unspecified",intra_american,origin,110,,,unmapped,No conservative country assignment yet.
+origin_place,"USA, location unspecified",intra_american,origin,108,,,unmapped,No conservative country assignment yet.
+origin_place,Ariró,intra_american,origin,107,,,unmapped,No conservative country assignment yet.
+origin_place,"Ceará, port unspecified",intra_american,origin,104,,,unmapped,No conservative country assignment yet.
+origin_place,Rio São Francisco do Sul,intra_american,origin,103,,,unmapped,No conservative country assignment yet.
+origin_place,Campeche,intra_american,origin,95,,,unmapped,No conservative country assignment yet.
+origin_place,Ilha dos Porcos,intra_american,origin,90,,,unmapped,No conservative country assignment yet.
+origin_place,Louisville,intra_american,origin,90,,,unmapped,No conservative country assignment yet.
+origin_place,"Southeast Brazil, port unspecified",intra_american,origin,90,,,unmapped,No conservative country assignment yet.
+origin_place,"Alagoas, place unspecified",intra_american,origin,87,,,unmapped,No conservative country assignment yet.
+origin_place,Caraguatatuba,intra_american,origin,81,,,unmapped,No conservative country assignment yet.
+origin_place,North Potomac,intra_american,origin,76,,,unmapped,No conservative country assignment yet.
+origin_place,Amelia Island,intra_american,origin,73,,,unmapped,No conservative country assignment yet.
+origin_place,EstÃ¢ncia,intra_american,origin,73,,,unmapped,No conservative country assignment yet.
+origin_place,Mosquito Shore,intra_american,origin,72,,,unmapped,No conservative country assignment yet.
+origin_place,"Caribbean, port unspecified",intra_american,origin,69,,,unmapped,No conservative country assignment yet.
+origin_place,St Augustine,intra_american,origin,69,,,unmapped,No conservative country assignment yet.
+origin_place,"Maryland, port unspecified",intra_american,origin,65,,,unmapped,No conservative country assignment yet.
+origin_place,Valparaiso,intra_american,origin,65,,,unmapped,No conservative country assignment yet.
+origin_place,Santiago de Cuba,intra_american,origin,64,,,unmapped,No conservative country assignment yet.
+origin_place,Magnolia,intra_american,origin,63,,,unmapped,No conservative country assignment yet.
+origin_place,Lucea (a) St Lucea,intra_american,origin,57,,,unmapped,No conservative country assignment yet.
+origin_place,Baracoa,intra_american,origin,54,,,unmapped,No conservative country assignment yet.
+origin_place,Demerara,intra_american,origin,54,,,unmapped,No conservative country assignment yet.
+origin_place,Antonia,intra_american,origin,51,,,unmapped,No conservative country assignment yet.
+origin_place,Heneague,intra_american,origin,51,,,unmapped,No conservative country assignment yet.
+origin_place,Hampton,intra_american,origin,50,,,unmapped,No conservative country assignment yet.
+origin_place,Vila Viçosa,intra_american,origin,50,,,unmapped,No conservative country assignment yet.
+origin_place,St John (Virgin Islands),intra_american,origin,49,,,unmapped,No conservative country assignment yet.
+origin_place,St Marc,intra_american,origin,49,,,unmapped,No conservative country assignment yet.
+origin_place,Asunción,intra_american,origin,48,,,unmapped,No conservative country assignment yet.
+origin_place,Guarapari,intra_american,origin,48,,,unmapped,No conservative country assignment yet.
+origin_place,Santa Marta,intra_american,origin,47,,,unmapped,No conservative country assignment yet.
+origin_place,St Joseph,intra_american,origin,47,,,unmapped,No conservative country assignment yet.
+origin_place,Delaware River,intra_american,origin,46,,,unmapped,No conservative country assignment yet.
+origin_place,São João da Barra,intra_american,origin,46,,,unmapped,No conservative country assignment yet.
+origin_place,Prize (taken from Portuguese),intra_american,origin,42,,,unmapped,No conservative country assignment yet.
+origin_place,"North Carolina, port unspecified",intra_american,origin,41,,,unmapped,No conservative country assignment yet.
+origin_place,San Juan,intra_american,origin,41,,,unmapped,No conservative country assignment yet.
+origin_place,Paraíba,intra_american,origin,40,,,unmapped,No conservative country assignment yet.
+origin_place,"Sergipe, place unspecified",intra_american,origin,40,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Fear,intra_american,origin,37,,,unmapped,No conservative country assignment yet.
+origin_place,Aruba,intra_american,origin,36,,,unmapped,No conservative country assignment yet.
+origin_place,Manaus,intra_american,origin,36,,,unmapped,No conservative country assignment yet.
+origin_place,Somerset County,intra_american,origin,33,,,unmapped,No conservative country assignment yet.
+origin_place,British Leewards,intra_american,origin,32,,,unmapped,No conservative country assignment yet.
+origin_place,Piscataqua,intra_american,origin,30,,,unmapped,No conservative country assignment yet.
+origin_place,Rio de la Hacha,intra_american,origin,30,,,unmapped,No conservative country assignment yet.
+origin_place,Saba,intra_american,origin,28,,,unmapped,No conservative country assignment yet.
+origin_place,Vicksburg (MS),intra_american,origin,28,,,unmapped,No conservative country assignment yet.
+origin_place,Coro,intra_american,origin,27,,,unmapped,No conservative country assignment yet.
+origin_place,Providence Island,intra_american,origin,27,,,unmapped,No conservative country assignment yet.
+origin_place,Santa Cruz,intra_american,origin,27,,,unmapped,No conservative country assignment yet.
+origin_place,Spanish Town,intra_american,origin,27,,,unmapped,No conservative country assignment yet.
+origin_place,Perth Amboy,intra_american,origin,25,,,unmapped,No conservative country assignment yet.
+origin_place,Seized at sea by Spanish officials,intra_american,origin,25,,,unmapped,No conservative country assignment yet.
+origin_place,Taken at sea from pirates,intra_american,origin,25,,,unmapped,No conservative country assignment yet.
+origin_place,Buenos Aires,intra_american,origin,24,,,unmapped,No conservative country assignment yet.
+origin_place,Cayes (Les),intra_american,origin,23,,,unmapped,No conservative country assignment yet.
+origin_place,Alcobaça,intra_american,origin,22,,,unmapped,No conservative country assignment yet.
+origin_place,Aracaty,intra_american,origin,21,,,unmapped,No conservative country assignment yet.
+origin_place,Porto Belo,intra_american,origin,21,,,unmapped,No conservative country assignment yet.
+origin_place,Fort Dauphin,intra_american,origin,20,,,unmapped,No conservative country assignment yet.
+origin_place,Speightstown,intra_american,origin,20,,,unmapped,No conservative country assignment yet.
+origin_place,Beaufort,intra_american,origin,19,,,unmapped,No conservative country assignment yet.
+origin_place,"Spanish American Mainland, port unspecified",intra_american,origin,19,,,unmapped,No conservative country assignment yet.
+origin_place,Darien,intra_american,origin,18,,,unmapped,No conservative country assignment yet.
+origin_place,Guaratiba,intra_american,origin,17,,,unmapped,No conservative country assignment yet.
+origin_place,Ilha de Marambaia,intra_american,origin,17,,,unmapped,No conservative country assignment yet.
+origin_place,"Imfors Bay, location undetermined",intra_american,origin,17,,,unmapped,No conservative country assignment yet.
+origin_place,Portobelo,intra_american,origin,17,,,unmapped,No conservative country assignment yet.
+origin_place,Cedar Key,intra_american,origin,16,,,unmapped,No conservative country assignment yet.
+origin_place,Basse-Terre,intra_american,origin,15,,,unmapped,No conservative country assignment yet.
+origin_place,Mississippi,intra_american,origin,15,,,unmapped,No conservative country assignment yet.
+origin_place,Ilhéus,intra_american,origin,14,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Real,intra_american,origin,14,,,unmapped,No conservative country assignment yet.
+origin_place,Salem,intra_american,origin,14,,,unmapped,No conservative country assignment yet.
+origin_place,Antonina,intra_american,origin,13,,,unmapped,No conservative country assignment yet.
+origin_place,"Bahamas, port unspecified",intra_american,origin,13,,,unmapped,No conservative country assignment yet.
+origin_place,Lower James River,intra_american,origin,13,,,unmapped,No conservative country assignment yet.
+origin_place,Tapajé,intra_american,origin,13,,,unmapped,No conservative country assignment yet.
+origin_place,Liverpool,intra_american,origin,12,,,unmapped,No conservative country assignment yet.
+origin_place,Slaves rescued at sea from a shipwreck,intra_american,origin,12,,,unmapped,No conservative country assignment yet.
+origin_place,"Dutch Guianas, colony unspecified",intra_american,origin,11,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Doce,intra_american,origin,11,,,unmapped,No conservative country assignment yet.
+origin_place,Rio das Ostras,intra_american,origin,11,,,unmapped,No conservative country assignment yet.
+origin_place,Turk's Island,intra_american,origin,11,,,unmapped,No conservative country assignment yet.
+origin_place,Woodville,intra_american,origin,11,,,unmapped,No conservative country assignment yet.
+origin_place,Nantucket,intra_american,origin,10,,,unmapped,No conservative country assignment yet.
+origin_place,"Spanish Circum-Caribbean,unspecified",intra_american,origin,10,,,unmapped,No conservative country assignment yet.
+origin_place,"Africa, port unspecified",intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_place,Carolinas,intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_place,Puerto Principe,intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_place,Pôrto Seguro,intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_place,Saint-Marc,intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_place,Indian River,intra_american,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,Itapocorói,intra_american,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,"Kalas, location undetermined",intra_american,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,Leopoldina,intra_american,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,"Venezuela, port unspecified",intra_american,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,Aldeia Velha,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,"British Honduras, port unspecified",intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,Fort-Royale,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,Martha Brae,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,Nassau,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,New England,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,New London,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,"Pennsylvania, port unspecified",intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_place,Angra dos Reis e Mangaratiba,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Guaratuba,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Humaitá,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Ipanema,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Patacho,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Pelotas,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Pontchartrain,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,South Potomac,intra_american,origin,6,,,unmapped,No conservative country assignment yet.
+origin_place,Brazos Santiago,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Campos e Macaé,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Canavieiras,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Charlestown,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,La Salle,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Môle Saint Nicolas,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Port Leon,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Tortuga,intra_american,origin,5,,,unmapped,No conservative country assignment yet.
+origin_place,Itacuruçá,intra_american,origin,4,,,unmapped,No conservative country assignment yet.
+origin_place,London,intra_american,origin,4,,,unmapped,No conservative country assignment yet.
+origin_place,"Spanish Town, Virgin Islands",intra_american,origin,4,,,unmapped,No conservative country assignment yet.
+origin_place,Accomac,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Annapolis,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Baía de Sepetiba,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Boaventura,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Buceo,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Cananéia,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Cerrito,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Exuma,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Itaipu,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Jerumirim e Mangaratiba,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Laranjeiras,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Newport,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Nova Scotia,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Prado,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Paraíba do Norte,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,South Keys,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Valença,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Vila Nova,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_place,Bristol,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Cananéia e Iguape,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Curupaity,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,"Delaware, port unspecified",intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,"Grande-Terre, port unspecified",intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,"Great Britain, place unspecified",intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Ilha das Palmas,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Isla Saona,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Maguay,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Portsmouth (NH),intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Smithfield,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,"St Lucia, port unspecified",intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_place,Annotto Bay,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Belmonte,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,"California, place unspecified",intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,"Caravelas, Mucuri e Vitória",intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Colonia de Sacramento,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Concepción del Uruguay,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Fazenda do Largo,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Fernando de Noronha,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Gualeguay,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Guarainha,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Indianola,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,"New Hampshire, port unspecified",intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Patuxent,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Piúma,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Plymouth,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Port Lavaca,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,"Scotland, place unspecified",intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Vila Bela,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_place,Warren,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_region,Jamaica,intra_american,origin,133201,JAM,Jamaica,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Southeast Brazil,intra_american,origin,83969,BRA,Brazil,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Amazonia,intra_american,origin,73215,BRA,Brazil,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Dutch Caribbean,intra_american,origin,44712,,,unmapped,No conservative country assignment yet.
+origin_region,Bahia,intra_american,origin,41548,BRA,Brazil,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Barbados,intra_american,origin,41454,BRB,Barbados,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Virginia,intra_american,origin,33186,USA,United States,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Dominica,intra_american,origin,23615,DMA,Dominica,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Gulf coast,intra_american,origin,19090,,,unmapped,No conservative country assignment yet.
+origin_region,Pernambuco,intra_american,origin,18356,BRA,Brazil,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Danish West Indies,intra_american,origin,17504,VIR,U.S. Virgin Islands,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,South Carolina,intra_american,origin,14363,USA,United States,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Maryland,intra_american,origin,12864,USA,United States,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Other British Caribbean,intra_american,origin,12393,,,unmapped,No conservative country assignment yet.
+origin_region,Other Brazil,intra_american,origin,10212,,,unmapped,No conservative country assignment yet.
+origin_region,Antigua,intra_american,origin,9035,ATG,Antigua and Barbuda,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Puerto Rico,intra_american,origin,8523,PRI,Puerto Rico,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,St Kitts,intra_american,origin,8034,KNA,Saint Kitts and Nevis,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Florida,intra_american,origin,6947,USA,United States,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Grenada,intra_american,origin,6303,GRD,Grenada,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Americas,intra_american,origin,5495,,,unmapped,No conservative country assignment yet.
+origin_region,Rio de la Plata,intra_american,origin,3890,ARG,Argentina,region_approx,Intra-American purchase region mapped to modern country or territory.
+origin_region,Saint-Domingue,intra_american,origin,3667,HTI,Haiti,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Texas,intra_american,origin,3250,USA,United States,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Other Caribbean,intra_american,origin,3021,,,unmapped,No conservative country assignment yet.
+origin_region,St Vincent,intra_american,origin,2060,,,unmapped,No conservative country assignment yet.
+origin_region,St Barthélemy (Sweden),intra_american,origin,1645,,,unmapped,No conservative country assignment yet.
+origin_region,Hispaniola,intra_american,origin,1567,,,unmapped,No conservative country assignment yet.
+origin_region,Cuba,intra_american,origin,1529,CUB,Cuba,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Dutch Guianas,intra_american,origin,1451,,,unmapped,No conservative country assignment yet.
+origin_region,Spanish Circum-Caribbean,intra_american,origin,1415,,,unmapped,No conservative country assignment yet.
+origin_region,Georgia,intra_american,origin,1398,USA,United States,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Bahamas,intra_american,origin,1287,,,unmapped,No conservative country assignment yet.
+origin_region,Trinidad,intra_american,origin,1283,,,unmapped,No conservative country assignment yet.
+origin_region,Tortola,intra_american,origin,1137,,,unmapped,No conservative country assignment yet.
+origin_region,Martinique,intra_american,origin,1123,,,unmapped,No conservative country assignment yet.
+origin_region,Guadeloupe,intra_american,origin,1071,,,unmapped,No conservative country assignment yet.
+origin_region,New York,intra_american,origin,613,,,unmapped,No conservative country assignment yet.
+origin_region,Rhode Island,intra_american,origin,558,,,unmapped,No conservative country assignment yet.
+origin_region,Spanish Americas,intra_american,origin,547,,,unmapped,No conservative country assignment yet.
+origin_region,Montserrat,intra_american,origin,533,,,unmapped,No conservative country assignment yet.
+origin_region,Nevis,intra_american,origin,486,,,unmapped,No conservative country assignment yet.
+origin_region,Massachusetts,intra_american,origin,250,,,unmapped,No conservative country assignment yet.
+origin_region,Non-geographical,intra_american,origin,216,,,unmapped,No conservative country assignment yet.
+origin_region,Pacific Central America,intra_american,origin,212,,,unmapped,No conservative country assignment yet.
+origin_region,Pennsylvania,intra_american,origin,207,,,unmapped,No conservative country assignment yet.
+origin_region,Anguilla,intra_american,origin,188,,,unmapped,No conservative country assignment yet.
+origin_region,Other French Caribbean,intra_american,origin,162,,,unmapped,No conservative country assignment yet.
+origin_region,Tobago,intra_american,origin,153,,,unmapped,No conservative country assignment yet.
+origin_region,Other North America,intra_american,origin,124,,,unmapped,No conservative country assignment yet.
+origin_region,Kentucky,intra_american,origin,92,,,unmapped,No conservative country assignment yet.
+origin_region,North Carolina,intra_american,origin,80,,,unmapped,No conservative country assignment yet.
+origin_region,British Honduras,intra_american,origin,79,BLZ,Belize,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,New Jersey,intra_american,origin,71,,,unmapped,No conservative country assignment yet.
+origin_region,Chile,intra_american,origin,65,,,unmapped,No conservative country assignment yet.
+origin_region,British Guiana,intra_american,origin,54,GUY,Guyana,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,New Hampshire,intra_american,origin,33,,,unmapped,No conservative country assignment yet.
+origin_region,Other Spanish Caribbean,intra_american,origin,27,,,unmapped,No conservative country assignment yet.
+origin_region,England and Wales,intra_american,origin,18,,,unmapped,No conservative country assignment yet.
+origin_region,Other Africa,intra_american,origin,9,,,unmapped,No conservative country assignment yet.
+origin_region,Connecticut,intra_american,origin,7,,,unmapped,No conservative country assignment yet.
+origin_region,Canada,intra_american,origin,3,,,unmapped,No conservative country assignment yet.
+origin_region,Delaware,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_region,Great Britain,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_region,St Lucia,intra_american,origin,2,,,unmapped,No conservative country assignment yet.
+origin_region,California,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+origin_region,Scotland,intra_american,origin,1,,,unmapped,No conservative country assignment yet.
+dest_broad,Caribbean,trans_atlantic3,destination,4424586,,,unmapped,No conservative country assignment yet.
+dest_broad,Brazil,trans_atlantic3,destination,3195354,,,unmapped,No conservative country assignment yet.
+dest_broad,Spanish Mainland Americas,trans_atlantic3,destination,479923,,,unmapped,No conservative country assignment yet.
+dest_broad,Mainland North America,trans_atlantic3,destination,306322,,,unmapped,No conservative country assignment yet.
+dest_broad,Other,trans_atlantic3,destination,153198,,,unmapped,No conservative country assignment yet.
+dest_broad,Africa,trans_atlantic3,destination,147588,,,unmapped,No conservative country assignment yet.
+dest_broad,Europe,trans_atlantic3,destination,7862,,,unmapped,No conservative country assignment yet.
+dest_port,"Bahia, place unspecified",trans_atlantic3,destination,1213507,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Rio de Janeiro,trans_atlantic3,destination,1104279,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Kingston,trans_atlantic3,destination,460064,JAM,Jamaica,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Jamaica, place unspecified",trans_atlantic3,destination,450286,JAM,Jamaica,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Pernambuco, place unspecified",trans_atlantic3,destination,420136,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Barbados, place unspecified",trans_atlantic3,destination,371809,BRB,Barbados,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Cap Français,trans_atlantic3,destination,347808,HTI,Haiti,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Havana,trans_atlantic3,destination,326602,CUB,Cuba,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Suriname, place unspecified",trans_atlantic3,destination,220295,SUR,Suriname,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Cuba, port unspecified",trans_atlantic3,destination,201879,CUB,Cuba,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Martinique, place unspecified",trans_atlantic3,destination,174544,MTQ,Martinique,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Cartagena,trans_atlantic3,destination,174273,COL,Colombia,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Charleston,trans_atlantic3,destination,146934,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Grenada, place unspecified",trans_atlantic3,destination,122964,GRD,Grenada,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"St Kitts, port unspecified",trans_atlantic3,destination,119627,KNA,Saint Kitts and Nevis,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Saint John (Antigua),trans_atlantic3,destination,111353,ATG,Antigua and Barbuda,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Curaçao,trans_atlantic3,destination,110619,CUW,Curacao,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Port-au-Prince,trans_atlantic3,destination,110340,HTI,Haiti,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Dominica, place unspecified",trans_atlantic3,destination,102261,DMA,Dominica,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Freetown,trans_atlantic3,destination,95784,SLE,Sierra Leone,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Maranhão,trans_atlantic3,destination,93858,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Americas, port unspecified",trans_atlantic3,destination,86257,,,unmapped,No conservative country assignment yet.
+dest_port,Léogane,trans_atlantic3,destination,76325,HTI,Haiti,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Demerara,trans_atlantic3,destination,73390,GUY,Guyana,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"New Spain, port unspecified",trans_atlantic3,destination,67561,,,unmapped,No conservative country assignment yet.
+dest_port,Veracruz,trans_atlantic3,destination,66537,MEX,Mexico,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Buenos Aires,trans_atlantic3,destination,63932,ARG,Argentina,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Rio de Janeiro, Sao Paulo, Santa Catarina",trans_atlantic3,destination,60430,,,unmapped,No conservative country assignment yet.
+dest_port,Cayes (Les),trans_atlantic3,destination,58677,,,unmapped,No conservative country assignment yet.
+dest_port,"St Vincent, port unspecified",trans_atlantic3,destination,55562,,,unmapped,No conservative country assignment yet.
+dest_port,Santiago de Cuba,trans_atlantic3,destination,50014,CUB,Cuba,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Saint-Marc,trans_atlantic3,destination,49734,,,unmapped,No conservative country assignment yet.
+dest_port,Basse-Terre,trans_atlantic3,destination,49564,GLP,Guadeloupe,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Campos,trans_atlantic3,destination,47993,,,unmapped,No conservative country assignment yet.
+dest_port,St Thomas,trans_atlantic3,destination,45260,,,unmapped,No conservative country assignment yet.
+dest_port,Montego Bay,trans_atlantic3,destination,43261,,,unmapped,No conservative country assignment yet.
+dest_port,Pará,trans_atlantic3,destination,42143,,,unmapped,No conservative country assignment yet.
+dest_port,St Eustatius,trans_atlantic3,destination,38944,,,unmapped,No conservative country assignment yet.
+dest_port,"Saint-Domingue, then Haiti, port unspecified",trans_atlantic3,destination,36234,HTI,Haiti,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Rio de Janeiro province,trans_atlantic3,destination,31622,,,unmapped,No conservative country assignment yet.
+dest_port,York River,trans_atlantic3,destination,31169,,,unmapped,No conservative country assignment yet.
+dest_port,Trinidad de Cuba,trans_atlantic3,destination,31099,,,unmapped,No conservative country assignment yet.
+dest_port,"Spanish Circum-Caribbean,unspecified",trans_atlantic3,destination,28494,,,unmapped,No conservative country assignment yet.
+dest_port,São Sebastião,trans_atlantic3,destination,28405,,,unmapped,No conservative country assignment yet.
+dest_port,Macaé,trans_atlantic3,destination,26281,,,unmapped,No conservative country assignment yet.
+dest_port,"Iberian World, port unspecified",trans_atlantic3,destination,25795,,,unmapped,No conservative country assignment yet.
+dest_port,St Croix,trans_atlantic3,destination,25723,,,unmapped,No conservative country assignment yet.
+dest_port,"British Caribbean, colony unspecified",trans_atlantic3,destination,25403,,,unmapped,No conservative country assignment yet.
+dest_port,"Puerto Rico, port unspecified",trans_atlantic3,destination,25152,PRI,Puerto Rico,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Montevideo,trans_atlantic3,destination,24925,URY,Uruguay,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Newcastle (Nevis),trans_atlantic3,destination,24820,,,unmapped,No conservative country assignment yet.
+dest_port,"Trinidad, port unspecified",trans_atlantic3,destination,24698,,,unmapped,No conservative country assignment yet.
+dest_port,St Helena,trans_atlantic3,destination,24423,,,unmapped,No conservative country assignment yet.
+dest_port,Cardenas,trans_atlantic3,destination,23334,,,unmapped,No conservative country assignment yet.
+dest_port,Caribbean (colony unspecified),trans_atlantic3,destination,22830,,,unmapped,No conservative country assignment yet.
+dest_port,Ilha Grande,trans_atlantic3,destination,22600,,,unmapped,No conservative country assignment yet.
+dest_port,"Danish West Indies, colony unspecified",trans_atlantic3,destination,22442,,,unmapped,No conservative country assignment yet.
+dest_port,Cayenne,trans_atlantic3,destination,22204,,,unmapped,No conservative country assignment yet.
+dest_port,"Virginia, port unspecified",trans_atlantic3,destination,22035,,,unmapped,No conservative country assignment yet.
+dest_port,Matanzas,trans_atlantic3,destination,21486,,,unmapped,No conservative country assignment yet.
+dest_port,"Americas, region unspecified",trans_atlantic3,destination,20484,,,unmapped,No conservative country assignment yet.
+dest_port,Essequibo,trans_atlantic3,destination,18125,,,unmapped,No conservative country assignment yet.
+dest_port,"Tortola, port unspecified",trans_atlantic3,destination,17664,,,unmapped,No conservative country assignment yet.
+dest_port,"Cuba, south coast",trans_atlantic3,destination,16526,,,unmapped,No conservative country assignment yet.
+dest_port,Savannah,trans_atlantic3,destination,16264,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Berbice,trans_atlantic3,destination,15353,,,unmapped,No conservative country assignment yet.
+dest_port,"Spanish Americas, port unspecified",trans_atlantic3,destination,15038,,,unmapped,No conservative country assignment yet.
+dest_port,"French Caribbean, colony unspecified",trans_atlantic3,destination,14831,,,unmapped,No conservative country assignment yet.
+dest_port,Bahia Honda,trans_atlantic3,destination,14730,,,unmapped,No conservative country assignment yet.
+dest_port,Zion Hill,trans_atlantic3,destination,14431,,,unmapped,No conservative country assignment yet.
+dest_port,Sagua,trans_atlantic3,destination,13814,,,unmapped,No conservative country assignment yet.
+dest_port,La Guaira,trans_atlantic3,destination,13744,VEN,Venezuela,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,"Montserrat, port unspecified",trans_atlantic3,destination,13638,,,unmapped,No conservative country assignment yet.
+dest_port,San Domingo (a) Santo Domingo,trans_atlantic3,destination,13432,,,unmapped,No conservative country assignment yet.
+dest_port,"Guadeloupe, place unspecified",trans_atlantic3,destination,13010,GLP,Guadeloupe,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Cabanas,trans_atlantic3,destination,12798,,,unmapped,No conservative country assignment yet.
+dest_port,Upper James River,trans_atlantic3,destination,12632,,,unmapped,No conservative country assignment yet.
+dest_port,Cabo Frio,trans_atlantic3,destination,12285,,,unmapped,No conservative country assignment yet.
+dest_port,"Maryland, port unspecified",trans_atlantic3,destination,12036,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Ponta Negro,trans_atlantic3,destination,12000,,,unmapped,No conservative country assignment yet.
+dest_port,"Brazil, place unspecified",trans_atlantic3,destination,11929,,,unmapped,No conservative country assignment yet.
+dest_port,Puerto Padre,trans_atlantic3,destination,11150,,,unmapped,No conservative country assignment yet.
+dest_port,"Bahamas, port unspecified",trans_atlantic3,destination,11135,,,unmapped,No conservative country assignment yet.
+dest_port,Santos,trans_atlantic3,destination,10676,,,unmapped,No conservative country assignment yet.
+dest_port,Cape of Good Hope,trans_atlantic3,destination,10494,,,unmapped,No conservative country assignment yet.
+dest_port,Rappahannock,trans_atlantic3,destination,10244,,,unmapped,No conservative country assignment yet.
+dest_port,Isla de Pinas,trans_atlantic3,destination,9392,,,unmapped,No conservative country assignment yet.
+dest_port,"Hispaniola, unspecified",trans_atlantic3,destination,9231,,,unmapped,No conservative country assignment yet.
+dest_port,"St Lucia, port unspecified",trans_atlantic3,destination,8835,,,unmapped,No conservative country assignment yet.
+dest_port,Mariel,trans_atlantic3,destination,8596,,,unmapped,No conservative country assignment yet.
+dest_port,Portobelo,trans_atlantic3,destination,8302,PAN,Panama,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Port Royal,trans_atlantic3,destination,7990,,,unmapped,No conservative country assignment yet.
+dest_port,"Antigua, place unspecified",trans_atlantic3,destination,7347,ATG,Antigua and Barbuda,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,New York,trans_atlantic3,destination,7209,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Taipu,trans_atlantic3,destination,6388,,,unmapped,No conservative country assignment yet.
+dest_port,Caracas,trans_atlantic3,destination,6356,,,unmapped,No conservative country assignment yet.
+dest_port,"Cuba, west coast",trans_atlantic3,destination,5679,,,unmapped,No conservative country assignment yet.
+dest_port,Petit-GoÃ¢ve,trans_atlantic3,destination,5156,,,unmapped,No conservative country assignment yet.
+dest_port,Banes,trans_atlantic3,destination,5105,,,unmapped,No conservative country assignment yet.
+dest_port,Liberia,trans_atlantic3,destination,5081,,,unmapped,No conservative country assignment yet.
+dest_port,Margarita,trans_atlantic3,destination,5065,,,unmapped,No conservative country assignment yet.
+dest_port,Paraíba,trans_atlantic3,destination,5004,,,unmapped,No conservative country assignment yet.
+dest_port,Catuamo and Maria Farinha,trans_atlantic3,destination,4746,,,unmapped,No conservative country assignment yet.
+dest_port,"Spanish Caribbean, unspecified",trans_atlantic3,destination,4711,,,unmapped,No conservative country assignment yet.
+dest_port,Paramaribo,trans_atlantic3,destination,4607,,,unmapped,No conservative country assignment yet.
+dest_port,Port-de-Paix,trans_atlantic3,destination,4289,,,unmapped,No conservative country assignment yet.
+dest_port,Paranaguá,trans_atlantic3,destination,4253,,,unmapped,No conservative country assignment yet.
+dest_port,Savanna la Mar,trans_atlantic3,destination,4233,,,unmapped,No conservative country assignment yet.
+dest_port,Santa Marta,trans_atlantic3,destination,4037,,,unmapped,No conservative country assignment yet.
+dest_port,Mangaratiba,trans_atlantic3,destination,3949,,,unmapped,No conservative country assignment yet.
+dest_port,New Orleans,trans_atlantic3,destination,3816,USA,United States,exact_port,Specific intra-American destination port mapped to modern country or territory.
+dest_port,Lisbon,trans_atlantic3,destination,3749,,,unmapped,No conservative country assignment yet.
+dest_port,Baía de Sepetiba,trans_atlantic3,destination,3522,,,unmapped,No conservative country assignment yet.
+dest_port,Maricá,trans_atlantic3,destination,3471,,,unmapped,No conservative country assignment yet.
+dest_port,Cabo de Búzios,trans_atlantic3,destination,3350,,,unmapped,No conservative country assignment yet.
+dest_port,Patuxent,trans_atlantic3,destination,3333,,,unmapped,No conservative country assignment yet.
+dest_port,Guanimar,trans_atlantic3,destination,3321,,,unmapped,No conservative country assignment yet.
+dest_port,"South Carolina, place unspecified",trans_atlantic3,destination,3170,,,unmapped,No conservative country assignment yet.
+dest_port,Rio São Jeso,trans_atlantic3,destination,3030,,,unmapped,No conservative country assignment yet.
+dest_port,Canasí,trans_atlantic3,destination,3010,,,unmapped,No conservative country assignment yet.
+dest_port,Cul-de-Sac,trans_atlantic3,destination,2965,,,unmapped,No conservative country assignment yet.
+dest_port,La Balise,trans_atlantic3,destination,2932,,,unmapped,No conservative country assignment yet.
+dest_port,Cadiz,trans_atlantic3,destination,2820,,,unmapped,No conservative country assignment yet.
+dest_port,Annapolis,trans_atlantic3,destination,2810,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Trujillo, Honduras",trans_atlantic3,destination,2805,,,unmapped,No conservative country assignment yet.
+dest_port,Nassau,trans_atlantic3,destination,2663,,,unmapped,No conservative country assignment yet.
+dest_port,Port Maria,trans_atlantic3,destination,2521,,,unmapped,No conservative country assignment yet.
+dest_port,Jacmel,trans_atlantic3,destination,2519,,,unmapped,No conservative country assignment yet.
+dest_port,Boston,trans_atlantic3,destination,2467,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,"Dutch Guianas, colony unspecified",trans_atlantic3,destination,2457,,,unmapped,No conservative country assignment yet.
+dest_port,Ilha de Marambaia,trans_atlantic3,destination,2446,,,unmapped,No conservative country assignment yet.
+dest_port,Bermuda Hundred,trans_atlantic3,destination,2390,,,unmapped,No conservative country assignment yet.
+dest_port,"Amazonia, port unspecified",trans_atlantic3,destination,2377,,,unmapped,No conservative country assignment yet.
+dest_port,Falmouth (Jam),trans_atlantic3,destination,2341,,,unmapped,No conservative country assignment yet.
+dest_port,"Rhode Island, port unspecified",trans_atlantic3,destination,2316,,,unmapped,No conservative country assignment yet.
+dest_port,"Florida, port unspecified",trans_atlantic3,destination,2296,,,unmapped,No conservative country assignment yet.
+dest_port,Black River,trans_atlantic3,destination,2235,,,unmapped,No conservative country assignment yet.
+dest_port,"Rio de la Plata, port unspecified",trans_atlantic3,destination,2063,,,unmapped,No conservative country assignment yet.
+dest_port,Lucea (a) St Lucea,trans_atlantic3,destination,2031,,,unmapped,No conservative country assignment yet.
+dest_port,Luanda,trans_atlantic3,destination,2002,,,unmapped,No conservative country assignment yet.
+dest_port,"Rio Grande do Sul, place unspecified",trans_atlantic3,destination,1960,,,unmapped,No conservative country assignment yet.
+dest_port,Guatemala,trans_atlantic3,destination,1958,,,unmapped,No conservative country assignment yet.
+dest_port,Ocoa,trans_atlantic3,destination,1817,,,unmapped,No conservative country assignment yet.
+dest_port,"USA, location unspecified",trans_atlantic3,destination,1817,,,unmapped,No conservative country assignment yet.
+dest_port,Louisiana,trans_atlantic3,destination,1813,,,unmapped,No conservative country assignment yet.
+dest_port,Martha Brae,trans_atlantic3,destination,1764,,,unmapped,No conservative country assignment yet.
+dest_port,"Magari, Manzanillo",trans_atlantic3,destination,1760,,,unmapped,No conservative country assignment yet.
+dest_port,St Maarten,trans_atlantic3,destination,1688,,,unmapped,No conservative country assignment yet.
+dest_port,Ubatuba,trans_atlantic3,destination,1679,,,unmapped,No conservative country assignment yet.
+dest_port,Cumana,trans_atlantic3,destination,1617,,,unmapped,No conservative country assignment yet.
+dest_port,San Juan,trans_atlantic3,destination,1611,PRI,Puerto Rico,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,San Juan de los Remedios,trans_atlantic3,destination,1610,,,unmapped,No conservative country assignment yet.
+dest_port,Antonia,trans_atlantic3,destination,1599,,,unmapped,No conservative country assignment yet.
+dest_port,Colonia de Sacramento,trans_atlantic3,destination,1582,,,unmapped,No conservative country assignment yet.
+dest_port,Cienfuegos,trans_atlantic3,destination,1547,,,unmapped,No conservative country assignment yet.
+dest_port,South Potomac,trans_atlantic3,destination,1517,,,unmapped,No conservative country assignment yet.
+dest_port,"St Barthélemy, port unspecified",trans_atlantic3,destination,1489,,,unmapped,No conservative country assignment yet.
+dest_port,Rio de la Hacha,trans_atlantic3,destination,1472,,,unmapped,No conservative country assignment yet.
+dest_port,Copacabana,trans_atlantic3,destination,1436,,,unmapped,No conservative country assignment yet.
+dest_port,Key West,trans_atlantic3,destination,1431,,,unmapped,No conservative country assignment yet.
+dest_port,"North Carolina, port unspecified",trans_atlantic3,destination,1414,,,unmapped,No conservative country assignment yet.
+dest_port,Philadelphia,trans_atlantic3,destination,1379,,,unmapped,No conservative country assignment yet.
+dest_port,Saint-Pierre,trans_atlantic3,destination,1377,,,unmapped,No conservative country assignment yet.
+dest_port,"Matanzas province, south",trans_atlantic3,destination,1370,,,unmapped,No conservative country assignment yet.
+dest_port,Biloxi,trans_atlantic3,destination,1355,,,unmapped,No conservative country assignment yet.
+dest_port,Parati,trans_atlantic3,destination,1250,,,unmapped,No conservative country assignment yet.
+dest_port,Baía de Botafogo,trans_atlantic3,destination,1197,,,unmapped,No conservative country assignment yet.
+dest_port,St Augustine,trans_atlantic3,destination,1191,,,unmapped,No conservative country assignment yet.
+dest_port,Spanish Town,trans_atlantic3,destination,1176,,,unmapped,No conservative country assignment yet.
+dest_port,Pointe-à-Pitre,trans_atlantic3,destination,1144,,,unmapped,No conservative country assignment yet.
+dest_port,"Southeast Brazil, port unspecified",trans_atlantic3,destination,1106,,,unmapped,No conservative country assignment yet.
+dest_port,Ilha de Itamaracá,trans_atlantic3,destination,1047,,,unmapped,No conservative country assignment yet.
+dest_port,Jérémie,trans_atlantic3,destination,1046,,,unmapped,No conservative country assignment yet.
+dest_port,Gorée,trans_atlantic3,destination,1033,,,unmapped,No conservative country assignment yet.
+dest_port,Lower James River,trans_atlantic3,destination,1000,,,unmapped,No conservative country assignment yet.
+dest_port,Mauritius (Ile de France),trans_atlantic3,destination,996,,,unmapped,No conservative country assignment yet.
+dest_port,North Potomac,trans_atlantic3,destination,966,,,unmapped,No conservative country assignment yet.
+dest_port,Canary Islands,trans_atlantic3,destination,947,,,unmapped,No conservative country assignment yet.
+dest_port,"Honduras, port unspecified",trans_atlantic3,destination,942,,,unmapped,No conservative country assignment yet.
+dest_port,"Alagoas, place unspecified",trans_atlantic3,destination,885,,,unmapped,No conservative country assignment yet.
+dest_port,Fort Dauphin,trans_atlantic3,destination,848,,,unmapped,No conservative country assignment yet.
+dest_port,"Tobago, port unspecified",trans_atlantic3,destination,837,,,unmapped,No conservative country assignment yet.
+dest_port,"British Honduras, port unspecified",trans_atlantic3,destination,830,,,unmapped,No conservative country assignment yet.
+dest_port,"Venezuela, port unspecified",trans_atlantic3,destination,828,,,unmapped,No conservative country assignment yet.
+dest_port,Nuevitas,trans_atlantic3,destination,816,,,unmapped,No conservative country assignment yet.
+dest_port,Nombre de Dios,trans_atlantic3,destination,792,,,unmapped,No conservative country assignment yet.
+dest_port,Puerto de Caballos (Puerto Cortes),trans_atlantic3,destination,790,,,unmapped,No conservative country assignment yet.
+dest_port,Mississippi,trans_atlantic3,destination,784,,,unmapped,No conservative country assignment yet.
+dest_port,Cumingsberg,trans_atlantic3,destination,741,,,unmapped,No conservative country assignment yet.
+dest_port,Osborne's Landing,trans_atlantic3,destination,730,,,unmapped,No conservative country assignment yet.
+dest_port,British Leewards,trans_atlantic3,destination,724,,,unmapped,No conservative country assignment yet.
+dest_port,São Tomé,trans_atlantic3,destination,718,,,unmapped,No conservative country assignment yet.
+dest_port,French Africa (Goree or Senegal),trans_atlantic3,destination,717,,,unmapped,No conservative country assignment yet.
+dest_port,Tenerife,trans_atlantic3,destination,707,,,unmapped,No conservative country assignment yet.
+dest_port,"Nevis, port unspecified",trans_atlantic3,destination,700,,,unmapped,No conservative country assignment yet.
+dest_port,Londontowne,trans_atlantic3,destination,693,,,unmapped,No conservative country assignment yet.
+dest_port,Annotto Bay,trans_atlantic3,destination,685,,,unmapped,No conservative country assignment yet.
+dest_port,Saint Ann's Bay,trans_atlantic3,destination,669,,,unmapped,No conservative country assignment yet.
+dest_port,Beaufort,trans_atlantic3,destination,658,USA,United States,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Caibarien,trans_atlantic3,destination,630,,,unmapped,No conservative country assignment yet.
+dest_port,Baracoa,trans_atlantic3,destination,617,,,unmapped,No conservative country assignment yet.
+dest_port,Cananéia,trans_atlantic3,destination,600,,,unmapped,No conservative country assignment yet.
+dest_port,"Georgia, port unspecified",trans_atlantic3,destination,599,,,unmapped,No conservative country assignment yet.
+dest_port,Batabanó,trans_atlantic3,destination,582,,,unmapped,No conservative country assignment yet.
+dest_port,"Senegambia and offshore Atlantic, port unspecified",trans_atlantic3,destination,563,,,unmapped,No conservative country assignment yet.
+dest_port,Dois Rios,trans_atlantic3,destination,550,,,unmapped,No conservative country assignment yet.
+dest_port,Ilha das Palmas,trans_atlantic3,destination,512,,,unmapped,No conservative country assignment yet.
+dest_port,Hampton,trans_atlantic3,destination,502,,,unmapped,No conservative country assignment yet.
+dest_port,Maceió,trans_atlantic3,destination,500,,,unmapped,No conservative country assignment yet.
+dest_port,Saint-Louis,trans_atlantic3,destination,490,,,unmapped,No conservative country assignment yet.
+dest_port,"Dutch Caribbean, colony unspecified",trans_atlantic3,destination,461,,,unmapped,No conservative country assignment yet.
+dest_port,Monte Christi,trans_atlantic3,destination,458,,,unmapped,No conservative country assignment yet.
+dest_port,"Caribbean, port unspecified",trans_atlantic3,destination,454,,,unmapped,No conservative country assignment yet.
+dest_port,"Sierra Leone, port unspecified",trans_atlantic3,destination,452,,,unmapped,No conservative country assignment yet.
+dest_port,Arcahaie,trans_atlantic3,destination,445,,,unmapped,No conservative country assignment yet.
+dest_port,"Ile de France, Mauritius",trans_atlantic3,destination,445,,,unmapped,No conservative country assignment yet.
+dest_port,Nantes,trans_atlantic3,destination,444,,,unmapped,No conservative country assignment yet.
+dest_port,Puerto de Plata,trans_atlantic3,destination,438,,,unmapped,No conservative country assignment yet.
+dest_port,Campeche,trans_atlantic3,destination,436,,,unmapped,No conservative country assignment yet.
+dest_port,"Gustavia, St Barthélemy",trans_atlantic3,destination,423,,,unmapped,No conservative country assignment yet.
+dest_port,Nottingham,trans_atlantic3,destination,400,,,unmapped,No conservative country assignment yet.
+dest_port,Portsmouth,trans_atlantic3,destination,390,,,unmapped,No conservative country assignment yet.
+dest_port,Newport,trans_atlantic3,destination,389,,,unmapped,No conservative country assignment yet.
+dest_port,Pôrto Seguro,trans_atlantic3,destination,369,,,unmapped,No conservative country assignment yet.
+dest_port,Tybee Island,trans_atlantic3,destination,358,,,unmapped,No conservative country assignment yet.
+dest_port,Bonny,trans_atlantic3,destination,356,,,unmapped,No conservative country assignment yet.
+dest_port,"Africa, port unspecified",trans_atlantic3,destination,355,,,unmapped,No conservative country assignment yet.
+dest_port,Tortuga,trans_atlantic3,destination,354,,,unmapped,No conservative country assignment yet.
+dest_port,Pensacola,trans_atlantic3,destination,353,,,unmapped,No conservative country assignment yet.
+dest_port,Santa Catarina,trans_atlantic3,destination,353,,,unmapped,No conservative country assignment yet.
+dest_port,Perth Amboy,trans_atlantic3,destination,352,,,unmapped,No conservative country assignment yet.
+dest_port,Amelia Island,trans_atlantic3,destination,351,,,unmapped,No conservative country assignment yet.
+dest_port,Môle Saint Nicolas,trans_atlantic3,destination,344,,,unmapped,No conservative country assignment yet.
+dest_port,Puerto Cabello,trans_atlantic3,destination,337,,,unmapped,No conservative country assignment yet.
+dest_port,Ilha de Lobes,trans_atlantic3,destination,325,,,unmapped,No conservative country assignment yet.
+dest_port,Maldonado,trans_atlantic3,destination,320,,,unmapped,No conservative country assignment yet.
+dest_port,Nizao,trans_atlantic3,destination,319,,,unmapped,No conservative country assignment yet.
+dest_port,Oxford,trans_atlantic3,destination,319,,,unmapped,No conservative country assignment yet.
+dest_port,Porto de Galinhas,trans_atlantic3,destination,313,,,unmapped,No conservative country assignment yet.
+dest_port,Bacuranao,trans_atlantic3,destination,309,,,unmapped,No conservative country assignment yet.
+dest_port,Hamilton (Bermuda),trans_atlantic3,destination,307,,,unmapped,No conservative country assignment yet.
+dest_port,Malembo,trans_atlantic3,destination,300,,,unmapped,No conservative country assignment yet.
+dest_port,Potomac river,trans_atlantic3,destination,288,,,unmapped,No conservative country assignment yet.
+dest_port,Santo Tomas,trans_atlantic3,destination,287,,,unmapped,No conservative country assignment yet.
+dest_port,Belém,trans_atlantic3,destination,286,BRA,Brazil,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Kingston (Demerera),trans_atlantic3,destination,284,,,unmapped,No conservative country assignment yet.
+dest_port,Orinoko,trans_atlantic3,destination,279,,,unmapped,No conservative country assignment yet.
+dest_port,Cabinda,trans_atlantic3,destination,278,,,unmapped,No conservative country assignment yet.
+dest_port,"France, place unspecified",trans_atlantic3,destination,244,,,unmapped,No conservative country assignment yet.
+dest_port,Benin,trans_atlantic3,destination,242,,,unmapped,No conservative country assignment yet.
+dest_port,Fernando Po,trans_atlantic3,destination,232,,,unmapped,No conservative country assignment yet.
+dest_port,Fort-Royale,trans_atlantic3,destination,230,MTQ,Martinique,exact_port,Specific disembarkation port mapped to modern country or territory.
+dest_port,Marie-Galante,trans_atlantic3,destination,226,,,unmapped,No conservative country assignment yet.
+dest_port,Senegal,trans_atlantic3,destination,224,,,unmapped,No conservative country assignment yet.
+dest_port,Guiana,trans_atlantic3,destination,222,,,unmapped,No conservative country assignment yet.
+dest_port,Stabroek,trans_atlantic3,destination,213,,,unmapped,No conservative country assignment yet.
+dest_port,Rio Grande do Norte,trans_atlantic3,destination,209,,,unmapped,No conservative country assignment yet.
+dest_port,Gonaïve,trans_atlantic3,destination,205,,,unmapped,No conservative country assignment yet.
+dest_port,Middletown,trans_atlantic3,destination,200,,,unmapped,No conservative country assignment yet.
+dest_port,"Gold Coast, port unspecified",trans_atlantic3,destination,194,,,unmapped,No conservative country assignment yet.
+dest_port,Delaware River,trans_atlantic3,destination,190,,,unmapped,No conservative country assignment yet.
+dest_port,Guayama,trans_atlantic3,destination,186,,,unmapped,No conservative country assignment yet.
+dest_port,Vigo,trans_atlantic3,destination,166,,,unmapped,No conservative country assignment yet.
+dest_port,San Germán,trans_atlantic3,destination,151,,,unmapped,No conservative country assignment yet.
+dest_port,Eastern New Jersey,trans_atlantic3,destination,148,,,unmapped,No conservative country assignment yet.
+dest_port,Georgetown,trans_atlantic3,destination,144,,,unmapped,No conservative country assignment yet.
+dest_port,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",trans_atlantic3,destination,140,,,unmapped,No conservative country assignment yet.
+dest_port,New Providence,trans_atlantic3,destination,140,,,unmapped,No conservative country assignment yet.
+dest_port,Casamance,trans_atlantic3,destination,138,,,unmapped,No conservative country assignment yet.
+dest_port,Nanjemoy,trans_atlantic3,destination,137,,,unmapped,No conservative country assignment yet.
+dest_port,Lower Cedar Point,trans_atlantic3,destination,132,,,unmapped,No conservative country assignment yet.
+dest_port,"British Americas, port unspecified",trans_atlantic3,destination,130,,,unmapped,No conservative country assignment yet.
+dest_port,Middelburg,trans_atlantic3,destination,130,,,unmapped,No conservative country assignment yet.
+dest_port,Morant Bay,trans_atlantic3,destination,113,,,unmapped,No conservative country assignment yet.
+dest_port,Mobile,trans_atlantic3,destination,108,,,unmapped,No conservative country assignment yet.
+dest_port,Ilha de Paquetá ,trans_atlantic3,destination,97,,,unmapped,No conservative country assignment yet.
+dest_port,"Guayana, Venezuela",trans_atlantic3,destination,96,,,unmapped,No conservative country assignment yet.
+dest_port,Borburata,trans_atlantic3,destination,93,,,unmapped,No conservative country assignment yet.
+dest_port,Seville,trans_atlantic3,destination,89,,,unmapped,No conservative country assignment yet.
+dest_port,"Portugal, port unspecified",trans_atlantic3,destination,80,,,unmapped,No conservative country assignment yet.
+dest_port,Samana,trans_atlantic3,destination,80,,,unmapped,No conservative country assignment yet.
+dest_port,New London,trans_atlantic3,destination,74,,,unmapped,No conservative country assignment yet.
+dest_port,Roanoke,trans_atlantic3,destination,72,,,unmapped,No conservative country assignment yet.
+dest_port,Elmina,trans_atlantic3,destination,71,,,unmapped,No conservative country assignment yet.
+dest_port,Mosquito Shore,trans_atlantic3,destination,69,,,unmapped,No conservative country assignment yet.
+dest_port,Le Havre,trans_atlantic3,destination,67,,,unmapped,No conservative country assignment yet.
+dest_port,Rio Pongo,trans_atlantic3,destination,64,,,unmapped,No conservative country assignment yet.
+dest_port,At sea,trans_atlantic3,destination,60,,,unmapped,No conservative country assignment yet.
+dest_port,Lagos,trans_atlantic3,destination,58,,,unmapped,No conservative country assignment yet.
+dest_port,Cape Coast Castle,trans_atlantic3,destination,45,,,unmapped,No conservative country assignment yet.
+dest_port,Accra,trans_atlantic3,destination,42,,,unmapped,No conservative country assignment yet.
+dest_port,"West Central Africa and St Helena, port unspecified",trans_atlantic3,destination,37,,,unmapped,No conservative country assignment yet.
+dest_port,Bristol,trans_atlantic3,destination,15,,,unmapped,No conservative country assignment yet.
+dest_port,Portsmouth (NH),trans_atlantic3,destination,15,,,unmapped,No conservative country assignment yet.
+dest_port,Kormantine,trans_atlantic3,destination,13,,,unmapped,No conservative country assignment yet.
+dest_port,Princes Island,trans_atlantic3,destination,5,,,unmapped,No conservative country assignment yet.
+dest_port,Bissagos,trans_atlantic3,destination,0,,,unmapped,No conservative country assignment yet.
+dest_region,Southeast Brazil,trans_atlantic3,destination,1391657,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Bahia,trans_atlantic3,destination,1220264,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Jamaica,trans_atlantic3,destination,980968,JAM,Jamaica,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Cuba,trans_atlantic3,destination,767776,CUB,Cuba,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Saint-Domingue,trans_atlantic3,destination,697289,HTI,Haiti,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Pernambuco,trans_atlantic3,destination,432840,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Spanish Circum-Caribbean,trans_atlantic3,destination,387101,,,unmapped,No conservative country assignment yet.
+dest_region,Barbados,trans_atlantic3,destination,371809,BRB,Barbados,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Dutch Guianas,trans_atlantic3,destination,261059,,,unmapped,No conservative country assignment yet.
+dest_region,Martinique,trans_atlantic3,destination,176151,MTQ,Martinique,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Dutch Caribbean,trans_atlantic3,destination,151712,,,unmapped,No conservative country assignment yet.
+dest_region,South Carolina,trans_atlantic3,destination,150762,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Amazonia,trans_atlantic3,destination,138664,BRA,Brazil,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Grenada,trans_atlantic3,destination,122964,GRD,Grenada,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Kitts,trans_atlantic3,destination,119627,KNA,Saint Kitts and Nevis,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Antigua,trans_atlantic3,destination,118700,ATG,Antigua and Barbuda,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Americas,trans_atlantic3,destination,106741,,,unmapped,No conservative country assignment yet.
+dest_region,Dominica,trans_atlantic3,destination,102261,DMA,Dominica,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Sierra Leone,trans_atlantic3,destination,96300,,,unmapped,No conservative country assignment yet.
+dest_region,Danish West Indies,trans_atlantic3,destination,93425,VIR,U.S. Virgin Islands,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Rio de la Plata,trans_atlantic3,destination,92822,ARG,Argentina,region_exact_or_admin,Intra-American destination region mapped to modern country or territory.
+dest_region,Virginia,trans_atlantic3,destination,82651,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,British Guiana,trans_atlantic3,destination,74628,GUY,Guyana,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Guadeloupe,trans_atlantic3,destination,63944,GLP,Guadeloupe,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Vincent,trans_atlantic3,destination,55562,VCT,Saint Vincent and the Grenadines,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Puerto Rico,trans_atlantic3,destination,27100,PRI,Puerto Rico,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,West Central Africa and St Helena,trans_atlantic3,destination,27040,,,unmapped,No conservative country assignment yet.
+dest_region,Other British Caribbean,trans_atlantic3,destination,26434,,,unmapped,No conservative country assignment yet.
+dest_region,Non-geographical,trans_atlantic3,destination,25855,,,unmapped,No conservative country assignment yet.
+dest_region,Hispaniola,trans_atlantic3,destination,25775,,,unmapped,No conservative country assignment yet.
+dest_region,Nevis,trans_atlantic3,destination,25520,,,unmapped,No conservative country assignment yet.
+dest_region,Trinidad,trans_atlantic3,destination,24698,TTO,Trinidad and Tobago,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Other Caribbean,trans_atlantic3,destination,23284,,,unmapped,No conservative country assignment yet.
+dest_region,French Guiana,trans_atlantic3,destination,22204,,,unmapped,No conservative country assignment yet.
+dest_region,Maryland,trans_atlantic3,destination,20826,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Tortola,trans_atlantic3,destination,17664,,,unmapped,No conservative country assignment yet.
+dest_region,Georgia,trans_atlantic3,destination,17221,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Tobago,trans_atlantic3,destination,15268,,,unmapped,No conservative country assignment yet.
+dest_region,Spanish Americas,trans_atlantic3,destination,15038,,,unmapped,No conservative country assignment yet.
+dest_region,Other French Caribbean,trans_atlantic3,destination,14831,,,unmapped,No conservative country assignment yet.
+dest_region,Bahamas,trans_atlantic3,destination,13938,BHS,Bahamas,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Montserrat,trans_atlantic3,destination,13638,,,unmapped,No conservative country assignment yet.
+dest_region,East Africa and Indian Ocean islands,trans_atlantic3,destination,11935,,,unmapped,No conservative country assignment yet.
+dest_region,Other Brazil,trans_atlantic3,destination,11929,,,unmapped,No conservative country assignment yet.
+dest_region,Gulf coast,trans_atlantic3,destination,10808,USA,United States,region_exact_or_admin,Intra-American destination region mapped to modern country or territory.
+dest_region,St Lucia,trans_atlantic3,destination,8835,,,unmapped,No conservative country assignment yet.
+dest_region,New York,trans_atlantic3,destination,7209,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Florida,trans_atlantic3,destination,5622,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Codes without labels,trans_atlantic3,destination,5434,,,unmapped,No conservative country assignment yet.
+dest_region,Windward Coast,trans_atlantic3,destination,5081,,,unmapped,No conservative country assignment yet.
+dest_region,Senegambia and offshore Atlantic,trans_atlantic3,destination,4819,,,unmapped,No conservative country assignment yet.
+dest_region,Other Spanish Caribbean,trans_atlantic3,destination,4711,,,unmapped,No conservative country assignment yet.
+dest_region,Portugal,trans_atlantic3,destination,3887,,,unmapped,No conservative country assignment yet.
+dest_region,Spain,trans_atlantic3,destination,3075,,,unmapped,No conservative country assignment yet.
+dest_region,Rhode Island,trans_atlantic3,destination,2705,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Massachusetts,trans_atlantic3,destination,2467,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,St Barthélemy (Sweden),trans_atlantic3,destination,1912,,,unmapped,No conservative country assignment yet.
+dest_region,North Carolina,trans_atlantic3,destination,1876,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Other North America,trans_atlantic3,destination,1817,,,unmapped,No conservative country assignment yet.
+dest_region,Bight of Biafra and Gulf of Guinea islands,trans_atlantic3,destination,1451,,,unmapped,No conservative country assignment yet.
+dest_region,Pennsylvania,trans_atlantic3,destination,1379,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,British Honduras,trans_atlantic3,destination,899,BLZ,Belize,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,France,trans_atlantic3,destination,755,,,unmapped,No conservative country assignment yet.
+dest_region,New Jersey,trans_atlantic3,destination,690,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Gold Coast,trans_atlantic3,destination,365,,,unmapped,No conservative country assignment yet.
+dest_region,Other Africa,trans_atlantic3,destination,355,,,unmapped,No conservative country assignment yet.
+dest_region,Connecticut,trans_atlantic3,destination,274,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+dest_region,Bight of Benin,trans_atlantic3,destination,242,,,unmapped,No conservative country assignment yet.
+dest_region,British Americas,trans_atlantic3,destination,130,,,unmapped,No conservative country assignment yet.
+dest_region,Netherlands,trans_atlantic3,destination,130,,,unmapped,No conservative country assignment yet.
+dest_region,England and Wales,trans_atlantic3,destination,15,,,unmapped,No conservative country assignment yet.
+dest_region,New Hampshire,trans_atlantic3,destination,15,USA,United States,region_exact_or_admin,Disembarkation region mapped to modern country or territory.
+origin_broad,Africa,trans_atlantic3,origin,8994647,,,unmapped,No conservative country assignment yet.
+origin_broad,Caribbean,trans_atlantic3,origin,1229,,,unmapped,No conservative country assignment yet.
+origin_broad,Other,trans_atlantic3,origin,444,,,unmapped,No conservative country assignment yet.
+origin_broad,Europe,trans_atlantic3,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,"Africa, port unspecified",trans_atlantic3,origin,1586297,,,unmapped,No conservative country assignment yet.
+origin_place,Luanda,trans_atlantic3,origin,1255571,AGO,Angola,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"West Central Africa and St Helena, port unspecified",trans_atlantic3,origin,584333,,,unmapped,No conservative country assignment yet.
+origin_place,"Costa da Mina, place unspecified",trans_atlantic3,origin,582779,,,unmapped,No conservative country assignment yet.
+origin_place,Bonny,trans_atlantic3,origin,363604,NGA,Nigeria,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"Whydah, Ouidah",trans_atlantic3,origin,345800,BEN,Benin,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Benguela,trans_atlantic3,origin,343171,AGO,Angola,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Cabinda,trans_atlantic3,origin,340381,AGO,Angola,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"Gold Coast, port unspecified",trans_atlantic3,origin,279246,,,unmapped,No conservative country assignment yet.
+origin_place,Calabar,trans_atlantic3,origin,219730,NGA,Nigeria,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Malembo,trans_atlantic3,origin,178089,AGO,Angola,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Mozambique,trans_atlantic3,origin,174352,MOZ,Mozambique,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Anomabu,trans_atlantic3,origin,145367,GHA,Ghana,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Congo River,trans_atlantic3,origin,118347,COG,Republic of the Congo,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Loango,trans_atlantic3,origin,103562,COG,Republic of the Congo,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Gambia,trans_atlantic3,origin,102472,GMB,Gambia,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Cape Coast Castle,trans_atlantic3,origin,102387,GHA,Ghana,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Quilimane,trans_atlantic3,origin,101928,MOZ,Mozambique,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Ambriz,trans_atlantic3,origin,93851,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Verde Islands,trans_atlantic3,origin,93535,CPV,Cabo Verde,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"Lagos, Onim",trans_atlantic3,origin,87706,NGA,Nigeria,exact_place,Specific embarkation place mapped to modern country.
+origin_place,São Tomé,trans_atlantic3,origin,85043,STP,Sao Tome and Principe,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Congo North,trans_atlantic3,origin,84014,,,unmapped,No conservative country assignment yet.
+origin_place,Elmina,trans_atlantic3,origin,80878,GHA,Ghana,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Sierra Leone estuary,trans_atlantic3,origin,74751,SLE,Sierra Leone,exact_place,Specific embarkation place mapped to modern country.
+origin_place,New Calabar,trans_atlantic3,origin,74385,,,unmapped,No conservative country assignment yet.
+origin_place,"Windward Coast, place unspecified",trans_atlantic3,origin,74151,,,unmapped,No conservative country assignment yet.
+origin_place,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",trans_atlantic3,origin,66662,,,unmapped,No conservative country assignment yet.
+origin_place,Ardra,trans_atlantic3,origin,64973,BEN,Benin,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"Bight of Benin, place unspecified",trans_atlantic3,origin,64842,,,unmapped,No conservative country assignment yet.
+origin_place,Saint-Louis,trans_atlantic3,origin,58657,,,unmapped,No conservative country assignment yet.
+origin_place,Bissau,trans_atlantic3,origin,53783,GNB,Guinea-Bissau,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"Senegambia and offshore Atlantic, port unspecified",trans_atlantic3,origin,49885,,,unmapped,No conservative country assignment yet.
+origin_place,"Gold Coast, Fr definition",trans_atlantic3,origin,49350,,,unmapped,No conservative country assignment yet.
+origin_place,Porto Novo,trans_atlantic3,origin,46666,,,unmapped,No conservative country assignment yet.
+origin_place,Windward + Ivory + Gold + Benin,trans_atlantic3,origin,46663,,,unmapped,No conservative country assignment yet.
+origin_place,Cacheu,trans_atlantic3,origin,43089,GNB,Guinea-Bissau,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Iles de Los,trans_atlantic3,origin,42225,,,unmapped,No conservative country assignment yet.
+origin_place,Portuguese Guinea,trans_atlantic3,origin,40964,,,unmapped,No conservative country assignment yet.
+origin_place,Badagry/Apa,trans_atlantic3,origin,37960,NGA,Nigeria,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Gallinhas,trans_atlantic3,origin,37603,LBR,Liberia,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Cape Mount (Cape Grand Mount),trans_atlantic3,origin,35084,,,unmapped,No conservative country assignment yet.
+origin_place,Gorée,trans_atlantic3,origin,29417,SEN,Senegal,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Princes Island,trans_atlantic3,origin,28337,,,unmapped,No conservative country assignment yet.
+origin_place,Gabon,trans_atlantic3,origin,27651,,,unmapped,No conservative country assignment yet.
+origin_place,Cameroons,trans_atlantic3,origin,26833,,,unmapped,No conservative country assignment yet.
+origin_place,Benin,trans_atlantic3,origin,25318,,,unmapped,No conservative country assignment yet.
+origin_place,Jacquin,trans_atlantic3,origin,24919,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Lahou,trans_atlantic3,origin,24893,,,unmapped,No conservative country assignment yet.
+origin_place,Bassa,trans_atlantic3,origin,22350,,,unmapped,No conservative country assignment yet.
+origin_place,Windward Coast (Nunez - Assini),trans_atlantic3,origin,21579,,,unmapped,No conservative country assignment yet.
+origin_place,Epe,trans_atlantic3,origin,20863,,,unmapped,No conservative country assignment yet.
+origin_place,Madagascar,trans_atlantic3,origin,19670,,,unmapped,No conservative country assignment yet.
+origin_place,Popo,trans_atlantic3,origin,17884,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Pongo,trans_atlantic3,origin,16692,,,unmapped,No conservative country assignment yet.
+origin_place,São Tomé or Princes Island,trans_atlantic3,origin,16687,,,unmapped,No conservative country assignment yet.
+origin_place,Accra,trans_atlantic3,origin,15744,GHA,Ghana,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Bance/Bunce Island,trans_atlantic3,origin,13974,SLE,Sierra Leone,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Christiansborg,trans_atlantic3,origin,13027,,,unmapped,No conservative country assignment yet.
+origin_place,Little Popo,trans_atlantic3,origin,11081,TGO,Togo,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Sherbro,trans_atlantic3,origin,10156,,,unmapped,No conservative country assignment yet.
+origin_place,Inhambane,trans_atlantic3,origin,9680,MOZ,Mozambique,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Cap Lopez,trans_atlantic3,origin,9333,,,unmapped,No conservative country assignment yet.
+origin_place,"Sierra Leone, port unspecified",trans_atlantic3,origin,9179,,,unmapped,No conservative country assignment yet.
+origin_place,Lourenço Marques,trans_atlantic3,origin,8845,MOZ,Mozambique,exact_place,Specific embarkation place mapped to modern country.
+origin_place,"Southeast Africa and Indian Ocean islands, port unspecified",trans_atlantic3,origin,8783,,,unmapped,No conservative country assignment yet.
+origin_place,Cameroons River,trans_atlantic3,origin,8617,,,unmapped,No conservative country assignment yet.
+origin_place,Kormantine,trans_atlantic3,origin,7935,,,unmapped,No conservative country assignment yet.
+origin_place,Danish Gold Coast,trans_atlantic3,origin,7785,,,unmapped,No conservative country assignment yet.
+origin_place,Boary,trans_atlantic3,origin,5721,,,unmapped,No conservative country assignment yet.
+origin_place,Gold Coast east of Kormantine,trans_atlantic3,origin,5488,,,unmapped,No conservative country assignment yet.
+origin_place,Grand Mesurado,trans_atlantic3,origin,4875,,,unmapped,No conservative country assignment yet.
+origin_place,Banana Islands,trans_atlantic3,origin,4624,,,unmapped,No conservative country assignment yet.
+origin_place,River Brass,trans_atlantic3,origin,4601,,,unmapped,No conservative country assignment yet.
+origin_place,Keta,trans_atlantic3,origin,4178,,,unmapped,No conservative country assignment yet.
+origin_place,Kilwa,trans_atlantic3,origin,4057,,,unmapped,No conservative country assignment yet.
+origin_place,Apammin,trans_atlantic3,origin,4006,,,unmapped,No conservative country assignment yet.
+origin_place,Bights,trans_atlantic3,origin,3910,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Nunez,trans_atlantic3,origin,3631,,,unmapped,No conservative country assignment yet.
+origin_place,Mayumba,trans_atlantic3,origin,2886,,,unmapped,No conservative country assignment yet.
+origin_place,Zanzibar,trans_atlantic3,origin,2806,,,unmapped,No conservative country assignment yet.
+origin_place,Novo Redondo,trans_atlantic3,origin,2695,,,unmapped,No conservative country assignment yet.
+origin_place,Kilongo,trans_atlantic3,origin,2562,,,unmapped,No conservative country assignment yet.
+origin_place,Gold Coast + Bight of Benin + Bight of Biafra,trans_atlantic3,origin,2448,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Zaire,trans_atlantic3,origin,2359,,,unmapped,No conservative country assignment yet.
+origin_place,Grand Sestos,trans_atlantic3,origin,2347,,,unmapped,No conservative country assignment yet.
+origin_place,Ibo,trans_atlantic3,origin,2128,,,unmapped,No conservative country assignment yet.
+origin_place,Bimbia,trans_atlantic3,origin,2079,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Nun,trans_atlantic3,origin,2028,,,unmapped,No conservative country assignment yet.
+origin_place,Mpinda,trans_atlantic3,origin,1993,,,unmapped,No conservative country assignment yet.
+origin_place,River del Rey,trans_atlantic3,origin,1990,,,unmapped,No conservative country assignment yet.
+origin_place,Axim,trans_atlantic3,origin,1936,GHA,Ghana,exact_place,Specific embarkation place mapped to modern country.
+origin_place,West of Cape Apolonia,trans_atlantic3,origin,1689,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Dande (N of Luanda),trans_atlantic3,origin,1632,,,unmapped,No conservative country assignment yet.
+origin_place,French Africa (Goree or Senegal),trans_atlantic3,origin,1498,,,unmapped,No conservative country assignment yet.
+origin_place,Bissagos,trans_atlantic3,origin,1277,,,unmapped,No conservative country assignment yet.
+origin_place,Albreda,trans_atlantic3,origin,1272,,,unmapped,No conservative country assignment yet.
+origin_place,Corisco,trans_atlantic3,origin,1233,,,unmapped,No conservative country assignment yet.
+origin_place,Alampo,trans_atlantic3,origin,1212,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Grande,trans_atlantic3,origin,1148,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Forcados/Formosa/Benin,trans_atlantic3,origin,1139,,,unmapped,No conservative country assignment yet.
+origin_place,Momboza or Zanzibar,trans_atlantic3,origin,1113,,,unmapped,No conservative country assignment yet.
+origin_place,Quirimba,trans_atlantic3,origin,1089,,,unmapped,No conservative country assignment yet.
+origin_place,Coanza River,trans_atlantic3,origin,1061,,,unmapped,No conservative country assignment yet.
+origin_place,Pokesoe (Princes Town),trans_atlantic3,origin,1046,,,unmapped,No conservative country assignment yet.
+origin_place,Cess,trans_atlantic3,origin,1031,,,unmapped,No conservative country assignment yet.
+origin_place,Grand Popo,trans_atlantic3,origin,1002,BEN,Benin,exact_place,Specific embarkation place mapped to modern country.
+origin_place,Grand Bassa,trans_atlantic3,origin,989,,,unmapped,No conservative country assignment yet.
+origin_place,Aghway,trans_atlantic3,origin,950,,,unmapped,No conservative country assignment yet.
+origin_place,Sofala,trans_atlantic3,origin,926,,,unmapped,No conservative country assignment yet.
+origin_place,Quicombo,trans_atlantic3,origin,920,,,unmapped,No conservative country assignment yet.
+origin_place,Ambona,trans_atlantic3,origin,910,,,unmapped,No conservative country assignment yet.
+origin_place,Lay,trans_atlantic3,origin,882,,,unmapped,No conservative country assignment yet.
+origin_place,Casamance,trans_atlantic3,origin,875,,,unmapped,No conservative country assignment yet.
+origin_place,Senegal,trans_atlantic3,origin,851,,,unmapped,No conservative country assignment yet.
+origin_place,Calabary,trans_atlantic3,origin,849,,,unmapped,No conservative country assignment yet.
+origin_place,Senegambia or Sierra Leone,trans_atlantic3,origin,761,,,unmapped,No conservative country assignment yet.
+origin_place,"Jamaica, place unspecified",trans_atlantic3,origin,754,JAM,Jamaica,exact_place,Specific intra-American purchase place mapped to modern country or territory.
+origin_place,Galam,trans_atlantic3,origin,742,,,unmapped,No conservative country assignment yet.
+origin_place,Mano,trans_atlantic3,origin,737,,,unmapped,No conservative country assignment yet.
+origin_place,Grand Bassam,trans_atlantic3,origin,657,,,unmapped,No conservative country assignment yet.
+origin_place,Princes Island and Elmina,trans_atlantic3,origin,652,,,unmapped,No conservative country assignment yet.
+origin_place,Ivory Coast,trans_atlantic3,origin,630,,,unmapped,No conservative country assignment yet.
+origin_place,Casnasonis (location undetermined),trans_atlantic3,origin,615,,,unmapped,No conservative country assignment yet.
+origin_place,Portudal,trans_atlantic3,origin,609,,,unmapped,No conservative country assignment yet.
+origin_place,Iles Plantain,trans_atlantic3,origin,543,,,unmapped,No conservative country assignment yet.
+origin_place,Sassandra,trans_atlantic3,origin,537,,,unmapped,No conservative country assignment yet.
+origin_place,Alecuba,trans_atlantic3,origin,535,,,unmapped,No conservative country assignment yet.
+origin_place,Grand Junk,trans_atlantic3,origin,529,,,unmapped,No conservative country assignment yet.
+origin_place,Côte de Malaguette (runs through to Cape Palmas on Windward Coast),trans_atlantic3,origin,524,,,unmapped,No conservative country assignment yet.
+origin_place,Salinas,trans_atlantic3,origin,490,,,unmapped,No conservative country assignment yet.
+origin_place,Mascarene Islands,trans_atlantic3,origin,481,,,unmapped,No conservative country assignment yet.
+origin_place,Ife,trans_atlantic3,origin,453,,,unmapped,No conservative country assignment yet.
+origin_place,"Asia e Africa, port unspecified",trans_atlantic3,origin,444,,,unmapped,No conservative country assignment yet.
+origin_place,Liberia,trans_atlantic3,origin,444,,,unmapped,No conservative country assignment yet.
+origin_place,Formosa,trans_atlantic3,origin,421,,,unmapped,No conservative country assignment yet.
+origin_place,St Paul,trans_atlantic3,origin,420,,,unmapped,No conservative country assignment yet.
+origin_place,Arguim,trans_atlantic3,origin,415,,,unmapped,No conservative country assignment yet.
+origin_place,Delagoa,trans_atlantic3,origin,396,,,unmapped,No conservative country assignment yet.
+origin_place,"Ile de France, Mauritius",trans_atlantic3,origin,386,,,unmapped,No conservative country assignment yet.
+origin_place,Oerê,trans_atlantic3,origin,378,,,unmapped,No conservative country assignment yet.
+origin_place,Madeira,trans_atlantic3,origin,367,,,unmapped,No conservative country assignment yet.
+origin_place,Gold Coast from Kormatine to Accra,trans_atlantic3,origin,356,,,unmapped,No conservative country assignment yet.
+origin_place,CC Castle and Windward,trans_atlantic3,origin,351,,,unmapped,No conservative country assignment yet.
+origin_place,Tabou,trans_atlantic3,origin,339,,,unmapped,No conservative country assignment yet.
+origin_place,Costa de Africa (mainland coast around S Tome/Principe),trans_atlantic3,origin,338,,,unmapped,No conservative country assignment yet.
+origin_place,River Kissey,trans_atlantic3,origin,334,,,unmapped,No conservative country assignment yet.
+origin_place,Settra Kru,trans_atlantic3,origin,331,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Petit Mount,trans_atlantic3,origin,324,,,unmapped,No conservative country assignment yet.
+origin_place,Grenada Point,trans_atlantic3,origin,318,,,unmapped,No conservative country assignment yet.
+origin_place,Amokou,trans_atlantic3,origin,315,,,unmapped,No conservative country assignment yet.
+origin_place,Andony,trans_atlantic3,origin,311,,,unmapped,No conservative country assignment yet.
+origin_place,Apollonia,trans_atlantic3,origin,288,,,unmapped,No conservative country assignment yet.
+origin_place,Little Junk,trans_atlantic3,origin,285,,,unmapped,No conservative country assignment yet.
+origin_place,"Mossulo, Luanda",trans_atlantic3,origin,279,,,unmapped,No conservative country assignment yet.
+origin_place,Cabo Lopo Gonçalves,trans_atlantic3,origin,277,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Assini,trans_atlantic3,origin,272,,,unmapped,No conservative country assignment yet.
+origin_place,Legas,trans_atlantic3,origin,258,,,unmapped,No conservative country assignment yet.
+origin_place,"Puerto Rico, port unspecified",trans_atlantic3,origin,249,,,unmapped,No conservative country assignment yet.
+origin_place,Cape of Good Hope,trans_atlantic3,origin,230,,,unmapped,No conservative country assignment yet.
+origin_place,Sugary (Siekere),trans_atlantic3,origin,230,,,unmapped,No conservative country assignment yet.
+origin_place,Petit Mesurado,trans_atlantic3,origin,229,,,unmapped,No conservative country assignment yet.
+origin_place,Cayenne,trans_atlantic3,origin,226,,,unmapped,No conservative country assignment yet.
+origin_place,Chama,trans_atlantic3,origin,217,,,unmapped,No conservative country assignment yet.
+origin_place,"St Lawrence, Madagascar",trans_atlantic3,origin,210,,,unmapped,No conservative country assignment yet.
+origin_place,Rio Nazareth,trans_atlantic3,origin,209,,,unmapped,No conservative country assignment yet.
+origin_place,Gulf of Guinea islands,trans_atlantic3,origin,205,,,unmapped,No conservative country assignment yet.
+origin_place,Rock Sestos,trans_atlantic3,origin,197,,,unmapped,No conservative country assignment yet.
+origin_place,Little Bassa,trans_atlantic3,origin,184,,,unmapped,No conservative country assignment yet.
+origin_place,Drouin,trans_atlantic3,origin,180,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Logas (location undetermined),trans_atlantic3,origin,159,,,unmapped,No conservative country assignment yet.
+origin_place,Quaqua,trans_atlantic3,origin,158,,,unmapped,No conservative country assignment yet.
+origin_place,Wiamba,trans_atlantic3,origin,150,,,unmapped,No conservative country assignment yet.
+origin_place,Princes Island and Cape Lopez,trans_atlantic3,origin,146,,,unmapped,No conservative country assignment yet.
+origin_place,Eva,trans_atlantic3,origin,133,,,unmapped,No conservative country assignment yet.
+origin_place,Dembia,trans_atlantic3,origin,130,,,unmapped,No conservative country assignment yet.
+origin_place,Soyo,trans_atlantic3,origin,114,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Mole,trans_atlantic3,origin,96,,,unmapped,No conservative country assignment yet.
+origin_place,Scarcies,trans_atlantic3,origin,82,,,unmapped,No conservative country assignment yet.
+origin_place,Costa Leste Occidental,trans_atlantic3,origin,79,,,unmapped,No conservative country assignment yet.
+origin_place,Bundy,trans_atlantic3,origin,65,,,unmapped,No conservative country assignment yet.
+origin_place,Bilbay,trans_atlantic3,origin,40,,,unmapped,No conservative country assignment yet.
+origin_place,Fernando Po,trans_atlantic3,origin,24,,,unmapped,No conservative country assignment yet.
+origin_place,"Joal, or Saloum River",trans_atlantic3,origin,17,,,unmapped,No conservative country assignment yet.
+origin_place,Trade Town,trans_atlantic3,origin,13,,,unmapped,No conservative country assignment yet.
+origin_place,Penido,trans_atlantic3,origin,12,,,unmapped,No conservative country assignment yet.
+origin_place,Seville,trans_atlantic3,origin,8,,,unmapped,No conservative country assignment yet.
+origin_place,Angola to Ardra,trans_atlantic3,origin,0,,,unmapped,No conservative country assignment yet.
+origin_place,Cacandia,trans_atlantic3,origin,0,,,unmapped,No conservative country assignment yet.
+origin_place,Cape Grand Mount,trans_atlantic3,origin,0,,,unmapped,No conservative country assignment yet.
+origin_place,Liverpool River,trans_atlantic3,origin,0,,,unmapped,No conservative country assignment yet.
+origin_region,West Central Africa and St Helena,trans_atlantic3,origin,3126179,AGO,Angola,region_approx,Broad historical embarkation region mapped conservatively to Angola.
+origin_region,Other Africa,trans_atlantic3,origin,1714474,,,unmapped,No conservative country assignment yet.
+origin_region,Bight of Benin,trans_atlantic3,origin,1342374,BEN,Benin,region_approx,Historical embarkation region mapped conservatively to Benin.
+origin_region,Bight of Biafra and Gulf of Guinea islands,trans_atlantic3,origin,939551,NGA,Nigeria,region_approx,Historical embarkation region mapped conservatively to Nigeria.
+origin_region,Gold Coast,trans_atlantic3,origin,667201,GHA,Ghana,region_approx,Historical embarkation region mapped to Ghana.
+origin_region,Senegambia and offshore Atlantic,trans_atlantic3,origin,481003,SEN,Senegal,region_approx,Historical embarkation region mapped conservatively to Senegal.
+origin_region,East Africa and Indian Ocean islands,trans_atlantic3,origin,336763,MOZ,Mozambique,region_approx,Historical embarkation region mapped conservatively to Mozambique.
+origin_region,Sierra Leone,trans_atlantic3,origin,215681,SLE,Sierra Leone,region_approx,Historical embarkation region mapped to Sierra Leone.
+origin_region,Windward Coast,trans_atlantic3,origin,171421,LBR,Liberia,region_approx,Historical embarkation region mapped conservatively to Liberia.
+origin_region,Jamaica,trans_atlantic3,origin,754,JAM,Jamaica,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,Asia e Africa,trans_atlantic3,origin,444,,,unmapped,No conservative country assignment yet.
+origin_region,Puerto Rico,trans_atlantic3,origin,249,PRI,Puerto Rico,region_exact_or_admin,Intra-American purchase region mapped to modern country or territory.
+origin_region,French Guiana,trans_atlantic3,origin,226,,,unmapped,No conservative country assignment yet.
+origin_region,Spain,trans_atlantic3,origin,8,,,unmapped,No conservative country assignment yet.

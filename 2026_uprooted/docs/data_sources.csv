@@ -1,0 +1,20 @@
+dataset,use_in_paper,access,source,url
+Meta Social Connectedness Index (2021 release),Dependent variable,public,Meta Data for Good / Humanitarian Data Exchange,https://data.humdata.org/dataset/social-connectedness-index-county-county
+Putterman & Weil World Migration Matrix 1500-2000 v1.1,Shared-ancestry measure,public,Louis Putterman (Brown University),https://sites.google.com/site/econlouisputterman/world-migration-matrix-1500-2000
+CEPII Gravity database,Gravity controls,public,CEPII,http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=8
+CEPII TRADHIST historical bilateral trade,Historical-trade channel,public,CEPII,http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=32
+Spolaore & Wacziarg genetic distance (F_ST),Genetic-distance channel,public,Enrico Spolaore (Tufts University),https://sites.tufts.edu/enricospolaore/research-data/
+Ashraf & Galor (2013) out-of-Africa migratory distance,Robustness (deep-history proxy),public,American Economic Review replication data,https://www.aeaweb.org/articles?id=10.1257/aer.103.1.1
+World Values Survey,Cultural-distance channel,public,World Values Survey Association,https://www.worldvaluessurvey.org/
+Michalopoulos & Xue (2021) folklore catalogue,Folklore-similarity channel,public,Quarterly Journal of Economics replication data,https://doi.org/10.1093/qje/qjab003
+UN DESA International Migrant Stock 2020/2024,Migrant-stock control,public,United Nations DESA,https://www.un.org/development/desa/pd/content/international-migrant-stock
+American Community Survey 2018-2022,US county ancestry shares,public,US Census Bureau,https://www.census.gov/programs-surveys/acs
+GADM administrative boundaries v4.1,Sub-national geography,public,GADM,https://gadm.org
+Slave Voyages trans-Atlantic and intra-American databases,Atlantic external-validity test,public,SlaveVoyages.org,https://www.slavevoyages.org
+1881 Census of New Zealand,New Zealand settlement composition,public,Statistics New Zealand,https://www.stats.govt.nz
+1901 Census of the Australian colonies,Australian settlement composition,public,Historical and Colonial Census Data Archive (HCCDA),https://hccda.ada.edu.au/
+South Africa Census 2022 (and 2011 1911),SA district population language and controls,public,Statistics South Africa,https://www.statssa.gov.za
+Ekama (2021) Cape slave emancipation records,Cape surnames and slave origins,public,DataFirst (University of Cape Town),https://datafirst.uct.ac.za/dataportal/index.php/catalog/848
+OpenFlights airports and routes 2017,Bilateral air-traffic robustness,public,OpenFlights,https://openflights.org/data.html
+Cape Colony farm boundaries (Bewaarders polygons c.1850),Geolocating Cape farms,by request from author,Johan Fourie (Stellenbosch University),mailto:johanf@sun.ac.za
+Natal Indian indentured records,South African indenture analysis,by request from author,Johan Fourie (Stellenbosch University),mailto:johanf@sun.ac.za
