@@ -1,0 +1,26 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Johan Fourie
+
+This data collection is licensed under the Creative Commons Attribution 4.0
+International License. You are free to share and adapt the material for any
+purpose, including commercially, provided you give appropriate credit, link
+to the license, and indicate if changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:        https://creativecommons.org/licenses/by/4.0/
+
+Recommended citation:
+
+  Fourie, J. (2026). Replication data and code for "Path Dependence in
+  Economic History Publications." github.com/johanfourieza/research,
+  2026_path/.
+
+Notes on third-party data:
+
+  The annual citation counts in the journal dataset (columns Google14..Google26)
+  were collected from Google Scholar; the Web of Science column derives from
+  Clarivate. The citation-network and author-quality data used by parts of the
+  analysis were derived from the OpenAlex and RePEc APIs. Those derived data are
+  NOT redistributed in this package (they are reproducible from the public APIs
+  using the accompanying code) and remain subject to their providers' terms.
