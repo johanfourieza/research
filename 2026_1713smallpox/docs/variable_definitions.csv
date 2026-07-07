@@ -1,0 +1,103 @@
+file,variable,description,type
+age_structure_change.csv,group,Population group (settler or slave),string
+age_structure_change.csv,district,District: Cape or StelDrak (Stellenbosch-Drakenstein),string
+age_structure_change.csv,adults_1712,"Adults, 1712",integer
+age_structure_change.csv,adults_1714,"Adults, 1714",integer
+age_structure_change.csv,adults_pct,"Adults, % change 1712-1714",numeric
+age_structure_change.csv,children_1712,"Children, 1712",integer
+age_structure_change.csv,children_1714,"Children, 1714",integer
+age_structure_change.csv,children_pct,"Children, % change 1712-1714",numeric
+age_structure_change.csv,age_differential_pp,"Children minus adults, percentage points",numeric
+age_structure_indexed.csv,group,Population group (settler or slave),string
+age_structure_indexed.csv,district,District: Cape or StelDrak (Stellenbosch-Drakenstein),string
+age_structure_indexed.csv,age,Age class (adults or children),string
+age_structure_indexed.csv,year,Calendar year,integer
+age_structure_indexed.csv,index_1712_100,Level indexed to 1712 = 100,numeric
+balanced_enslaved_change.csv,to_year,End year of the change window,integer
+balanced_enslaved_change.csv,n_hh_in_both,Households present in both years (balanced panel),integer
+balanced_enslaved_change.csv,slaves_total_prev,"Enslaved total, previous year",integer
+balanced_enslaved_change.csv,slaves_total_now,"Enslaved total, current year",integer
+balanced_enslaved_change.csv,g_slaves_total,Enslaved total growth (%),numeric
+balanced_enslaved_change.csv,slave_men_prev,"Enslaved men, previous year",integer
+balanced_enslaved_change.csv,slave_men_now,"Enslaved men, current year",integer
+balanced_enslaved_change.csv,g_slave_men,Enslaved men growth (%),numeric
+balanced_enslaved_change.csv,slave_women_prev,"Enslaved women, previous year",integer
+balanced_enslaved_change.csv,slave_women_now,"Enslaved women, current year",integer
+balanced_enslaved_change.csv,g_slave_women,Enslaved women growth (%),numeric
+dagregister_year_counts.csv,year,Calendar year,integer
+dagregister_year_counts.csv,total,Total journal entries that year,integer
+dagregister_year_counts.csv,disease,Entries mentioning disease/death,integer
+dagregister_year_counts.csv,smallpox,Entries naming smallpox,integer
+dagregister_year_counts.csv,khoe_disease,Disease entries concerning the Khoesan,integer
+dagregister_year_counts.csv,slave_disease,Disease entries concerning slaves,integer
+dagregister_year_counts.csv,medicine,Entries mentioning medicine,integer
+dagregister_year_counts.csv,batavia_medicine,Entries mentioning Batavia medicine,integer
+dagregister_year_counts.csv,disease_rate_per1000,Disease entries per 1000,numeric
+debiased_estimates.csv,concept,Measured concept,string
+debiased_estimates.csv,plugin,Cheap-classifier mean (plug-in),numeric
+debiased_estimates.csv,debiased,Debiased estimate,numeric
+debiased_estimates.csv,ci_lo,95% CI lower,numeric
+debiased_estimates.csv,ci_hi,95% CI upper,numeric
+debiased_estimates.csv,valid_only,Gold mean on validation sample,numeric
+debiased_estimates.csv,tp,True positives,integer
+debiased_estimates.csv,fp,False positives,integer
+debiased_estimates.csv,fn,False negatives,integer
+debiased_estimates.csv,tn,True negatives,integer
+debiased_estimates.csv,precision,Cheap-classifier precision,numeric
+debiased_estimates.csv,recall,Cheap-classifier recall,numeric
+epidemic_window_summary.csv,metric,Summary statistic name,string
+epidemic_window_summary.csv,value,Summary statistic value,numeric
+gold_labels.csv,id,Journal entry identifier,integer
+gold_labels.csv,gV1,Gold (human) label for V1 (0/1),integer
+gold_labels.csv,gV3,Gold label for V3 (0/1),integer
+gold_labels.csv,gV4,Gold label for V4 (0/1),integer
+gold_labels.csv,gWho,Gold label for who,string
+mortality_comparison.csv,population,Population/epidemic label,string
+mortality_comparison.csv,pop_mortality_pct,Population mortality (%),numeric
+mortality_comparison.csv,pm_lo,"Population mortality, low",numeric
+mortality_comparison.csv,pm_hi,"Population mortality, high",numeric
+mortality_comparison.csv,cfr_lo,"Implied case-fatality, low",numeric
+mortality_comparison.csv,cfr_hi,"Implied case-fatality, high",numeric
+mortality_comparison.csv,source,Source of the estimate,string
+mortality_comparison.csv,group,Population group (settler or slave),string
+primary_labels_1700_1720.csv,id,Journal entry identifier,integer
+primary_labels_1700_1720.csv,date,Entry date,string
+primary_labels_1700_1720.csv,year,Calendar year,integer
+primary_labels_1700_1720.csv,has_text,1 if entry has body text,integer
+primary_labels_1700_1720.csv,V1,Machine label: concerns human sickness/death (0/1),integer
+primary_labels_1700_1720.csv,V3,Machine label: names smallpox (0/1),integer
+primary_labels_1700_1720.csv,V4,Machine label: epidemic treatment/medicine import (0/1),integer
+primary_labels_1700_1720.csv,who,Group the sickness/death entry concerns,string
+primary_year_rates.csv,year,Calendar year,integer
+primary_year_rates.csv,n,Number of entries,integer
+primary_year_rates.csv,V1_disease,Disease entries (count),integer
+primary_year_rates.csv,V3_smallpox,Smallpox entries (count),integer
+primary_year_rates.csv,V4_medicine,Medicine entries (count),integer
+primary_year_rates.csv,V1_rate,Disease rate,numeric
+primary_year_rates.csv,V3_rate,Smallpox rate,numeric
+probate_by_year.csv,yr,Calendar year,integer
+probate_by_year.csv,n_inv,Number of probate inventories,integer
+raw_stocks_by_year.csv,year,Calendar year,integer
+raw_stocks_by_year.csv,n_household_rows,Enumerated household rows,integer
+raw_stocks_by_year.csv,slave_men,Enslaved adult men,integer
+raw_stocks_by_year.csv,slave_women,Enslaved adult women,integer
+raw_stocks_by_year.csv,slave_children,Enslaved children,integer
+raw_stocks_by_year.csv,slaves_total,Enslaved total,integer
+raw_stocks_by_year.csv,settler_men,Settler adult men,integer
+raw_stocks_by_year.csv,settler_women,Settler adult women,integer
+raw_stocks_by_year.csv,settler_children,Settler children,integer
+raw_stocks_by_year.csv,settlers_total,Settler total,integer
+slave_crosssection_by_district_year.csv,district,District: Cape or StelDrak (Stellenbosch-Drakenstein),string
+slave_crosssection_by_district_year.csv,year,Calendar year,integer
+slave_crosssection_by_district_year.csv,n_households,Enumerated household rows,integer
+slave_crosssection_by_district_year.csv,slave_men,Enslaved adult men,integer
+slave_crosssection_by_district_year.csv,slave_women,Enslaved adult women,integer
+slave_crosssection_by_district_year.csv,slave_boys,Enslaved boys,integer
+slave_crosssection_by_district_year.csv,slave_girls,Enslaved girls,integer
+slave_crosssection_by_district_year.csv,slave_total,Enslaved total,integer
+slave_crosssection_by_district_year.csv,knechts,Contracted servants (knechts),integer
+slave_crosssection_by_district_year.csv,settler_total,Settler total,integer
+slave_crosssection_by_district_year.csv,settler_men,Settler adult men,integer
+slave_crosssection_by_district_year.csv,settler_women,Settler adult women,integer
+slave_crosssection_by_district_year.csv,settler_sons,Settler sons,integer
+slave_crosssection_by_district_year.csv,settler_daught,Settler daughters,integer

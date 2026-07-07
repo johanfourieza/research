@@ -13,6 +13,7 @@ its own README, codebook, license and loader script.
 | [`2026_voortrekker/`](2026_voortrekker/) | Demographic Pressure, Emancipation and Selection into the Great Trek | Fourie & Links (2026), *European Review of Economic History* |
 | [`2026_sac/`](2026_sac/) | Discrimination After Hiring: Within-Firm Sorting, Slow Employer Learning, and the Cost to the Sorted Worker | Fourie, Inwood & Mariotti (2026), submitted to *Labour Economics* |
 | [`2026_uprooted/`](2026_uprooted/) | Uprooted: Migration, Coercion, and the Roots of Social Connectedness | Fourie (2026), *Economic Inquiry* (submitted) |
+| [`2026_1713smallpox/`](2026_1713smallpox/) | A Disease Never Seen Here: Measuring the Severity of the 1713 Smallpox Epidemic at the Cape | Fourie (2026), submitted to *The History of the Family* |
 
 ## License
 

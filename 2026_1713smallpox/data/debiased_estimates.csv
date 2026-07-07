@@ -1,0 +1,12 @@
+concept,plugin,debiased,ci_lo,ci_hi,valid_only,tp,fp,fn,tn,precision,recall
+disease/death,0.4591,0.1257,0.0754,0.1756,0.1323,49,134,3,207,0.268,0.942
+smallpox,0.0021,0.0021,0.0012,0.0031,0.0025,1,0,0,392,1.0,1.0
+epi-medicine,0.0286,-0.0071,-0.0285,0.0124,0.0025,0,15,1,377,0.0,0.0
+
+who_among_disease_entries (gold V1=1),count,of_N,52
+company_slaves,10
+private_slaves,0
+settlers,2
+khoesan,1
+soldiers_sailors,37
+general,5

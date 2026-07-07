@@ -1,0 +1,12 @@
+population,pop_mortality_pct,pm_lo,pm_hi,cfr_lo,cfr_hi,source,group
+Cape settlers (colony),,5.0,24.35180477885104,5.2631578947368425,40.58634129808507,opgaaf 1712-14 (ceiling) & probate (floor),cape
+"Cape Town, all groups",9.1,8.0,10.666666666666666,8.421052631578947,17.77777777777778,"dagregister body-count (160 dead, Apr-Jun 1713)",cape
+Cape Company slaves,35.2112676056338,,,37.064492216456635,58.68544600938967,Company slave muster (~200 of ~568),cape
+Cape enslaved children,24.13793103448276,,,,,"opgaaf cross-section, boys+girls 1712-14",cape
+Iceland 1707-09,26.4,,,42.9,54.8,Schneider & Davenport (virgin-soil epidemic),comp
+Leiden 1635,33.0,,,,,van Besouw et al. (>1/3 of the city died),comp
+"Sweden, endemic",,,,8.0,10.0,Schneider & Davenport (CFR only; childhood disease),comp
+Foula 1720,97.0,,,,,Duncan et al. (island virgin-soil; 6 of ~200 survived),comp
+Amsterdam 1870-72,0.8,,,,,Muurling et al. (post-vaccination),comp
+Iceland 1785-87,3.4,,,,,"Schneider & Davenport (later, milder epidemic)",comp
+Chester 1774,,,,14.6,14.6,"Duncan et al. (CFR, 202 of 1,385)",comp
