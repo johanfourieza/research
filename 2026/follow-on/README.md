@@ -96,7 +96,7 @@ variables and public scorecard facts, not the source database.
 
 ## Citation
 
-Fourie, J. Do cricket captains maximise winning? Evidence from 125 years of
-the follow-on rule. *Applied Economics Letters*.
+Fourie, J. (2026). Do cricket captains maximise winning? Evidence from 125
+years of the follow-on rule. Working paper, LEAP, Stellenbosch University.
 
 Repository: https://github.com/johanfourieza/research/tree/main/2026/follow-on
