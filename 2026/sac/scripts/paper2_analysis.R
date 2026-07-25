@@ -37,13 +37,13 @@ if (has_oaxaca) library(oaxaca)
 
 # ── Setup ───────────────────────────────────────────────────────────────────
 
-# 2026_sac public release. Run from the 2026_sac/ folder. Reads the
+# sac public release. Run from the sac/ folder. Reads the
 # cleaned data from data/sac_clean.rds (also available as
 # data/sac_clean.csv) and writes all tables, figures and models into
 # tables/, figures/ and models/ subfolders that are created on demand.
 cwd <- normalizePath(getwd(), winslash = "/", mustWork = TRUE)
-if (basename(cwd) != "2026_sac") {
-  stop("Run this script from the 2026_sac/ folder ",
+if (basename(cwd) != "sac") {
+  stop("Run this script from the sac/ folder ",
        "(the package root that contains data/ and scripts/).")
 }
 work_dir  <- cwd

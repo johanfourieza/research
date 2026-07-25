@@ -1,4 +1,4 @@
-# 2026_1713smallpox
+# 2026/1713smallpox
 
 Replication data and code for:
 

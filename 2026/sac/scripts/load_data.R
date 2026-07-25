@@ -6,7 +6,7 @@
 # to the working `afrikaans` column (matching the convention used inside
 # paper2_analysis.R).
 #
-# Run this from the 2026_sac/ folder.
+# Run this from the sac/ folder.
 ###############################################################################
 
 library(readr)

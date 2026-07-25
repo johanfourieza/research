@@ -1,4 +1,4 @@
-# Codebook — 2026_1713smallpox
+# Codebook — 2026/1713smallpox
 
 All data are **aggregate** (counts, rates, and per-entry categorical labels); no file
 contains personal names. Districts are `Cape` (Cape District) and `StelDrak`
