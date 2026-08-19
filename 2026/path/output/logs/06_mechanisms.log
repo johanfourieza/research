@@ -1,0 +1,65 @@
+====================================================================
+  06_mechanisms -- run date: 2026-08-19 03:35 
+====================================================================
+
+Loading network data...
+  Citation links: 72695 
+  OpenAlex matches: 3738 
+
+  Network metrics merged: 1061 papers with metrics
+
+--- 6a: Citation source decomposition ---
+
+Within-field citations: 56305 / 72563  (77.6%)
+Cross-field citations: 16258 
+
+Papers with citation source data: 597 
+
+Papers with classified citers (count-elasticity subsample): 597 
+
+S1a: log_early -> log(within-field cites), classified subsample
+  Coef: 0.6886 (SE: 0.0348 , N = 597 )
+
+S1b: log_early -> log(cross-field cites), classified subsample
+  Coef: 0.5048 (SE: 0.0437 , N = 597 )
+
+Fast-starter -> cross-field SHARE (journal-year FE):
+  coef -0.0194 (robust SE 0.0120), N = 597; within/cross count elasticities 0.689 / 0.505
+
+--- 6b: Self-citation analysis ---
+
+Within-dataset citation links checked: 7003 
+Self-citations identified: 1094 
+Self-citation rate: 15.6 %
+
+SC1: log_early -> log(non-self cites)
+  Coef: 0.3436 (SE: 0.041 )
+
+SC2: log_early -> log(total cites)
+  Coef: 0.3441 (SE: 0.0412 )
+
+Change from SC2 to SC1: -0.1 %
+  -> Stability indicates self-citations do not drive the result
+
+--- 6c: Citation cascade depth ---
+
+Cascade depth computed for 2882 papers
+  Mean depth: 1.59 
+  Max depth: 17 
+
+CD1: fast_starter -> cascade depth
+  fast_starter: 0.1867 (SE: 0.1379 )
+
+CD2: fast_starter -> log(indirect citers)
+  fast_starter: 0.1459 (SE: 0.092 )
+
+--- 6d: Citation concentration (HHI) ---
+
+Papers with HHI data (from network metrics): 566 
+
+HC1: fast_starter -> cite_concentration (HHI)
+  fast_starter: 0.0106 (SE: 0.0134 )
+  (Negative = more temporally spread citations)
+
+Saved: results/mech_data.rds
+Saved: results/res_06_mechanisms.rds

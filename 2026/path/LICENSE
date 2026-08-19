@@ -1,0 +1,48 @@
+LICENSE
+
+This replication package contains two kinds of material, licensed separately.
+
+1. CODE (all files in scripts/ and run_all.R)
+
+MIT License
+
+Copyright (c) 2026 Johan Fourie
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+2. DATA (all files in data/)
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt the data for any purpose, provided you give
+appropriate credit. Please cite the accompanying article (see README.md).
+
+Notes on third-party sources:
+- Citation counts in Journals_2026_clean.csv were hand-collected by research
+  assistants from Google Scholar (annual snapshots, 2014-2026).
+- Files in data/cache/ derived from OpenAlex (openalex_paper_matches.rds,
+  network_citation_data.rds, network_paper_metrics.rds, citing_field_data.rds,
+  citing_field_linked.rds) build on the OpenAlex database, which is released
+  under CC0 (https://openalex.org).
+- repec_author_data.rds contains aggregate author-level statistics derived
+  from RePEc.
+- conference_parsed_data.rds and Conference_Papers.xlsx contain bibliographic
+  facts (titles, authors, sessions) transcribed from publicly posted EHA and
+  EHS conference programmes; source URLs are listed in README.md.

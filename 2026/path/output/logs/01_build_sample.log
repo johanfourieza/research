@@ -1,0 +1,102 @@
+====================================================================
+  01_build_sample -- run date: 2026-08-19 03:34 
+====================================================================
+
+Loaded clean data: 3250 papers
+Journals: EHR, EREH, Explorations, JEH 
+Year range: 1997 - 2025 
+
+Calculating age-specific citations...
+
+Trajectory data by publication year:
+     year total has_early has_longrun has_both
+    <int> <int>     <int>       <int>    <int>
+ 1:  2007    96         0          96        0
+ 2:  2008   107         0         107        0
+ 3:  2009   117         0         117        0
+ 4:  2010   117         0         117        0
+ 5:  2011   144         0         144        0
+ 6:  2012   141       141         141      141
+ 7:  2013   129       129         129      129
+ 8:  2014   119       119         119      119
+ 9:  2015   121       121         121      121
+10:  2016   122       122         122      122
+11:  2017   128       128         128      128
+12:  2018   119       119         119      119
+13:  2019   127       127         127      127
+14:  2020   126       126         126      126
+15:  2021   130       130         130      130
+16:  2022   113       113           0        0
+17:  2023   143       143           0        0
+18:  2024   154       154           0        0
+19:  2025   153         0           0        0
+
+Total with full trajectory: 1262 
+
+Creating analysis variables...
+Fast starters (top 25%): 430 
+Topics: other, trade, demography, growth, labor, agriculture, institutions, urban, industry, inequality, finance, health, crises, war, colonial, financial markets, slavery 
+Papers with top institution author: 755 
+Article-level controls created.
+
+Sample attrition:
+                                                              step papers
+                                                            <char>  <int>
+1:             Four core journals (JEH, EHR, EEH, EREH), 1997-2025   3250
+2:            Age-2 citations observable (published 2012 or later)   1672
+3: Age-5 or age-8 citations observable (published 2021 or earlier)   1262
+4:                                        Author count non-missing   1262
+5:                                    Citation counts non-negative   1262
+       years dropped
+      <char>   <int>
+1: 1997-2025      NA
+2: 2012-2024    1578
+3: 2012-2021     410
+4: 2012-2021       0
+5: 2012-2021       0
+
+Saved: TableA1_Attrition.tex
+
+Estimation sample: 1262 papers
+Years: 2012 - 2021 
+Journals: EHR, Explorations, JEH, EREH 
+
+Citation statistics:
+  Early (age 2): Mean = 7.1 , Median = 4 , SD = 10.9 
+  Long-run: Mean = 34.4 , Median = 23 , SD = 44.4 
+
+  OpenAlex topic side-file not present -- extended topic controls set to NA/0 (no coverage on the estimation sample; not used in the paper).
+  RePEc: seniority on 732 papers; h-index on 724 papers; author_nber_wp = 0 
+  Prizes: paper_won_prize = 11 ; author_won_dissertation_prize = 71 
+
+OpenAlex linkage diagnostics:
+  Corpus papers matched to OpenAlex: 3241 / 3250 (99.7%)
+  Estimation-sample papers matched:  99.4%
+  Google Scholar (2025) vs OpenAlex counts, N = 3088:
+    Pearson correlation of log(1+counts): 0.708
+    Spearman rank correlation:            0.780
+
+Topic distribution in the estimation sample (including 'other'):
+                topic     N
+               <char> <int>
+ 1:             other   237
+ 2:       agriculture   136
+ 3:             labor   117
+ 4:           finance   114
+ 5:      institutions    92
+ 6:          industry    92
+ 7:             trade    82
+ 8:        demography    61
+ 9:               war    60
+10:            growth    54
+11:        inequality    51
+12: financial markets    41
+13:          colonial    39
+14:            crises    31
+15:            health    29
+16:           slavery    13
+17:             urban    13
+
+Saved: TableA2_TopicDictionary.tex
+
+Saved: results/analysis_data.rds

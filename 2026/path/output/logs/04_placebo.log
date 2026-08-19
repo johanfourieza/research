@@ -1,0 +1,23 @@
+====================================================================
+  04_placebo -- run date: 2026-08-19 03:34 
+====================================================================
+
+Placebo fast-starter ( 1000 permutations)...
+True fast_starter coefficient: 1.0837 
+  Permutation 100 / 1000 
+  Permutation 200 / 1000 
+  Permutation 300 / 1000 
+  Permutation 400 / 1000 
+  Permutation 500 / 1000 
+  Permutation 600 / 1000 
+  Permutation 700 / 1000 
+  Permutation 800 / 1000 
+  Permutation 900 / 1000 
+  Permutation 1000 / 1000 
+
+Empirical p-value: 0.0000 
+  Mean placebo: -0.0014 
+  SD placebo: 0.0528 
+  True / SD: 20.52 standard deviations
+
+Saved: results/res_04_placebo.rds

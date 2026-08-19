@@ -1,0 +1,97 @@
+====================================================================
+  07_heterogeneity -- run date: 2026-08-19 03:35 
+====================================================================
+
+Overall log_early coefficient: 0.7838 (SE: 0.0178 )
+
+Topic frequencies:
+                topic     N
+               <char> <int>
+ 1:       agriculture   136
+ 2:             labor   117
+ 3:           finance   114
+ 4:      institutions    92
+ 5:          industry    92
+ 6:             trade    82
+ 7:        demography    61
+ 8:               war    60
+ 9:            growth    54
+10:        inequality    51
+11: financial markets    41
+12:          colonial    39
+13:            crises    31
+14:            health    29
+15:           slavery    13
+16:             urban    13
+
+=== ELASTICITY BY TOPIC ===
+
+                topic     n      coef         se     ci_lo     ci_hi
+               <char> <int>     <num>      <num>     <num>     <num>
+ 1:            crises    31 0.9736123 0.17756743 0.6255802 1.3216445
+ 2:            growth    54 0.9693910 0.08127986 0.8100825 1.1286995
+ 3:        demography    61 0.8976243 0.09168797 0.7179159 1.0773328
+ 4:             labor   117 0.8609981 0.06453488 0.7345097 0.9874865
+ 5: financial markets    41 0.8110599 0.14019033 0.5362868 1.0858329
+ 6:      institutions    92 0.8076612 0.06233999 0.6854748 0.9298476
+ 7:        inequality    51 0.7596653 0.08743656 0.5882896 0.9310409
+ 8:          colonial    39 0.7500056 0.08145355 0.5903567 0.9096546
+ 9:       agriculture   136 0.7243703 0.05975235 0.6072557 0.8414849
+10:               war    60 0.7029044 0.09125541 0.5240438 0.8817650
+11:           finance   114 0.6966143 0.05355730 0.5916420 0.8015866
+12:             trade    82 0.6843992 0.07812591 0.5312724 0.8375259
+13:          industry    92 0.6700648 0.07835112 0.5164966 0.8236329
+
+Fast-starter effect by topic:
+                topic     n      coef        se
+               <char> <int>     <num>     <num>
+ 1:            growth    54 1.4872155 0.2748458
+ 2:            crises    31 1.2037472 0.6105526
+ 3:             trade    82 1.1962013 0.2232409
+ 4:             labor   117 1.1912828 0.1797040
+ 5:        demography    61 1.1875728 0.2107590
+ 6:          colonial    39 1.1742106 0.2735743
+ 7:      institutions    92 1.1183393 0.1790863
+ 8:          industry    92 0.9683295 0.1957389
+ 9:               war    60 0.9524267 0.2428083
+10:       agriculture   136 0.8575417 0.1412802
+11:           finance   114 0.8449088 0.1566352
+12:        inequality    51 0.7926598 0.2361464
+13: financial markets    41 0.7569229 0.4341307
+
+=== HETEROGENEITY BY AUTHORSHIP AND INSTITUTION ===
+
+  Solo-authored elasticity:       0.748 (robust SE 0.029, N=553)
+  Co-authored elasticity:         0.803 (robust SE 0.026, N=709)
+  log_early x top-institution:    -0.002 (robust SE 0.044)  [interaction]
+  top-institution main effect:    0.069 (robust SE 0.098)
+
+=== ELASTICITY BY PUBLICATION COHORT (fixed age-5 outcome) ===
+
+Papers with age-5 citations observable: 1262 of 1262 estimation-sample papers
+
+    cohort     n      coef         se     ci_lo     ci_hi
+     <int> <int>     <num>      <num>     <num>     <num>
+ 1:   2012   141 0.7917458 0.05868025 0.6767326 0.9067591
+ 2:   2013   129 0.7278795 0.05222731 0.6255140 0.8302450
+ 3:   2014   119 0.7251528 0.07247320 0.5831054 0.8672003
+ 4:   2015   121 0.6532735 0.06317267 0.5294550 0.7770919
+ 5:   2016   122 0.9102240 0.05625802 0.7999582 1.0204897
+ 6:   2017   128 0.7899448 0.05313753 0.6857953 0.8940944
+ 7:   2018   119 0.8968860 0.06466830 0.7701361 1.0236359
+ 8:   2019   127 0.8469556 0.04798574 0.7529035 0.9410076
+ 9:   2020   126 0.8717131 0.05001800 0.7736778 0.9697483
+10:   2021   130 0.8621683 0.05341246 0.7574799 0.9668567
+
+   Range: 0.653 - 0.91 
+
+Pooled interaction (log_early x cohort, cohort centred at 2012):
+  log_early (2012 cohort):      0.7689 (robust SE 0.0339)
+  log_early x cohort trend:     0.0113 (robust SE 0.0061), N = 1262
+
+Two-period comparison (2012-2016 vs 2017-2021):
+  log_early (2012-2016):        0.7855 (robust SE 0.0261)
+  log_early x late-half shift:  0.0668 (robust SE 0.0343)
+
+Saved: TableB1_CohortElasticities.csv
+Saved: results/res_07_heterogeneity.rds

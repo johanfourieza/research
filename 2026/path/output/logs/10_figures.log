@@ -1,0 +1,41 @@
+====================================================================
+  10_figures -- run date: 2026-08-19 03:35 
+====================================================================
+
+--- Fig_Persistence ---
+Saved: Fig_Persistence (.png + .pdf)
+--- Fig_Unpredictability ---
+Saved: Fig_Unpredictability (.png + .pdf)
+--- Fig_CitationSource ---
+Saved: Fig_CitationSource (.png + .pdf)
+Discipline shares:
+                           disc   pct
+                         <fctr> <num>
+1:                    Economics  50.2
+2:        Other social sciences  30.1
+3:       Health & life sciences   5.9
+4:        Business & management   5.0
+5: Other sciences & engineering   4.7
+6:            Arts & humanities   2.5
+7:                      History   1.6
+
+Format shares:
+                        fmt   pct
+                     <fctr> <num>
+1:          Journal article  59.1
+2:          Book or chapter  27.8
+3: Preprint / working paper   8.0
+4:                    Other   3.4
+5:             Dissertation   1.7
+--- FigB_LOJO ---
+Saved: FigB_LOJO (.png + .pdf)
+--- FigB_PlaceboFastStarter ---
+Saved: FigB_PlaceboFastStarter (.png + .pdf)
+--- FigB_TopicHeterogeneity ---
+Saved: FigB_TopicHeterogeneity (.png + .pdf)
+--- FigB_CohortElasticity ---
+Saved: FigB_CohortElasticity (.png + .pdf)
+--- FigE_PlaceboConference ---
+Saved: FigE_PlaceboConference (.png + .pdf)
+
+All figures complete.

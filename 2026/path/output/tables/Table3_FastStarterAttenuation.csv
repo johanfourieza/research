@@ -1,0 +1,4 @@
+spec,coef,se,N
+Raw (no early-cite control),1.08370527296016,0.0411824995919657,1262
++ control for log(early citations),0.0836918350043594,0.0427398663034595,1262
+"+ author quality (seniority, h-index, prizes)",0.0670729230939812,0.0556826649084074,724

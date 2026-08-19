@@ -1,0 +1,74 @@
+====================================================================
+  09_within_author -- run date: 2026-08-19 03:35 
+====================================================================
+
+Building paper-year panel...
+Panel dimensions: 33310 paper-year observations
+Unique papers: 3250 
+Years covered: 2014 - 2026 
+
+Running within-author FE regression...
+Authors with variation in conference presentation: 85 
+
+Model WA1: Author + paper-age fixed effects (SEs clustered by paper)
+  presented_at_conference: 0.0167 (cluster SE: 0.0344 )
+  log_cit_cum_lag1 (reinforcement): 0.55 (cluster SE: 0.012 )
+
+Model WA2: Author-year fixed effects (stricter)
+  Author-years with variation: 13 
+  presented_at_conference: 0.5445 (cluster SE: 0.1712 )
+
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Wed, Aug 19, 2026 - 03:35:28
+\begin{tabular}{@{\extracolsep{5pt}}lcc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{2}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-3} 
+\\[-1.8ex] & \multicolumn{2}{c}{Log(new citations)} \\ 
+\\[-1.8ex] & (1) & (2)\\ 
+\hline \\[-1.8ex] 
+ Presented at conference & 0.017 & 0.545$^{***}$ \\ 
+  & (0.034) & (0.171) \\ 
+  & & \\ 
+ Log(lagged citation stock) & 0.550$^{***}$ & 0.099$^{***}$ \\ 
+  & (0.012) & (0.037) \\ 
+  & & \\ 
+ Number of authors & 0.027$^{*}$ &  \\ 
+  & (0.014) &  \\ 
+  & & \\ 
+\hline \\[-1.8ex] 
+Author FE & Yes & No \\ 
+Author-by-year FE & No & Yes \\ 
+Calendar-year FE & Yes & Yes \\ 
+Article-age FE & Yes & Yes \\ 
+Observations & 26,999 & 27,000 \\ 
+R$^{2}$ & 0.583 & 0.642 \\ 
+Adjusted R$^{2}$ & 0.552 & 0.598 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+Saved: Table4_WithinAuthor.tex
+
+--- Reverse causality test ---
+
+Reverse causality sample: 1262 
+
+RC1: log_longrun -> presented_at_conference (probit)
+  log_longrun: 0.1986 (SE: 0.1149 , p: 0.0839 )
+  log_early: 0.0951 (SE: 0.1135 , p: 0.4024 )
+
+RC2: fast_starter -> presented_at_conference (probit)
+  fast_starter: 0.3377 (SE: 0.1218 , p: 0.0056 )
+
+=== BALANCE: PRESENTERS vs NON-PRESENTERS ===
+
+  n_authors        Presenters:  1.518  Others:  1.805  diff: -0.288  p: 0.0034
+  any_top_inst     Presenters:  0.318  Others:  0.221  diff:  0.097  p: 0.0671
+  cite_early       Presenters:  9.294  Others:  6.956  diff:  2.338  p: 0.0548
+  log_early        Presenters:  1.934  Others:  1.646  diff:  0.288  p: 0.0060
+  fast_starter     Presenters:  0.365  Others:  0.248  diff:  0.117  p: 0.0334
+
+Saved: results/res_09_panel.rds

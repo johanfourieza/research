@@ -1,0 +1,98 @@
+====================================================================
+  02_main_results -- run date: 2026-08-19 03:34 
+====================================================================
+
+M1 (OLS)                     log_early = 0.7579 (robust SE 0.0213), N = 1262
+M2 (+ controls)              log_early = 0.7166 (robust SE 0.0225), N = 1262
+M3 (+ journal/year FE)       log_early = 0.7838 (robust SE 0.0197), N = 1262
+M4 (+ topic FE)              log_early = 0.7566 (robust SE 0.0213), N = 1025
+M5 (binary fast starter)     fast_starter = 1.0179 (robust SE 0.0459), N = 1025
+
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Wed, Aug 19, 2026 - 03:34:24
+\begin{table}[!htbp] \centering 
+  \caption{Early citations and long-run citations} 
+  \label{tab:main} 
+\begin{tabular}{@{\extracolsep{5pt}}lccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{5}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-6} 
+\\[-1.8ex] & \multicolumn{5}{c}{Log(long-run citations)} \\ 
+\\[-1.8ex] & (1) & (2) & (3) & (4) & (5)\\ 
+\hline \\[-1.8ex] 
+ Log(early citations) & 0.758$^{***}$ & 0.717$^{***}$ & 0.784$^{***}$ & 0.757$^{***}$ &  \\ 
+  & (0.021) & (0.023) & (0.020) & (0.021) &  \\ 
+  & & & & & \\ 
+ Fast starter &  &  &  &  & 1.018$^{***}$ \\ 
+  &  &  &  &  & (0.046) \\ 
+  & & & & & \\ 
+ N authors &  & 0.012 & 0.012 & 0.022 & 0.082$^{***}$ \\ 
+  &  & (0.022) & (0.018) & (0.019) & (0.025) \\ 
+  & & & & & \\ 
+ Top institution &  & 0.105$^{**}$ & 0.064$^{*}$ & 0.087$^{**}$ & 0.208$^{***}$ \\ 
+  &  & (0.041) & (0.034) & (0.039) & (0.050) \\ 
+  & & & & & \\ 
+ Log(article length) &  & 0.163$^{**}$ & 0.226$^{**}$ & 0.087 & 0.306$^{***}$ \\ 
+  &  & (0.065) & (0.091) & (0.099) & (0.115) \\ 
+  & & & & & \\ 
+ Title length (characters) &  & $-$0.0003 & 0.0001 & $-$0.001$^{*}$ & $-$0.001 \\ 
+  &  & (0.001) & (0.001) & (0.001) & (0.001) \\ 
+  & & & & & \\ 
+ Article position in issue &  & $-$0.026$^{***}$ & $-$0.023$^{***}$ & $-$0.019$^{***}$ & $-$0.036$^{***}$ \\ 
+  &  & (0.006) & (0.006) & (0.006) & (0.008) \\ 
+  & & & & & \\ 
+ Issue number &  & $-$0.011 & 0.004 & 0.001 & $-$0.045$^{**}$ \\ 
+  &  & (0.015) & (0.014) & (0.015) & (0.019) \\ 
+  & & & & & \\ 
+ Constant & 1.887$^{***}$ & 1.562$^{***}$ &  &  &  \\ 
+  & (0.044) & (0.216) &  &  &  \\ 
+  & & & & & \\ 
+\hline \\[-1.8ex] 
+Journal FE & No & No & Yes & Yes & Yes \\ 
+Year FE & No & No & Yes & Yes & Yes \\ 
+Topic FE & No & No & No & Yes & Yes \\ 
+Observations & 1,262 & 1,262 & 1,262 & 1,025 & 1,025 \\ 
+R$^{2}$ & 0.558 & 0.572 & 0.692 & 0.707 & 0.476 \\ 
+Adjusted R$^{2}$ & 0.558 & 0.569 & 0.687 & 0.697 & 0.458 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{5}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+ & \multicolumn{5}{r}{Heteroskedasticity-robust standard errors in parentheses.} \\ 
+\end{tabular} 
+\end{table} 
+Saved: Table2_MainResults.tex
+
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Wed, Aug 19, 2026 - 03:34:24
+\begin{table}[!htbp] \centering 
+  \caption{Summary Statistics} 
+  \label{tab:sumstats} 
+\begin{tabular}{@{\extracolsep{5pt}} cccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Variable & N & Mean & SD & Min & Max \\ 
+\hline \\[-1.8ex] 
+Early citations (age 2) & $1,262$ & $7.110$ & $10.900$ & $0$ & $210$ \\ 
+Long-run citations & $1,262$ & $34.430$ & $44.380$ & $0$ & $838$ \\ 
+Citation growth & $1,262$ & $27.310$ & $37.640$ & $$-$2$ & $754$ \\ 
+N authors & $1,262$ & $1.790$ & $0.850$ & $1$ & $8$ \\ 
+Top institution & $1,262$ & $0.230$ & $0.420$ & $0$ & $1$ \\ 
+Fast starter & $1,262$ & $0.260$ & $0.440$ & $0$ & $1$ \\ 
+\hline \\[-1.8ex] 
+\multicolumn{6}{l}{Estimation sample: 1262 papers from the four core economic history journals.} \\ 
+\end{tabular} 
+\end{table} 
+Saved: Table1_SummaryStats.tex
+
+    model     variable      coef  se_robust se_classical     N        r2
+   <char>       <char>     <num>      <num>        <num> <int>     <num>
+1:     M1    log_early 0.7579079 0.02133528   0.01900557  1262 0.5579366
+2:     M2    log_early 0.7166448 0.02254515   0.02026651  1262 0.5718136
+3:     M3    log_early 0.7837838 0.01966745   0.01777665  1262 0.6916993
+4:     M4    log_early 0.7565800 0.02131556   0.01922970  1025 0.7074355
+5:     M5 fast_starter 1.0179104 0.04591740   0.04931064  1025 0.4756665
+
+Saved: results/res_02_main.rds

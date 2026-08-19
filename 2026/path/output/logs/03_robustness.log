@@ -1,0 +1,60 @@
+====================================================================
+  03_robustness -- run date: 2026-08-19 03:34 
+====================================================================
+
+1. Leave-one-journal-out:
+       excluded      coef         se
+         <char>     <num>      <num>
+1:          EHR 0.7907494 0.02283394
+2: Explorations 0.7922882 0.01998037
+3:          JEH 0.7905699 0.02052401
+4:         EREH 0.7661724 0.01924043
+   Range: 0.766 - 0.792 
+
+2. Leave-one-year-out:
+   Range: 0.767 - 0.802 
+
+3. Bootstrap (200 replications):
+   Analytical SE: 0.0178 
+   Bootstrap SE: 0.0182 
+
+4. Fast starter threshold sensitivity:
+   threshold     coef         se
+      <char>    <num>      <num>
+1:   Top 50% 1.018781 0.03865951
+2:   Top 40% 1.022218 0.03893845
+3:   Top 30% 1.055704 0.04174958
+4:   Top 25% 1.083705 0.04518389
+5:   Top 20% 1.133465 0.04833502
+6:   Top 10% 1.333976 0.06561958
+
+5. Extended sample with age-3 fallback:
+   Main sample (age 5-8): 1262 papers, years 2012 - 2021 
+   Extended sample (age 3-8): 1518 papers, years 2012 - 2023 
+   Long-run source breakdown:
+   longrun_source     N
+           <char> <int>
+1:           age3   256
+2:           age5   383
+3:           age8   879
+
+   Main sample coef (M3): 0.7838 (robust SE: 0.0197 , N = 1262 )
+   Extended sample coef: 0.8151 (robust SE: 0.017 , N = 1518 )
+
+6. Post-age-two citation growth (flow outcome, removes overlap):
+   Growth elasticity (post-age-2): 0.6706 (robust SE: 0.0233 , N = 1262 )
+   Share of papers with zero post-age-2 growth: 1 %
+
+7. PPML (Poisson pseudo-maximum likelihood) on citation levels:
+   log_early: 0.8454 (robust SE: 0.0354 , N = 1262 )
+
+8. Topic FE with 'other' retained as a level:
+   log_early: 0.77 (robust SE: 0.0198 , N = 1262 )  [vs M4 excluding 'other']
+
+9. M3 without the top-institution control:
+   log_early: 0.7873 (robust SE: 0.0194 , N = 1262 )
+
+10. M3 on the RePEc-matched subsample:
+   log_early: 0.7997 (robust SE: 0.0266 , N = 732 )
+
+Saved: results/res_03_robustness.rds

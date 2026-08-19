@@ -1,0 +1,120 @@
+====================================================================
+  05_conference -- run date: 2026-08-19 03:34 
+====================================================================
+
+Loaded 3627 conference papers
+   conference     N
+       <char> <int>
+1:        EHS  2621
+2:        EHA  1006
+
+Matching conference papers to journal dataset...
+  Running author-validated fuzzy matching...
+  Skipping 61 entries (NA or short titles)
+    Processed 1000 entries, 47 matches so far
+    Processed 2000 entries, 92 matches so far
+    Processed 3000 entries, 128 matches so far
+
+  Successfully matched 146 conference entries
+  By conference and tier:
+   conference match_tier     N
+       <char>     <char> <int>
+1:        EHA          A    23
+2:        EHA          B    20
+3:        EHS          A    38
+4:        EHS          B    65
+
+  Sample author-validated (tier B) matches for inspection:
+    [0.10] CONF: Laissez-faire, the Irish Famine, and British financial c
+           JRNL: Laissez-faire, the Irish famine, and British financial c
+    [0.11] CONF: Land Abundance and Economic Institutions: Egba Land and 
+           JRNL: Land Abundance And Economic Institutions: Egba Land And 
+    [0.11] CONF: World War II and the industrialisation of the American S
+           JRNL: World War II and the Industrialization of the American S
+    [0.11] CONF: Ecological Frontiers on the Grasslands of Kansas: Change
+           JRNL: Ecological Frontiers On The Grasslands Of Kansas: Change
+    [0.11] CONF: British Relative Economic Decline Revisited
+           JRNL: British Relative Economic Decline Revisited: The Role Of
+    [0.12] CONF: Winners and Losers: The Asymmetric Impact of Tariff Prot
+           JRNL: Winners and Losers: The Asymmetric Impact of Tariff Prot
+    [0.12] CONF: The Nitrogen Hypothesis and the English Agricultural Rev
+           JRNL: The Nitrogen Hypothesis And The English Agricultural Rev
+    [0.13] CONF: Infant mortality and the health of survivors: Britain, 
+           JRNL: Infant Mortality And The Health Of Survivors: Britain, 1
+    [0.14] CONF: English county populations in the later 18th century
+           JRNL: English County Populations In The Later Eighteenth Centu
+    [0.14] CONF: Female Educational Attainment, Marriage, and Fertility: 
+           JRNL: Women’s educational attainment, marriage, and fertilit
+    [0.14] CONF: The Impact of Female Employment on Male Wages and Career
+           JRNL: The Impact Of Female Employment On Male Salaries And Car
+    [0.14] CONF: Transportation and Health in a Developing Country: The U
+           JRNL: Transportation and Health in the Antebellum United State
+
+Creating conference variables...
+  Papers at any conference: 141 
+    via EHA: 43   via EHS: 102 
+  In estimation sample: 85 
+
+=== CONFERENCE PREMIUM REGRESSION ===
+
+Model C1: Any conference presentation effect (EHA clean + EHS)
+  N presenters: 85 
+  presented_at_conference: 0.07 (robust SE: 0.0558 )
+
+=== SESSION-TIMING (EHA) BALANCE & POWER CHECK ===
+
+  EHA-matched papers in estimation sample: 28 
+  Session-order distribution:
+   eha_session_order     N
+               <int> <int>
+1:                 1     7
+2:                 2    11
+3:                 3     3
+4:                 4     6
+5:                 5     1
+  Pre-lunch (last AM): 11   Post-lunch (first PM): 3 
+
+  Balance (normalised mean difference, pre vs post lunch):
+    log_early      NMD = -0.031  (t-test p = 0.948)
+    fast_starter   NMD =  0.826  (t-test p = 0.082)
+    any_top_inst   NMD = -0.304  (t-test p = 0.703)
+    n_authors      NMD =  0.763  (t-test p = 0.104)
+
+  Power gate: pre = 11, post = 3, minimum per cell = 25  ->  UNDERPOWERED
+  -> Too few matched papers fall in the lunch-adjacent slots for
+     inference. Reported as inconclusive in the paper.
+
+--- Author-based conference exposure ---
+
+  Unique presenter last names: 3024 
+  Conference years covered: 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 
+  Papers with author conference exposure: 1049 / 3250 ( 32.3 %)
+  In estimation sample: 542 / 1262 ( 42.9 %)
+
+=== AUTHOR-BASED CONFERENCE EXPOSURE REGRESSIONS ===
+
+Model C2: Author conference exposure (broad measure)
+  author_conf_exposure: 0.0529 (robust SE: 0.0304 )
+
+Model C3: Title-matched + author exposure (joint)
+  presented_at_conference: 0.0587 (robust SE: 0.0562 )
+  author_conf_exposure: 0.0492 (robust SE: 0.0306 )
+
+--- Placebo conference ( 1000 permutations) ---
+True conference coefficient: 0.07 
+  Permutation 100 / 1000 
+  Permutation 200 / 1000 
+  Permutation 300 / 1000 
+  Permutation 400 / 1000 
+  Permutation 500 / 1000 
+  Permutation 600 / 1000 
+  Permutation 700 / 1000 
+  Permutation 800 / 1000 
+  Permutation 900 / 1000 
+  Permutation 1000 / 1000 
+Empirical p-value: 0.1630 
+  Mean placebo: 0.0112 
+  SD placebo: 0.0597 
+
+Saved: results/conference_flags.rds
+Saved: results/res_05_conference.rds
