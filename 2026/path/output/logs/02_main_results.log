@@ -1,5 +1,5 @@
 ====================================================================
-  02_main_results -- run date: 2026-08-19 03:34 
+  02_main_results -- run date: 2026-08-19 04:07 
 ====================================================================
 
 M1 (OLS)                     log_early = 0.7579 (robust SE 0.0213), N = 1262
@@ -10,7 +10,7 @@ M5 (binary fast starter)     fast_starter = 1.0179 (robust SE 0.0459), N = 1025
 
 
 % Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
-% Date and time: Wed, Aug 19, 2026 - 03:34:24
+% Date and time: Wed, Aug 19, 2026 - 04:07:32
 \begin{table}[!htbp] \centering 
   \caption{Early citations and long-run citations} 
   \label{tab:main} 
@@ -66,7 +66,7 @@ Saved: Table2_MainResults.tex
 
 
 % Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
-% Date and time: Wed, Aug 19, 2026 - 03:34:24
+% Date and time: Wed, Aug 19, 2026 - 04:07:32
 \begin{table}[!htbp] \centering 
   \caption{Summary Statistics} 
   \label{tab:sumstats} 

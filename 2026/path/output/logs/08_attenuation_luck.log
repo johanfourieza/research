@@ -1,5 +1,5 @@
 ====================================================================
-  08_attenuation_luck -- run date: 2026-08-19 03:35 
+  08_attenuation_luck -- run date: 2026-08-19 04:08 
 ====================================================================
 
 --- 8.1 Fast-starter attenuation (OLS) ---
@@ -18,7 +18,7 @@ Saved: Table3_FastStarterAttenuation.csv
 Predictability of log(early citations) -- share of variance explained:
   Journal+year+topic FE only      : R2 = 0.110
   + article observables           : R2 = 0.222
-  + author quality (N=732)        : R2 = 0.247
+  + author quality (N=724)        : R2 = 0.243
   -> fundamentals explain ~22% of early-citation variation.
 
 --- 8.3 Decomposition of early citations ---

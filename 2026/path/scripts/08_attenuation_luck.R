@@ -83,7 +83,16 @@ ly <- est$log_early
 pred_fe  <- felm(log_early ~ 1 | journal + year + topic, data = est)
 pred_obs <- felm(log_early ~ article_position + issue_no + n_authors + any_top_inst +
                    log_article_length + title_nchar | journal + year + topic, data = est)
-sub_q <- est[!is.na(team_max_seniority)]
+# Complete-case subsample for the author-quality specification, so that the
+# reported R2 (1 - SSR/SST) and N refer to the SAME set of papers. The h-index
+# is missing for a few RePEc-matched articles, so restricting to non-missing
+# seniority alone (732) would compute SSR over the 724 papers felm actually
+# fits but SST over 732 -- an inconsistent R2. The article-quality controls
+# require all of the following to be present:
+qual_vars <- c("article_position", "issue_no", "n_authors", "any_top_inst",
+               "log_article_length", "title_nchar", "team_max_seniority",
+               "team_max_hindex", "paper_won_prize", "author_won_dissertation_prize")
+sub_q <- est[complete.cases(est[, ..qual_vars])]
 pred_qual <- felm(log_early ~ article_position + issue_no + n_authors + any_top_inst +
                     log_article_length + title_nchar + team_max_seniority + team_max_hindex +
                     paper_won_prize + author_won_dissertation_prize | journal + year + topic,
