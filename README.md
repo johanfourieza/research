@@ -19,6 +19,7 @@ stage.
 | [`2026/handedness/`](2026/handedness/) | Invisible Handedness: The Myth of Left–Right Batting Partnerships | Fourie & Siebrits (2026), *Journal of Sports Economics* (revise and resubmit) |
 | [`2026/path/`](2026/path/) | Testing for Path Dependence in Economic History Publications | Fourie (2026), *Cliometrica* (revise and resubmit) |
 | [`2026/sac/`](2026/sac/) | Discrimination After Hiring: Within-Firm Sorting, Slow Employer Learning, and the Cost to the Sorted Worker | Fourie, Inwood & Mariotti (2026), submitted to *Labour Economics* |
+| [`2026/unequal_visibility/`](2026/unequal_visibility/) | The Unequal Visibility of Epidemic Death: Smallpox at the Cape, 1713 | Fourie (2026), working paper |
 | [`2026/uprooted/`](2026/uprooted/) | Uprooted: Migration, Coercion, and the Roots of Social Connectedness | Fourie (2026), *Economic Inquiry* (submitted) |
 | [`2026/voortrekker/`](2026/voortrekker/) | Demographic Pressure, Emancipation and Selection into the Great Trek | Fourie & Links (2026), *European Review of Economic History* |
 

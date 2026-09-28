@@ -1,0 +1,13 @@
+record,group,index_range,men,events,rate,ci_lo,ci_hi
+estate_document,low,<= 0.5,151,2,0.013245,0.003640,0.047002
+estate_document,middle,> 0.5 and <= 20,84,9,0.107143,0.057400,0.191246
+estate_document,high,> 20,113,16,0.141593,0.089073,0.217680
+widow_entry,low,<= 0.5,151,0,0.000000,0.000000,0.024809
+widow_entry,middle,> 0.5 and <= 20,84,4,0.047619,0.018672,0.116133
+widow_entry,high,> 20,113,7,0.061947,0.030328,0.122370
+combined_death_record,low,<= 0.5,151,2,0.013245,0.003640,0.047002
+combined_death_record,middle,> 0.5 and <= 20,84,11,0.130952,0.074722,0.219461
+combined_death_record,high,> 20,113,20,0.176991,0.117597,0.257624
+genealogical_presence,low,<= 0.5,151,0,0.000000,0.000000,0.024809
+genealogical_presence,middle,> 0.5 and <= 20,84,7,0.083333,0.040953,0.162157
+genealogical_presence,high,> 20,113,23,0.203540,0.139633,0.286940

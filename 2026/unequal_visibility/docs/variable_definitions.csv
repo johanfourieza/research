@@ -1,0 +1,78 @@
+file,variable,description,type
+probate_documents_by_year.csv,year,Calendar year of the document date,integer
+probate_documents_by_year.csv,documents,Dated MOOC8 estate documents across the Cape,integer
+widow_entries_by_year.csv,year,Roll year,integer
+widow_entries_by_year.csv,entries,Enumerated entries with a male name or widow status,integer
+widow_entries_by_year.csv,widows,Entries with widow status,integer
+widow_entries_by_year.csv,widow_share,widows / entries,numeric
+cohort_by_resource_group.csv,group,"Adult slaves recorded in 1712: low (0), middle (1-4), high (5+)",string
+cohort_by_resource_group.csv,adult_slaves,"Group label: 0, 1-4 or 5+",string
+cohort_by_resource_group.csv,men,Individually named men in the group,integer
+cohort_by_resource_group.csv,share,Share of the 348 men,numeric
+cohort_by_resource_group.csv,mean_adult_slaves,Mean adult slaves recorded,numeric
+cohort_by_resource_group.csv,mean_cattle,Mean cattle (cows and oxen),numeric
+cohort_by_resource_group.csv,mean_sheep,Mean sheep,numeric
+cohort_by_resource_group.csv,mean_resource_index,Mean of adult slaves + 0.5 x (cattle + horses) + 0.1 x sheep,numeric
+cohort_by_resource_group.csv,wife_named,"Men with a wife recorded (entries, not marriages)",integer
+death_records_by_group.csv,sample,all_men (Table 2) or wife_named,string
+death_records_by_group.csv,record,"estate_document, widow_entry, combined_death_record or genealogical_presence (not a death outcome)",string
+death_records_by_group.csv,group,"low, middle or high (adult slaves recorded)",string
+death_records_by_group.csv,adult_slaves,"Group label: 0, 1-4 or 5+",string
+death_records_by_group.csv,men,Men in the group and sample,integer
+death_records_by_group.csv,events,Men with the record,integer
+death_records_by_group.csv,rate,events / men,numeric
+death_records_by_group.csv,ci_lo,Lower 95% Wilson bound,numeric
+death_records_by_group.csv,ci_hi,Upper 95% Wilson bound,numeric
+resource_index_death_records.csv,record,"Evidence type, as in death_records_by_group.csv",string
+resource_index_death_records.csv,group,"Resource-index third: low, middle or high",string
+resource_index_death_records.csv,index_range,Index values in the group,string
+resource_index_death_records.csv,men,Men in the group,integer
+resource_index_death_records.csv,events,Men with the record,integer
+resource_index_death_records.csv,rate,events / men,numeric
+resource_index_death_records.csv,ci_lo,Lower 95% Wilson bound,numeric
+resource_index_death_records.csv,ci_hi,Upper 95% Wilson bound,numeric
+source_rule_death_records.csv,source_rule,"records_dated_1713, records_dated_1713_14 (primary) or excluding_incidental_mentions",string
+source_rule_death_records.csv,group,"low, middle or high",string
+source_rule_death_records.csv,adult_slaves,Group label,string
+source_rule_death_records.csv,men,Men in the group,integer
+source_rule_death_records.csv,events,Confirmed deaths under the rule,integer
+source_rule_death_records.csv,rate,events / men,numeric
+source_rule_death_records.csv,ci_lo,Lower 95% Wilson bound,numeric
+source_rule_death_records.csv,ci_hi,Upper 95% Wilson bound,numeric
+identity_scenarios.csv,roemond_assignment,"Surname-only 1714 widow entry: unassigned, older_candidate or younger_candidate",string
+identity_scenarios.csv,lombart_added,true if the unresolved Lombart widow is also assigned,logical
+identity_scenarios.csv,confirmed_total,Confirmed deaths in the scenario,integer
+identity_scenarios.csv,events_low,"Confirmed deaths, 0 adult slaves",integer
+identity_scenarios.csv,events_middle,"Confirmed deaths, 1-4",integer
+identity_scenarios.csv,events_high,"Confirmed deaths, 5+",integer
+identity_scenarios.csv,ratio_low_high,Low-to-high combined recorded-death ratio,numeric
+identity_scenarios.csv,equal_mortality_threshold,1 / ratio_low_high,numeric
+denominator_sensitivity.csv,specification,"primary, one_person_per_unresolved_pair or two_people_per_unresolved_pair",string
+denominator_sensitivity.csv,men,Cohort size,integer
+denominator_sensitivity.csv,men_low,Men with no adult slaves recorded,integer
+denominator_sensitivity.csv,ratio_low_high,Low-to-high combined recorded-death ratio,numeric
+continuation_cells.csv,specification,"primary, three_year_baseline, long_search or three_year_baseline_long_search",string
+continuation_cells.csv,window,"Window year: 1709, 1710, 1713, 1718 or 1721",integer
+continuation_cells.csv,group,low (no adult slaves recorded) or owner (at least one),string
+continuation_cells.csv,rule,"guarded_names, permissive_fallback or unique_target",string
+continuation_cells.csv,entries,Baseline entries,integer
+continuation_cells.csv,flags,Entries failing the continuation criterion (not deaths),integer
+continuation_cells.csv,rate,flags / entries,numeric
+continuation_estimates.csv,specification,As in continuation_cells.csv,string
+continuation_estimates.csv,quantity,"DD_name, DD_permissive, DD_unique, permissive_minus_name or unique_minus_name",string
+continuation_estimates.csv,estimate,Common-weight log contrast,numeric
+continuation_estimates.csv,se,Standard error clustered on full-name keys,numeric
+continuation_estimates.csv,ci_lo,Lower 95% bound,numeric
+continuation_estimates.csv,ci_hi,Upper 95% bound,numeric
+continuation_estimates.csv,p,Two-sided p-value,numeric
+continuation_estimates.csv,clusters,Number of full-name-key clusters,integer
+continuation_windows.csv,specification,As in continuation_cells.csv,string
+continuation_windows.csv,window,Window year,integer
+continuation_windows.csv,baseline_rule,last_roll or three_year,string
+continuation_windows.csv,baseline_rolls,Baseline roll years (semicolon-separated),string
+continuation_windows.csv,search_rolls,Search roll years (semicolon-separated),string
+continuation_windows.csv,n_search_rolls,Number of observed search rolls,integer
+asset_column_coverage_1712.csv,district,Stellenbosch or Drakenstein,string
+asset_column_coverage_1712.csv,variable,Asset column in the 1712 transcription,string
+asset_column_coverage_1712.csv,positive_entries,Cells with a positive entry,integer
+asset_column_coverage_1712.csv,nonmissing,Non-missing cells,integer

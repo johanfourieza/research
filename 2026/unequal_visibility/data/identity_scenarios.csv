@@ -1,0 +1,7 @@
+roemond_assignment,lombart_added,confirmed_total,events_low,events_middle,events_high,ratio_low_high,equal_mortality_threshold
+unassigned,false,33,16,7,10,0.296296,3.375000
+unassigned,true,34,16,8,10,0.296296,3.375000
+older_candidate,false,34,16,7,11,0.269360,3.712500
+older_candidate,true,35,16,8,11,0.269360,3.712500
+younger_candidate,false,34,17,7,10,0.314815,3.176471
+younger_candidate,true,35,17,8,10,0.314815,3.176471

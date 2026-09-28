@@ -1,0 +1,13 @@
+district,variable,positive_entries,nonmissing
+Stellenbosch,slave_men,40,40
+Drakenstein,slave_men,64,64
+Stellenbosch,slave_women,20,20
+Drakenstein,slave_women,24,24
+Stellenbosch,cattle_work,59,59
+Drakenstein,cattle_work,109,109
+Stellenbosch,cattle_cows,44,44
+Drakenstein,cattle_cows,86,86
+Stellenbosch,horses,91,91
+Drakenstein,horses,130,130
+Stellenbosch,sheep,44,44
+Drakenstein,sheep,81,81

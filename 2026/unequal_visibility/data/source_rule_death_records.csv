@@ -1,0 +1,10 @@
+source_rule,group,adult_slaves,men,events,rate,ci_lo,ci_hi
+records_dated_1713,low,0,243,9,0.037037,0.019606,0.068878
+records_dated_1713,middle,1-4,60,6,0.100000,0.046643,0.201495
+records_dated_1713,high,5+,45,9,0.200000,0.108961,0.338230
+records_dated_1713_14,low,0,243,16,0.065844,0.040932,0.104268
+records_dated_1713_14,middle,1-4,60,7,0.116667,0.057677,0.221788
+records_dated_1713_14,high,5+,45,10,0.222222,0.125447,0.362693
+excluding_incidental_mentions,low,0,243,12,0.049383,0.028472,0.084319
+excluding_incidental_mentions,middle,1-4,60,7,0.116667,0.057677,0.221788
+excluding_incidental_mentions,high,5+,45,10,0.222222,0.125447,0.362693
