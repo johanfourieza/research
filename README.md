@@ -15,6 +15,7 @@ stage.
 | Folder | Project | Paper |
 |---|---|---|
 | [`2026/1713smallpox/`](2026/1713smallpox/) | A Disease Never Seen Here: Measuring the Severity of the 1713 Smallpox Epidemic at the Cape | Fourie (2026), submitted to *The History of the Family* |
+| [`2026/dismal-science-south-africa/`](2026/dismal-science-south-africa/) | The Dismal State of the Dismal Science in South Africa | Fourie (2026), submitted to the *South African Journal of Economics* |
 | [`2026/follow-on/`](2026/follow-on/) | Do Cricket Captains Maximise Winning? Evidence from 125 Years of the Follow-On Rule | Fourie (2026), working paper |
 | [`2026/handedness/`](2026/handedness/) | Invisible Handedness: The Myth of Left–Right Batting Partnerships | Fourie & Siebrits (2026), *Journal of Sports Economics* (revise and resubmit) |
 | [`2026/path/`](2026/path/) | Testing for Path Dependence in Economic History Publications | Fourie (2026), *Cliometrica* (revise and resubmit) |

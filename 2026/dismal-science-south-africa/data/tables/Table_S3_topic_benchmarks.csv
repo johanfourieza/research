@@ -1,0 +1,7 @@
+Portfolio,Topic,Baseline,Period only,Linear time,Matched eight,Leave-one-out
+Domestic,Firms,0.60,0.64,0.61,0.54,0.56-0.64
+Domestic,Households,1.06,1.29,1.09,1.41,1.04-1.12
+Domestic,Finance,1.37,1.25,1.38,1.46,1.30-1.53
+About SA,Firms,0.61,0.64,0.61,0.57,0.58-0.65
+About SA,Households,4.02,4.70,4.13,5.00,3.92-4.22
+About SA,Finance,0.24,0.22,0.26,0.27,0.23-0.27

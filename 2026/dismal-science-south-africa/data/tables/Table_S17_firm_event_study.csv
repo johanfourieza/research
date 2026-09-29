@@ -1,0 +1,5 @@
+Estimator,Estimate (pp),Placebo rank,Tail fraction,Placebo SD (pp)
+"Two-way fixed effects, SA x post-2016",-0.09,26 of 26,1.00,3.39
+"Event study, mean 2020-24 vs 2015",1.72,21 of 26,0.81,4.00
+"Synthetic control, mean post-2016 gap",-0.02,26 of 26,1.00,3.34
+"Placebo in time, SA x post-2012 on 2008-15",-1.92,12 of 26,0.46,2.87

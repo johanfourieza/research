@@ -1,0 +1,3 @@
+Comparison,Early articles,Late articles,Ratio,95% interval
+Fixed window,5,7,1.05,"[0.29, 4.18]"
+After peak,4,6,0.35,--

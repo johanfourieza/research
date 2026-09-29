@@ -1,0 +1,11 @@
+Subset,Window,Early,Late,Rate ratio,95% interval
+All nineteen journals,Fixed window,4.22,5.16,1.22,"[0.94, 1.60]"
+All nineteen journals,After peak,7.11,5.01,0.71,--
+Top five,Fixed window,2.14,1.27,0.59,"[0.25, 1.38]"
+Top five,After peak,3.63,0.97,0.27,--
+Top five and general,Fixed window,1.50,1.82,1.22,"[0.64, 2.36]"
+Top five and general,After peak,2.87,1.63,0.57,--
+Excluding WD and JAE,Fixed window,1.66,2.28,1.37,"[0.87, 2.18]"
+Excluding WD and JAE,After peak,2.41,2.22,0.92,--
+Balanced panel,Fixed window,4.31,5.24,1.22,"[0.93, 1.59]"
+Balanced panel,After peak,7.48,5.09,0.68,--
