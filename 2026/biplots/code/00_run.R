@@ -171,6 +171,7 @@ if(!"--analysis-only"%in%args) {
   stopifnot(is.finite(abs_from),is.finite(jel_line),jel_line>abs_from)
   # The public replication package (code, aggregate results, documentation).
   # The URL identifies the authors, so it appears only on the title page.
+  ai_statement<-"The authors used generative AI tools at all stages of this research, including data management, coding, hypothesis testing, and drafting and reviewing the manuscript. These tools were Claude Code (Anthropic; Claude Opus and Fable models) and OpenAI Codex (Sol and Astra models). Refine.ink provided an additional AI-assisted review of the manuscript. The authors reviewed and verified all AI-generated output and take full responsibility for the content of the final version."
   data_url<-"https://github.com/johanfourieza/research/tree/main/2026/biplots"
   data_statement<-function(url)paste0("The code, aggregate results and documentation that support the findings of this study are openly available at ",url,". Access to the underlying transcriptions requires permission from their custodians.")
   statements<-c("\\section*{Funding}",
@@ -179,7 +180,7 @@ if(!"--analysis-only"%in%args) {
     "\\section*{Data availability statement}",
     data_statement(paste0("\\url{",data_url,"}")),
     "\\section*{Declaration of generative AI use}",
-    "OpenAI Codex assisted with revision planning, code revision and execution, diagnostic checks, literature verification, and drafting and editing the manuscript and referee response. Anthropic's Claude assisted with editing the manuscript for readability. The authors are responsible for the analysis, source interpretations, citations and final text.")
+    ai_statement)
   title_source<-c(clean_source[seq_len(grep("^\\\\begin\\{document\\}",clean_source)[1]-1)],
     "\\begin{document}","\\maketitle",clean_source[abs_from:jel_line],statements,"\\end{document}")
   writeLines(title_source,"paper/title_page.tex",useBytes=TRUE);compile("title_page","paper")
@@ -208,7 +209,8 @@ if(!"--analysis-only"%in%args) {
     plain(clean_source[jel_line]),"",
     "Funding: This work was supported by the Riksbankens Jubileumsfond under the Cape of Good Hope Panel grant (M20-0041).",
     "Disclosure statement: The authors report there are no competing interests to declare.",
-    paste("Data availability:",data_statement(data_url)))
+    paste("Data availability:",data_statement(data_url)),
+    paste("Declaration of generative AI use:",ai_statement))
   con<-file("paper/title_page.txt",open="w",encoding="UTF-8");writeLines(title_txt,con);close(con)
   # Manuscript with author details for the journal: the clean manuscript plus
   # the funding and data-availability statements, which identify the authors
