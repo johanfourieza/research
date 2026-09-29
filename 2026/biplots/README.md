@@ -1,8 +1,8 @@
 # Biplots for Historical Household Data: Evidence from Cape Tax Records
 
 Replication code and aggregate results for Fourie, Lubbe, Nienkemper-Swanepoel
-and von Fintel (2026), under review at *Historical Methods: A Journal of
-Quantitative and Interdisciplinary History*.
+and von Fintel (2026), circulated as a LEAP working paper and under review at
+*Historical Methods: A Journal of Quantitative and Interdisciplinary History*.
 
 ## Overview
 
@@ -55,9 +55,9 @@ the scripts.
 
 ## Citation
 
-> Fourie, J., Lubbe, S., Nienkemper-Swanepoel, J. and von Fintel, D. (2026).
-> "Biplots for Historical Household Data: Evidence from Cape Tax Records."
-> Stellenbosch University. Under review, *Historical Methods*.
+> Fourie, Johan, Sugnet Lubbe, Johané Nienkemper-Swanepoel, and Dieter von
+> Fintel. 2026. "Biplots for historical household data: Evidence from Cape tax
+> records." Working Paper, Department of Economics, Stellenbosch University.
 
 ## Principal investigators
 

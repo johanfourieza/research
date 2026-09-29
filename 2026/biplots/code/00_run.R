@@ -3,24 +3,23 @@
 args<-commandArgs(trailingOnly=TRUE)
 script<-sub("^--file=","",grep("^--file=",commandArgs(),value=TRUE)[1])
 root<-normalizePath(file.path(dirname(script),".."),winslash="/");setwd(root)
-# A declared version selects Markdown when present; TeX is then generated.
-active_file<-"paper/active_manuscript.txt"
-active_stem<-if(file.exists(active_file))trimws(readLines(active_file,warn=FALSE)[1])else "manuscript"
-stopifnot(length(active_stem)==1L,!is.na(active_stem),grepl("^manuscript(_v[0-9]+)?$",active_stem))
-active_source<-file.path("paper",paste0(active_stem,".tex"))
-markdown_source<-file.path("paper",paste0(active_stem,".md"))
+# The paper is written in paper/manuscript.md. Every run converts it to
+# paper/manuscript.tex, which is a generated file and is never edited by hand.
+editing_source<-"paper/manuscript.md"
+active_source<-"paper/manuscript.tex"
 markdown_layout<-"paper/manuscript_layout.tex"
-markdown_builder<-"code/manuscript_markdown.R"
-if(file.exists(markdown_source)) {
-  source(markdown_builder)
-  render_manuscript_markdown(markdown_source,markdown_layout,active_source)
-}
-editing_source<-if(file.exists(markdown_source))markdown_source else active_source
+source("code/manuscript_markdown.R")
+render_manuscript_markdown(editing_source,markdown_layout,active_source)
 stopifnot(file.exists(active_source))
-if(active_stem!="manuscript")stopifnot(file.copy(active_source,"paper/manuscript.tex",overwrite=TRUE))
+# The frozen resubmission is the baseline for the marked copy of the next
+# round, so a reviewer sees only what changed since the version they read.
+submitted_dir<-file.path(root,"../archive/2026-09_HM_resubmission_R2/source")
 if(dir.exists("library")) .libPaths(c(normalizePath("library"),.libPaths()))
 Sys.setenv(R_LIBS=paste(.libPaths(),collapse=.Platform$path.sep),LC_ALL="C",OMP_NUM_THREADS="1",OPENBLAS_NUM_THREADS="1",MKL_NUM_THREADS="1")
-required<-c("tidyverse","readxl","here","digest","cluster","biplotEZ","FNN","Rtsne","uwot","ggplot2","ggrepel","patchwork","gifski","pdftools")
+# Compiling documents from saved results needs only the document packages;
+# the analysis packages are required only when the analysis itself runs.
+required<-if("--documents-only"%in%args)c("digest","pdftools") else
+  c("tidyverse","readxl","here","digest","cluster","biplotEZ","FNN","Rtsne","uwot","ggplot2","ggrepel","patchwork","gifski","pdftools")
 missing<-required[!vapply(required,requireNamespace,logical(1),quietly=TRUE)]
 if(length(missing))stop("Missing dependencies: ",paste(missing,collapse=", "))
 run_id<-format(Sys.time(),"%Y%m%d_%H%M%S");run_dir<-file.path(root,"docs/execution",run_id)
@@ -121,7 +120,7 @@ if(!"--documents-only"%in%args) {
   }
 } else check()
 coherence_script<-"docs/verification/check_manuscript.R"
-if(file.exists(coherence_script)&&file.exists(active_file))stage(coherence_script,"manuscript_coherence")
+if(file.exists(coherence_script))stage(coherence_script,"manuscript_coherence")
 ip<-installed.packages(fields=c("Repository","RemoteType","RemoteHost","RemoteRepo","RemoteUsername","RemoteRef","RemoteSha"))
 ip<-ip[!duplicated(ip[,"Package"]),,drop=FALSE]
 write.csv(ip[,intersect(c("Package","Version","Built","Repository","RemoteType","RemoteHost","RemoteRepo","RemoteUsername","RemoteRef","RemoteSha"),colnames(ip)),drop=FALSE],"docs/execution/dependency_manifest.csv",row.names=FALSE,na="")
@@ -152,8 +151,10 @@ compile<-function(stem,folder,bib=FALSE) {
   stopifnot(file.info(file.path(folder,paste0(stem,".pdf")))$size>1000)
 }
 if(!"--analysis-only"%in%args) {
-  configure_tex();compile("manuscript","paper",TRUE);compile("response_to_referees","referees")
-  if(active_stem!="manuscript")stopifnot(file.copy("paper/manuscript.pdf",file.path("paper",paste0(active_stem,".pdf")),overwrite=TRUE))
+  configure_tex();compile("manuscript","paper",TRUE)
+  # A response letter exists only while a revision round is open.
+  response_letter<-"referees/response_to_referees.tex"
+  if(file.exists(response_letter))compile("response_to_referees","referees")
   anonymise<-function(lines) {
     first<-grep("^\\\\author\\{",lines)[1];last<-grep("^\\\\date\\{",lines)[1]
     stopifnot(is.finite(first),is.finite(last),last>first)
@@ -226,18 +227,14 @@ if(!"--analysis-only"%in%args) {
   latexroot<-normalizePath(file.path(dirname(Sys.which("pdflatex")),"../../.."),winslash="/")
   ld<-file.path(latexroot,"scripts/latexdiff/latexdiff-so")
   if(!file.exists(ld))ld<-Sys.which("latexdiff")
-  old<-file.path(root,"../archive/2026-06_HM_submission_R1/manuscript.tex")
-  if(!file.exists(old))old<-file.path(root,"paper/submitted_manuscript.tex")
-  if(!file.exists(old)||!nzchar(perl)||!file.exists(ld))stop("Marked manuscript requires submitted source and latexdiff/Perl")
+  old<-file.path(submitted_dir,"manuscript.tex")
+  if(!file.exists(old)||!nzchar(perl)||!file.exists(ld))stop("Marked manuscript requires the archived submission and latexdiff/Perl")
   lines<-readLines(old,warn=FALSE,encoding="UTF-8")
-  baseline<-file.path(root,"docs/baseline_before_execution_20260908/output")
-  lines<-gsub("\\graphicspath{{./}}",paste0("\\graphicspath{{",baseline,"/figures/}}"),lines,fixed=TRUE)
-  lines<-gsub("\\def\\input@path{{./}}",paste0("\\def\\input@path{{",baseline,"/tables/}}"),lines,fixed=TRUE)
-  lines<-gsub("(\\\\includegraphics(\\[[^]]*\\])?\\{)([^}]+)(\\})",paste0("\\1",baseline,"/figures/\\3\\4"),lines,perl=TRUE)
-  lines<-gsub("(\\\\input\\{)([^}]+)(\\})",paste0("\\1",baseline,"/tables/\\2\\3"),lines,perl=TRUE)
+  # The archived source reads its own figures and tables; point it at them.
+  lines<-gsub("\\graphicspath{{figures/}}",paste0("\\graphicspath{{",submitted_dir,"/figures/}}"),lines,fixed=TRUE)
+  lines<-gsub("\\def\\input@path{{tables/}{./}}",paste0("\\def\\input@path{{",submitted_dir,"/tables/}{",submitted_dir,"/}}"),lines,fixed=TRUE)
   oldnorm<-file.path(root,".build/submitted_paths.tex");writeLines(lines,oldnorm,useBytes=TRUE)
-  old_bib_file<-file.path(dirname(old),"references.bib")
-  if(!file.exists(old_bib_file))old_bib_file<-file.path(root,"paper/submitted_references.bib")
+  old_bib_file<-file.path(submitted_dir,"references.bib")
   stopifnot(file.copy(old_bib_file,file.path(root,".build/references.bib"),overwrite=TRUE))
   command(Sys.which("pdflatex"),c("-interaction=nonstopmode","-halt-on-error","submitted_paths.tex"),
     file.path(run_dir,"submitted_reference_labels.log"),file.path(root,".build"))
@@ -245,8 +242,13 @@ if(!"--analysis-only"%in%args) {
   oldaux<-oldaux[startsWith(oldaux,"\\newlabel{")]
   oldkeys<-sub("^\\\\newlabel\\{([^}]+)\\}.*","\\1",oldaux)
   oldnumbers<-sub("^\\\\newlabel\\{[^}]+\\}\\{\\{([^}]*)\\}.*","\\1",oldaux)
-  # Deleted references retain submitted numbers without depending on labels
-  # deliberately removed from the revised document and its external tables.
+  # A reference whose label no longer exists in the current manuscript keeps
+  # its submitted number, so it does not break the marked copy. References
+  # that both versions share stay as \ref{}, so they are not marked as changed.
+  current_aux<-readLines("paper/manuscript.aux",warn=FALSE)
+  current_keys<-sub("^\\\\newlabel\\{([^}]+)\\}.*","\\1",current_aux[startsWith(current_aux,"\\newlabel{")])
+  retired<-!oldkeys%in%current_keys
+  oldkeys<-oldkeys[retired];oldnumbers<-oldnumbers[retired]
   for(i in seq_along(oldkeys)) {
     lines<-gsub(paste0("\\ref{",oldkeys[i],"}"),oldnumbers[i],lines,fixed=TRUE)
     lines<-gsub(paste0("\\eqref{",oldkeys[i],"}"),paste0("(",oldnumbers[i],")"),lines,fixed=TRUE)
@@ -263,8 +265,6 @@ if(!"--analysis-only"%in%args) {
     entries
   }
   current_bib<-bib_entries("paper/references.bib")
-  old_bib_file<-file.path(dirname(old),"references.bib")
-  if(!file.exists(old_bib_file))old_bib_file<-file.path(root,"paper/submitted_references.bib")
   old_bib<-bib_entries(old_bib_file)
   writeLines(unlist(c(current_bib,old_bib[setdiff(names(old_bib),names(current_bib))]),use.names=FALSE),"paper/references_marked.bib",useBytes=TRUE)
   use_marked_bib<-function(f) {
@@ -299,41 +299,19 @@ if(!"--analysis-only"%in%args) {
   if(status!=0L)stop("latexdiff failed")
   use_marked_bib("paper/manuscript_marked.tex")
   compile("manuscript_marked","paper",TRUE)
-  # The submitted author version names the grant and the authors' repository.
-  # Removing the author block alone would leave both visible as deleted text
-  # in the anonymous marked copy, so the baseline uses the wording of the
-  # anonymous version actually submitted for review.
-  submitted_anon<-anonymise(lines)
-  funding_at<-grep("^This work was supported by the Riksbankens Jubileumsfond",submitted_anon)
-  data_at<-grep("^The data and all code that support the findings of this study are openly available at",submitted_anon)
-  stopifnot(length(funding_at)==1L,length(data_at)==1L)
-  submitted_anon[funding_at]<-"[Funding information removed for anonymous review.]"
-  submitted_anon[data_at]<-"The data and all code that support the findings of this study will be made openly available in a public repository upon publication. The repository link is withheld here because it identifies the authors, and will be provided for the non-anonymous version of record."
-  writeLines(submitted_anon,file.path(root,".build/submitted_anonymous.tex"),useBytes=TRUE)
+  # The archived manuscript carries no funding or repository details (those
+  # sit on the title page), so removing its author block anonymises it.
+  writeLines(anonymise(lines),file.path(root,".build/submitted_anonymous.tex"),useBytes=TRUE)
   status<-system2(perl,c(shQuote(ld),"--type=CFONT","--encoding=utf8","--disable-citation-markup",shQuote(file.path(root,".build/submitted_anonymous.tex")),shQuote(file.path(root,"paper/manuscript_anonymous.tex"))),
     stdout="paper/manuscript_marked_anonymous.tex",stderr=file.path(run_dir,"latexdiff_anonymous.log"))
   if(status!=0L)stop("Anonymous latexdiff failed")
   use_marked_bib("paper/manuscript_marked_anonymous.tex")
   compile("manuscript_marked_anonymous","paper",TRUE)
-  # Compare the active revision with its predecessor without rebuilding the
-  # predecessor's PDF. Historical PDFs and sources remain preserved.
-  version_number <- suppressWarnings(as.integer(sub("^manuscript_v","",active_stem)))
-  previous_source <- if(is.finite(version_number))file.path("paper",paste0("manuscript_v",version_number-1L,".tex"))else ""
-  changes_stem <- paste0(active_stem,"_changes")
-  if(nzchar(previous_source)&&file.exists(previous_source)) {
-    status<-system2(perl,c(shQuote(ld),"--type=CFONT","--encoding=utf8","--disable-citation-markup",
-      shQuote(file.path(root,previous_source)),shQuote(file.path(root,active_source))),
-      stdout=file.path("paper",paste0(changes_stem,".tex")),stderr=file.path(run_dir,paste0("latexdiff_",active_stem,".log")))
-    if(status!=0L)stop(active_stem," comparison failed")
-    use_marked_bib(file.path("paper",paste0(changes_stem,".tex")))
-    compile(changes_stem,"paper",TRUE)
-  }
-  for(f in c("paper/manuscript.pdf","paper/manuscript_marked.pdf","referees/response_to_referees.pdf"))
+  for(f in c("paper/manuscript.pdf","paper/manuscript_marked.pdf"))
     writeLines(pdftools::pdf_text(f),file.path("docs/execution",paste0(tools::file_path_sans_ext(basename(f)),"_text.txt")),useBytes=TRUE)
-  document_files<-c("paper/manuscript.pdf","paper/manuscript_anonymous.pdf","paper/manuscript_marked.pdf",
-    "paper/manuscript_marked_anonymous.pdf","paper/title_page.pdf","referees/response_to_referees.pdf")
-  if(active_stem!="manuscript")document_files<-c(document_files,file.path("paper",paste0(active_stem,".pdf")))
-  if(file.exists(file.path("paper",paste0(changes_stem,".pdf"))))document_files<-c(document_files,file.path("paper",paste0(changes_stem,".pdf")))
+  document_files<-c("paper/manuscript.pdf","paper/manuscript_with_authors.pdf","paper/manuscript_anonymous.pdf",
+    "paper/manuscript_marked.pdf","paper/manuscript_marked_anonymous.pdf","paper/title_page.pdf",
+    if(file.exists(response_letter))"referees/response_to_referees.pdf")
   document_check<-do.call(rbind,lapply(document_files,function(f) {
     info<-pdftools::pdf_info(f);txt<-pdftools::pdf_text(f)
     stopifnot(info$pages==length(txt),info$pages>0,!isTRUE(info$encrypted))
@@ -345,16 +323,16 @@ if(!"--analysis-only"%in%args) {
 write.csv(if(length(timings))do.call(rbind,timings)else data.frame(stage=character(),seconds=numeric()),file.path(run_dir,"stage_times.csv"),row.names=FALSE)
 stopifnot(identical(raw_hashes,sha(raw_files)))
 stopifnot(identical(code_hashes,sha(production_scripts)))
-inputs<-unique(c(raw_files,list.files("code",pattern="\\.R$",full.names=TRUE),coherence_script,active_file,editing_source,markdown_layout,active_source,"paper/manuscript.tex","paper/references.bib","referees/response_to_referees.tex"));inputs<-inputs[file.exists(inputs)]
+inputs<-unique(c(raw_files,list.files("code",pattern="\\.R$",full.names=TRUE),coherence_script,editing_source,markdown_layout,active_source,"paper/references.bib","referees/response_to_referees.tex"));inputs<-inputs[file.exists(inputs)]
 write.csv(data.frame(file=inputs,sha256=sha(inputs)),"docs/execution/input_manifest.csv",row.names=FALSE)
 outputs<-c(list.files("output",recursive=TRUE,full.names=TRUE),list.files("data/analysis",full.names=TRUE),list.files("paper",pattern="\\.(pdf|tex|bib|md)$",full.names=TRUE),"referees/response_to_referees.pdf")
 outputs<-outputs[file.exists(outputs)&!dir.exists(outputs)]
 write.csv(data.frame(file=outputs,bytes=file.info(outputs)$size,sha256=sha(outputs)),"docs/execution/output_manifest.csv",row.names=FALSE)
 writeLines(c(paste("Run:",run_id),paste("UTC completion:",format(Sys.time(),tz="UTC",usetz=TRUE)),"Raw source hashes unchanged.",
-  paste("Active manuscript:",active_source),
-  paste("Editing source:",editing_source),
+  paste("Editing source:",editing_source,"(generates",active_source,")"),
+  paste("Marked copies compare against:",file.path("archive/2026-09_HM_resubmission_R2/source/manuscript.tex")),
   if(!is.null(comparison))paste(nrow(comparison),"CSV/RDS outputs agree across two clean builds at tolerance 1e-8.")else "No repeat comparison in this invocation; prior comparison retained separately.",
-  if("--analysis-only"%in%args)"Analytical outputs only in this invocation."else "Clean/marked manuscripts and referee response compiled; references checked."),"docs/execution/latest_run.txt")
+  if("--analysis-only"%in%args)"Analytical outputs only in this invocation."else "Clean, anonymous, author-details and marked manuscripts and title page compiled; references checked."),"docs/execution/latest_run.txt")
 if(!"--analysis-only"%in%args) {
   builder<-file.path(root,"../release/scripts/build_release.R")
   if(file.exists(builder))stage(builder,"local_release")
