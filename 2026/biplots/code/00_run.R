@@ -169,11 +169,15 @@ if(!"--analysis-only"%in%args) {
   abs_from<-grep("^\\\\begin\\{abstract\\}",clean_source)[1]
   jel_line<-grep("^\\\\noindent\\\\textbf\\{JEL codes:\\}",clean_source)[1]
   stopifnot(is.finite(abs_from),is.finite(jel_line),jel_line>abs_from)
+  # The public replication package (code, aggregate results, documentation).
+  # The URL identifies the authors, so it appears only on the title page.
+  data_url<-"https://github.com/johanfourieza/research/tree/main/2026/biplots"
+  data_statement<-function(url)paste0("The code, aggregate results and documentation that support the findings of this study are openly available at ",url,". Access to the underlying transcriptions requires permission from their custodians.")
   statements<-c("\\section*{Funding}",
     "This work was supported by the Riksbankens Jubileumsfond under the Cape of Good Hope Panel grant (M20-0041).",
     "\\section*{Disclosure statement}","The authors report there are no competing interests to declare.",
     "\\section*{Data availability statement}",
-    "Tables and numerical statements are generated from saved analysis objects. Code, documentation and aggregate results are available from the corresponding author. Access to the underlying transcriptions requires permission from their custodians.",
+    data_statement(paste0("\\url{",data_url,"}")),
     "\\section*{Declaration of generative AI use}",
     "OpenAI Codex assisted with revision planning, code revision and execution, diagnostic checks, literature verification, and drafting and editing the manuscript and referee response. Anthropic's Claude assisted with editing the manuscript for readability. The authors are responsible for the analysis, source interpretations, citations and final text.")
   title_source<-c(clean_source[seq_len(grep("^\\\\begin\\{document\\}",clean_source)[1]-1)],
@@ -203,8 +207,18 @@ if(!"--analysis-only"%in%args) {
     plain(grep("^\\\\noindent\\\\textbf\\{Keywords:\\}",clean_source,value=TRUE)),
     plain(clean_source[jel_line]),"",
     "Funding: This work was supported by the Riksbankens Jubileumsfond under the Cape of Good Hope Panel grant (M20-0041).",
-    "Disclosure statement: The authors report there are no competing interests to declare.")
+    "Disclosure statement: The authors report there are no competing interests to declare.",
+    paste("Data availability:",data_statement(data_url)))
   con<-file("paper/title_page.txt",open="w",encoding="UTF-8");writeLines(title_txt,con);close(con)
+  # Manuscript with author details for the journal: the clean manuscript plus
+  # the funding and data-availability statements, which identify the authors
+  # and are therefore withheld from the anonymous version.
+  bib_at<-grep("\\\\printbibliography",clean_source)[1]
+  stopifnot(is.finite(bib_at))
+  author_source<-append(clean_source,c("\\section*{Funding}",statements[2],"",
+    "\\section*{Data availability statement}",data_statement(paste0("\\url{",data_url,"}")),""),after=bib_at-1L)
+  writeLines(author_source,"paper/manuscript_with_authors.tex",useBytes=TRUE)
+  compile("manuscript_with_authors","paper",TRUE)
   perl<-Sys.which("perl")
   if(!nzchar(perl)&&file.exists("C:/Program Files/Git/usr/bin/perl.exe"))perl<-"C:/Program Files/Git/usr/bin/perl.exe"
   latexroot<-normalizePath(file.path(dirname(Sys.which("pdflatex")),"../../.."),winslash="/")
