@@ -1,0 +1,11 @@
+sample,stage,n,households
+Panel source,all source rows,142293,48380
+Regime D,nominal period 1804-1829,41969,15644
+Regime D,comparable columns before wholly blank returns excluded,28869,11747
+Regime D,comparable complete variables; no asset-count filter,20913,8072
+Regime D,old three-positive-variable rule within revised sample,13804,5125
+Regime B,comparable complete variables,39850,11350
+Bridge,comparable complete variables 1738-1825,60522,18787
+Colony,accepted head markers,9570,9570
+Colony,comparable columns before wholly blank returns excluded,9563,9563
+Colony,complete nonnegative active quantities; no ceiling exclusions,8405,8405

@@ -1,0 +1,265 @@
+district,sheet,variable,column,header
+Cape,Cape district 1825,settler_men,4,MALES ABOVE 16; FEMALES ABOVE 20 / Whites / Males
+Cape,Cape district 1825,settler_women,5,Females
+Cape,Cape district 1825,slaves_men,13,Slaves / Males
+Cape,Cape district 1825,slaves_women,14,Females
+Cape,Cape district 1825,slaves_sons,23,Slaves / Males
+Cape,Cape district 1825,slaves_daughters,24,Females
+Cape,Cape district 1825,khoe_men,7,Hottentots / Males
+Cape,Cape district 1825,khoe_women,8,Females
+Cape,Cape district 1825,khoe_sons,17,Hottentots / Males
+Cape,Cape district 1825,khoe_daughters,18,Females
+Cape,Cape district 1825,horses_saddle,25,Horses / Saddle
+Cape,Cape district 1825,horses_breeding,26,Breeding
+Cape,Cape district 1825,cattle_oxen,27,Cattle / Draught Oxen
+Cape,Cape district 1825,cattle_breeding,28,Breeding stock
+Cape,Cape district 1825,sheep_wethers,29,Wethers
+Cape,Cape district 1825,sheep_breeding,30,Sheep / Breeding
+Cape,Cape district 1825,sheep_wool,31,Spanish
+Cape,Cape district 1825,goats,33,Goats
+Cape,Cape district 1825,wheat_reaped,39,Quantity of Muids reaped / Wheat
+Cape,Cape district 1825,barley_reaped,40,Barley
+Cape,Cape district 1825,rye_reaped,41,Rye
+Cape,Cape district 1825,oats_reaped,42,Oats
+Cape,Cape district 1825,wine,45,Leaguers of wine made
+Cape,Cape district 1825,brandy,46,Leaguers of Brandy made
+Stellenbosch,Stellenbosch 1825,settler_men,5,White Inhabitants / Males
+Stellenbosch,Stellenbosch 1825,settler_women,6,Females
+Stellenbosch,Stellenbosch 1825,slaves_men,21,Slaves / Males above 16
+Stellenbosch,Stellenbosch 1825,slaves_women,23,Females above 14
+Stellenbosch,Stellenbosch 1825,slaves_sons,22,Males below 16
+Stellenbosch,Stellenbosch 1825,slaves_daughters,24,Females below 14
+Stellenbosch,Stellenbosch 1825,khoe_men,17,Hottentots / Males above 16
+Stellenbosch,Stellenbosch 1825,khoe_women,19,Females above 14
+Stellenbosch,Stellenbosch 1825,khoe_sons,18,Males below 16
+Stellenbosch,Stellenbosch 1825,khoe_daughters,20,Females below 14
+Stellenbosch,Stellenbosch 1825,horses_saddle,27,Horses / Saddle & Waggon
+Stellenbosch,Stellenbosch 1825,horses_breeding,28,Breeding
+Stellenbosch,Stellenbosch 1825,cattle_oxen,29,Black Cattle / Draught Oxen
+Stellenbosch,Stellenbosch 1825,cattle_breeding,30,Breeding Stock
+Stellenbosch,Stellenbosch 1825,sheep_wethers,31,Sheep / Wethers
+Stellenbosch,Stellenbosch 1825,sheep_breeding,32,Breeding
+Stellenbosch,Stellenbosch 1825,sheep_wool,33,Spanish
+Stellenbosch,Stellenbosch 1825,goats,35,Goats
+Stellenbosch,Stellenbosch 1825,wheat_reaped,41,Quantity of Muids Reaped / Wheat
+Stellenbosch,Stellenbosch 1825,barley_reaped,42,Barley
+Stellenbosch,Stellenbosch 1825,rye_reaped,44,Rye
+Stellenbosch,Stellenbosch 1825,oats_reaped,43,Oats
+Stellenbosch,Stellenbosch 1825,wine,47,Leagers made of / Wine
+Stellenbosch,Stellenbosch 1825,brandy,48,Brandy
+Graaff-Reinet,Graaff-Reinet 1825,settler_men,5,Families / Men
+Graaff-Reinet,Graaff-Reinet 1825,settler_women,6,Women
+Graaff-Reinet,Graaff-Reinet 1825,slaves_men,18,Slaves / Males / above 16
+Graaff-Reinet,Graaff-Reinet 1825,slaves_women,20,Females / above 20
+Graaff-Reinet,Graaff-Reinet 1825,slaves_sons,19,Males / below 16
+Graaff-Reinet,Graaff-Reinet 1825,slaves_daughters,21,Females / below 20
+Graaff-Reinet,Graaff-Reinet 1825,khoe_men,10,Hottentots / Males / above 16
+Graaff-Reinet,Graaff-Reinet 1825,khoe_women,12,Females / above 20
+Graaff-Reinet,Graaff-Reinet 1825,khoe_sons,11,Males / below 16
+Graaff-Reinet,Graaff-Reinet 1825,khoe_daughters,13,Females / below 20
+Graaff-Reinet,Graaff-Reinet 1825,horses_saddle,26,Livestock / Wagon & / saddle / horses
+Graaff-Reinet,Graaff-Reinet 1825,horses_breeding,27,Breeding / horses
+Graaff-Reinet,Graaff-Reinet 1825,cattle_oxen,28,Oxen
+Graaff-Reinet,Graaff-Reinet 1825,cattle_breeding,29,Breeding / cattle
+Graaff-Reinet,Graaff-Reinet 1825,sheep_wethers,30,Wethers
+Graaff-Reinet,Graaff-Reinet 1825,sheep_breeding,31,Breeding / sheep
+Graaff-Reinet,Graaff-Reinet 1825,sheep_wool,32,Spanish / sheep
+Graaff-Reinet,Graaff-Reinet 1825,goats,34,Goats
+Graaff-Reinet,Graaff-Reinet 1825,wheat_reaped,40,Muids reaped / Wheat
+Graaff-Reinet,Graaff-Reinet 1825,barley_reaped,41,Barley
+Graaff-Reinet,Graaff-Reinet 1825,rye_reaped,42,Rye
+Graaff-Reinet,Graaff-Reinet 1825,oats_reaped,43,Oats
+Graaff-Reinet,Graaff-Reinet 1825,wine,45,Leggers / of wine
+Graaff-Reinet,Graaff-Reinet 1825,brandy,46,Leggers / of brandy
+Swellendam,Swellendam 1825,settler_men,4,Families / Men
+Swellendam,Swellendam 1825,settler_women,5,Women
+Swellendam,Swellendam 1825,slaves_men,17,Slaves / Males above 16
+Swellendam,Swellendam 1825,slaves_women,19,Females above 20
+Swellendam,Swellendam 1825,slaves_sons,18,Males below 16
+Swellendam,Swellendam 1825,slaves_daughters,20,Females below 20
+Swellendam,Swellendam 1825,khoe_men,9,Hottentots / Males above 16
+Swellendam,Swellendam 1825,khoe_women,11,Females above 20
+Swellendam,Swellendam 1825,khoe_sons,10,Males below 16
+Swellendam,Swellendam 1825,khoe_daughters,12,Females below 20
+Swellendam,Swellendam 1825,horses_saddle,25,Horses / Saddle & Waggon
+Swellendam,Swellendam 1825,horses_breeding,26,Breeding
+Swellendam,Swellendam 1825,cattle_oxen,27,Black Cattle / Draught Oxen
+Swellendam,Swellendam 1825,cattle_breeding,28,Breeding Stock
+Swellendam,Swellendam 1825,sheep_wethers,29,Sheep / Wethers
+Swellendam,Swellendam 1825,sheep_breeding,30,Breeding
+Swellendam,Swellendam 1825,sheep_wool,31,Spanish
+Swellendam,Swellendam 1825,goats,33,Goats
+Swellendam,Swellendam 1825,wheat_reaped,39,Muids Reaped / Wheat
+Swellendam,Swellendam 1825,barley_reaped,40,Barley
+Swellendam,Swellendam 1825,rye_reaped,41,Rye
+Swellendam,Swellendam 1825,oats_reaped,42,Oats
+Swellendam,Swellendam 1825,wine,44,Leagers made of / Wine
+Swellendam,Swellendam 1825,brandy,45,Brandy
+Albany,Albany 1825,settler_men,6,Families / Men
+Albany,Albany 1825,settler_women,7,Women
+Albany,Albany 1825,slaves_men,19,Slaves / Males above 16
+Albany,Albany 1825,slaves_women,21,Females above 20
+Albany,Albany 1825,slaves_sons,20,Males under 16
+Albany,Albany 1825,slaves_daughters,22,Females under 20
+Albany,Albany 1825,khoe_men,11,Hottentots / Males above 16
+Albany,Albany 1825,khoe_women,13,Females above 20
+Albany,Albany 1825,khoe_sons,12,Males under 16
+Albany,Albany 1825,khoe_daughters,14,Females under 20
+Albany,Albany 1825,horses_saddle,27,Cattle / Waggon & Saddle Horses
+Albany,Albany 1825,horses_breeding,28,Breeding Horses
+Albany,Albany 1825,cattle_oxen,29,Oxen
+Albany,Albany 1825,cattle_breeding,30,Breeding Cattle
+Albany,Albany 1825,sheep_wethers,31,Wethers
+Albany,Albany 1825,sheep_breeding,32,Breeding Sheep
+Albany,Albany 1825,sheep_wool,33,Spanish Sheep
+Albany,Albany 1825,goats,35,Goats
+Albany,Albany 1825,wheat_reaped,41,Muids Reaped / Wheat
+Albany,Albany 1825,barley_reaped,42,Barley
+Albany,Albany 1825,rye_reaped,43,Rye
+Albany,Albany 1825,oats_reaped,44,Oats
+Albany,Albany 1825,wine,46,Leggers of wine made
+Albany,Albany 1825,brandy,47,Leggers of Brandy made
+Beaufort,Beaufort 1825,settler_men,6,Families / Men
+Beaufort,Beaufort 1825,settler_women,7,Women
+Beaufort,Beaufort 1825,slaves_men,19,Slaves / Males above 16
+Beaufort,Beaufort 1825,slaves_women,21,Females above 20
+Beaufort,Beaufort 1825,slaves_sons,20,Males under 16
+Beaufort,Beaufort 1825,slaves_daughters,22,Females under 20
+Beaufort,Beaufort 1825,khoe_men,11,Hottentots / Males above 16
+Beaufort,Beaufort 1825,khoe_women,13,Females above 20
+Beaufort,Beaufort 1825,khoe_sons,12,Males under 16
+Beaufort,Beaufort 1825,khoe_daughters,14,Females under 20
+Beaufort,Beaufort 1825,horses_saddle,27,Cattle / Waggon & Saddle Horses
+Beaufort,Beaufort 1825,horses_breeding,28,Breeding Horses
+Beaufort,Beaufort 1825,cattle_oxen,29,Oxen
+Beaufort,Beaufort 1825,cattle_breeding,30,Breeding Cattle
+Beaufort,Beaufort 1825,sheep_wethers,31,Wethers
+Beaufort,Beaufort 1825,sheep_breeding,32,Breeding Sheep
+Beaufort,Beaufort 1825,sheep_wool,33,Spanish Sheep
+Beaufort,Beaufort 1825,goats,35,Goats
+Beaufort,Beaufort 1825,wheat_reaped,41,Muids Reaped / Wheat
+Beaufort,Beaufort 1825,barley_reaped,42,Barley
+Beaufort,Beaufort 1825,rye_reaped,43,Rye
+Beaufort,Beaufort 1825,oats_reaped,44,Oats
+Beaufort,Beaufort 1825,wine,46,Leggers of wine made
+Beaufort,Beaufort 1825,brandy,47,Leggers of Brandy made
+George,George 1825,settler_men,6,Families / Men
+George,George 1825,settler_women,7,Women
+George,George 1825,slaves_men,19,Slaves / Males above 16
+George,George 1825,slaves_women,21,Females above 20
+George,George 1825,slaves_sons,20,Males under 16
+George,George 1825,slaves_daughters,22,Females under 20
+George,George 1825,khoe_men,11,Hottentots / Males above 16
+George,George 1825,khoe_women,13,Females above 20
+George,George 1825,khoe_sons,12,Males under 16
+George,George 1825,khoe_daughters,14,Females under 20
+George,George 1825,horses_saddle,27,Cattle / Waggon & Saddle Horses
+George,George 1825,horses_breeding,28,Breeding Horses
+George,George 1825,cattle_oxen,29,Oxen
+George,George 1825,cattle_breeding,30,Breeding Cattle
+George,George 1825,sheep_wethers,31,Wethers
+George,George 1825,sheep_breeding,32,Breeding Sheep
+George,George 1825,sheep_wool,33,Spanish Sheep
+George,George 1825,goats,35,Goats
+George,George 1825,wheat_reaped,41,Muids Reaped / Wheat
+George,George 1825,barley_reaped,42,Barley
+George,George 1825,rye_reaped,43,Rye
+George,George 1825,oats_reaped,44,Oats
+George,George 1825,wine,46,Leggers of wine made
+George,George 1825,brandy,47,Leggers of Brandy made
+Uitenhage,Uitenhage 1825,settler_men,6,Families / Men
+Uitenhage,Uitenhage 1825,settler_women,7,Women
+Uitenhage,Uitenhage 1825,slaves_men,19,Slaves / Males above 16
+Uitenhage,Uitenhage 1825,slaves_women,21,Females above 20
+Uitenhage,Uitenhage 1825,slaves_sons,20,Males under 16
+Uitenhage,Uitenhage 1825,slaves_daughters,22,Females under 20
+Uitenhage,Uitenhage 1825,khoe_men,11,Hottentots / Males above 16
+Uitenhage,Uitenhage 1825,khoe_women,13,Females above 20
+Uitenhage,Uitenhage 1825,khoe_sons,12,Males under 16
+Uitenhage,Uitenhage 1825,khoe_daughters,14,Females under 20
+Uitenhage,Uitenhage 1825,horses_saddle,27,Cattle / Waggon & Saddle Horses
+Uitenhage,Uitenhage 1825,horses_breeding,28,Breeding Horses
+Uitenhage,Uitenhage 1825,cattle_oxen,29,Oxen
+Uitenhage,Uitenhage 1825,cattle_breeding,30,Breeding Cattle
+Uitenhage,Uitenhage 1825,sheep_wethers,31,Wethers
+Uitenhage,Uitenhage 1825,sheep_breeding,32,Breeding Sheep
+Uitenhage,Uitenhage 1825,sheep_wool,33,Spanish Sheep
+Uitenhage,Uitenhage 1825,goats,35,Goats
+Uitenhage,Uitenhage 1825,wheat_reaped,41,Muids Reaped / Wheat
+Uitenhage,Uitenhage 1825,barley_reaped,42,Barley
+Uitenhage,Uitenhage 1825,rye_reaped,43,Rye
+Uitenhage,Uitenhage 1825,oats_reaped,44,Oats
+Uitenhage,Uitenhage 1825,wine,46,Leggers of wine made
+Uitenhage,Uitenhage 1825,brandy,47,Leggers of Brandy made
+Clanwilliam,Clanwilliam 1824,settler_men,6,Mans
+Clanwilliam,Clanwilliam 1824,settler_women,7,Vrouwen
+Clanwilliam,Clanwilliam 1824,slaves_men,20,Slaven / Mans boven de 16 jaren
+Clanwilliam,Clanwilliam 1824,slaves_women,22,Vrouwen boven de 14 jaren
+Clanwilliam,Clanwilliam 1824,slaves_sons,21,Mans beneden de 16 jaren
+Clanwilliam,Clanwilliam 1824,slaves_daughters,23,Vrouwen beneden de 14 jaren
+Clanwilliam,Clanwilliam 1824,khoe_men,16,Hottentotten / Mans boven de 16 jaren
+Clanwilliam,Clanwilliam 1824,khoe_women,18,Vrouwen boven de 14 jaren
+Clanwilliam,Clanwilliam 1824,khoe_sons,17,Mans beneden de 16 jaren
+Clanwilliam,Clanwilliam 1824,khoe_daughters,19,Vrouwen beneden de 14 jaren
+Clanwilliam,Clanwilliam 1824,horses_saddle,24,Wagen & Ryd Paarden
+Clanwilliam,Clanwilliam 1824,horses_breeding,25,Aanfok Paarden
+Clanwilliam,Clanwilliam 1824,cattle_oxen,26,Trek Ossen
+Clanwilliam,Clanwilliam 1824,cattle_breeding,27,Aanteel Beesten
+Clanwilliam,Clanwilliam 1824,sheep_wethers,28,Schapen / Hamels
+Clanwilliam,Clanwilliam 1824,sheep_breeding,29,Aanteel
+Clanwilliam,Clanwilliam 1824,sheep_wool,30,Wolgevende
+Clanwilliam,Clanwilliam 1824,goats,31,Bokken
+Clanwilliam,Clanwilliam 1824,wheat_reaped,37,Mudden Gewonnen / Tarwe
+Clanwilliam,Clanwilliam 1824,barley_reaped,38,Garst
+Clanwilliam,Clanwilliam 1824,rye_reaped,39,Rogge
+Clanwilliam,Clanwilliam 1824,oats_reaped,40,Haver
+Clanwilliam,Clanwilliam 1824,wine,42,Leggers Gewonnen / Wyn
+Clanwilliam,Clanwilliam 1824,brandy,43,Brandewyn
+Cradock,Cradock 1823,settler_men,6,Families / Mans
+Cradock,Cradock 1823,settler_women,7,Vrouwens
+Cradock,Cradock 1823,slaves_men,16,Slaven / Mans boven de 16 jaren
+Cradock,Cradock 1823,slaves_women,18,Vrouwen boven de 14 jaren
+Cradock,Cradock 1823,slaves_sons,17,Mans beneden de 16 jaren
+Cradock,Cradock 1823,slaves_daughters,19,Vrouwen beneden de 14 jaren
+Cradock,Cradock 1823,khoe_men,12,Hottentotten / Mans boven de 16 jaren
+Cradock,Cradock 1823,khoe_women,14,Vrouwen boven de 14 jaren
+Cradock,Cradock 1823,khoe_sons,13,Mans beneden de 16 jaren
+Cradock,Cradock 1823,khoe_daughters,15,Vrouwen beneden de 14 jaren
+Cradock,Cradock 1823,horses_saddle,20,Paarden / Wagen en Ryd
+Cradock,Cradock 1823,horses_breeding,21,Aanteel Paarden
+Cradock,Cradock 1823,cattle_oxen,22,Trek ossen
+Cradock,Cradock 1823,cattle_breeding,23,Aanteel Beesten
+Cradock,Cradock 1823,sheep_wethers,24,Schaapen / Hamels
+Cradock,Cradock 1823,sheep_breeding,25,Aanteel Schaapen
+Cradock,Cradock 1823,sheep_wool,26,Spaansche
+Cradock,Cradock 1823,goats,27,Bokken
+Cradock,Cradock 1823,wheat_reaped,33,Mudden Gewonnen / Tarwe
+Cradock,Cradock 1823,barley_reaped,34,Garst
+Cradock,Cradock 1823,rye_reaped,36,Rogge
+Cradock,Cradock 1823,oats_reaped,35,Haver
+Cradock,Cradock 1823,wine,38,Leggens Gewonnen / Wyn
+Cradock,Cradock 1823,brandy,39,Brandewyn
+Worcester,Worcester 1824,settler_men,7,Mans
+Worcester,Worcester 1824,settler_women,8,Vrouwen
+Worcester,Worcester 1824,slaves_men,21,Slaven / Mans boven de 16 jaren
+Worcester,Worcester 1824,slaves_women,23,Vrouwen boven de 14 jaren
+Worcester,Worcester 1824,slaves_sons,22,Mans beneden de 16 jaren
+Worcester,Worcester 1824,slaves_daughters,24,Vrouwen beneden de 14 jaren
+Worcester,Worcester 1824,khoe_men,17,Hottentotten / Mans boven de 16 jaren
+Worcester,Worcester 1824,khoe_women,19,Vrouwen boven de 14 jaren
+Worcester,Worcester 1824,khoe_sons,18,Mans beneden de 16 jaren
+Worcester,Worcester 1824,khoe_daughters,20,Vrouwen beneden de 14 jaren
+Worcester,Worcester 1824,horses_saddle,25,Wagen & Ryd Paarden
+Worcester,Worcester 1824,horses_breeding,26,Aanfok Paarden
+Worcester,Worcester 1824,cattle_oxen,27,Trek Ossen
+Worcester,Worcester 1824,cattle_breeding,28,Aanteel Beesten
+Worcester,Worcester 1824,sheep_wethers,29,Schapen / Hamels
+Worcester,Worcester 1824,sheep_breeding,30,Aanfok
+Worcester,Worcester 1824,sheep_wool,31,Wolgevende
+Worcester,Worcester 1824,goats,33,Bokken
+Worcester,Worcester 1824,wheat_reaped,39,Mudden Gewonnen / Tarwe
+Worcester,Worcester 1824,barley_reaped,40,Garst
+Worcester,Worcester 1824,rye_reaped,41,Rogge
+Worcester,Worcester 1824,oats_reaped,42,Haver
+Worcester,Worcester 1824,wine,44,Leggers Gewonnen / Wyn
+Worcester,Worcester 1824,brandy,45,Brandewyn

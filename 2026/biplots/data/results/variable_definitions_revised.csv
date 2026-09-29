@@ -1,0 +1,15 @@
+variable,description,unit,rule
+slave_men,Recorded adult male enslaved persons,count,slave_men
+slave_women,Recorded adult female enslaved persons,count,slave_women
+khoe_total,Recorded Khoekhoe labourers,count,khoe_men+khoe_women+khoe_sons+khoe_daughters
+cattle_total,Cattle: work and breeding,count,cattle_work+cattle_breeding
+horses_total,Horses: riding and breeding,count,horse_riding+horse_breeding
+sheep_total,"Sheep: breeding, wethers and wool-bearing",count,sheep_breeding+sheep_wether+sheep_wool
+vines,Vines,count,vines
+wine,Wine output,leaguers,wine
+brandy,Brandy output,leaguers,brandy
+wheat_vol,Wheat harvest,muids,wheat_vol
+grain_other,Barley and rye harvest,muids,barley_vol+rye_vol; oats excluded throughout
+wagons,Wagons,count,wagons
+goats,Goats,count,goats
+slaves_total,"Enslaved persons: men, women, sons and daughters",count,slave_men+slave_women+slave_sons+slave_daughters

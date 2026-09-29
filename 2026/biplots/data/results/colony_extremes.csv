@@ -1,0 +1,2 @@
+"specification","n","p","pc1","pc2","fit_2D","residual_2D","household_fit_p10","household_fit_median","household_fit_p90","reconstruction_error","excluded_n","max_angle","rms_angle","projection_distance"
+"exclude_unverified_ceiling_flags",8401,10,0.421647015663335,0.198220462562575,0.61986747822591,0.38013252177409,0.150458066680302,0.516861543076664,0.924984894448923,3.59487650441065e-16,4,1.41854917754712,1.01529346992583,0.0354368918320298

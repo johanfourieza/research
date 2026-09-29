@@ -1,0 +1,2 @@
+"method","low_dim","between_rank","groups","package","expected_warning"
+"weighted","sample.opt",1,2,"2.2","The dimension of the canonical space < dim.biplot sample.opt method used for additional dimension(s)."

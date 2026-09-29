@@ -1,0 +1,2 @@
+"n","components","all_active_blank_n","fully_observed_n","all_zero_active_n","observed_components_min","observed_components_median","observed_components_q75","observed_components_max","interpretation"
+20913,21,0,4,0,1,6,11,21,"reporting-intensity restrictions change the population; they cannot validate the blank-as-zero assumption"

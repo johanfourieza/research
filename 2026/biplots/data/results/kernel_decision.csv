@@ -1,0 +1,2 @@
+"triggered","rule","interpretation"
+TRUE,"all eight t-SNE/UMAP fits improve neighbour overlap and profile RMSE against PCA2","bounded descriptive sensitivity; not evidence of natural classes"
