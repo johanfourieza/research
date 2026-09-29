@@ -337,4 +337,9 @@ if(!"--analysis-only"%in%args) {
   builder<-file.path(root,"../release/scripts/build_release.R")
   if(file.exists(builder))stage(builder,"local_release")
 }
+# Keep only this run's logs; earlier run folders would otherwise pile up.
+# The two-run numerical comparison is kept separately in replication_comparison.csv.
+old_runs<-setdiff(list.dirs("docs/execution",recursive=FALSE),file.path("docs/execution",run_id))
+old_runs<-old_runs[grepl("/[0-9]{8}_[0-9]{6}$",old_runs)]
+unlink(old_runs,recursive=TRUE)
 cat("Build complete. See docs/execution/latest_run.txt and manifests.\n")
