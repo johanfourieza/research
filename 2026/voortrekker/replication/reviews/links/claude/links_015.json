@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "753|5034",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in the declared district (Graaff-Reinet), and the census wife Elisabeth Van Vreeden matches his only spouse, Elisabeth Johanna van Vreede(n). They married in 1825, the census year itself, so the wife match is distinctive though not strictly prior.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "754|4814",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Hendrina Sophia v. d. Berg matches his spouse married in 1818. District also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "755|4709",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Francina Jac. Du Preez matches his spouse Francina Jacoba du Preez (married July 1825). District agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "756|4815",
+  "verdict": "ACCEPT",
+  "reason": "Exact and distinctive full name in the declared district, and he was 19 in 1825. The entry is adjacent (row 784) to his brother Johannes Jacobus's household (row 783); no wife is listed, which fits his first marriage in 1828.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5178",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Johanna Catharina Davel matches his spouse married in 1803. District agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|5180",
+  "verdict": "ACCEPT",
+  "reason": "Exact four-part name in the declared district. The entry (row 1150) is next to his father Johannes Andries's household (row 1148). No wife is listed, consistent with his undated marriage to Viljoen at age 18.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|5181",
+  "verdict": "ACCEPT",
+  "reason": "Exact name in the declared district, beside his father's (row 1148) and brother's (row 1150) entries. He was unmarried until 1828, consistent with no census wife; he was young (about 17) but plausible as a head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|5164",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but the same census head is also proposed for his son Petrus Gerhardus (b. 1807), and no wife is recorded. He had been married to Scholtz since 1801, and the absence of a wife fits the unmarried son somewhat better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "762|5164",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, and the absence of a wife fits this man (aged 18, married 1829). However, his father, also Petrus Gerhardus (married 1801), competes for the same census head, and nothing distinguishes the two.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "763|4598",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches in the declared district, but there is no corroboration. His recorded marriages are 1837 and undated, so the census entry with no wife can neither confirm nor contradict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|1511",
+  "verdict": "REJECT",
+  "reason": "This entry ('de Oude', no wife) lacks his wife Petronella Christina Botha, married 1804. Another Cradock 1823 entry for Willem Pretorius lists exactly that wife and is clearly the better match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "765|2453",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife Petronella Christina Botha is exactly his spouse married in 1804. Cradock was the Somerset area in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "768|1716",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Catharina Maria Botha matches his spouse married in 1822. The annotation 'Klaas' zoon' is consistent with his name.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "769|2206",
+  "verdict": "ACCEPT",
+  "reason": "Balthazar/Balthsar Johannes is a spelling variant. The census wife Maria Isabella Erasmus matches his spouse Maria (Sibella) Aletta Erasmus, married 1817 (Sibella ≈ Isabella).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "770|2202",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches exactly, and the census wife's surname, Klopper, matches his 1822 spouse. However, her given names (Petronella Margaretha vs Helena Catharina) differ entirely. The identical wife entry under 'Prinsloo, Klaas' suggests a possible recording error.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "771|2205",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and he was unmarried in 1823 (married 1824), consistent with no census wife. The annotation 'Willem's zoon' matches the cluster with his brothers Willem Marthinus and Balthazar Johannes.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2235",
+  "verdict": "REJECT",
+  "reason": "He was only about 15 in 1823 and did not marry until 1828. The census head is annotated 'De Oude' and has a wife, Anna Margaretha Snyman, which is incompatible with this man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "774|2231",
+  "verdict": "ACCEPT",
+  "reason": "Name match (Fredrik/Frederik), and the census wife Maria Gesina Geere matches his spouse married in 1809.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "775|2201",
+  "verdict": "UNCERTAIN",
+  "reason": "'Marthinus Prinsloo' is a common name, and the census entry has no wife, consistent with his 1825 marriage. However, the annotation 'Willem's zoon' and the entry's place among Willem's sons may indicate a different branch of the family.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "776|2200",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife Johanna Petronella Prinsloo matches his recorded spouse. The marriage is undated, but he was 42 in 1823, so a prior marriage is very likely.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "779|2209",
+  "verdict": "ACCEPT",
+  "reason": "Joachemus/Joachim Johannes is a spelling variant, and the census wife Martha Louisa Prinsloo matches his spouse married in 1803.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "782|2208",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Elsje Jacoba van der Merwe matches his spouse married in 1814.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "784|2211",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Geertruida Sophia Johanna van der Merwe is his 1813 spouse with her given names reordered.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "785|2215",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Maria Elizabeth Prinsloo matches his spouse married in 1819.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "786|9502",
+  "verdict": "ACCEPT",
+  "reason": "Prinslo/Prinsloo is a spelling variant. The census wife Isabella Susanna Potgieter matches his 1805 spouse, and the district is Uitenhage as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "788|3501",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife 'Van Rooyen, H. G.' is consistent with his 1811 spouse Hester Geertruida van Rooyen. The district is George as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "791|1948",
+  "verdict": "UNCERTAIN",
+  "reason": "Distinctive exact name in Cradock (Somerset area), with no wife, consistent with his 1824 marriage. However, there is no corroborating spouse or other identity evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "792|9713",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Johanna Helena Voslo matches his 1803 spouse Johanna Helena Vosloo, and the district is Uitenhage. The middle-name variance (Christiaan vs Christoffel) and Raats/Raath are minor given the wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "793|803",
+  "verdict": "REJECT",
+  "reason": "This Beaufort head is married to Martha Du Plessis and annotated 'Philip's son', while this man's only recorded marriage was to Du Preez in 1826. An Uitenhage entry beside his father's household fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Raats, Philip Arnoldus Christoffel"
+ },
+ {
+  "pair_id": "793|900",
+  "verdict": "REJECT",
+  "reason": "This Beaufort entry is annotated 'Rudolph's son', which is inconsistent with descent from Johannes Christoffel Raath. The district differs from the declared Uitenhage, where a near-identical entry sits beside his father's household.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Raats, Philip Arnoldus Christoffel"
+ },
+ {
+  "pair_id": "793|9714",
+  "verdict": "ACCEPT",
+  "reason": "The name matches closely (Christoffel/Christiaan, Raats/Raath) in the declared district, Uitenhage. The entry (row 913) is next to his father Johan Christiaan Raats (row 912, whose wife matches), and no wife is listed, fitting his 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "794|9720",
+  "verdict": "ACCEPT",
+  "reason": "Exact name (Raats/Raath) in Uitenhage, annotated 'Jan's son', consistent with his father Johannes Christoffel. He was unmarried in 1825 (married 1830).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "795|4690",
+  "verdict": "ACCEPT",
+  "reason": "Rabe/Rabie and Isaac/Izaak are spelling variants, and the census wife Cecelia Jacoba Roos matches his spouse married in 1813.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "796|1118",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Anna Magdalena Engelbrecht matches his 1800 spouse Anna Margaretha Engelbrecht, apart from a common Margaretha/Magdalena slip. The district is Clanwilliam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "797|1158",
+  "verdict": "ACCEPT",
+  "reason": "Exact name in Clanwilliam, annotated 'M. zoon', consistent with his father Marthinus Nicolaas Ras. No wife is listed, consistent with his age of 19.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "798|6467",
+  "verdict": "REJECT",
+  "reason": "This Stellenbosch head is married to Petronella Helena Cilliers, but this man (aged about 17, from Clanwilliam) has only one recorded wife, Anna Margaretha Mouton. The wife, district and age all conflict.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "799|1120",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Maria Magdalena Van Zyl matches his spouse Maria Margaretha van Zyl apart from a common given-name slip. The marriage is undated, but he was 34 in 1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "801|5153",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Marta Maria Marits matches his second wife, Martha Maria Maritz, married in 1817.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "802|95",
+  "verdict": "ACCEPT",
+  "reason": "Exact name in the declared district, Albany, and the census wife Magdalena Johanna De Wet matches his spouse married in 1814.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

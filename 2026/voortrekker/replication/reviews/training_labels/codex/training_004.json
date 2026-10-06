@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "119|4212",
+  "verdict": "REJECT",
+  "reason": "Petrus differs from Gerhardus Christiaan, and Susanna Maria Fourie contradicts the recorded 1824 marriage to Gesina Wilhelmina Venter. Breedt, Gerhardus Christiaan is a clearly better name match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Breedt, Gerhardus Christiaan"
+ },
+ {
+  "pair_id": "120|2095",
+  "verdict": "ACCEPT",
+  "reason": "Willem Breedt is compatible with Willem Sterrenberg Breed, and Maria Magdalena Visagie exactly matches his wife married in 1822. His age is consistent with heading a household in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "120|4214",
+  "verdict": "ACCEPT",
+  "reason": "Willem Breed and Maria Magdalena Visagie match the genealogical couple married in 1822, with geographically compatible districts. Herzenberg plausibly represents a spelling or transcription variation of Sterrenberg in this otherwise strongly corroborated match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|243",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Johannes, but the census wife Catharina Maria Janze van Rensburg differs from Anna Cecilia Myburgh. The recorded marriage occurred on 21 January 1825, and the census date within that year is unspecified, so the wife's identity at enumeration cannot be established conclusively.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|4052",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan and Johannes are compatible, but Catharina Elisabeth van der Linde does not match Anna Cecilia Myburgh. Because the marriage and census both fall in 1825 and the enumeration date is missing, the wife discrepancy is not a conclusive chronological contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|4053",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Johannes, but Johanna Petronella Brits differs from Anna Cecilia Myburgh. The marriage occurred during the census year, and the unspecified enumeration date prevents a definitive wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|4077",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Brits matches exactly, the districts are compatible, and Meyburg plausibly varies Myburgh. However, Anna Cornelia and Anna Cecilia differ in a substantive given name, leaving the apparent spouse match unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|5227",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes is compatible with Jan, but Maria Elisabeth van der Berg differs from Anna Cecilia Myburgh. Since the genealogical marriage occurred in January 1825 and the census date is unspecified, this does not establish a definitive wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "132|5227",
+  "verdict": "REJECT",
+  "reason": "Johannes differs from Willem, and Maria Elisabeth van der Berg contradicts the 1820 marriage to Johanna Christina Brits. The alternative Willem Petrus Brits has the matching wife and district.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Willem Petrus"
+ },
+ {
+  "pair_id": "131|5335",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan P. is compatible with Christiaan Pieter, and Susanna Petronella de Beer exactly matches his wife married in 1821. The district and adult age also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "132|4050",
+  "verdict": "ACCEPT",
+  "reason": "Willem is compatible with Willem Petrus, and Johanna Christina Brits exactly matches the spouse married in 1820. Both records place the man in Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "141|202",
+  "verdict": "REJECT",
+  "reason": "Johanna Christina Beukes matches neither Cecilia Magdalena Geel nor Catharina Maria de Beer; the latter's full marriage date establishes an 1814 marriage despite the blank marriage_year field. Rudolph Johannes also differs substantively from Johannes Jacob.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "144|503",
+  "verdict": "ACCEPT",
+  "reason": "Jan Andries Broodryk matches exactly, and Maria Elizabeth Fourie matches Maria Elisabeth Fourie, married in 1805. Beaufort and the Senior annotation are consistent with the man born in 1775.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "145|504",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, Beaufort district and age of about 20 are consistent, and the absent census wife does not conflict with the 1827 marriage. However, the supplied genealogy does not independently establish the census patronymic, and there is no comparable spouse to corroborate identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "146|7704",
+  "verdict": "REJECT",
+  "reason": "Maria Swanepoel contradicts the recorded 1823 marriage to Martha Maria Moller. Johannes Godfried also differs from Johannes Hendrik.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "148|9609",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's full name and district match, but Martha Maria Landman differs from the named 1817 spouse. A malformed additional spouse entry contains LANDMAN without a usable name or date, leaving possible remarriage unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "154|4615",
+  "verdict": "REJECT",
+  "reason": "Maria Dorothea Nieuwhoudt contradicts the 1823 marriage to Anna Francina Viljoen; the other marriage is dated 1854 and cannot explain the census wife. The alternative Charel Arnoldus Cilliers matches both the man's names and Anna Francina Viljoen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Cilliers, Charel Arnoldus"
+ },
+ {
+  "pair_id": "156|4615",
+  "verdict": "REJECT",
+  "reason": "Charel and Petrus are distinct given names, while another census candidate matches Petrus Gerhardus exactly. The 1826 marriage cannot confirm or contradict the wife recorded in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Cilliers, Petrus Gerhardus"
+ },
+ {
+  "pair_id": "155|7559",
+  "verdict": "REJECT",
+  "reason": "Gerrit Daniel differs from Jan Gabriel, and Christina Helena Hasebroek contradicts the recorded 1816 marriage to Anna Magdalena du Toit.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|1772",
+  "verdict": "REJECT",
+  "reason": "Geertruida Heydenryk contradicts the recorded 1805 marriage to Hester Hendrina Aletta Venter. The partial head-name resemblance does not resolve this spouse contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|2080",
+  "verdict": "REJECT",
+  "reason": "Susanna Sophia van der Walt contradicts the recorded 1805 marriage to Hester Hendrina Aletta Venter, despite the compatible Johannes name.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "164|2080",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus differs from Cornelis Gerhardus, and Susanna Sophia van der Walt contradicts the recorded 1812 marriage to Anna Elisabeth Strydom.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4162",
+  "verdict": "REJECT",
+  "reason": "Although Johannes Coetzee matches the man's name, Anna Elisabeth Kruger contradicts his recorded 1805 marriage to Hester Hendrina Aletta Venter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "165|4162",
+  "verdict": "REJECT",
+  "reason": "Johannes is incompatible with the supplied given names Ockert Jacobus. The marriage to Hester Adriana de Beer in 1827 cannot be used to assess the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4180",
+  "verdict": "REJECT",
+  "reason": "Susanna Sophia van der Walt contradicts the recorded 1805 marriage to Hester Hendrina Aletta Venter. The compatible Johannes name and district do not overcome this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4227",
+  "verdict": "REJECT",
+  "reason": "The census wife Johanna Alida Venter differs substantively from Hester Hendrina Aletta Venter, married in 1805. Their shared maiden surname and the Jan/Johannes correspondence do not establish the same couple.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "161|1775",
+  "verdict": "REJECT",
+  "reason": "Jacobus Albertus substitutes the distinct name Jacobus for Maarten Petrus; the shared Albertus does not reconcile the supplied names. The absent census wife is not contradictory because the listed marriage occurred in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "161|2315",
+  "verdict": "REJECT",
+  "reason": "Abram Jacobus and Maarten Petrus Albertus have incompatible given names. The 1824 marriage cannot confirm or contradict the wife recorded in the 1823 census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "161|4145",
+  "verdict": "REJECT",
+  "reason": "Henning Johannes Hendrik differs from Maarten Petrus Albertus, and Susanna Hendrina B. Stein contradicts the recorded 1824 marriage to Elsje Catharina van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "162|259",
+  "verdict": "REJECT",
+  "reason": "Although Jan can correspond to Johannes, Cornelis Johannes Adriaan contains distinct given names that do not reconcile with Jan Abraham through omission or reordering. The 1829 marriage is not comparable to the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "162|4164",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly female: Hester Viljoen, widow of Jan Coetzee. The male genealogy person cannot be that household head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "162|4567",
+  "verdict": "REJECT",
+  "reason": "Adriaan and Abraham are distinct given names, creating a substantive discrepancy despite the shared Jan Coetzee. The 1829 marriage cannot establish a contradiction with Isabella du Plessis in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "164|2268",
+  "verdict": "REJECT",
+  "reason": "Floris differs from Cornelis Gerhardus, and Catharina Cornelia de Klerk contradicts the recorded 1812 marriage to Anna Elisabeth Strydom.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "165|2271",
+  "verdict": "REJECT",
+  "reason": "Dirk and Ockert are distinct given names; the shared Jacobus does not reconcile them. The listed 1827 marriage cannot be compared with the census wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "165|4825",
+  "verdict": "REJECT",
+  "reason": "Dirk Jacobus differs substantively from Ockert Jacobus because Dirk and Ockert are distinct names. The marriage to Hester Adriana de Beer occurred after the census and supplies no wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "168|1756",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus is incompatible with Hendrik, and Elsje Maria Coetzer differs from Jacoba Johanna de Bruyn, married in 1822. Neither of the two additional, undated spouses matches the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1756",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus Coetzer matches exactly and the districts are compatible, but the genealogy does not independently verify the Pieter Willem patronymic. The marriage to Gerrtruyda Petronella Heydenrych in 1824 cannot confirm or contradict Elsje Maria Coetzer in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1765",
+  "verdict": "REJECT",
+  "reason": "Caspar Johannes and Johannes Jacobus share Johannes but contain distinct additional names, Caspar and Jacobus, that cannot be reconciled by reordering. The listed 1824 marriage is not comparable to the 1823 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "172|2283",
+  "verdict": "REJECT",
+  "reason": "Hester Hendrina Venter contradicts the recorded 1815 marriage to Anna Catharina Nel. The matching given names do not overcome this spouse contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "173|2007",
+  "verdict": "REJECT",
+  "reason": "The census explicitly identifies Philippus Jeremias as de Oude, conflicting with the genealogy's Jr designation for a man aged about 18 in 1823. His 1824 marriage cannot be compared with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

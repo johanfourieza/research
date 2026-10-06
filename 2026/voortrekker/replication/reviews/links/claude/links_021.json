@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "1033|7631",
+  "verdict": "REJECT",
+  "reason": "Census head is Willem Adriaan in Swellendam with a wife (Van Zyl), but the genealogy man was about 20 and his only recorded marriage was in 1832. The Cradock (=Somerset) head 'Willem Andries' has a closer name, the matching district and no wife, so he fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "van Deventer, Willem Andries"
+ },
+ {
+  "pair_id": "1034|7744",
+  "verdict": "REJECT",
+  "reason": "The Swellendam Gideon has no wife recorded, while another census head, Gideon van Deventer in Worcester 1824, has the wife Johanna Wilhelmina Steenberg (married 1819). That candidate fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Deventer, Gideon"
+ },
+ {
+  "pair_id": "1034|10413",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and the census wife Steenberg, Johanna Wilhelmina matches exactly the spouse married in 1819. Worcester and Swellendam are neighbouring districts.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1036|80",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, same district, and the census wife Van der Merwe, Helena Susanna matches the spouse married in 1805.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1037|5618",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches exactly, but he was about 18, has no census wife, and his spouses have no marriage dates. Stellenbosch is far from his declared district of Albany.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1038|102",
+  "verdict": "ACCEPT",
+  "reason": "Frans van Dyk in Albany, and the census wife De Lange, Anna Catharina matches the spouse married in 1807.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1040|1",
+  "verdict": "REJECT",
+  "reason": "The census wife Krieger, Sagareia differs from his spouse Sophia Elizabeth Potgieter (married 1813). Another Albany head, Joseph van Dyk, has Potgieter as wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Dyk, Joseph"
+ },
+ {
+  "pair_id": "1040|63",
+  "verdict": "ACCEPT",
+  "reason": "Joseph van Dyk in Albany, and the census wife Potgieter, Sophia Elizabeth matches the spouse married in 1813.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1042|7",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, same district, and the census wife De Lange, Francina Petronella matches the spouse married in 1814.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1043|4482",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife De Beer, Jacoba Hendrina matches the spouse married in 1819. Graaff-Reinet is compatible with his declared district of Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1045|282",
+  "verdict": "REJECT",
+  "reason": "The census wife Rossouw, Susanna Elizabeth clearly differs from his spouse Susanna Maria La Grange, married in 1820, before the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1046|5497",
+  "verdict": "UNCERTAIN",
+  "reason": "Greuning, Barend Johannes is a plausible variant of Van Greunen, and an unmarried 25-year-old fits a head with no wife (his marriage was in 1831). However, there is no corroborating wife and the census district (Graaff-Reinet) differs from his declared Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1049|4353",
+  "verdict": "ACCEPT",
+  "reason": "The census wife v. d. Merwe, Aletta Helena matches his spouse exactly (married 1825), the district matches, and Johannes is one of his given names.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1050|3928",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Petrus is equivalent to Adriaan Pieter, and the census wife Bekker, Anna matches Anna Dorothea Margaretha Bekker (married 1821). The George district weakens the match only slightly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1052|9242",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Josephus matches Hendrik Joseph in Uitenhage, and the census wife Minie, Johanna matches Johanna Maria Minnie (married 1822).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1055|5057",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but no census wife is recorded for a man married in 1818, so there is no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1055|5190",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Johannes van Nieuwkerk in Graaff-Reinet, and the census wife v. d. Berg, Heilje Magdalena matches Hilletje Magdalena Petronella van den Berg (married 1818).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1057|2531",
+  "verdict": "ACCEPT",
+  "reason": "Lucas C. matches Lucas Cornelis, and the census wife Louw, M. J. matches Margaretha Johanna Louw (married 1820). The Cape district differs from his declared Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1063|1967",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan van Niekerk in Cradock (=Somerset), and the census wife Pretorius, Engela Dorothea Maria matches his second spouse (married 1815).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1064|1538",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive name Jacobus Gustaphus/Gustavus matches, Cradock 1823 corresponds to Somerset, and the absence of a wife fits his 1825 marriage. The annotation 'Christiaan's zoon' fits his lineage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1081|9176",
+  "verdict": "REJECT",
+  "reason": "The census wife Meyer, Maria Fredrika differs from his spouse Maria Elizabeth van Rooyen (recorded as married 1809). With a birth year of 1809 he would be about 16 in 1825, which is unlikely for a married head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1084|122",
+  "verdict": "ACCEPT",
+  "reason": "The full distinctive name Andries Ignatius Marthinus matches in Albany, and having no wife fits his 1830 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1086|9729",
+  "verdict": "ACCEPT",
+  "reason": "Gerret/Gerrit van Rooyen in Uitenhage, and the census wife Van Rooyen, Maria matches the spouse married in 1803.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9729",
+  "verdict": "REJECT",
+  "reason": "The census wife Van Rooyen, Maria differs from his spouse Adriana Maria Kock (married 1807). The census head Gerret Rynier van Rooyen matches his full name.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Rooyen, Gerret Rynier"
+ },
+ {
+  "pair_id": "1089|9716",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Minie, Susanna Elisabeth matches Susanna Elizabeth Minnie (married 1804).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1090|9716",
+  "verdict": "REJECT",
+  "reason": "Born in 1809, he was about 16 in 1825 and did not marry until 1834. The census wife Minie, Susanna Elisabeth matches the spouse of the competing older Gerrit Thomas (b.1782).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1090|3508",
+  "verdict": "UNCERTAIN",
+  "reason": "He was about 16 in 1825 and married in 1834, yet the George head has a wife, Van Rooyen, M. C. (initials differ from his later wife M. E.). George is also outside his declared district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9288",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive name Gerret Rynier matches in Uitenhage. No wife is recorded, which is plausible for a widower, given his remarriage in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1093|9142",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Routenbach, Hester Germina matches Hester Germina Rautenbach (married 1811).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1094|8127",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive name Tobias Gerhardus (van) Schalkwyk matches in Swellendam. No spouses are recorded and no wife is listed in the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1096|9630",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Scheepers, Elsie Magdalena Johanna matches Elsie Johanna Magdalena Scheepers (married 1818).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1098|9477",
+  "verdict": "REJECT",
+  "reason": "Born in 1809, he was about 16 in 1825 and married Joubert only in 1833. The census wife Scheepers, Sara Johanna is the wife of the competing older Philippus Theunis (b.1778).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1109|9477",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Scheepers, Sara Johanna matches the spouse married in 1804.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1099|485",
+  "verdict": "ACCEPT",
+  "reason": "Van Stade(n), Johannes Hendrik in Beaufort, and the census wife De Clercq, Johanna Magdalena matches Magdalena Johanna de Klerk (married 1819).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1100|9361",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Janze van Rensburg, Martha Magdalena matches the spouse married in 1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1101|9341",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Smit, Anna Maria matches the spouse married in 1822.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1102|9473",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the census wife Van Staden, Johanna Catharina matches the spouse married in 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1105|727",
+  "verdict": "ACCEPT",
+  "reason": "Van Stade, Jacobus Fredrik in Beaufort, and the census wife Bezuidenhout, Margaretha Elizabeth matches the spouse married in 1816.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1107|9463",
+  "verdict": "UNCERTAIN",
+  "reason": "Jurie/Jurgen is a plausible variant, but this census head is a married Field Cornet (wife Janze van Rensburg), while he was about 22 and married Van der Linde only in 1826. The district also differs from his declared Albany.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1108|9463",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he was about 19 in 1825 and married Viljoen only in 1826. This census head is a married Field Cornet with wife Janze van Rensburg, which suggests an older man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "pair_id": "1212|9219",
+  "verdict": "ACCEPT",
+  "reason": "The full name Wessel Hendrik Wessels matches exactly, the district (Uitenhage) agrees, and the census wife Elisabeth Catharina Kemp matches the genealogy spouse he married on 5 April 1825. Neither competing census candidate fits better.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1215|8510",
+  "verdict": "REJECT",
+  "reason": "The genealogy man married Elizabeth Carolina Swart in 1820, but the census wife is Elisabeth Johanna Gildenhuis, which is a clear contradiction with no listed remarriage. The census name 'Wessel' also omits Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1216|8850",
+  "verdict": "ACCEPT",
+  "reason": "The full name Hermanus Wilhelmus Wessels matches exactly in the declared district (Swellendam), he was a plausible 20-year-old head, and no competing candidate shares the name. No census wife is recorded, so his February 1825 marriage to Marais cannot be checked; this is a minor gap, not a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1217|9453",
+  "verdict": "ACCEPT",
+  "reason": "Johan Adam and Johannes Adam Wilken are an exact name match allowing for the Johan/Johannes variant, in the declared district (Uitenhage), at a plausible age of about 53. The other Wilken heads have different given names. The genealogy lists no spouse, so the census wife Appel cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1219|3949",
+  "verdict": "ACCEPT",
+  "reason": "Frederik and Fredrik Gerhardus Wolmarans match in the declared district (George), and the census wife 'Le Roux, C. M.' matches Catharina Maria le Roux, whom he married in 1810.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1220|8692",
+  "verdict": "ACCEPT",
+  "reason": "Johan Philippus and Johannes Philip Zietsman match, and the census wife Maria Hendrina Grove exactly matches the spouse he married in 1813. The Swellendam vs Uitenhage district difference does not outweigh the exact wife match, and there are no competitors.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "436|204",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Petrus Jacobus vs Pieter Daniel), and the census wife Van Wyk, Maria contradicts his only spouse, Viljoen, married in 1811.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "446|204",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches exactly, but he was about 18 in 1825 and his first recorded marriage was in 1827, so the census wife Van Wyk, Maria is unexplained. An unmarried Jacobs, Pieter Daniel census head fits his age and marital status better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Jacobs, Pieter Daniel"
+ },
+ {
+  "pair_id": "436|511",
+  "verdict": "REJECT",
+  "reason": "The name matches exactly, but the census wife De Wet, Susanna Magdalena contradicts his only spouse, Viljoen, married in 1811. No remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "441|274",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the census wife Fourie, Catharina Maria matches his second spouse, married 07/09/1823, before the 1825 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "442|664",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Salomon Jacobus vs Daniel Roelof), and the census wife Marais contradicts his spouse Blom, married in 1794.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "443|664",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Pieter vs Roelof), and the census wife Marais contradicts his spouse Jacobs, married in 1819. Jacobs, Daniel Pieter with wife Jacobs, Maria Susanna fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Jacobs, Daniel Pieter"
+ },
+ {
+  "pair_id": "443|234",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the census wife Jacobs, Maria Susanna matches his spouse Maria Susanna Elizabeth Jacobs, married in 1819.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "443|607",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Pieter vs Johannes), and the census wife Van Heerden contradicts his spouse Jacobs, married in 1819. Jacobs, Daniel Pieter fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Jacobs, Daniel Pieter"
+ },
+ {
+  "pair_id": "445|607",
+  "verdict": "REJECT",
+  "reason": "Both given names differ (David Stephanus vs Daniel Johannes). The genealogy gives no birth year or spouse to support identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "447|871",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Gert Petrus vs Gabriel Gerhardus), and he did not marry until 1830, while the census head has a wife (Marais). The unmarried Jacobs, Gerret Petrus fits his name and age.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Jacobs, Gerret Petrus"
+ },
+ {
+  "pair_id": "448|563",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Daniel Roelof vs Johannes Stephanus), and the census wife Du Plessis contradicts his spouse Marais, married in 1812. Census head Jacobs, Daniel Roelof with wife Marais, Anna Susanna matches him.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Jacobs, Daniel Roelof"
+ },
+ {
+  "pair_id": "458|1760",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Jacob Daniel vs Pieter Johannes). He was about 17 in 1823, and his first marriage (De Bruyn) was in 1825, yet the census head has wife Coetzer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "463|1760",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Georg vs Johannes), and he married Potgieter only in 1824, yet the census head had wife Coetzer in 1823. The unmarried Jordaan, Pieter George fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Jordaan, Pieter George"
+ },
+ {
+  "pair_id": "459|1822",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Willem vs George), and he had been married since 1813, but no wife is recorded. The census head fits Pieter Georg Jordaan (born 1803) instead.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "463|1822",
+  "verdict": "ACCEPT",
+  "reason": "The name matches (Georg/George), he was about 20 in 1823, and he was unmarried until 1824, consistent with a census head with no wife, in Cradock (later Somerset).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "459|1849",
+  "verdict": "REJECT",
+  "reason": "Given names differ entirely (Pieter Willem vs Jacobus Josua). The annotation 'Gert's zoon' also gives no support.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "461|9659",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Gerrit Jacobus vs Fredrik Johannes), and the census wife Van Zulg contradicts his spouse Van Heeren, married in 1818.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "465|2176",
+  "verdict": "REJECT",
+  "reason": "He was about 14 in 1823, making him unlikely to be a household head. The census head 'Jan' is annotated 'Gedoopte Bastaard', indicating a different individual.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "470|7675",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Francois vs Petrus), and the census head's name is shared with another proposed person. Nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "478|7675",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Jacobus Francois vs Josua Petrus). A census head named exactly Joubert, Jacobus Francois exists in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Joubert, Jacobus Francois"
+ },
+ {
+  "pair_id": "471|4890",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Francois Jacobus vs Jos. Joachim), and the census wife Swanepoel contradicts his spouse Momberg, married in 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "471|5353",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Jacobus vs Petrus), and the census wife Human contradicts his spouse Momberg, married in 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "471|9404",
+  "verdict": "REJECT",
+  "reason": "The first name differs (Francois vs Josua), and the census wife Joubert, Francina Jacoba contradicts his spouse Momberg, married in 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "472|9494",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Schalk vs Wilhelmus), and he had been married since 1804, but the census head has no wife. Joubert, Pieter Schalk with wife Lotter, Johanna Catharina matches him exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Joubert, Pieter Schalk"
+ },
+ {
+  "pair_id": "474|7343",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Andries Johannes vs Johannes Stephanus). A census head named exactly Joubert, Andries Johannes exists in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Joubert, Andries Johannes"
+ },
+ {
+  "pair_id": "474|7724",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly in his declared district, Swellendam. He was about 20 and unmarried until 1826, consistent with a census head with no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "475|5425",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Josua vs Jacobus Petrus). The census wife v. Jaarsveld also does not match his spouse Van den Berg.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "475|5426",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Josua vs Jacobus Lodewicus Albertus).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "475|5519",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but Josua is common. The census wife Pretorius differs from his only listed spouse, Van den Berg, whose marriage date is missing, so remarriage or a later marriage cannot be excluded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "475|9406",
+  "verdict": "UNCERTAIN",
+  "reason": "The census head carries extra middle names (Gideon Petrus) and lives in Uitenhage rather than Somerset/Cradock. The census wife Slabbert differs from his undated spouse Van den Berg, so the match is weak but not clearly contradicted.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "478|7712",
+  "verdict": "REJECT",
+  "reason": "The census head is female (Cornelia van Tonder, widow of Gideon), so she cannot be a male genealogy person.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Joubert, Jacobus Francois"
+ },
+ {
+  "pair_id": "478|7718",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly in his declared district, Swellendam, and his age (about 22) fits. A census head with no wife does not contradict his undated marriage to Van den Berg.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "485|1543",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Johan Christiaan vs Johannes Jacobus), and he was about 14 in 1823. The census wife Rhynders matches none of his spouses.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "486|4809",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, he was about 20 in 1825 with no recorded spouse, and the census head has no wife. Graaff-Reinet is adjacent to and partly ancestral to Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "486|4811",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Paul Stephanus vs Johannes Jacobus). A census head named exactly Klopper, Paul Stephanus exists in Graaff-Reinet.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Klopper, Paul Stephanus"
+ },
+ {
+  "pair_id": "490|2229",
+  "verdict": "REJECT",
+  "reason": "Given names differ (Willem Frederik vs Hendrik Balthazar). He married Botha only in 1825, yet the census head had wife Prinsloo in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "496|5093",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, he was about 25, and he was unmarried until 1826, consistent with a census head with no wife. Colesberg was part of Graaff-Reinet.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "497|5346",
+  "verdict": "REJECT",
+  "reason": "The census head's initial 'A.' does not match Jacobus Mattys Wynand. The census wife Herbst also differs from his 1825 spouse Duvenage.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "499|4578",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census wife Coetzer, Aletta Elisabeth contradicts his spouse Fourie, Hester Sophia, married in 1819. A census head Koekemoer, Diederik Johannes with wife Fourie, Hester Sophia exists in Cradock.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Koekemoer, Diederik Johannes"
+ },
+ {
+  "pair_id": "500|1884",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, he was about 20 in 1823 and unmarried until 1832, consistent with a census head with no wife. Cradock corresponds to later Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

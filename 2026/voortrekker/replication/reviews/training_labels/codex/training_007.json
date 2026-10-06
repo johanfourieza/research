@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "280|812",
+  "verdict": "ACCEPT",
+  "reason": "The full name, Beaufort district and senior designation agree. Hendrina Cicilia de Clercq plausibly matches Hendrina Cecilia de Klerk, married in 1802.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "281|812",
+  "verdict": "REJECT",
+  "reason": "The senior designation and wife identify the competing Cornelis Michiel Sr, born in 1777, rather than the junior born in 1806. The junior's 1833 marriage is not comparable with the 1825 wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Du Plooy, Cornelis Michiel"
+ },
+ {
+  "pair_id": "280|929",
+  "verdict": "REJECT",
+  "reason": "Cornelis Johannes Fredrik differs materially from Cornelis Michiel. The alternative Cornelis Michiel with Hendrina Cicilia de Clercq matches both the man's name and his wife married in 1802.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Du Plooy, Cornelis Michiel"
+ },
+ {
+  "pair_id": "281|639",
+  "verdict": "REJECT",
+  "reason": "Abraham Johannes and Cornelis Michiel are different given names, not spelling variants or reordered names. The alternative Cornelis Michiel without a named wife fits better; the genealogy's 1833 marriage cannot establish his wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Du Plooy, Cornelis Michiel"
+ },
+ {
+  "pair_id": "283|928",
+  "verdict": "REJECT",
+  "reason": "Johannes Mattheus and Susanna Carolina Hatting contradict Leendert Hendrik and Maria Johanna Viviers, whose marriage date establishes an 1819 marriage. The alternative Leendert Hendrik with Maria Johanna Vivier matches both names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Du Plooy, Leendert Hendrik"
+ },
+ {
+  "pair_id": "285|4766",
+  "verdict": "REJECT",
+  "reason": "Johannes Francois is materially different from Jacobus Herculas, with no supplied evidence connecting these given names. No census wife is available for comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "285|4769",
+  "verdict": "REJECT",
+  "reason": "Francois Johannes and Jacobus Herculas are incompatible given names. The undated Geyer marriage and the Dreyer marriage dated 1840 do not establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "290|4769",
+  "verdict": "REJECT",
+  "reason": "Francois Johannes differs from Petrus Johannes through a distinct given name, rather than spelling or reordering. Johannes Petrus is a better name match, although the undated Nortier marriage leaves its wife evidence unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Du Preez, Johannes Petrus"
+ },
+ {
+  "pair_id": "287|9680",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Stephanus and Hester Jacoba match the genealogical couple married in 1819, with Dupree a plausible spelling of Du Preez. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "290|5314",
+  "verdict": "UNCERTAIN",
+  "reason": "The unexpanded initials P. D. A. S. do not securely identify Petrus Johannes, and there is no census wife to corroborate the link. Johannes Petrus is a better name match, but the undated genealogy marriage prevents resolving its different wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Du Preez, Johannes Petrus"
+ },
+ {
+  "pair_id": "295|914",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and district match, and Susara Johanna Dorothea Gousch plausibly matches Sara Johanna Dorothea Gous, married in 1818. His dates are consistent with the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "296|926",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and being about 19 with no named wife is compatible with the first listed marriage in 1827. However, the father's name in the census annotation cannot be verified from the supplied genealogy, leaving no strong independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "301|926",
+  "verdict": "REJECT",
+  "reason": "Andries Stephanus is incompatible with Francois Petrus Jacobus, and the competing genealogy person in pair 296|926 matches the census name. The absence of a census wife does not itself contradict the 1822 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "297|4697",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Francois is a normal reordering of Francois Jacobus, and Graaff-Reinet is geographically compatible with Colesberg. The different wife cannot establish a contradiction because the marriage to Elsie Susanna Grobbelaar is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "300|4697",
+  "verdict": "REJECT",
+  "reason": "Maria Magdalena van der Vyver contradicts Anna Christina de Jager, married in 1822. The census also records Jacobus rather than Arnoldus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "297|4768",
+  "verdict": "REJECT",
+  "reason": "Andries Stephanus and Francois Jacobus are different given names, not spelling variants or reordered names. The undated Grobbelaar marriage prevents using the different census wife as a dated contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "297|5217",
+  "verdict": "REJECT",
+  "reason": "Frederik and Francois are distinct given names despite the shared Jacobus. The different wife is not independently decisive because the genealogy marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "298|4983",
+  "verdict": "REJECT",
+  "reason": "Johannes Francois differs from Johannes Hermanus, while an alternative head matches Johannes Hermanus exactly and has no named wife. The genealogy's 1826 marriage cannot confirm or contradict a wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Du Toit, Johannes Hermanus"
+ },
+ {
+  "pair_id": "299|2048",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name agrees, but he was only about 15 in 1823 and the supplied genealogy does not verify the father's name in the annotation. Both listed marriages occurred after the census, so neither establishes a contradiction with Elsje Susanna Grobbelaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "301|2048",
+  "verdict": "REJECT",
+  "reason": "Elsje Susanna Grobbelaar contradicts Magdalena Petronella van der Merwe, married in 1822 before the 1823 census. Omission of Petrus from the man's name would otherwise be acceptable.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "300|4529",
+  "verdict": "REJECT",
+  "reason": "Elsje Susanna Grobler contradicts Anna Christina de Jager, married in 1822. The man's second given name also differs: Jacobus rather than Arnoldus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "301|4529",
+  "verdict": "REJECT",
+  "reason": "Elsje Susanna Grobler contradicts Magdalena Petronella van der Merwe, married in 1822. The compatible shortened male name does not overcome this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "300|5215",
+  "verdict": "REJECT",
+  "reason": "Rachel Geertruida Momberg contradicts Anna Christina de Jager, married in 1822. Thomas also differs from Francois.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "302|5215",
+  "verdict": "REJECT",
+  "reason": "Although Thomas Arnoldus matches exactly, Rachel Geertruida Momberg contradicts Maria Magdalena Lubbe, married in 1820. The second marriage dated 1866 cannot explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "300|5219",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus differs from Francois Arnoldus, and Maria Magdalena Lubbe contradicts Anna Christina de Jager, married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "302|5219",
+  "verdict": "REJECT",
+  "reason": "Maria Magdalena Lubbe matches the spouse married in 1820, but Johannes Jacobus and Thomas Arnoldus are entirely different given names. No supplied evidence explains that material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "311|1999",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik is compatible with Frederik Nicolaas through spelling variation and an omitted middle name, and Susanna Cornelia de Bruin matches the spouse married in 1803. Cradock in 1823 is compatible with the declared Somerset district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "312|5445",
+  "verdict": "REJECT",
+  "reason": "Enslin and Engelbrecht are different surnames, and Johannes Stephanus does not match Eduard Johannes. No census wife is named, so the 1823 marriage supplies no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "316|4401",
+  "verdict": "REJECT",
+  "reason": "Engelbregt is a plausible surname variant, but Jacobus Johannes differs materially from Willem Jacobus through replacement of Willem with Johannes. There is no wife evidence to resolve the discrepancy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "320|4856",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly the woman Johanna Fredrica Appel, a widow of Erasmus J. A male genealogy person cannot be this female household head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|4856",
+  "verdict": "REJECT",
+  "reason": "The census explicitly identifies Johanna Fredrica Appel as a female household head. Hendrik Johannes cannot be that head, regardless of her late husband's surname.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "320|9343",
+  "verdict": "REJECT",
+  "reason": "Jacobus is not a spelling variant or shortened form of Christoffel Petrus Johannes. The shared Erasmus surname and absence of a named wife do not resolve this given-name contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "321|1745",
+  "verdict": "REJECT",
+  "reason": "Magteld Margaretha Smit contradicts Helena Geertruyda Bekker, married in 1800; the Jacobs marriage dated 1841 is irrelevant to 1823. Jacobus also differs from Lourens.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "321|4206",
+  "verdict": "REJECT",
+  "reason": "Lucas Albertus differs from Lourens Abraham, and Wilhelmina Johanna Botha contradicts Helena Geertruyda Bekker, married in 1800. The second marriage dated 1841 cannot explain this census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4206",
+  "verdict": "REJECT",
+  "reason": "Lucas Albertus differs from Lourens Marthinus, and Wilhelmina Johanna Botha matches neither listed wife. The supplied full marriage date establishes Helena Dorothea Bekker as a spouse married in 1818.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "321|5292",
+  "verdict": "REJECT",
+  "reason": "Marthinus differs from Abraham, and Helena Dorothea Bekker differs from the spouse Helena Geertruyda Bekker married in 1800. The competing person in pair 329|5292 matches both the census man's name and Helena Dorothea's name with an 1818 marriage.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|5292",
+  "verdict": "REJECT",
+  "reason": "Balthasar Johannes and Laurens Marthinus are incompatible given names, while the competing person in pair 329|5292 matches the census couple. The April 1825 marriage cannot securely establish the wife at enumeration because the census date within that year is unspecified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|5292",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Marthinus matches Lourens Marthinus, and Helena Dorothea Bekker matches the second spouse whose full marriage date establishes an 1818 marriage. The district and age also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|5292",
+  "verdict": "REJECT",
+  "reason": "Marthinus differs from Johannes, and the competing person in pair 329|5292 matches both the census name and the wife married in 1818. The undated Van Straten marriage cannot independently establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|53",
+  "verdict": "REJECT",
+  "reason": "Anna Johanna Catharina Delport contradicts Petronella Catharina Goud, married in 1824, and Balthazar differs from Elardus. The second marriage dated 1834 cannot explain the 1825 census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "747|5180",
+  "verdict": "REJECT",
+  "reason": "Henning Petrus Nicolaas and Johannes Jacobus Cornelis have entirely different given names, not explained by the stated nickname Piet or ordinary spelling variation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "748|4108",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Lodewyk Wynand is compatible with Johannes Lodewicus, and the age and district fit. No genealogy spouse is supplied to corroborate Wilhelmina Christina Pienaar, and other listed heads have similarly compatible names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4108",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes matches, but Petrus and Lodewicus do not establish the same identity; he was only about 16 and the districts differ. The Strauss marriage is undated and the Alberts marriage occurred in 1829, preventing a decisive comparison with Wilhelmina Christina Pienaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4108",
+  "verdict": "UNCERTAIN",
+  "reason": "The shared Johannes Pretorius and compatible district are insufficient given the different additional names. His Van Vreede(n) marriage occurred on 4 December 1825, so its timing relative to the census is unknown and cannot establish a contradiction with Wilhelmina Christina Pienaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|4108",
+  "verdict": "REJECT",
+  "reason": "The census wife Wilhelmina Christina Pienaar differs clearly from Johanna Catharina Davel, whom he married in 1803. No listed remarriage explains this discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|4108",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the district agree, but Jacobus Cornelis does not corroborate Lodewicus. The marriage to Catharina Jacoba Viljoen is undated, so the different census wife cannot establish a chronological contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "763|4108",
+  "verdict": "REJECT",
+  "reason": "Daniel Petrus and Johannes Lodewicus are entirely different given names, with no supplied variant connecting them. The 1837 marriage and the undated Pretorius marriage provide no comparable wife evidence for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5114",
+  "verdict": "REJECT",
+  "reason": "Cornelia Fouchee differs clearly from Anna Elisabeth Schoombee, whom he married in 1822. The other listed marriage occurred in 1844 and cannot explain the 1825 discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5114",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes agrees, but Albertus does not corroborate Petrus, and his age of about 16 and different declared district weaken the match. The undated Strauss marriage and subsequent 1829 Alberts marriage do not permit a decisive comparison with Cornelia Fouchee.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5114",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the district agree, but Jacobus versus Albertus leaves the identity unconfirmed. The Van Vreede(n) marriage was on 4 December 1825, with no census date supplied to establish whether it preceded this entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5114",
+  "verdict": "REJECT",
+  "reason": "The census wife Cornelia Fouchee clearly differs from Johanna Catharina Davel, married in 1803. No listed remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "751|1523",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the Somerset/Cradock location are compatible, but Petrus versus Ludovicus lacks corroboration. No census wife is named, and no supplied parental information verifies the annotation identifying the head as Johannes Lodovicus's son.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|1495",
+  "verdict": "UNCERTAIN",
+  "reason": "He was only about 14 in 1823, making household headship unlikely, and Ludovicus does not corroborate Petrus. The Strauss marriage is undated, the Alberts marriage followed in 1829, and the supplied genealogy does not verify the annotation identifying the head as Willem's son.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|1497",
+  "verdict": "UNCERTAIN",
+  "reason": "He was only about 14 in 1823, and the shared Johannes and compatible district do not resolve Petrus versus Diederik. No wife or supplied parental evidence corroborates this head or the Johannes Ludovicus's son annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4104",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Johannes, but Christoffel does not corroborate Petrus. At about 16, with a different declared district and no census wife named, the evidence is insufficient.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4598",
+  "verdict": "REJECT",
+  "reason": "The census identifies Daniel Petrus, whereas the genealogy identifies Johannes Petrus, explicitly called Jan Jr. Daniel is not a variant of Johannes or Jan, and sharing Petrus does not resolve that conflict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4709",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus and Willem Lodewyk are entirely different given names. The undated Strauss marriage and the 1829 Alberts marriage do not permit a decisive wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "755|4709",
+  "verdict": "ACCEPT",
+  "reason": "Willem Lodewyk matches exactly, and Francina Jac. Du Preez matches Francina Jacoba Du Preez, married on 4 July 1825. The district and age of about 21 are compatible, with no material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|4709",
+  "verdict": "UNCERTAIN",
+  "reason": "Only Willem matches, while competing pair 755|4709 matches both Willem Lodewyk and Francina Jacoba Du Preez, strongly favoring that other man. Both marriages listed for Willem Jurgen occurred after 1825 and cannot establish a wife contradiction for this pair.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|4709",
+  "verdict": "REJECT",
+  "reason": "Petrus Gerhardus does not match Willem Lodewyk, and Francina Jac. Du Preez clearly differs from Sophia Joachimina Scholtz, married in 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "761|4709",
+  "verdict": "REJECT",
+  "reason": "Francina Jac. Du Preez differs from Jacoba Johanna Pieterse(n), married in 1821, and also from the undated spouse Martha Maria Maritz. The 1859 Combrink marriage cannot explain the discrepancy, and Lodewyk does not match Sterrenberg.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|4709",
+  "verdict": "REJECT",
+  "reason": "Francina Jac. Du Preez clearly differs from Petronella Christina Botha, married in 1804; the 1851 Du Plooy marriage cannot explain this. The alternative Willem Pretorius in Cradock fits the supplied name and declared locality better and has no named wife creating a conflict.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "752|4814",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes agrees, but Jacobus does not corroborate Petrus, and the age of about 16 and different district weaken the match. The Strauss marriage is undated and the Alberts marriage occurred in 1829, so Hendrina Sophia van der Berg cannot be compared decisively.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4814",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus matches exactly and the district is compatible, but the census wife is Hendrina Sophia van der Berg. The genealogy marriage to Elisabeth Van Vreede(n) occurred on 4 December 1825, so the unknown census date prevents a firm wife contradiction or confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|4814",
+  "verdict": "REJECT",
+  "reason": "Hendrina Sophia van der Berg clearly differs from Johanna Catharina Davel, whom he married in 1803. No listed remarriage explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|4814",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus is compatible with Johannes Jacobus Cornelis through omission of Cornelis, and the age and district fit. The Viljoen marriage is undated, preventing a decisive comparison with Hendrina Sophia van der Berg, and another proposed man also bears Johannes Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5007",
+  "verdict": "UNCERTAIN",
+  "reason": "The names share Johannes, but Wynand Adriaan provides no corroboration for Johannes Petrus. His age of about 16, different declared district and absence of a census wife leave the identification unsupported.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5029",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Petrus is compatible with Johannes Petrus, with Jacobus potentially omitted from the genealogy. However, he was only about 16, the declared district differs, no census wife is named, and another proposed man also has compatible names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5029",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan and Jacobus are compatible with Johannes Jacobus, and the district and age fit, but the additional Petrus and competing Johannes Petrus identification leave ambiguity. No census wife is named to corroborate the December 1825 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "763|5029",
+  "verdict": "REJECT",
+  "reason": "Daniel Petrus conflicts with the census identification Jan Petrus Jacobus: Daniel is not a variant of Jan. The shared Petrus and district do not resolve this given-name conflict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5148",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Pretorius alone is insufficient, especially at about 16 and with a different declared district. The Strauss marriage is undated and the Alberts marriage occurred in 1829, preventing a decisive comparison with Anna Sophia Pretorius.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5148",
+  "verdict": "REJECT",
+  "reason": "Anna Sophia Pretorius clearly differs from Johanna Catharina Davel, whom he married in 1803. The shared Johannes and district do not overcome this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|5148",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes is compatible through omission of Jacobus Cornelis, but this common name and the district do not establish identity. The marriage to Catharina Jacoba Viljoen is undated, so Anna Sophia Pretorius cannot be treated as a definite chronological contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4103",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the district agree, but Jacobus versus Lodewicus lacks corroboration. No census wife is named, and the December 1825 marriage does not establish his marital status when the census entry was made.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|4103",
+  "verdict": "UNCERTAIN",
+  "reason": "The shared Johannes and district are insufficient to resolve Andries versus Lodewicus. The census supplies no wife to compare with Johanna Catharina Davel, and her omission alone is not an affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4702",
+  "verdict": "REJECT",
+  "reason": "The census head is the woman Alletta Jac. van der Merwe, identified as Johannes Lodewicus Pretorius's widow. A male genealogy person cannot be this female household head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|4702",
+  "verdict": "REJECT",
+  "reason": "The census head is the woman Alletta Jac. van der Merwe, identified as Johannes Lodewicus Pretorius's widow. Johannes Jacobus Cornelis cannot be this female household head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5152",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus and Wessel Christiaan are entirely different given names, not ordinary variants. The December 1825 genealogy marriage cannot be compared conclusively with Catharina Petronella Loots without the census date.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5178",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the district agree, but Jacobus versus Andries does not establish identity. His Van Vreede(n) marriage was on 4 December 1825, so the unknown census date prevents a conclusive contradiction with Johanna Catharina Davel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "855|9400",
+  "verdict": "UNCERTAIN",
+  "reason": "Middle names differ (Johannes Christoffel vs Jacobus) and the census wife Slabbert does not match the only listed spouse Goeman, but Goeman has no marriage date, so remarriage cannot be ruled out.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "856|3865",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name, but no wife is recorded although he married Bekker in 1801 (possible widowhood). The census is in George while he is declared Somerset, and an identical George entry (S. son) exists.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "856|3895",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name, but no wife is recorded despite his 1801 marriage to Bekker. The census is in George rather than Somerset, and a duplicate George entry (J. son) makes the identification ambiguous.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "857|9562",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Scheepers, Elisabeth matches Maria Elizabeth Scheepers (m. 1810), in the declared district Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "858|9592",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Bekker, Catharina Elisabeth matches the 1817 marriage, in Uitenhage as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "859|3873",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Nel, A. C. matches Anna Catharina Nel (m. 1817), in George as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "860|3874",
+  "verdict": "REJECT",
+  "reason": "The census wife Botha, M. contradicts his 1823 marriage to Martha Magdalena Schoeman, and the 'Senior' label does not fit a man born in 1797. The other George entry, Johannes Schoeman with wife Schoeman, M. M., fits him.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Schoeman, Johannes"
+ },
+ {
+  "pair_id": "860|3927",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Schoeman, M. M. matches Martha Magdalena Schoeman (m. 1823), in George as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "861|3875",
+  "verdict": "ACCEPT",
+  "reason": "Exact name in the declared district George, unmarried in 1825 (first marriage 1828), and the 'J. son' annotation matches that of his brother Frederik Stephanus. The competing genealogy person (b. 1809) is only about 16.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "863|3875",
+  "verdict": "UNCERTAIN",
+  "reason": "Only about 16 in 1825 and declared Somerset rather than George. The 'J. son' annotation fits the older Stephanus Johannes (b. 1800) better, and the genealogy places this man as a son of Hendrik Nicolaas.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "861|3892",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name and district with no wife (consistent with his 1828 marriage), but the 'S. son' annotation differs from his brother's 'J. son'. The parallel 'J. son' entry (George 605) fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "863|3892",
+  "verdict": "UNCERTAIN",
+  "reason": "Only about 16 in 1825, declared Somerset rather than George, and the 'S. son' annotation does not obviously fit a son of Hendrik Nicolaas.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "862|2029",
+  "verdict": "ACCEPT",
+  "reason": "Carolus Gustaph/Gustaaf matches and the census wife Hatting, Geertruida Jacoba matches the 1822 marriage, in Cradock (Somerset).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "863|3890",
+  "verdict": "REJECT",
+  "reason": "The census head is a married 'Senior' (wife Bekker, C. E.), which is incompatible with a man born in 1809 (about 16) whose only marriage was in 1836.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "864|5205",
+  "verdict": "ACCEPT",
+  "reason": "Joachim Scholtz with wife Kruger, Anna Jacomina matches Anna Jacoba Kruger (m. 1801); the Jacoba/Jacomina difference is normal variation. Graaff-Reinet as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "865|5495",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches (Schombe/Schoombee) and he was unmarried until 1827, but he was only about 16 in 1825. Another Andries Gotlieb with wife Viljoen (likely his father) is in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "866|9339",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Viljoen, Hester Aletta matches his listed spouse exactly. Uitenhage versus the declared Somerset is not a contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "868|9530",
+  "verdict": "ACCEPT",
+  "reason": "Sevensterren, Wessel Laurens is a spelling variant of the name, and the census wife Botha, Anna Cornelia matches the 1809 marriage. Uitenhage as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "870|9459",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name, 'Junior' with no wife fits an unmarried 21-year-old (married 1831), but Uitenhage differs from the declared Beaufort and there is no corroborating evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "870|9461",
+  "verdict": "UNCERTAIN",
+  "reason": "This head has wife Janze van Rensburg and no 'Junior' tag, suggesting an older namesake. The genealogy man (b. 1804) first married Classen in 1831, so the wife cannot strictly contradict. The 'Junior' entry (Uitenhage 638) fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "872|2044",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches, but the census wife van Zetten differs from the only listed spouse Potgieter (undated), and 'de Oude' suggests an older man. There is no birth year to check.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "874|1069",
+  "verdict": "ACCEPT",
+  "reason": "Gert/Gerrit Willem matches and the census wife Mouton, Anna Margaretha matches the January 1823 marriage, in Clanwilliam as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "875|9953",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name and no wife, which fits a 20-year-old whose dated marriages are later, but his earliest spouses are undated. Worcester versus the declared Tulbagh is plausible but adds no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "877|852",
+  "verdict": "ACCEPT",
+  "reason": "Johan/Johannes Hendrik matches and the census wife Korf, Maria Jacoba matches his 1820 second marriage, in Beaufort as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "878|241",
+  "verdict": "REJECT",
+  "reason": "The census wife De Beer contradicts his 1823 marriage to Catharina Maria Brits. Another Beaufort Willem Jacobus has wife Brits, Catharina Maria.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "878|242",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Brits, Catharina Maria matches the 1823 marriage exactly, so he was a married head at about 19.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "878|264",
+  "verdict": "REJECT",
+  "reason": "The census wife Roets contradicts his 1823 marriage to Brits. The Beaufort Willem Jacobus with wife Brits fits him.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "879|248",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and no wife, consistent with a first marriage in 1829. The 'Willem Jacobus' son' annotation matches that of his brother Willem Jacobus (wife Brits) in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "879|814",
+  "verdict": "UNCERTAIN",
+  "reason": "This head is married to Du Plooy, which is unlikely for an 18-year-old whose first recorded marriage was in 1829, though post-census marriages cannot strictly contradict. The unmarried Samuel Jacobus entry (Beaufort 59) fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Smit, Samuel Jacobus"
+ },
+ {
+  "pair_id": "880|443",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Breitenbagh, Susara Isabella matches Susanna Isabella Breytenbach (m. 1814), in Beaufort as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|1721",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Coetzee, Elizabeth Johanna Susanna matches his 1809 spouse, in Cradock (Somerset).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|4775",
+  "verdict": "ACCEPT",
+  "reason": "Abram/Abraham Johannes with wife Vorster, Anna Elisabeth matches his other listed (undated) spouse. This is consistent with remarriage after the 1823 Cradock entry with wife Coetzee.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "882|2015",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife de Beer, Fredrika Elizabeth Jacoba matches the 1813 marriage, in Cradock (Somerset).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|5111",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan Hendrik S. matches and the census wife Klaassen, Dorothea Wilhelmina matches Claasens (m. 1817), in Graaff-Reinet as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|2125",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Olivier, Aletta Catharina Magdalena matches the 1821 marriage, in Cradock (Somerset).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|5474",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name, but this 1825 Graaff-Reinet head has no wife although he married Olivier in 1821 (widowhood is possible). He is already well matched to the 1823 Cradock entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "886|653",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Janze van Rensburg, Hendrina Maria matches his spouse (m. 1813/1815), in Beaufort as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "887|651",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife Janze van Rensburg, Aletta Sophia matches the 1816 marriage, in Beaufort as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "888|635",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, unmarried (no spouses listed), in Beaufort as declared. The annotation 'Petrus Casparus' son' matches that of his brothers Johannes Hendrik and Gerrit Christoffel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "889|4840",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and the census wife v. Eeden, Anna Francina matches the 1817 marriage. Graaff-Reinet versus the declared Somerset is not a contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

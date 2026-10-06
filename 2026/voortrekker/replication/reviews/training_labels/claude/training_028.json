@@ -1,0 +1,135 @@
+[
+ {
+  "pair_id": "755|4107",
+  "verdict": "REJECT",
+  "reason": "Middle name Lodewyk conflicts with census 'Willem Sterrenberg', and the census wife Pienaar differs from his only spouse Du Preez (married July 1825, so at most newly married to her in the census year).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|4107",
+  "verdict": "REJECT",
+  "reason": "Willem Jurgen (b.1808) first married De Beer in 1828, so he could not have had a wife Pienaar in 1825; the middle name Sterrenberg also conflicts. A census head 'Pretorius, Willem Jurgen' matches his full name exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem Jurgen"
+ },
+ {
+  "pair_id": "765|4107",
+  "verdict": "REJECT",
+  "reason": "His wife from 1804 was Botha (next recorded marriage 1851), but the census wife is Pienaar; the middle name Sterrenberg is unrecorded and the district differs from his declared Somerset/Cradock.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "758|5033",
+  "verdict": "UNCERTAIN",
+  "reason": "'Jacobus Johannes' is a plausible reordering of Johannes Jacobus Cornelis in the same district, but the census wife Haarhoff does not match his spouse Viljoen, whose marriage date is unknown. He was only about 18 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|5109",
+  "verdict": "REJECT",
+  "reason": "The census middle initial 'H.' conflicts with Jurgen, and he was unmarried until 1828, yet the census head has a wife (Marta M. Pretorius).",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem Jurgen"
+ },
+ {
+  "pair_id": "765|5109",
+  "verdict": "REJECT",
+  "reason": "The census wife Marta M. Pretorius differs from his 1804 wife Botha, and the middle initial H. is unrecorded for him. The census head is also in Graaff-Reinet, outside his declared Cradock area.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "759|5181",
+  "verdict": "ACCEPT",
+  "reason": "The full name Willem Jurgen matches exactly in his declared district Graaff-Reinet. No wife is listed, which is consistent with his first marriage in 1828. Aged about 17, he is young but plausible as a head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|4228",
+  "verdict": "REJECT",
+  "reason": "The census name Petrus Jacobus conflicts with Petrus Gerhardus, and the census wife Kruger differs from his 1801 wife Scholtz.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Petrus Gerhardus"
+ },
+ {
+  "pair_id": "760|4900",
+  "verdict": "REJECT",
+  "reason": "The census wife Van Eeden clearly differs from his 1801 wife Scholtz, and his only recorded marriage is that one; the census name 'Petrus' alone is weak.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Petrus Gerhardus"
+ },
+ {
+  "pair_id": "760|5164",
+  "verdict": "ACCEPT",
+  "reason": "The full name Petrus Gerhardus matches exactly in his declared district Graaff-Reinet, and he was aged about 53. No census wife is named, which is not a contradiction, and the other Petrus candidates are contradicted by their wives.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|1511",
+  "verdict": "UNCERTAIN",
+  "reason": "The plain name 'Willem' in Cradock fits his declared Somerset/Cradock area, and 'de Oude' fits an older Willem aged 37. However, the name is common and no wife is named to corroborate his 1804 marriage to Botha.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|4570",
+  "verdict": "REJECT",
+  "reason": "The census given names Charl Johannes conflict with Willem, and the census head is in Graaff-Reinet rather than his declared Cradock area.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "766|2200",
+  "verdict": "REJECT",
+  "reason": "The census given name Johannes ('Marthinus' zoon') conflicts with Hendrik Frederik, and the census wife Johanna Petronella Prinsloo matches neither Van den Vyver nor Du Preez.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2200",
+  "verdict": "REJECT",
+  "reason": "The census given name Johannes conflicts with Willem Jacobus, who was about 15 in 1823 and unmarried until 1828, yet the census head has a wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "766|2203",
+  "verdict": "REJECT",
+  "reason": "The census given name Klaas (Nicolaas) conflicts with Hendrik Frederik, and the census wife Klopper matches neither Van den Vyver (1815) nor Du Preez.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2203",
+  "verdict": "REJECT",
+  "reason": "The census given name Klaas conflicts with Willem Jacobus, who was about 15 and unmarried in 1823, while the census head has a wife (Klopper).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "766|2231",
+  "verdict": "UNCERTAIN",
+  "reason": "The census name 'Hendrik Fredrik' matches his name exactly in the Cradock area. However, the census wife Geere matches neither his 1815 wife Van den Vyver nor his undated second wife Du Preez, so only an unrecorded remarriage could reconcile them.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "770|2231",
+  "verdict": "REJECT",
+  "reason": "The census given names Hendrik Fredrik conflict with Willem Marthinus, and the census wife Geere differs from his 1822 wife Klopper. Census head 'Willem Marthinus' has a Klopper wife, which fits much better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Willem Marthinus"
+ },
+ {
+  "pair_id": "782|2231",
+  "verdict": "REJECT",
+  "reason": "The census name Hendrik Fredrik conflicts with Hendrik Petrus, and the census wife Geere differs from his 1814 wife Van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

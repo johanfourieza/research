@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "591|5362",
+  "verdict": "REJECT",
+  "reason": "Census head is only 'Jacobus' Meintjes with no wife, while a separate Graaff-Reinet head 'Willem J. Albertus' Meintjes has wife Viljoen, Anna Francina Johanna, matching his spouse married 1822; that candidate clearly fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Meintjes, Willem J. Albertus"
+ },
+ {
+  "pair_id": "592|4252",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match; census wife Klaassen, Cornelia matches spouse Cornelia ... Claas(s) married 1823, before the 1825 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "595|1631",
+  "verdict": "ACCEPT",
+  "reason": "Pieter/Petrus Jacobus Meintjes in Cradock (Somerset) with wife de Meyer, Susanna Jacoba, matching the spouse married April 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "597|3532",
+  "verdict": "ACCEPT",
+  "reason": "Full name Jacobus Johannes Phil(l)ippus Meyer matches in George; census wife Van Rooyen, J. E. matches Johanna Elisabeth van Rooyen married 1819.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "598|1801",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Cradock (Somerset) and census wife Greyling, Anna Maria matches the recorded spouse exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "601|90",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and district match; census wife De Lange, Cornelia Johanna matches recorded spouse exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "603|9444",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and district match; census wife Joubert, Johanna Francina matches his (first-listed) spouse exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "604|9294",
+  "verdict": "ACCEPT",
+  "reason": "Isak/Isaac Johannes Meyer in Uitenhage; census wife Fourie, Johanna Cecilia is the spouse Cecilia Johanna Fourie (married 1817) with given names reordered.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "605|4396",
+  "verdict": "ACCEPT",
+  "reason": "Philip Carel Minnaar Sr. matches including the Sr. suffix; census wife Janzen, Maria Jac. matches Maria Jacoba Jansen married 1798.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "606|4395",
+  "verdict": "ACCEPT",
+  "reason": "Philip Carel Minnaar (distinct from the Sr. entry) with wife v. Heerden, Jac. Johanna, matching Jacoba Johanna van Heerden married 1820.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "607|4397",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, unmarried head consistent with marriage in 1828, aged about 20; entry is adjacent (rows 362-364) to his father Philip Carel Sr. and brother Philip Carel, with no competing candidate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "613|838",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches but the census head has no wife although this man married in 1801, and a namesake born 1806 competes for the same head; the 'Fredrik's son' annotation cannot be checked against the genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "614|838",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches and an unmarried head fits a man aged about 19, but an older namesake (b. 1780) competes for the same head and the father 'Fredrik' cannot be verified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "615|9208",
+  "verdict": "REJECT",
+  "reason": "Census wife Snyman, Jacomina Dorothea matches neither spouse (de Jager, married July 1825; Pretorius), and a man born 1805 having an earlier wife Snyman is implausible; likely a different, older Petrus Lafras.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "616|9211",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Odendal, Judith Margaretha matches spouse Odendaal married 1803 with the name matching; the declared Swellendam district differs, but the wife match outweighs that.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "617|9231",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, unmarried as expected (married 1829), and annotation 'Jacobus Philippus' son' agrees with his genealogy position as son of Jacobus Phillippus Moolman (MOOLMANa1b1c2).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "619|7210",
+  "verdict": "REJECT",
+  "reason": "Census wife Odendal, Diena Maria differs from his spouse Anna Magdalena de Beer, and another head Johannes Petrus Mulder has wife De Beer, Anna Magdalena.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Mulder, Johannes Petrus"
+ },
+ {
+  "pair_id": "619|7567",
+  "verdict": "ACCEPT",
+  "reason": "Muller/Mulder is a plausible transcription variant, and the census wife De Beer, Anna Magdalena matches his spouse's full name exactly in Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "620|1993",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name in Cradock (Somerset), but no wife is listed although he married de Beer in 1821; his 1827 remarriage could mean widowhood, yet nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "621|4079",
+  "verdict": "ACCEPT",
+  "reason": "Meyburg/Myburgh spelling variant; census wife Du Plessis, Martha matches spouse married 1802, in Graaff-Reinet as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "622|40",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name (Meynhardt variant) and unmarried status fits a man aged about 18 who married in 1829, but the identity rests on name alone and the census is in Albany rather than declared Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "626|10368",
+  "verdict": "ACCEPT",
+  "reason": "Exact name in Worcester 1824 with census wife Van Wyk, Christina matching his first spouse; second marriage was in 1834.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "628|4466",
+  "verdict": "UNCERTAIN",
+  "reason": "Unmarried Philip Jacob Naude fits a man born 1808 who married in 1831, but he was only about 17 and the evidence is a name shared with another Graaff-Reinet head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "628|4868",
+  "verdict": "REJECT",
+  "reason": "Census wife Smit, Johanna Maria is not his spouse, and he was only about 17 in 1825 (married van den Berg 1831); this is likely an older namesake, and the unmarried Philip Jacob fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Naude, Philip Jacob"
+ },
+ {
+  "pair_id": "630|5127",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and district; census wife Bruwer, Aletta Catharina matches spouse married 1821.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "634|5150",
+  "verdict": "ACCEPT",
+  "reason": "Exact name; census wife Loots, Anna Susanna matches spouse married 1824, outweighing the declared Uitenhage vs Graaff-Reinet difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "636|4315",
+  "verdict": "ACCEPT",
+  "reason": "Exact name; census wife Fouchee, Hester Hendrina matches spouse Fouché married October 1825, consistent with a late-1825 enumeration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "637|783",
+  "verdict": "ACCEPT",
+  "reason": "Exact name in Beaufort; census wife Erasmus, Carolina Elizabeth matches Cornelia Carolina Elisabeth Erasmus married 1819.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "638|9352",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, annotated 'Senior', consistent with birth 1760; census wife Van der Merwe, Johanna matches Johanna Helena van der Merwe married 1785.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "639|479",
+  "verdict": "UNCERTAIN",
+  "reason": "'Pieter Willemse' is only a loose name match with no wife recorded, in Beaufort rather than declared Uitenhage; the 'Stephanus' son' annotation cannot be verified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "639|9658",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but census wife Van der Merwe, Jacoba differs from his only recorded spouse Anna Helena Martha Nel; the undated marriage leaves an earlier marriage possible.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "642|7822",
+  "verdict": "ACCEPT",
+  "reason": "Exact name and district; census wife Joubert, Maria Elisabeth matches spouse married 1808.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "643|7804",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches 'Johannes Paulus Jr.' and no wife is listed, but he was only about 17 in 1825 and the link rests on name alone.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "644|2018",
+  "verdict": "REJECT",
+  "reason": "Census head Willem Adriaan Nel had wife La Buscagne, Susanna in 1823, when this Willem was about 18 and not married until 1828 (to de Lange); this is likely a different man.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "651|521",
+  "verdict": "ACCEPT",
+  "reason": "Exact name; census wife De Beer, Margaretha Jacoba matches his spouse exactly, despite Beaufort vs declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "652|1592",
+  "verdict": "UNCERTAIN",
+  "reason": "The common name Louis Nel matches, but no wife is listed although he married Olivier in 1801, and nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "654|3878",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Willem Adriaan/Andries is a minor middle-name variant; census wife Bekker, H. D. matches Hester Dorothea Bekker, in George as declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "655|4640",
+  "verdict": "ACCEPT",
+  "reason": "Isaac/Izak Johannes Niemand with census wife Strydom, Catharina Geertruida matching spouse married 1811; Colesberg was part of Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "661|9212",
+  "verdict": "ACCEPT",
+  "reason": "Exact name (Odendal variant) and district; census wife Odendal, Susanna Engela matches spouse married 1810.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "663|533",
+  "verdict": "ACCEPT",
+  "reason": "Exact full name in Beaufort; census wife Phisanie, Dina Johanna Elizabeth is a spelling variant of Dina Elisabeth Johanna Cornelia du Pisani, married 1814.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

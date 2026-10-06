@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "1069|9174",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus Janse van Rensburg and Gerrit van Rooyen have incompatible names. Martha Johanna Muller also contradicts the listed wife Sara Bronkhorst, married in 1802.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1086|9174",
+  "verdict": "REJECT",
+  "reason": "Although Gerrit van Rooyen and the district agree, Martha Johanna Muller differs from Maria van Rooyen, married in 1803. No supplied remarriage explains this discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9174",
+  "verdict": "REJECT",
+  "reason": "Martha Johanna Muller contradicts Adriana Maria Kock, married in 1807; the second Kock marriage is explicitly dated 1826 and cannot explain the census wife. The alternative Gerret Rynier matches both given names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Rooyen, Gerret Rynier"
+ },
+ {
+  "pair_id": "1083|9729",
+  "verdict": "REJECT",
+  "reason": "Dirk and Gerret are distinct given names, with no supplied evidence connecting them. The genealogy marriage in 1828 cannot confirm or contradict the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1089|9729",
+  "verdict": "REJECT",
+  "reason": "Gerret is compatible with Gerrit, but the census wife Maria van Rooyen contradicts Susanna Elizabeth Minnie, married in 1804. No listed remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1088|9288",
+  "verdict": "REJECT",
+  "reason": "Theodorus Cornelis and Gerret Rynier are incompatible given names. The absent census wife supplies no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9288",
+  "verdict": "UNCERTAIN",
+  "reason": "Gerret Rynier is a plausible spelling of Gerrit Reynier, and the district and age fit. However, no wife is named and the genealogy provides no father's name to verify the 'Piet's son' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1089|9716",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district agree, and Susanna Elisabeth Minie matches Susanna Elizabeth Minnie, married in 1804. The birth year is compatible with an adult head in 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1098|9477",
+  "verdict": "UNCERTAIN",
+  "reason": "Pillippus Theunis plausibly matches Philippus Theunis, but the man was only about 16 in 1825 and lacks independent corroboration. His 1833 marriage cannot confirm or contradict Sara Johanna Scheepers.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1099|485",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Hendrik van Stade matches the genealogy name, and Johanna Magdalena de Clercq matches Magdalena Johanna de Klerk through spelling variation and reordered names. The 1819 marriage, district and adult age support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1100|9361",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Fredrik and Martha Magdalena Janze van Rensburg match the man and his wife married in 1824. The district and birth year are compatible, and the undated additional spouse creates no established contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1101|9341",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Johannes and Anna Maria Smit exactly match the man and his wife married in 1822. His age and district fit, while the competing genealogy persons have different wives or given names.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1114|9341",
+  "verdict": "REJECT",
+  "reason": "Anna Maria Smit contradicts Hester Anthoinetta Scheepers, married in 1796. The alternative Petrus with Hester Antonetta Scheepers matches both the man's name and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Staden, Petrus"
+ },
+ {
+  "pair_id": "1115|9341",
+  "verdict": "REJECT",
+  "reason": "Marthinus Johannes differs from the head Petrus Johannes, whose name and wife match the competing genealogy man born in 1804. This man's 1827 marriage cannot establish his wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1110|9504",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Frederik and Roelof Jacobus share only Jacobus, leaving a substantial unresolved name discrepancy. The census date within 1825 is unknown, so the June 1825 marriage cannot establish a wife contradiction; the 1860 marriage is irrelevant to that comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1112|9552",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus is compatible with Marthinus Petrus, and Susanna Elisabeth Viljoen matches the wife married in 1798. The district and age also fit.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1114|9552",
+  "verdict": "REJECT",
+  "reason": "The head Marthinus and wife Susanna Elisabeth Viljoen conflict with Petrus and his wife Hester Anthoinetta Scheepers, married in 1796. The alternative Petrus with Hester Antonetta Scheepers is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Staden, Petrus"
+ },
+ {
+  "pair_id": "1114|9533",
+  "verdict": "REJECT",
+  "reason": "Johannes Jurie is incompatible with the supplied given name Petrus. The alternative Petrus whose wife is Hester Antonetta Scheepers matches the genealogy couple.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Staden, Petrus"
+ },
+ {
+  "pair_id": "1116|9463",
+  "verdict": "REJECT",
+  "reason": "Jacob Abraham van Straten and Johannes Jurie van Staden have incompatible given names. The undated Prinsloo marriage cannot establish a wife contradiction, while the alternative Van Straten, Jacobus is a substantially better name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Straten, Jacobus"
+ },
+ {
+  "pair_id": "1117|4356",
+  "verdict": "REJECT",
+  "reason": "Jacobus is incompatible with Francois Cornelius, whereas the alternative Francois Cornelis matches the full name and district. The genealogy marriage occurred in 1832 and supplies no wife comparison for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Straten, Francois Cornelis"
+ },
+ {
+  "pair_id": "1120|9615",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes could represent an abbreviated form of Andries Johannes, and the district and age are compatible. The 1838 marriage cannot contradict Lena Catharina Nortje, but no supplied evidence corroborates this identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1121|1961",
+  "verdict": "UNCERTAIN",
+  "reason": "Adriaan is compatible with Adriaan Jacobus, but a roughly 14-year-old is an unlikely married head described as 'de Oude'. Neither the 1840 marriage nor the undated marriage establishes his wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1121|4185",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacob differs from Adriaan Jacobus: Jacob and Jacobus are compatible, but Johannes and Adriaan are distinct given names. The later and undated genealogy marriages cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1123|7786",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district agree, and Joubert, M. M. matches the listed spouse Maria Magdalena Joubert. Her marriage date is unknown, but this matching spouse provides corroboration and a listed remarriage can explain the earlier Van den Berg wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1124|7347",
+  "verdict": "REJECT",
+  "reason": "Van Eeden conflicts with Van Tonder, and the given names also differ. Cornelia Margrietha van Zyl contradicts Cornelia Carolina Oosthuizen, married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1124|7907",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik van Tonder is compatible with Frederik Johannes van Tonder, and Cornelia C. Oosthuysen matches Cornelia Carolina Oosthuizen, married in 1816. The district and age fit.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1136|4639",
+  "verdict": "ACCEPT",
+  "reason": "Jacob Pieter matches exactly, and Catharina Liebenberg is compatible with Catharina Johanna Liebenberg, married in 1824. Colesberg's inclusion in Graaff-Reinet makes the districts compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|1616",
+  "verdict": "REJECT",
+  "reason": "Although Pieter and Petrus are equivalent forms, Carel and Adriaan are distinct given names. Neither an identified wife nor a supplied paternal name resolves this conflict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|4093",
+  "verdict": "UNCERTAIN",
+  "reason": "Adriaan van Wyk agrees, but Pieter versus Jacobus is an unresolved middle-name discrepancy and the districts differ. The undated Steenkamp marriage prevents treating Maria Petronella Burger as a demonstrated wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|4158",
+  "verdict": "UNCERTAIN",
+  "reason": "Adriaan van Wyk is compatible with the genealogy name, but this name alone does not establish identity. The Steenkamp marriage is undated, so Elsje van Wyk neither confirms nor conclusively contradicts the genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1140|8360",
+  "verdict": "REJECT",
+  "reason": "Maria Johanna Strydom contradicts Johanna Catharina de Jager, married in 1805, with no supplied remarriage explaining the difference. Roelof Jacobus also differs from Roelof Daniel.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1141|961",
+  "verdict": "REJECT",
+  "reason": "Henning Jacobus and Hendrik Albertus are incompatible given-name combinations. The 1830 marriage cannot confirm or contradict the wife recorded in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1142|970",
+  "verdict": "REJECT",
+  "reason": "Abraham Erasmus is incompatible with Gerrit Matthys; the annotation 'Gerrit zoon' names the head's father, not the head. The alternative head Gerrit is a better name match, although the undated genealogy marriage prevents a decisive wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Wyk, Gerrit"
+ },
+ {
+  "pair_id": "1145|1809",
+  "verdict": "REJECT",
+  "reason": "Willem Abraham and Cornelis Johannes are incompatible given names. The November 1824 marriage occurred after the 1823 census and cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1146|1117",
+  "verdict": "UNCERTAIN",
+  "reason": "Susanna Maria Ras exactly matches the wife married in 1819, and the district and age fit. However, Willem Jacobus versus Willem Johannes is an unresolved name discrepancy rather than an ordinary spelling variation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1146|1240",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem van Zyl and the district agree, but Adriaan versus Jacobus remains unexplained. No census wife is named, and the genealogy supplies no father's name to verify 'Piet zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1146|1352",
+  "verdict": "REJECT",
+  "reason": "Andreas is incompatible with Willem Jacobus. Geesje Wilhelmina van der Westhuyse also contradicts Susanna Maria Ras, married in 1819.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|1859",
+  "verdict": "REJECT",
+  "reason": "Albertus Johannes does not match Petrus Jan Hendrik, and Anna Maria Kloppers contradicts Hester Johanna Margaretha Sophia Venter, married in 1820. The second marriage is explicitly dated September 1824, after the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|1881",
+  "verdict": "REJECT",
+  "reason": "Pieter is compatible with Petrus, but Aletta Elizabeth Viljoen contradicts Hester Johanna Margaretha Sophia Venter, married in 1820. The marriage to Hester Sophia van der Walt occurred in 1824 and cannot explain the 1823 census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

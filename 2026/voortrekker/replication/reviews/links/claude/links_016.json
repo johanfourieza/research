@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "806|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Hendrik Jr. (b.1800, age 23) matches the census 'Junior' Jan Hendrik in name and suffix, but the genealogy lists no spouse to compare with Grobbelaar, and two same-named sons appear in Cradock 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "808|1915",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823, which makes it implausible that he headed a household with a wife (Grobbelaar); an older same-named man (806, b.1800, 'Jr.') fits the 'Junior' entry better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Hendrik = Jan Hendrik and age 20 is plausible, but his only recorded marriage (Labuschagne, 1830) is after the census, so it cannot be compared with Grobbelaar; several equivalent-named Cradock heads compete.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "815|1915",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823, and his first marriage was 1833 (Steenkamp), so he cannot be the married head with wife Grobbelaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "806|1916",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but the genealogy man is 'Jr.' while this census entry is the 'Senior' Jan Hendrik with wife de Beer; no spouse is recorded to resolve it, and the 'Junior' entry (wife Grobbelaar) looks a more natural fit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "808|1916",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823; he is implausible as the 'Senior' Jan Hendrik with wife de Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1916",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Hendrik = Jan Hendrik, but his only recorded spouse (Labuschagne, m.1830) postdates the census, so wife de Beer cannot be tested; at age 20 'Senior' is a weak fit, and other same-named heads compete.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "815|1916",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823, and he first married in 1833 (Steenkamp); he cannot be the married 'Senior' head with wife de Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "808|1567",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823, which is implausible for the married head Johannes Hendrik Robberts with wife van Niekerk.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1567",
+  "verdict": "UNCERTAIN",
+  "reason": "The name Johannes Hendrik matches exactly and age 20 is plausible, but his recorded marriage (Labuschagne, 1830) is after 1823, so wife van Niekerk cannot be confirmed or excluded; the Jan Hendrik Robbertse entries also compete.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "815|1567",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823 and first married in 1833 (Steenkamp); he cannot be the married head with wife van Niekerk.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "809|1970",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name Johannes Matthys Robbertse matches exactly in Cradock (Somerset area), age 31 is plausible, and there is no competing same-named head; the spouse Very is undated, so the absent census wife is not a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "812|1504",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Francois matches exactly in Cradock, age 19 is plausible, and he first married in 1826, consistent with no wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "813|1679",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit = Gert, and the census wife Anna Sophia van Heerden matches his 1800 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "814|1682",
+  "verdict": "ACCEPT",
+  "reason": "Lambertus Nicolaas matches exactly, and the census wife Catharina Helena Venter matches his 1808 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "818|1882",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Nicolaas Rudolph Roets/Roetz matches, and the census wife Johanna Hendrica Venter matches his 1813 spouse Johanna Hendrina Venter.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "820|1883",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Jacobus Roets/Roetz matches exactly in Cradock, and his marriage in 1824 is consistent with no wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "821|1893",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Adriaan Roets/Roetz matches exactly in Cradock, and his first marriage in 1826 is consistent with no wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "822|232",
+  "verdict": "ACCEPT",
+  "reason": "The four-part name Johannes Nicolaas Jacobus Roets matches exactly, and his 1827 marriage is consistent with no wife in 1825; Beaufort differs from the declared Somerset but does not contradict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "823|556",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Gysbertus Roos matches, and the census wife Aletta Helena Vorster matches his spouse married 6/1/1822; the district difference (Beaufort) is minor against this.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "824|4728",
+  "verdict": "UNCERTAIN",
+  "reason": "Charl/Charel Petrus Roos matches by name and his 1830 marriage fits the absent wife, but at 18 with Graaff-Reinet rather than Somerset and no corroborating detail, the link rests on name alone.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "827|9588",
+  "verdict": "ACCEPT",
+  "reason": "Paulus/Paul Stephanus Roos matches, and the census wife Hester Maria Swanepoel is his first (undated) spouse, before his 1832 and 1834 remarriages.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "828|4794",
+  "verdict": "ACCEPT",
+  "reason": "Gysbertus/Gysbert Johannes Roos matches, and the census wife Magdalena Elisabeth Roos matches his 1820 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "829|5537",
+  "verdict": "ACCEPT",
+  "reason": "Izaak/Isaac Francois Roos matches exactly in the declared district, age 26 is plausible, and with no spouse recorded the absent census wife is consistent.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "831|5538",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus Roos matches by name and district, and his 1826 marriage fits the absent wife, but the given names are common and nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "832|5795",
+  "verdict": "ACCEPT",
+  "reason": "Francois Roos in Stellenbosch, and the census wife Maria Elisabeth Furstenberg matches his 1805 marriage to Fürstenberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "832|6388",
+  "verdict": "REJECT",
+  "reason": "The census wife Margaretha Elisabeth Meyer differs from his only spouse, Fürstenberg (m.1805), and a separate Francois Roos head with wife Furstenberg exists.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Roos, Francois"
+ },
+ {
+  "pair_id": "838|4942",
+  "verdict": "ACCEPT",
+  "reason": "Stephanus Scheepers matches, and the census wife Maria Magdalena Janse v. Rensburg matches his 1808 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "840|3852",
+  "verdict": "ACCEPT",
+  "reason": "Gideon/Gidion Scheepers matches, and the census wife Hester M. Klynhans matches his 1803 spouse Kleynhans.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "841|3851",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Johannes Scheepers matches exactly in George, and the annotation 'G. son' fits his descent from Gideon (840); his Feb 1825 marriage falls in the census year, so the absent wife is not a clear contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "842|9522",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Stephanus Scheepers (Junior) matches, and the census wife Isabella Potgieter matches his 1817 spouse Johanna Isabella Servasina Potgieter.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "843|9621",
+  "verdict": "ACCEPT",
+  "reason": "Frederik/Fredrik Coenraad Scheepers matches exactly in Uitenhage, and his 1827 marriage is consistent with no wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "844|9613",
+  "verdict": "ACCEPT",
+  "reason": "Coenraad Scheepers matches, and the census wife Elsie Magdalena Petronella Potgieter matches his 1821 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "845|9661",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus (Easias) Scheepers matches, and the census wife Elsie Catharina Scheepers matches his 1822 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "846|9088",
+  "verdict": "UNCERTAIN",
+  "reason": "Born 1808, he was only about 17 in 1825, yet the census head Gerhardus is married to Anna Christina Steyn while his only recorded marriage is 1829 (Oosthuizen); the link rests only on a common first name and is doubtful.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "847|9697",
+  "verdict": "ACCEPT",
+  "reason": "Jan/Johannes Marthinus Scheepers matches, and the census wife Magdalena Landman matches his 1798 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "849|9523",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Petrus fits Hendrik Petrus Gerrit, but his birth year is unknown, his July 1825 marriage leaves the absent census wife ambiguous, and Hendrik Christoffel Petrus (851) competes for the same head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "851|9523",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Petrus partly fits Hendrik Christoffel Petrus (b.1806, unmarried until 1839, consistent with no wife), but Hendrik Petrus Gerrit (849) competes and the census name omits Christoffel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "850|9487",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Jacobus Scheepers matches, and the census wife Anna Catharina Lindeque matches his 1820 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "852|9156",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus (Gert) Stephanus Scheepers matches, and the census wife Anna Susanna Scheepers matches his 1821 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,2492 @@
+[
+ {
+  "pair_id": "806|1915",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1495",
+  "genealogy_id": "ROBBERTSE(?) b1c7d3e1",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK JR.",
+  "birth_year": "1800.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|476",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Grobbelaar, Elizabeth Helena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Junior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1915",
+   "808|1915",
+   "810|1915",
+   "815|1915"
+  ]
+ },
+ {
+  "pair_id": "808|1915",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1497",
+  "genealogy_id": "ROBBERTSE(?)b1c7d6e3",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|476",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Grobbelaar, Elizabeth Helena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Junior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1915",
+   "808|1915",
+   "810|1915",
+   "815|1915"
+  ]
+ },
+ {
+  "pair_id": "810|1915",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1499",
+  "genealogy_id": "ROBBERTSEa1b1c7d3e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JOHANNES HENDRIK",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "CRADOCK",
+  "spouses": [
+   {
+    "name": "PETRONELLA CATHARINA SOPHIA",
+    "surname": "LABUSCHAGNE",
+    "marriage_date": "7/2/1830",
+    "marriage_year": "1830"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|476",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Grobbelaar, Elizabeth Helena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Junior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1915",
+   "808|1915",
+   "810|1915",
+   "815|1915"
+  ]
+ },
+ {
+  "pair_id": "815|1915",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1506",
+  "genealogy_id": "ROBBERTSEa1b1c7d9e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK",
+  "birth_year": "1809.0",
+  "death_year": "1879",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA MARGARETHA",
+    "surname": "STEENKAMP",
+    "marriage_date": "5/5/1833",
+    "marriage_year": "1833"
+   },
+   {
+    "name": "SARAH JACOBA",
+    "surname": "MARX",
+    "marriage_date": "1860",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|476",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Grobbelaar, Elizabeth Helena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Junior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1915",
+   "808|1915",
+   "810|1915",
+   "815|1915"
+  ]
+ },
+ {
+  "pair_id": "806|1916",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1495",
+  "genealogy_id": "ROBBERTSE(?) b1c7d3e1",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK JR.",
+  "birth_year": "1800.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|477",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "de Beer, Heyla Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1916",
+   "808|1916",
+   "810|1916",
+   "815|1916"
+  ]
+ },
+ {
+  "pair_id": "808|1916",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1497",
+  "genealogy_id": "ROBBERTSE(?)b1c7d6e3",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|477",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "de Beer, Heyla Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1916",
+   "808|1916",
+   "810|1916",
+   "815|1916"
+  ]
+ },
+ {
+  "pair_id": "810|1916",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1499",
+  "genealogy_id": "ROBBERTSEa1b1c7d3e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JOHANNES HENDRIK",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "CRADOCK",
+  "spouses": [
+   {
+    "name": "PETRONELLA CATHARINA SOPHIA",
+    "surname": "LABUSCHAGNE",
+    "marriage_date": "7/2/1830",
+    "marriage_year": "1830"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|477",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "de Beer, Heyla Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1916",
+   "808|1916",
+   "810|1916",
+   "815|1916"
+  ]
+ },
+ {
+  "pair_id": "815|1916",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1506",
+  "genealogy_id": "ROBBERTSEa1b1c7d9e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK",
+  "birth_year": "1809.0",
+  "death_year": "1879",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA MARGARETHA",
+    "surname": "STEENKAMP",
+    "marriage_date": "5/5/1833",
+    "marriage_year": "1833"
+   },
+   {
+    "name": "SARAH JACOBA",
+    "surname": "MARX",
+    "marriage_date": "1860",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|477",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "de Beer, Heyla Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "806|1916",
+   "808|1916",
+   "810|1916",
+   "815|1916"
+  ]
+ },
+ {
+  "pair_id": "808|1567",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1497",
+  "genealogy_id": "ROBBERTSE(?)b1c7d6e3",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|86",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robberts, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "van Niekerk, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": "Daniel's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "808|1567",
+   "810|1567",
+   "815|1567"
+  ]
+ },
+ {
+  "pair_id": "810|1567",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1499",
+  "genealogy_id": "ROBBERTSEa1b1c7d3e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JOHANNES HENDRIK",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "CRADOCK",
+  "spouses": [
+   {
+    "name": "PETRONELLA CATHARINA SOPHIA",
+    "surname": "LABUSCHAGNE",
+    "marriage_date": "7/2/1830",
+    "marriage_year": "1830"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|86",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robberts, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "van Niekerk, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": "Daniel's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Christiaan Stephanus",
+    "census_spouse": "Grobbelaar, Elsje Susanna",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "808|1567",
+   "810|1567",
+   "815|1567"
+  ]
+ },
+ {
+  "pair_id": "815|1567",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1506",
+  "genealogy_id": "ROBBERTSEa1b1c7d9e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JAN HENDRIK",
+  "birth_year": "1809.0",
+  "death_year": "1879",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA MARGARETHA",
+    "surname": "STEENKAMP",
+    "marriage_date": "5/5/1833",
+    "marriage_year": "1833"
+   },
+   {
+    "name": "SARAH JACOBA",
+    "surname": "MARX",
+    "marriage_date": "1860",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|86",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robberts, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "van Niekerk, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": "Daniel's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "808|1567",
+   "810|1567",
+   "815|1567"
+  ]
+ },
+ {
+  "pair_id": "809|1970",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1498",
+  "genealogy_id": "ROBBERTSEa1b1c7d11",
+  "surname": "ROBBERTSE",
+  "given_names": "JOHANNES MATTHYS",
+  "birth_year": "1792.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SOPHIA JACOBA",
+    "surname": "VERY",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|537",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robbertse, Johannes Matthys",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "809|1970"
+  ]
+ },
+ {
+  "pair_id": "812|1504",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1501",
+  "genealogy_id": "ROBBERTSEa1b1c7d4e2",
+  "surname": "ROBBERTSE",
+  "given_names": "JOHANNES FRANCOIS",
+  "birth_year": "1804.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA FRANCINA",
+    "surname": "COETZEE",
+    "marriage_date": "9/7/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "PETRONELLA INGENAZINA",
+    "surname": "HATTINGH",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|17",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robberts, Johannes Francois",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Daniel Jacobus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "812|1504"
+  ]
+ },
+ {
+  "pair_id": "813|1679",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1503",
+  "genealogy_id": "ROBBERTSEa1b1c7d5",
+  "surname": "ROBBERTSE",
+  "given_names": "GERRIT",
+  "birth_year": "1779.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA SOPHIA",
+    "surname": "VAN HEERDEN",
+    "marriage_date": "21/12/1800",
+    "marriage_year": "1800"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|215",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robberts, Gert",
+  "census_head_role": "male",
+  "census_spouse": "van Heerden, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Lambertus Nicolaas",
+    "census_spouse": "Venter, Catharina Helena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "813|1679"
+  ]
+ },
+ {
+  "pair_id": "814|1682",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1505",
+  "genealogy_id": "ROBBERTSEa1b1c7d9",
+  "surname": "ROBBERTSE",
+  "given_names": "LAMBERTUS NICOLAAS",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA HELENA",
+    "surname": "VENTER",
+    "marriage_date": "28/8/1808",
+    "marriage_year": "1808"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|218",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Robberts, Lambertus Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Catharina Helena",
+  "census_widow_of": null,
+  "census_annotation": "Jan Hendrik's zoon. P Veldcornet",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rafferty, John",
+    "census_spouse": "West, Johanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Robberts, Daniel Jacobus",
+    "census_spouse": "Putter, Margaretha Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Johannes Hendrik",
+    "census_spouse": "van Niekerk, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Gert",
+    "census_spouse": "van Heerden, Anna Sophia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Robberts, Isaak Jacobus",
+    "census_spouse": "Pretorius, Heiltje Anna Magdalena",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "814|1682"
+  ]
+ },
+ {
+  "pair_id": "818|1882",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1511",
+  "genealogy_id": "ROETSa1b5c2",
+  "surname": "ROETS",
+  "given_names": "JOHANNES NICOLAAS RUDOPLH",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA HENDRINA",
+    "surname": "VENTER",
+    "marriage_date": "14/2/1813",
+    "marriage_year": "1813"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|439",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Roetz, Johannes Nicolaas Rudolph",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Johanna Hendrica",
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roberts, Joseph",
+    "census_spouse": "Fourie, Anna Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Gerhardus Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Hendrik Adriaan",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Hendrik",
+    "census_spouse": "Schutte, Aletta Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roets, Jan Jurgen",
+    "census_spouse": "Muller, Elisabeth Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Roets, Jan Hendrik",
+    "census_spouse": "v. d. Merwe, Helena",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "818|1882"
+  ]
+ },
+ {
+  "pair_id": "820|1883",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1513",
+  "genealogy_id": "ROETSa1b5c6",
+  "surname": "ROETS",
+  "given_names": "GERHARDUS JACOBUS",
+  "birth_year": "1801.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA SUSANNA",
+    "surname": "HATTINGH",
+    "marriage_date": "2/4/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|440",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Roetz, Gerhardus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roberts, Joseph",
+    "census_spouse": "Fourie, Anna Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Nicolaas Rudolph",
+    "census_spouse": "Venter, Johanna Hendrica",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Hendrik Adriaan",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Hendrik",
+    "census_spouse": "Schutte, Aletta Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roets, Jan Jurgen",
+    "census_spouse": "Muller, Elisabeth Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Roets, Jan Hendrik",
+    "census_spouse": "v. d. Merwe, Helena",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "820|1883"
+  ]
+ },
+ {
+  "pair_id": "821|1893",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1515",
+  "genealogy_id": "ROETSa1b5c7",
+  "surname": "ROETS",
+  "given_names": "HENDRIK ADRIAAN",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SUSANNA CHRISITNA",
+    "surname": "JACOBS",
+    "marriage_date": "7/5/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "CHRISTINA JACOBA",
+    "surname": "HATTINGH",
+    "marriage_date": "8/2/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|452",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Roetz, Hendrik Adriaan",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roberts, Joseph",
+    "census_spouse": "Fourie, Anna Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Nicolaas Rudolph",
+    "census_spouse": "Venter, Johanna Hendrica",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Gerhardus Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Hendrik",
+    "census_spouse": "Schutte, Aletta Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roets, Jan Jurgen",
+    "census_spouse": "Muller, Elisabeth Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Roets, Jan Hendrik",
+    "census_spouse": "v. d. Merwe, Helena",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "821|1893"
+  ]
+ },
+ {
+  "pair_id": "822|232",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1516",
+  "genealogy_id": "ROETSa1b8c4",
+  "surname": "ROETS",
+  "given_names": "JOHANNES NICOLAAS JACOBUS",
+  "birth_year": "1804.0",
+  "death_year": "1892",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "RENSKE (RANSCHE)",
+    "surname": "VAN DER WESTHUIZEN",
+    "marriage_date": "3/9/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|41",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Roets, Johannes Nicolaas Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Nicolaas' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roberts, Joseph",
+    "census_spouse": "Fourie, Anna Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Nicolaas Rudolph",
+    "census_spouse": "Venter, Johanna Hendrica",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Gerhardus Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Hendrik Adriaan",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roetz, Johannes Hendrik",
+    "census_spouse": "Schutte, Aletta Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Roets, Jan Jurgen",
+    "census_spouse": "Muller, Elisabeth Catharina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "822|232"
+  ]
+ },
+ {
+  "pair_id": "823|556",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1518",
+  "genealogy_id": "ROOSa1b10c2d1",
+  "surname": "ROOS",
+  "given_names": "JOHANNES GYSBERTUS SR.",
+  "birth_year": "1786.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA SOPHIA",
+    "surname": "GROBLER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ALETTA HELENA",
+    "surname": "VORSTER",
+    "marriage_date": "6/1/1822",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|410",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Roos, Johannes Gysbertus",
+  "census_head_role": "male",
+  "census_spouse": "Vorster, Aletta Helena",
+  "census_widow_of": null,
+  "census_annotation": "Johannes' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roex, Pieter Anthonie",
+    "census_spouse": "Nel, Aletta Maria Elizabeth",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Rossouw, Fredrik Nicolaas",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Rossouw, Petrus Jacobus",
+    "census_spouse": "Minnaar, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Daniel Johannes",
+    "census_spouse": "Rossouw, Anna Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Gabriel Petrus",
+    "census_spouse": "Megel, Helena Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Pieter",
+    "census_spouse": "Rossouw, Alletta Josina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "823|556"
+  ]
+ },
+ {
+  "pair_id": "824|4728",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1519",
+  "genealogy_id": "ROOSa1b10c2d13",
+  "surname": "ROOS",
+  "given_names": "CHARL PETRUS",
+  "birth_year": "1807.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CHRISTINA HENDRINA",
+    "surname": "JOUBERT",
+    "marriage_date": "7/2/1830",
+    "marriage_year": "1830"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|696",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Roos, Charel Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roex, Pieter Anthonie",
+    "census_spouse": "Nel, Aletta Maria Elizabeth",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Rossouw, Fredrik Nicolaas",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Rossouw, Petrus Jacobus",
+    "census_spouse": "Minnaar, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Daniel Johannes",
+    "census_spouse": "Rossouw, Anna Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Gabriel Petrus",
+    "census_spouse": "Megel, Helena Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Pieter",
+    "census_spouse": "Rossouw, Alletta Josina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "824|4728"
+  ]
+ },
+ {
+  "pair_id": "827|9588",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1525",
+  "genealogy_id": "ROOSa1b10c2d9",
+  "surname": "ROOS",
+  "given_names": "PAULUS STEPHANUS",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HESTER MARIA",
+    "surname": "SWANEPOEL",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GEERTRUYDA ELIZABETH CORNELIA",
+    "surname": "GREYLING",
+    "marriage_date": "2/4/1832",
+    "marriage_year": null
+   },
+   {
+    "name": "ANNA ELISABETH HENDRINA",
+    "surname": "SMITH",
+    "marriage_date": "11/5/1834",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|777",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Roos, Paul Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Swanepoel, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roex, Pieter Anthonie",
+    "census_spouse": "Nel, Aletta Maria Elizabeth",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Rossouw, Fredrik Nicolaas",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Rossouw, Petrus Jacobus",
+    "census_spouse": "Minnaar, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Daniel Johannes",
+    "census_spouse": "Rossouw, Anna Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Gabriel Petrus",
+    "census_spouse": "Megel, Helena Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Pieter",
+    "census_spouse": "Rossouw, Alletta Josina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "827|9588"
+  ]
+ },
+ {
+  "pair_id": "828|4794",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1526",
+  "genealogy_id": "ROOSa1b10c3d1",
+  "surname": "ROOS",
+  "given_names": "GYSBERTUS JOHANNES",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MAGDELENA ELISABETH",
+    "surname": "ROOS",
+    "marriage_date": "3/9/1820",
+    "marriage_year": "1820"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|763",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Roos, Gysbert Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Roos, Magdalena Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rossouw, Petrus Jacobus",
+    "census_spouse": "Minnaar, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Daniel Johannes",
+    "census_spouse": "Rossouw, Anna Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Gabriel Petrus",
+    "census_spouse": "Megel, Helena Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Pieter",
+    "census_spouse": "Rossouw, Alletta Josina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Adriaan Petrus",
+    "census_spouse": "Bezuidenhout, Anna Marg.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Johannes Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "828|4794"
+  ]
+ },
+ {
+  "pair_id": "829|5537",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1528",
+  "genealogy_id": "ROOSa1b10c3d2",
+  "surname": "ROOS",
+  "given_names": "IZAAK FRANCOIS",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1510",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Roos, Isaac Francois",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rossouw, Petrus Jacobus",
+    "census_spouse": "Minnaar, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Daniel Johannes",
+    "census_spouse": "Rossouw, Anna Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Gabriel Petrus",
+    "census_spouse": "Megel, Helena Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Pieter",
+    "census_spouse": "Rossouw, Alletta Josina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Adriaan Petrus",
+    "census_spouse": "Bezuidenhout, Anna Marg.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Johannes Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "829|5537"
+  ]
+ },
+ {
+  "pair_id": "831|5538",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1530",
+  "genealogy_id": "ROOSa1b10c3d5",
+  "surname": "ROOS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA SUSANNA",
+    "surname": "KONING",
+    "marriage_date": "8/10/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1511",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Roos, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Rossouw, Petrus Jacobus",
+    "census_spouse": "Minnaar, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Daniel Johannes",
+    "census_spouse": "Rossouw, Anna Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Gabriel Petrus",
+    "census_spouse": "Megel, Helena Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Pieter",
+    "census_spouse": "Rossouw, Alletta Josina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Adriaan Petrus",
+    "census_spouse": "Bezuidenhout, Anna Marg.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Rossouw, Johannes Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "831|5538"
+  ]
+ },
+ {
+  "pair_id": "832|5795",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1531",
+  "genealogy_id": "ROOSa1b8c2d4",
+  "surname": "ROOS",
+  "given_names": "FRANCOIS (FRANS)",
+  "birth_year": "1781.0",
+  "death_year": "1853",
+  "declared_district": "STELLENBOSCH",
+  "spouses": [
+   {
+    "name": "MARIA ELISABETH",
+    "surname": "FÜRSTENBERG",
+    "marriage_date": "3/11/1805",
+    "marriage_year": "1805"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Stellenbosch 1825|351",
+  "census_district": "Stellenbosch",
+  "census_year": 1825,
+  "census_head_name": "Roos, Francois",
+  "census_head_role": "male",
+  "census_spouse": "Furstenberg, Maria Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roux, Paul Sr.",
+    "census_spouse": "Van Brakel, Maria Elisabeth",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jacobus Sr.",
+    "census_spouse": "Voges, Maria Johanna",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jacobus Petrus",
+    "census_spouse": "De Villiers, Johanna Geertruida",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jacobus Paul",
+    "census_spouse": null,
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jan",
+    "census_spouse": "Joubert, Johanna Elisabeth",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, David",
+    "census_spouse": null,
+    "census_district": "Stellenbosch"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "832|5795"
+  ]
+ },
+ {
+  "pair_id": "832|6388",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1531",
+  "genealogy_id": "ROOSa1b8c2d4",
+  "surname": "ROOS",
+  "given_names": "FRANCOIS (FRANS)",
+  "birth_year": "1781.0",
+  "death_year": "1853",
+  "declared_district": "STELLENBOSCH",
+  "spouses": [
+   {
+    "name": "MARIA ELISABETH",
+    "surname": "FÜRSTENBERG",
+    "marriage_date": "3/11/1805",
+    "marriage_year": "1805"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Stellenbosch 1825|1102",
+  "census_district": "Stellenbosch",
+  "census_year": 1825,
+  "census_head_name": "Roos, Francois Sr.",
+  "census_head_role": "male",
+  "census_spouse": "Meyer, Margaretha Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Roux, Paul Sr.",
+    "census_spouse": "Van Brakel, Maria Elisabeth",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jacobus Sr.",
+    "census_spouse": "Voges, Maria Johanna",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jacobus Petrus",
+    "census_spouse": "De Villiers, Johanna Geertruida",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jacobus Paul",
+    "census_spouse": null,
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, Jan",
+    "census_spouse": "Joubert, Johanna Elisabeth",
+    "census_district": "Stellenbosch"
+   },
+   {
+    "census_head_name": "Roux, David",
+    "census_spouse": null,
+    "census_district": "Stellenbosch"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "832|6388"
+  ]
+ },
+ {
+  "pair_id": "838|4942",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1545",
+  "genealogy_id": "SCHEEPERSa1b2c1d2e3",
+  "surname": "SCHEEPERS",
+  "given_names": "STEPHANUS JOHANNES SR.",
+  "birth_year": "1785.0",
+  "death_year": "1838",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA",
+    "surname": "JANSE VAN RENSBURG",
+    "marriage_date": "13/11/1808",
+    "marriage_year": "1808"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|911",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Janse v. Rensburg, Maria Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus Marthinus",
+    "census_spouse": "v. Rensburg, Jac. Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Basson, Anna Marg.",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "838|4942"
+  ]
+ },
+ {
+  "pair_id": "840|3852",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1549",
+  "genealogy_id": "SCHEEPERSa1b2c1d3e2",
+  "surname": "SCHEEPERS",
+  "given_names": "GIDEON",
+  "birth_year": "1784.0",
+  "death_year": null,
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "HESTER MAGDALENA",
+    "surname": "KLEYNHANS",
+    "marriage_date": "10/04/1803",
+    "marriage_year": "1803"
+   },
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "VAN ROOYEN",
+    "marriage_date": "14/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|579",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Gidion",
+  "census_head_role": "male",
+  "census_spouse": "Klynhans, Hester M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Jacobus",
+    "census_spouse": "Bekker, A. H.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Scheepers, Jacobus Johannes",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes",
+    "census_spouse": "Van der Westhuize, C. E.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "840|3852"
+  ]
+ },
+ {
+  "pair_id": "841|3851",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1550",
+  "genealogy_id": "SCHEEPERSa1b2c1d3e2f2",
+  "surname": "SCHEEPERS",
+  "given_names": "JACOBUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": "1881",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "ALETTA MARIA",
+    "surname": "BOSCH",
+    "marriage_date": "06/02/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|578",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Jacobus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "G. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Jacobus",
+    "census_spouse": "Bekker, A. H.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Scheepers, Gidion",
+    "census_spouse": "Klynhans, Hester M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes",
+    "census_spouse": "Van der Westhuize, C. E.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "841|3851"
+  ]
+ },
+ {
+  "pair_id": "842|9522",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1552",
+  "genealogy_id": "SCHEEPERSa1b2c1d3e6",
+  "surname": "SCHEEPERS",
+  "given_names": "GERHARDUS STEPHANUS",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JOHANNA ISALBELLA SERVASINA",
+    "surname": "POTGIETER",
+    "marriage_date": "04/01/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|705",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Gerhardus Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Isabella",
+  "census_widow_of": null,
+  "census_annotation": "Junior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "842|9522"
+  ]
+ },
+ {
+  "pair_id": "843|9621",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1554",
+  "genealogy_id": "SCHEEPERSa1b2c3d2e4",
+  "surname": "SCHEEPERS",
+  "given_names": "FREDERIK COENRAAD",
+  "birth_year": "1801.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "CATHARINA PETRONELLA",
+    "surname": "LANDMAN",
+    "marriage_date": "02/09/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|814",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Fredrik Coenraad",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Fredrik's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "843|9621"
+  ]
+ },
+ {
+  "pair_id": "844|9613",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1556",
+  "genealogy_id": "SCHEEPERSa1b2c3d6e2",
+  "surname": "SCHEEPERS",
+  "given_names": "COENRAAD",
+  "birth_year": "1795.0",
+  "death_year": "1859",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ELSJE MAGDALENA PETRONELL",
+    "surname": "POTGIETER",
+    "marriage_date": "12/08/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|806",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Coenraad",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Elsie Magdalena Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Gerrit's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "844|9613"
+  ]
+ },
+ {
+  "pair_id": "845|9661",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1557",
+  "genealogy_id": "SCHEEPERSa1b2c3d6e5",
+  "surname": "SCHEEPERS",
+  "given_names": "MARTHINUS EASIAS",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ELSJE CATHARINA",
+    "surname": "SCHEEPERS",
+    "marriage_date": "05/05/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|856",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Marthinus",
+  "census_head_role": "male",
+  "census_spouse": "Scheepers, Elsie Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Gerrit's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "845|9661"
+  ]
+ },
+ {
+  "pair_id": "846|9088",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1559",
+  "genealogy_id": "SCHEEPERSa1b2c3d6e7",
+  "surname": "SCHEEPERS",
+  "given_names": "GERHARDUS JOHANNES ADOLPHUS",
+  "birth_year": "1808.0",
+  "death_year": "1895",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HESTER SUSANNA",
+    "surname": "OOSTHUIZEN",
+    "marriage_date": "25/07/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|238",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Gerhardus",
+  "census_head_role": "male",
+  "census_spouse": "Steyn, Anna Christina",
+  "census_widow_of": null,
+  "census_annotation": "Fredrik's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Petrus Jacobus",
+    "census_spouse": "Slabbert, Petronella Aletta Catharina",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "846|9088"
+  ]
+ },
+ {
+  "pair_id": "847|9697",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1560",
+  "genealogy_id": "SCHEEPERSa1b2c3d8",
+  "surname": "SCHEEPERS",
+  "given_names": "JAN (JOHANNES) MARTHINUS",
+  "birth_year": "1780.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MAGDALENA",
+    "surname": "LANDMAN",
+    "marriage_date": "05/08/1798",
+    "marriage_year": "1798"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|894",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Johannes Marthinus",
+  "census_head_role": "male",
+  "census_spouse": "Landman, Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "847|9697"
+  ]
+ },
+ {
+  "pair_id": "849|9523",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1562",
+  "genealogy_id": "SCHEEPERSa1b2c4d2e10",
+  "surname": "SCHEEPERS",
+  "given_names": "HENDRIK PETRUS GERRIT",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARGARETHA SUSANNA",
+    "surname": "BRONKHORST",
+    "marriage_date": "04/07/1825",
+    "marriage_year": "1825"
+   },
+   {
+    "name": "SUSANNA SOPHIA ALETTA",
+    "surname": "KNOETZE",
+    "marriage_date": "04/03/1827",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|706",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Hendrik Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "849|9523",
+   "851|9523"
+  ]
+ },
+ {
+  "pair_id": "851|9523",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1564",
+  "genealogy_id": "SCHEEPERSa1b2c4d2e9",
+  "surname": "SCHEEPERS",
+  "given_names": "HENDRIK CHRISTOFFEL PRETRUS",
+  "birth_year": "1806.0",
+  "death_year": "1880",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ELISABETH MARIA",
+    "surname": "OLIVIER",
+    "marriage_date": "03/06/1839",
+    "marriage_year": "1839"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|706",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Hendrik Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "849|9523",
+   "851|9523"
+  ]
+ },
+ {
+  "pair_id": "850|9487",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1563",
+  "genealogy_id": "SCHEEPERSa1b2c4d2e7",
+  "surname": "SCHEEPERS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1800.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ANNA CATHARINA",
+    "surname": "LINDEQUE",
+    "marriage_date": "17/12/1820",
+    "marriage_year": "1820"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|668",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Lindeque, Anna Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Gerhardus Johannes' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "850|9487"
+  ]
+ },
+ {
+  "pair_id": "852|9156",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1565",
+  "genealogy_id": "SCHEEPERSa1b2c4d5e1",
+  "surname": "SCHEEPERS",
+  "given_names": "GERHARDUS (GERT) STEPHANUS",
+  "birth_year": "1797.0",
+  "death_year": "1837",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ANNA SUSANNA (ANTJIE)",
+    "surname": "SCHEEPERS",
+    "marriage_date": "04/03/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|312",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Gerhardus Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Scheepers, Anna Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Cornelis' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Petrus Jacobus",
+    "census_spouse": "Slabbert, Petronella Aletta Catharina",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "852|9156"
+  ]
+ }
+]

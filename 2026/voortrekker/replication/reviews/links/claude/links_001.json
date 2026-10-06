@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "2|4594",
+  "verdict": "UNCERTAIN",
+  "reason": "Full three-name match (Gert/Gerrit Andries Jacobus) and age 21 is plausible, but there is no wife to compare: the Olivier marriage is in the census year itself and the Smit marriage is undated. An identically named head also appears in Cradock (=Somerset, his declared district).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "3|7849",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Alberts with census wife Legrange, Anna Helena matches his 1806 spouse Anna Helena la Grange; district Swellendam agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "4|7850",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in the declared district, and an unmarried head is consistent with his 1826 marriage. However, he was only about 18, and there is no wife to corroborate the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "6|5130",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Dirk is a normal form of Johan Diederik. The census wife Naude, Geertruida Maria closely matches his spouse Geertruida Martha Naude (married Dec 1825), and the district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "7|8308",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Sr. with census wife Moolman, Catharina E. matches Lourens Sr and his 1801 spouse Catharina Elizabeth Moolman in Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "8|8528",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Jr. with census wife Kleinsmit, Maria Catharina matches Lourens Jr and his 1818 spouse in Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "13|5245",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in Graaff-Reinet (which included Colesberg), and having no wife is consistent with his 1827 marriage. He was about 20, and nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "16|1622",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Aucamp, Anna Alida Petronella matches his 1815 spouse Anna Petronella Aucamp. Name and district (Cradock) agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "17|554",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Terblans, Susanna is a spelling variant of his 1811 spouse Susanna Terblanche. Name and district (Beaufort) agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "20|9438",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Basson, Johanna Cornelia matches his 1820 spouse exactly. Name and district (Uitenhage) agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|1144",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he married only in 1825, so the 1824 census gives no wife to compare. Same-named heads also appear in Graaff-Reinet (his declared district), Stellenbosch and Worcester, and Clanwilliam is far from Graaff-Reinet.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|4910",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in his declared district Graaff-Reinet, and having no wife is consistent with a 1825 marriage. Several same-named heads in other districts mean the name alone does not establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|7034",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but Stellenbosch is far from his declared Graaff-Reinet, and an identically named head exists in Graaff-Reinet. There is no wife evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|9882",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but Worcester is far from his declared Graaff-Reinet, and an identically named head exists in Graaff-Reinet. He married in 1825, so the 1824 census gives no wife to compare.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "22|9439",
+  "verdict": "ACCEPT",
+  "reason": "Full three-name match in Uitenhage. Census wife Gous, Maria Johanna Jacoba matches his Dec 1824 spouse Magdalena Johanna Jacoba Gouws on surname and two given names.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "24|9561",
+  "verdict": "REJECT",
+  "reason": "Census wife Smit, Josina matches neither listed spouse (Bekker, Viljoen). Another Johannes Jurie Bekker, annotated Senior, has wife Bekker, Johanna, matching his 1798 spouse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Bekker, Johannes Jurie"
+ },
+ {
+  "pair_id": "24|9591",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Bekker, Johanna and the 'Senior' annotation match his spouse Johanna Bekker and his 'SR' designation; Jurie/Jurgen are variants. The genealogy's birth year 1799 conflicts with its own 1798 marriage, which looks like a genealogy data error.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "30|9582",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Snyman, Sara Maria matches his 1822 spouse Susara Maria Snyman. Uitenhage borders his declared Somerset-Oos.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "31|9581",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Swiegers, Hester Maria matches his 1823 spouse exactly, which outweighs the Uitenhage vs declared Cradock district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "32|7502",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in Swellendam, and having no wife is consistent with his 1828 marriage. Nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "33|7938",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Voslo, Aplona Catharina matches his 1814 spouse Appolonia Catharina Vosloo. Name and district agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "36|57",
+  "verdict": "ACCEPT",
+  "reason": "Barend/Barnard Jacobus with census wife Erasmus, Anna Susanna matches his 1813 spouse exactly. Albany adjoins his declared Cradock.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "36|1843",
+  "verdict": "REJECT",
+  "reason": "Census wife de Klerk, Engela Helena contradicts his only spouse, Anna Susanna Erasmus (married 1813). A Barend Jacobus Bester in Albany has the matching Erasmus wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Bester, Barend Jacobus"
+ },
+ {
+  "pair_id": "38|1885",
+  "verdict": "UNCERTAIN",
+  "reason": "Census wife Botha, Maria Dorothea matches his 1798 spouse. However, the genealogy has him remarrying van Heerden in Oct 1822, which conflicts with Botha still being his wife in 1823. The genealogy may conflate a father (Senior) and son of the same name.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "38|1886",
+  "verdict": "UNCERTAIN",
+  "reason": "Census wife van Heerden, Maria Dorothea matches his Oct 1822 spouse Dorothea Maria van Heerden, his current wife in 1823. Against that, the annotation marks this head as Johannes Andreas' son, distinct from a 'Senior' married to Botha, which suggests a father/son conflation in the genealogy.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "39|1889",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in his declared Cradock, and having no wife is consistent with his 1825 marriage. He was only about 18 in 1823, and nothing beyond the name corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "40|201",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Van der Merwe, Anna Margaretha matches his 1806 spouse exactly. Name and district (Beaufort) agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "41|7454",
+  "verdict": "UNCERTAIN",
+  "reason": "He was about 16 in 1825, unlikely to head a household. The 'Sr.' label, beside a married 'Jr.', implies an older man, so this is probably a namesake relative, though not definitively contradicted.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "41|10721",
+  "verdict": "REJECT",
+  "reason": "This head has wife Linde, Susanna Hermiena in 1825, but the genealogy man was about 16 and his only marriage was to Swart in 1836.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "42|716",
+  "verdict": "REJECT",
+  "reason": "Census wife Maria Catharina Bezuidenhout clearly differs from his only recorded spouse, Magdalena Geertruida (married 1801). Her surname field is an ID code, but the given names do not match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "43|776",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches in Beaufort, near Colesberg, but the genealogy is internally inconsistent: birth 1806, marriage 1807. The census head has no wife, so spouse evidence cannot be evaluated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "45|4447",
+  "verdict": "ACCEPT",
+  "reason": "Wynand Fr. with census wife Liebenberg, Elisabeth Johanna matches his second spouse (married 1807), and the district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "46|281",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Engelbregt, Martha Elizabeth matches his 1819 spouse Martha Elisabeth Engelbrecht. Name and district (Beaufort) agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "47|316",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but this household has no wife although he married Viviers in Jan 1824. Another Cornelis Johannes Bezuidenhout in Beaufort has wife Vivier, Susanna Petronella, a clearly better fit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Bezuidenhout, Cornelis Johannes"
+ },
+ {
+  "pair_id": "47|775",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Vivier, Susanna Petronella matches his Jan 1824 spouse Susanna Petronella Viviers. Name matches exactly in Beaufort.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "49|500",
+  "verdict": "ACCEPT",
+  "reason": "Badenstein is a variant of Bodenstein, and census wife Brits, Hendrina Johanna matches his 1817 spouse exactly in Beaufort.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "50|9655",
+  "verdict": "ACCEPT",
+  "reason": "Booyse/Booysen Johannes with census wife Las, Anna Elisabeth matches his 1815 spouse exactly in Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "51|9656",
+  "verdict": "ACCEPT",
+  "reason": "Booyse, Dirk with census wife Oosthuysen, Hester S. matches his 1823 spouse Hester Susanna Oosthuizen in Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "52|9657",
+  "verdict": "ACCEPT",
+  "reason": "Booyse, Frans Abraham with census wife Nel, Petronella A. matches his 1821 spouse Petronella Catharina Aletta Nel in Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "54|5305",
+  "verdict": "ACCEPT",
+  "reason": "Johannes/Johan Christiaan Bornman with census wife Du Preez, Cornelia C. matches his 1809 spouse Cornelia Carolina du Preez in Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "196|1757",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Carel/Charel de Beer with census wife Botha, Aletta Catharina exactly matching the 1810 spouse; Cradock fits declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1782",
+  "verdict": "REJECT",
+  "reason": "In 1823 his wife was Prinsloo, Johanna Petronella (m. 1821), but this head's wife is Hatting, Anna; another 'de Beer, Zacharias' entry has the Prinsloo wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "de Beer, Zacharias"
+ },
+ {
+  "pair_id": "198|1782",
+  "verdict": "REJECT",
+  "reason": "Born 1807 he was about 16 in 1823 and unmarried until 1825, yet this head is annotated 'de Oude' and has a wife (Hatting, Anna).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1991",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Prinsloo, Johanna Petronella exactly matches his 1821 second wife; name and district fit.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "200|1779",
+  "verdict": "UNCERTAIN",
+  "reason": "Given names match exactly and the wife's given names Martha Cornelia match, but the census surname Badenhorst differs from Bezuidenhout (m. 1803); possibly a transcription error, but not a clear match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "201|1799",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Arnoldus Stephanus matches exactly; census wife Mulder, Elizabeth Catharina is a plausible variant of Muller, Elisabeth Maria (m. 1810).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "202|590",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik (Petrus) Jacobus with census wife Swanepoel, Hendrica Jacoba matching the 1814 spouse; Beaufort matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "203|4384",
+  "verdict": "ACCEPT",
+  "reason": "Samuel Jacobus with census wife Fourie, Anna Gabriela Johanna, consistent with Fourie, Anna Johanna Isabella (m. 1814); Graaff-Reinet matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "204|465",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Van den Berg, Anna Susanna exactly matches the 1816 spouse; 'Junior' fits; the district differs (Beaufort vs Graaff-Reinet) but the wife match outweighs this.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "205|464",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Frederik/Fredrik with census wife Botes, Christina Helena exactly matching the 1823 spouse; Beaufort matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "206|592",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and Beaufort match and the 'son' annotation fits a man born 1801, but no wife is recorded although he married in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "206|593",
+  "verdict": "REJECT",
+  "reason": "This namesake is annotated 'Senior' while a separate 'son' entry exists; a man born 1801 fits the son, not the senior.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "De Beer, Sacharias Joseph"
+ },
+ {
+  "pair_id": "208|154",
+  "verdict": "REJECT",
+  "reason": "Census head is Bouwer, Johannes Hermanus: a different surname and middle name from Johannes Hendrik de Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "de Beer, Jan Hendrik"
+ },
+ {
+  "pair_id": "208|1788",
+  "verdict": "ACCEPT",
+  "reason": "Jan Hendrik = Johannes Hendrik; no wife is consistent with his 1824 marriage, and 'Zacharias' zoon' matches siblings Christiaan Marthinus and Arnoldus Stephanus in the same Cradock roll.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "209|5325",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend Petrus matches, and census wife Gausch may correspond to undated spouse Gous, but her given name Susanna differs from Gesina Johanna Helena.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "210|1998",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Coetzer, Johanna Jacoba exactly matches the 1814 spouse; the middle name Johannes vs Jacobus is a minor variation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "210|2161",
+  "verdict": "REJECT",
+  "reason": "He was married from 1814, but this head has no wife; another head (de Bruin, Hendrik Johannes) has his exact wife Coetzer, Johanna Jacoba.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "de Bruin, Hendrik Johannes"
+ },
+ {
+  "pair_id": "211|2001",
+  "verdict": "ACCEPT",
+  "reason": "Pieter/Petrus Frederik with census wife Schutte, Philippina Maria Charlotte exactly matching the 1818 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "213|9261",
+  "verdict": "ACCEPT",
+  "reason": "Lodewyk 'Senior' with census wife Van Niekerk, Engela Adriana exactly matching the 1803 spouse; Uitenhage matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "217|9263",
+  "verdict": "ACCEPT",
+  "reason": "Andris/Andries Petrus with census wife Brits, Cornelia Geertruyda matching the 1817 spouse; Uitenhage matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "218|9264",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Johannes with census wife Meyer, Susanna Catharina exactly matching the 1815 spouse; Uitenhage matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "219|8119",
+  "verdict": "UNCERTAIN",
+  "reason": "Andries Johannes = Andreas Johannes, Swellendam matches; no wife is recorded (possibly widowed before his 1827 remarriage), so there is no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "219|8388",
+  "verdict": "UNCERTAIN",
+  "reason": "Only 'Andries' with no wife; compatible but weaker than the 'De Jager, Andries Johannes' entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "220|10750",
+  "verdict": "UNCERTAIN",
+  "reason": "Christiaan Lodewyk matches and no wife is consistent with his 1831 marriage, but at about 18 he is a young head and there is no corroborating evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "223|8110",
+  "verdict": "REJECT",
+  "reason": "This head has no wife, while another head (De Jager, Laurens) has his exact 1821 wife Jacobs, Margaretha Alida.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "De Jager, Laurens"
+ },
+ {
+  "pair_id": "223|8277",
+  "verdict": "ACCEPT",
+  "reason": "Laurens = Lourens with census wife Jacobs, Margaretha Alida exactly matching the 1821 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "225|8118",
+  "verdict": "ACCEPT",
+  "reason": "Louis Sr. with census wife Steyn, Francina exactly matching the 1795 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "233|2234",
+  "verdict": "ACCEPT",
+  "reason": "Barend Jacobus de Lange with census wife Prinsloo, Petronella exactly matching the 1817 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "234|2444",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan de Lange with census wife Erasmus, Hester Elizabeth matching the 1815 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "235|2444",
+  "verdict": "REJECT",
+  "reason": "This Adriaan (b. 1800) married Joubert only in 1824, while the census head's wife Erasmus, Hester Elizabeth matches the other Adriaan (pair 234|2444).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "238|2440",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Willem/William with census wife Meintjes, Jacoba Elizabeth exactly matching the 1812 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "240|8341",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Hendrik(us) with census wife Van Coller, Elsabe/Elisabeth Maria matching the 1799 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "241|8112",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Francois with census wife De Jager, Martha Hermina exactly matching the 1824 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "242|8342",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Daniel (Jacobus) De Necker, a rare surname in Swellendam alongside his matched father and brother; no wife is consistent with his 1827 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "246|67",
+  "verdict": "ACCEPT",
+  "reason": "Pieter de Wet with census wife Botha, Maria Susanna exactly matching his (undated) spouse; Albany matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "247|120",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Rudolph with census wife Woest, Martha Catharina, married 15/12/1824, before the 1825 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "248|68",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Christoffel Johannes in Albany next to his matched father; no wife is consistent with his 1829 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "249|2388",
+  "verdict": "ACCEPT",
+  "reason": "Jan Hendrik de Winnaar with census wife Kotzé, Philippina Susanna exactly matching the 1822 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "250|2381",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, unmarried as expected before 1831, Cradock fits Somerset, and 'Hendrik's zoon' matches his brother Jan Hendrik's annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "250|4248",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name and no wife, but Graaff-Reinet 1825 fits his declared district less well than the Cradock 1823 entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "de Winnaar, Carel Stephanus"
+ }
+]

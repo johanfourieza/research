@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "151|1072",
+  "verdict": "REJECT",
+  "reason": "The census wife Elsie Dorothea Maria Burger differs from Elsje Sophia Lubbe, married in 1810. The other listed marriage dates to 1829 and cannot explain the discrepancy in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "151|1209",
+  "verdict": "ACCEPT",
+  "reason": "The full head name matches, and Elsie Sophia Lubbe matches the spouse married in 1810. The district difference does not outweigh this strong corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "153|5411",
+  "verdict": "ACCEPT",
+  "reason": "Jan Daniel is compatible with Johannes Daniel, and Helena Maria Haubvleisch is a plausible spelling variant of Helena Maria Hauptfleisch, married in 1816. The district and dates are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "154|4979",
+  "verdict": "ACCEPT",
+  "reason": "Charl Arnoldus and Charel Arnoldus are compatible, and Anna Francina Viljoen exactly matches the spouse married in 1823. Colesberg and Graaff-Reinet are geographically compatible under the supplied boundary guidance.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "156|4978",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district are compatible, and his age was about 26. No census wife is named, and the 1826 marriage cannot corroborate identity in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "158|575",
+  "verdict": "ACCEPT",
+  "reason": "Arie Willem Claasen and Claassens are compatible, and the census wife exactly matches Anna Sophia van Heerden, married during 1825. The district and age are consistent, with no supplied census date establishing a timing conflict.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "159|576",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, Beaufort district and age of about 19 are compatible, but no wife provides corroboration. The 1828 marriage is later than the census, and the genealogy does not explicitly supply the father's name needed to verify the annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|2283",
+  "verdict": "ACCEPT",
+  "reason": "Johannes is compatible with Johannes Jacobus, and Hester Hendrina Venter matches the spouse married in 1805, with Aletta omitted. This spouse agreement strongly supports the match despite the district difference and competing proposal.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2283",
+  "verdict": "UNCERTAIN",
+  "reason": "The given names are compatible, but the only listed marriage occurred in 1824 and cannot confirm or contradict the 1823 wife. Competing genealogy person 160 has a pre-census marriage to Hester Hendrina Venter and fits this head more strongly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4222",
+  "verdict": "ACCEPT",
+  "reason": "Johannes is compatible with Johannes Jacobus, and Hester Hendrina Venter matches the spouse married in 1805. Colesberg's inclusion within Graaff-Reinet also makes the districts compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "163|1655",
+  "verdict": "ACCEPT",
+  "reason": "The head name matches exactly, and Johanna Adriana Koekemoer matches the spouse whose supplied marriage date is 12 December 1813. Somerset and Cradock are compatible for 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "166|1656",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, approximate district and age of about 25 are compatible. The 1832 marriage cannot corroborate the 1823 head, and the genealogy supplies no explicit paternal name to verify 'Cornelis' zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "167|2007",
+  "verdict": "ACCEPT",
+  "reason": "Philippus Jeremias matches the genealogical name, and Christina Elizabeth de Bruin matches Christina Elisabeth de Bruyn, married in 1790. The 'de Oude' annotation supports the senior man born in 1764 over the competing junior born in 1805.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "173|2007",
+  "verdict": "REJECT",
+  "reason": "The head is explicitly 'de Oude', contradicting identification with the junior born in 1805 when the competing senior born in 1764 also matches the census wife through his 1790 marriage. The junior's 1824 marriage itself is not comparable with the 1823 census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "167|2008",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district are compatible, but no census wife corroborates the senior man's 1790 marriage. 'Philip's zoon' cannot be verified from his supplied genealogy, and the competing junior leaves the identity unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "173|2008",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age of about 18 are compatible, and the absence of a named wife is consistent with the listed marriage occurring in 1824. However, that later marriage cannot confirm identity, and the supplied genealogy does not explicitly verify 'Philip's zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "168|2005",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Coetzer matches exactly, and Jacoba Johanna de Bruin matches Jacoba Johanna de Bruyn, married in 1822. The age and Somerset/Cradock districts are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "169|1771",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Coetzer matches exactly, and Elsje Maria Jordaan matches Elsie Maria Jordaan, married in 1796. The 'de Oude' annotation is consistent with his age of about 51, and the district difference is not a contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1756",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name and approximate district match, but the genealogy's only marriage is in 1824 and cannot be compared with Elsje Maria Coetzer in 1823. No explicit genealogical paternal name verifies or contradicts 'Pieter Willems zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "172|1756",
+  "verdict": "REJECT",
+  "reason": "The census wife Elsje Maria Coetzer clearly differs from Anna Catharina Nel, married in 1815. No listed remarriage or plausible spelling variation explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1772",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name and approximate district match, and the wife's name resembles Geertruyda Petronella Heydenrych. However, their marriage is explicitly dated January 1824, so it cannot confirm or contradict the 1823 identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1839",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name and approximate district match, but the only genealogy marriage is in 1824 and cannot be compared with Catharina Margaretha Prinsloo in 1823. The genealogy supplies no explicit paternal name to assess 'Wentzel's zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2003",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name and approximate district match, but the 1824 marriage cannot confirm or contradict the census wife Elsje Magdalena Jordaan in 1823. The supplied genealogy does not explicitly verify the 'Philip's zoon' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2080",
+  "verdict": "UNCERTAIN",
+  "reason": "The given names and approximate district are compatible, but the only genealogy marriage occurred after the census. Susanna Sophia van der Walt therefore supplies no comparable spouse evidence, and 'Dirk's zoon' cannot be checked against an explicit genealogical paternal name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2458",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name and approximate district match, but the 1824 marriage cannot be compared with Martha Catharina Fourie in 1823. The genealogy does not explicitly supply a father's name to assess 'Jacobus' zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "171|1520",
+  "verdict": "ACCEPT",
+  "reason": "Wensel Christoffel Coetzer and Wentzel Christoffel Coetzee are compatible variants, supported by the matching wife Elisabeth Helena van Heerden, married in 1818. Somerset and Cradock are compatible for 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "171|1815",
+  "verdict": "REJECT",
+  "reason": "Johanna Aletta La Buscagne contradicts the listed pre-census wife Elisabeth Helena van Heerden; the other marriages occurred in 1832 and 1856. The alternative Coetzee, Wentzel Christoffel has the matching wife and fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Coetzee, Wentzel Christoffel"
+ },
+ {
+  "pair_id": "178|9547",
+  "verdict": "ACCEPT",
+  "reason": "The full head name matches, and Hester Jacomina Labuscagne matches Hester Jacomina Labuschagne, married in 1824. His age is compatible, and the district difference does not outweigh the spouse agreement.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "180|4345",
+  "verdict": "ACCEPT",
+  "reason": "Ph. Wilhelmus is a compatible abbreviation of Phillippus Wilhelmus, and Hester Jac. v. d. Merwe matches Hester Jacoba van der Merwe, married in 1820. The district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "181|4360",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and his age of about 22 is compatible. The census supplies no wife or other independent corroboration, and the 1827 marriage cannot confirm identity in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "182|915",
+  "verdict": "ACCEPT",
+  "reason": "The full head name and Beaufort district match, and Maria Johanna du Plooy exactly matches the spouse married in 1822. His age is compatible with household headship.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "186|8361",
+  "verdict": "ACCEPT",
+  "reason": "Andries Cronjee is compatible with Andries Cronje, and Johanna Elisabeth van Coller exactly matches the spouse married in 1807. The district and dates also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "189|8155",
+  "verdict": "ACCEPT",
+  "reason": "Piet Cronjee is compatible with Pieter Cronje, and Elisabeth de Jager matches the listed spouse Elisabeth Catharina de Jager with a middle name omitted. The matching couple and district provide strong support, although the marriage date is unknown.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "190|8078",
+  "verdict": "ACCEPT",
+  "reason": "Thomas Richard Danhauser matches Thomas Richard Dannhauser, and Hester Janse van Rensburg matches Hester Geertruida Jansen van Rensburg, married in January 1825. The district and age are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "191|9469",
+  "verdict": "ACCEPT",
+  "reason": "Johan Christiaan and Johannes Christiaan are compatible, and Johanna Maria Landman exactly matches the spouse whose supplied marriage date is July 1813. The Uitenhage district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|9540",
+  "verdict": "ACCEPT",
+  "reason": "The head name matches exactly, and Maria Susanna Greef matches Maria Susanna Greeff, whose supplied marriage date is July 1816. This later listed pre-census marriage explains the different first spouse, and the district difference is not contradictory.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "194|936",
+  "verdict": "ACCEPT",
+  "reason": "The full head name matches, and Elizabeth Fredrica du Plooy is compatible with Sophia Elisabeth Frederika du Plooy, married in 1822, allowing omission and spelling variation. His age is compatible with the 'Junior' annotation, and the district difference is not decisive.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|359",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Beaufort district match, but the 1829 marriage cannot be compared with Johanna Christina de Kock in 1825. 'Senior' is questionable for a man aged about 18 but does not establish an affirmative age contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|377",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age are compatible, but the 1829 marriage cannot confirm or contradict Maria Susanna Jordaan in 1825. The genealogy supplies no explicit paternal name to verify 'Samuel's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|679",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, Beaufort district and age of about 18 are compatible, and no named wife is consistent with the listed marriage occurring in 1829. That later marriage cannot corroborate identity, and the genealogy does not explicitly verify 'Joseph's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

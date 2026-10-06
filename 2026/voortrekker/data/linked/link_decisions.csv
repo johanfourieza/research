@@ -1,0 +1,924 @@
+pair_id,row_id,census_id,decision,basis,final_quality,identity_ambiguous,classifier,spouse_evidence,claude,codex,manual_linkage_pair
+2|4594,2,4594,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+3|7849,3,7849,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+4|7850,4,7850,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+6|5130,6,5130,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+7|8308,7,8308,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,TRUE
+8|8528,8,8528,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,FALSE
+13|5245,13,5245,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+16|1622,16,1622,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+17|554,17,554,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+20|9438,20,9438,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+21|1144,21,1144,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+21|4910,21,4910,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+21|7034,21,7034,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+21|9882,21,9882,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+22|9439,22,9439,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+24|9561,24,9561,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+24|9591,24,9591,retain,adjudicated: models disagree; changed partner (manual-linkage pair was 24|9561); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,FALSE
+30|9582,30,9582,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+31|9581,31,9581,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+32|7502,32,7502,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+33|7938,33,7938,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+36|57,36,57,retain,adjudicated: changed partner (manual-linkage pair was 36|1843); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+36|1843,36,1843,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+38|1885,38,1885,reject,not linked,,FALSE,proposed,agrees,UNCERTAIN,UNCERTAIN,TRUE
+38|1886,38,1886,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,UNCERTAIN,ACCEPT,FALSE
+39|1889,39,1889,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+40|201,40,201,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+41|7454,41,7454,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+41|10721,41,10721,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+42|716,42,716,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+43|776,43,776,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+45|4447,45,4447,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+46|281,46,281,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+47|316,47,316,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,TRUE
+47|775,47,775,retain,adjudicated: changed partner (manual-linkage pair was 47|316); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+49|500,49,500,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+50|9655,50,9655,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+51|9656,51,9656,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+52|9657,52,9657,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+54|5305,54,5305,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+55|3370,55,3370,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+55|3394,55,3394,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+56|7341,56,7341,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+57|5552,57,5552,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+58|5542,58,5542,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+59|6761,59,6761,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+60|203,60,203,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+61|397,61,397,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+62|303,62,303,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+62|307,62,307,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+62|366,62,366,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+62|398,62,398,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+63|371,63,371,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+63|10417,63,10417,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+65|200,65,200,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+66|403,66,403,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+67|5311,67,5311,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+70|1689,70,1689,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+71|1949,71,1949,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+73|4671,73,4671,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+74|1856,74,1856,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+76|9472,76,9472,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+77|5270,77,5270,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+78|2420,78,2420,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+79|3887,79,3887,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+80|3904,80,3904,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+81|3884,81,3884,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+82|5206,82,5206,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+83|5241,83,5241,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+84|4387,84,4387,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+85|2016,85,2016,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+89|1689,89,1689,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+90|2006,90,2006,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+91|1954,91,1954,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+92|9514,92,9514,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+95|1952,95,1952,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+97|4670,97,4670,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+99|1691,99,1691,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+100|2243,100,2243,reject,not linked,,FALSE,proposed,agrees,UNCERTAIN,REJECT,FALSE
+104|2259,104,2259,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+107|1703,107,1703,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+108|1704,108,1704,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+112|9859,112,9859,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+112|10401,112,10401,retain,adjudicated: changed partner (manual-linkage pair was 112|9859); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+116|2093,116,2093,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+117|1763,117,1763,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+118|2092,118,2092,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+118|4212,118,4212,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+119|2285,119,2285,reject,not linked,,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+119|4210,119,4210,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,review,,ACCEPT,ACCEPT,TRUE
+120|2095,120,2095,reject,not linked,,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+120|4214,120,4214,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,review,,ACCEPT,ACCEPT,TRUE
+121|2094,121,2094,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+123|2405,123,2405,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+124|7937,124,7937,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+125|10739,125,10739,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+126|9678,126,9678,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+127|9675,127,9675,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+129|444,129,444,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+130|4077,130,4077,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+131|5335,131,5335,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+132|4049,132,4049,reject,not linked,,FALSE,proposed,agrees,REJECT,REJECT,FALSE
+132|4050,132,4050,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,review,,ACCEPT,ACCEPT,TRUE
+134|571,134,571,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+135|595,135,595,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+136|598,136,598,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+137|1714,137,1714,reject,not linked,,FALSE,not_linked,contradicts,UNCERTAIN,REJECT,TRUE
+138|599,138,599,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+139|455,139,455,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+139|632,139,632,retain,adjudicated: one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+140|202,140,202,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+141|456,141,456,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+142|254,142,254,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+143|455,143,455,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models; two persons for one census head",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+144|503,144,503,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+145|504,145,504,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+146|7590,146,7590,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+147|7586,147,7586,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+147|7589,147,7589,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+148|9609,148,9609,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_contradiction,contradicts,ACCEPT,UNCERTAIN,TRUE
+151|1072,151,1072,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+151|1209,151,1209,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+153|5411,153,5411,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+154|4979,154,4979,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+156|4978,156,4978,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+158|575,158,575,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+159|576,159,576,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+160|2283,160,2283,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+160|4222,160,4222,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+163|1655,163,1655,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+166|1656,166,1656,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+167|2007,167,2007,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,not proposed (manual-linkage pair),,ACCEPT,ACCEPT,TRUE
+167|2008,167,2008,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+168|2005,168,2005,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+169|1771,169,1771,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+170|1756,170,1756,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,TRUE
+170|1772,170,1772,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+170|1839,170,1839,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+170|2003,170,2003,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+170|2080,170,2080,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+170|2283,170,2283,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+170|2458,170,2458,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+171|1520,171,1520,retain,adjudicated: changed partner (manual-linkage pair was 171|1815); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+171|1815,171,1815,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+172|1756,172,1756,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+173|2007,173,2007,reject,not linked,,FALSE,review_band,not_comparable,REJECT,REJECT,FALSE
+173|2008,173,2008,retain,adjudicated: models disagree; two persons for one census head,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+178|9547,178,9547,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+180|4345,180,4345,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+181|4360,181,4360,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+182|915,182,915,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+186|8361,186,8361,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+189|8155,189,8155,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+190|8078,190,8078,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+191|9469,191,9469,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+193|9540,193,9540,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+194|936,194,936,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+195|359,195,359,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,TRUE
+195|377,195,377,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+195|679,195,679,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+196|1757,196,1757,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+197|1782,197,1782,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+197|1991,197,1991,retain,"adjudicated: not proposed by classifier, both models accept; one person for two census heads",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,FALSE
+198|1782,198,1782,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+200|1779,200,1779,reject,not linked,,FALSE,review_contradiction,contradicts,UNCERTAIN,REJECT,TRUE
+201|1799,201,1799,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+202|590,202,590,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,agrees,ACCEPT,ACCEPT,TRUE
+203|4384,203,4384,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+204|465,204,465,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+205|464,205,464,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+206|592,206,592,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+206|593,206,593,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+208|154,208,154,reject,not linked,,FALSE,review_band,not_comparable,REJECT,REJECT,FALSE
+208|1788,208,1788,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not proposed (manual-linkage pair),,ACCEPT,UNCERTAIN,TRUE
+209|5325,209,5325,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+210|1998,210,1998,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+210|2161,210,2161,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+211|2001,211,2001,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,FALSE
+213|9261,213,9261,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+217|9263,217,9263,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+218|9264,218,9264,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+219|8119,219,8119,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+219|8388,219,8388,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+220|10750,220,10750,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+223|8110,223,8110,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+223|8277,223,8277,retain,adjudicated: changed partner (manual-linkage pair was 223|8110); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+225|8118,225,8118,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+233|2234,233,2234,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+234|2444,234,2444,retain,adjudicated: two persons for one census head,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+235|2444,235,2444,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+238|2440,238,2440,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+240|8341,240,8341,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+241|8112,241,8112,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+242|8342,242,8342,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+246|67,246,67,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+247|120,247,120,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+248|68,248,68,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+249|2388,249,2388,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+250|2381,250,2381,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+250|4248,250,4248,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+254|2130,254,2130,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+255|9345,255,9345,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+256|2168,256,2168,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+257|2242,257,2242,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,REJECT,TRUE
+258|7513,258,7513,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+259|9941,259,9941,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+260|7268,260,7268,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+263|7513,263,7513,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+264|1922,264,1922,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+265|1921,265,1921,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+265|1923,265,1923,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+266|1935,266,1935,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+267|1936,267,1936,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+268|1934,268,1934,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+269|1933,269,1933,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+270|1964,270,1964,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+271|1975,271,1975,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+272|1974,272,1974,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+273|1973,273,1973,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+274|1965,274,1965,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+276|2118,276,2118,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+278|921,278,921,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,contradicts,ACCEPT,REJECT,TRUE
+279|919,279,919,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+280|812,280,812,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+282|929,282,929,retain,adjudicated: models disagree,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+283|780,283,780,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+285|343,285,343,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+289|4778,289,4778,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+292|5315,292,5315,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+295|914,295,914,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+296|926,296,926,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+297|2048,297,2048,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,TRUE
+297|4529,297,4529,retain,adjudicated: models disagree; changed partner (manual-linkage pair was 297|2048); two persons for one census head; one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,FALSE
+298|4530,298,4530,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+299|4529,299,4529,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+300|7416,300,7416,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+302|5218,302,5218,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+302|5219,302,5219,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+303|5216,303,5216,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+304|5215,304,5215,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+308|2415,308,2415,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,FALSE
+311|1999,311,1999,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+318|1694,318,1694,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,not_comparable,ACCEPT,UNCERTAIN,TRUE
+321|4239,321,4239,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+322|4243,322,4243,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,contradicts,ACCEPT,UNCERTAIN,TRUE
+324|2233,324,2233,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+324|9362,324,9362,retain,adjudicated: changed partner (manual-linkage pair was 324|2233); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+326|2220,326,2220,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+327|2222,327,2222,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+328|53,328,53,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+329|4239,329,4239,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+329|5292,329,5292,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+330|2221,330,2221,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+331|2224,331,2224,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+332|2223,332,2223,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+333|2218,333,2218,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+334|1827,334,1827,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+336|5304,336,5304,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+337|1737,337,1737,reject,not linked,,FALSE,not_linked,contradicts,UNCERTAIN,UNCERTAIN,TRUE
+338|1769,338,1769,retain,adjudicated: models disagree,Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,FALSE
+339|1738,339,1738,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+345|7458,345,7458,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+346|79,346,79,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+347|296,347,296,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+347|463,347,463,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+348|9348,348,9348,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+349|5567,349,5567,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+350|8987,350,8987,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+351|4971,351,4971,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+352|7575,352,7575,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+353|7576,353,7576,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+354|266,354,266,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+355|225,355,225,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+356|224,356,224,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+356|4750,356,4750,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+357|826,357,826,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+358|8258,358,8258,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+358|9718,358,9718,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+360|2236,360,2236,reject,not linked,,FALSE,not_linked,contradicts,UNCERTAIN,REJECT,TRUE
+364|387,364,387,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+364|8033,364,8033,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+364|10410,364,10410,retain,adjudicated: changed partner (manual-linkage pair was 364|8033); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+365|8254,365,8254,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+366|4871,366,4871,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+370|3999,370,3999,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+371|9412,371,9412,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+371|9604,371,9604,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+372|1914,372,1914,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+376|1804,376,1804,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+377|96,377,96,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+378|1601,378,1601,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+379|2194,379,2194,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+380|1730,380,1730,retain,adjudicated: one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+380|2199,380,2199,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+382|1547,382,1547,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+383|7957,383,7957,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_contradiction,contradicts,ACCEPT,ACCEPT,TRUE
+387|1996,387,1996,retain,adjudicated: models disagree,Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,FALSE
+387|9567,387,9567,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+388|1778,388,1778,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+388|4843,388,4843,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+389|9567,389,9567,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+390|9391,390,9391,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+393|9568,393,9568,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+394|5117,394,5117,retain,adjudicated: changed partner (manual-linkage pair was 394|9568); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+394|9568,394,9568,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+396|5052,396,5052,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+401|396,401,396,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+402|668,402,668,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+403|757,403,757,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+404|646,404,646,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+405|2027,405,2027,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+406|2031,406,2031,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+407|2034,407,2034,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+408|2033,408,2033,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+410|1979,410,1979,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+412|2295,412,2295,reject,not linked,,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+412|4161,412,4161,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,not proposed (manual-linkage pair),,ACCEPT,ACCEPT,TRUE
+414|4415,414,4415,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+417|5327,417,5327,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+419|1706,419,1706,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+420|1702,420,1702,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+422|9746,422,9746,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+424|430,424,430,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+425|10740,425,10740,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+426|5175,426,5175,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,agrees,ACCEPT,ACCEPT,TRUE
+427|4849,427,4849,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+429|9177,429,9177,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+429|9269,429,9269,retain,adjudicated: changed partner (manual-linkage pair was 429|9177); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+433|637,433,637,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+435|5307,435,5307,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+436|511,436,511,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+437|5341,437,5341,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+438|5176,438,5176,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+439|5289,439,5289,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,REJECT,FALSE
+440|244,440,244,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,REJECT,TRUE
+441|274,441,274,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+443|234,443,234,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+444|204,444,204,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+447|206,447,206,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+448|664,448,664,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+449|5376,449,5376,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+450|2360,450,2360,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+453|515,453,515,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+454|516,454,516,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+455|4044,455,4044,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+457|1848,457,1848,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+458|1850,458,1850,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+459|1846,459,1846,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+460|1851,460,1851,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+461|1853,461,1853,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+462|1847,462,1847,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+463|1822,463,1822,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+465|2176,465,2176,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+466|5425,466,5425,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+467|5526,467,5526,retain,adjudicated: models disagree,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+469|5864,469,5864,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+469|7839,469,7839,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+470|9404,470,9404,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+472|9595,472,9595,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+473|9597,473,9597,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+474|7724,474,7724,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+475|2129,475,2129,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+476|7710,476,7710,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+477|7348,477,7348,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+478|7718,478,7718,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+478|7720,478,7720,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+479|7719,479,7719,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+481|9216,481,9216,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,REJECT,TRUE
+482|1997,482,1997,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+483|1543,483,1543,retain,adjudicated: two persons for one census head,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+483|4811,483,4811,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+486|4809,486,4809,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+487|2196,487,2196,retain,adjudicated: two persons for one census head,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+488|2196,488,2196,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+491|4686,491,4686,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+492|1543,492,1543,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+492|4811,492,4811,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+494|5090,494,5090,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,contradicts,ACCEPT,ACCEPT,TRUE
+496|5093,496,5093,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+499|1650,499,1650,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+499|2373,499,2373,retain,adjudicated: changed partner (manual-linkage pair was 499|1650); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+500|1884,500,1884,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+501|275,501,275,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+503|879,503,879,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+504|2106,504,2106,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+504|2131,504,2131,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+504|4249,504,4249,retain,adjudicated: one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+506|8310,506,8310,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+507|9193,507,9193,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,TRUE
+508|9187,508,9187,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+509|10131,509,10131,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+510|1988,510,1988,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+512|2132,512,2132,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+514|1579,514,1579,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+515|4205,515,4205,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+516|4203,516,4203,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+517|2113,517,2113,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+519|2122,519,2122,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+520|5213,520,5213,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+524|9548,524,9548,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+528|9548,528,9548,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+532|9548,532,9548,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+535|9644,535,9644,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,TRUE
+536|9271,536,9271,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+536|9649,536,9649,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+537|9632,537,9632,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+538|9271,538,9271,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+538|9643,538,9643,retain,adjudicated: one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+538|9649,538,9649,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+543|8337,543,8337,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,FALSE
+544|4614,544,4614,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+545|4381,545,4381,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+546|4544,546,4544,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+548|4756,548,4756,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+549|4553,549,4553,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+550|7486,550,7486,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+551|9488,551,9488,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,agrees,ACCEPT,ACCEPT,TRUE
+552|9485,552,9485,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+552|9489,552,9489,retain,adjudicated: changed partner (manual-linkage pair was 552|9485); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+553|541,553,541,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+554|540,554,540,reject,not linked,,FALSE,proposed,agrees,UNCERTAIN,UNCERTAIN,FALSE
+558|9221,558,9221,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+563|1063,563,1063,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+564|885,564,885,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+567|5505,567,5505,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+569|2346,569,2346,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+572|3513,572,3513,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+572|9668,572,9668,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+572|9736,572,9736,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+575|488,575,488,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+577|9703,577,9703,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,contradicts,ACCEPT,UNCERTAIN,TRUE
+583|9709,583,9709,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+585|9694,585,9694,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+587|3860,587,3860,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+587|3863,587,3863,retain,adjudicated: changed partner (manual-linkage pair was 587|3860); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+588|9147,588,9147,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+589|5456,589,5456,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+590|5456,590,5456,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+591|4167,591,4167,retain,adjudicated: changed partner (manual-linkage pair was 591|5362); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+591|5362,591,5362,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+592|4252,592,4252,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+595|1631,595,1631,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+597|3532,597,3532,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+598|1801,598,1801,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+601|90,601,90,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+603|9444,603,9444,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+604|9294,604,9294,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,TRUE
+605|4396,605,4396,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+606|4395,606,4395,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+607|4397,607,4397,retain,adjudicated: models disagree,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+613|838,613,838,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+614|838,614,838,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+615|9208,615,9208,reject,not linked,,FALSE,not_linked,contradicts,REJECT,UNCERTAIN,TRUE
+616|9211,616,9211,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+617|9231,617,9231,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+619|7210,619,7210,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+619|7567,619,7567,retain,adjudicated: changed partner (manual-linkage pair was 619|7210); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+620|1993,620,1993,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+621|4079,621,4079,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+622|40,622,40,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+626|10368,626,10368,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+628|4466,628,4466,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+628|4868,628,4868,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+630|5127,630,5127,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+634|5150,634,5150,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+636|4315,636,4315,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+637|783,637,783,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+638|9352,638,9352,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+639|479,639,479,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+639|9658,639,9658,reject,not linked,,FALSE,not_linked,contradicts,UNCERTAIN,UNCERTAIN,TRUE
+642|7822,642,7822,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+643|7804,643,7804,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+644|2018,644,2018,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+651|521,651,521,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+652|1592,652,1592,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+654|3878,654,3878,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+655|4640,655,4640,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+661|9212,661,9212,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+663|533,663,533,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+664|7787,664,7787,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+665|1951,665,1951,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+667|9700,667,9700,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+668|9638,668,9638,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+668|9640,668,9640,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+668|9641,668,9641,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+668|9712,668,9712,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+668|9719,668,9719,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+673|471,673,471,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+676|684,676,684,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+679|2166,679,2166,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+680|2167,680,2167,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+681|2172,681,2172,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+682|246,682,246,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+683|441,683,441,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+683|890,683,890,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+685|1605,685,1605,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+685|1888,685,1888,retain,adjudicated: changed partner (manual-linkage pair was 685|1605); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+687|2429,687,2429,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+688|78,688,78,retain,adjudicated: two persons for one census head,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+689|78,689,78,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+689|4934,689,4934,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+691|4681,691,4681,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+692|2105,692,2105,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+692|4140,692,4140,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+694|7488,694,7488,retain,adjudicated: two persons for one census head,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+695|7489,695,7489,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+696|7490,696,7490,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+697|7488,697,7488,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+698|9501,698,9501,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+699|9503,699,9503,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+700|9368,700,9368,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+700|9534,700,9534,retain,adjudicated: changed partner (manual-linkage pair was 700|9368); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+701|9602,701,9602,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+702|9410,702,9410,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+705|9739,705,9739,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+706|9775,706,9775,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+708|114,708,114,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+708|115,708,115,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+710|9639,710,9639,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,agrees,ACCEPT,UNCERTAIN,TRUE
+711|9629,711,9629,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+712|9167,712,9167,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+712|9169,712,9169,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,TRUE
+715|9745,715,9745,reject,not linked,,FALSE,not_linked,contradicts,UNCERTAIN,REJECT,TRUE
+716|9118,716,9118,reject,not linked,,FALSE,proposed,agrees,UNCERTAIN,UNCERTAIN,TRUE
+716|9598,716,9598,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+717|77,717,77,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+718|1813,718,1813,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+719|1836,719,1836,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+720|1823,720,1823,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+720|9209,720,9209,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+722|1862,722,1862,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,not_comparable,ACCEPT,UNCERTAIN,TRUE
+723|1831,723,1831,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+724|1830,724,1830,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+726|1832,726,1832,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+727|1833,727,1833,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+728|146,728,146,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+729|9616,729,9616,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+730|1823,730,1823,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+730|9209,730,9209,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+733|1781,733,1781,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+735|5006,735,5006,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+735|5078,735,5078,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,TRUE
+735|5144,735,5144,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+737|620,737,620,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,REJECT,TRUE
+737|4107,737,4107,reject,not linked,,FALSE,review,,UNCERTAIN,REJECT,FALSE
+737|7162,737,7162,reject,not linked,,FALSE,review,,UNCERTAIN,REJECT,FALSE
+740|618,740,618,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+742|619,742,619,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+743|5167,743,5167,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+744|5168,744,5168,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+745|1651,745,1651,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+746|5146,746,5146,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+748|5073,748,5073,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+749|5079,749,5079,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+750|5168,750,5168,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models; two persons for one census head",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+751|5029,751,5029,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+752|5029,752,5029,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+753|5034,753,5034,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+754|4814,754,4814,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+755|4709,755,4709,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+756|4815,756,4815,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+757|5178,757,5178,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+758|5180,758,5180,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+759|5181,759,5181,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+760|5164,760,5164,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+761|620,761,620,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+761|4107,761,4107,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+762|5164,762,5164,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+763|4598,763,4598,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+765|1511,765,1511,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,TRUE
+765|2453,765,2453,retain,adjudicated: changed partner (manual-linkage pair was 765|1511); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+768|1716,768,1716,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+769|2206,769,2206,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+770|2202,770,2202,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+771|2205,771,2205,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+773|2235,773,2235,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,TRUE
+774|2231,774,2231,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+775|2201,775,2201,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+776|2200,776,2200,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+779|2209,779,2209,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+782|2208,782,2208,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+784|2211,784,2211,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+785|2215,785,2215,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+786|9502,786,9502,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+788|3501,788,3501,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+791|1948,791,1948,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+792|9713,792,9713,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,agrees,ACCEPT,UNCERTAIN,FALSE
+793|803,793,803,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+793|900,793,900,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+793|9714,793,9714,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+794|9720,794,9720,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+795|4690,795,4690,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+796|1118,796,1118,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,REJECT,TRUE
+797|1158,797,1158,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+798|6467,798,6467,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+799|1120,799,1120,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+801|5153,801,5153,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+802|95,802,95,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+806|1915,806,1915,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+806|1916,806,1916,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+808|1567,808,1567,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+808|1915,808,1915,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+808|1916,808,1916,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+809|1970,809,1970,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+810|1567,810,1567,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+810|1915,810,1915,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,TRUE
+810|1916,810,1916,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+812|1504,812,1504,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+813|1679,813,1679,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+814|1682,814,1682,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+815|1567,815,1567,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+815|1915,815,1915,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+815|1916,815,1916,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+818|1882,818,1882,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+820|1883,820,1883,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+821|1893,821,1893,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+822|232,822,232,retain,adjudicated: models disagree,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+823|556,823,556,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+824|4728,824,4728,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+827|9588,827,9588,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+828|4794,828,4794,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+829|5537,829,5537,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,not_comparable,ACCEPT,UNCERTAIN,TRUE
+831|5538,831,5538,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+832|5795,832,5795,retain,adjudicated: changed partner (manual-linkage pair was 832|6388); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+832|6388,832,6388,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+838|4942,838,4942,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+840|3852,840,3852,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+841|3851,841,3851,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+842|9522,842,9522,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+843|9621,843,9621,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+844|9613,844,9613,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+845|9661,845,9661,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+846|9088,846,9088,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+847|9697,847,9697,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+849|9523,849,9523,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+850|9487,850,9487,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+851|9523,851,9523,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+852|9156,852,9156,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+855|9400,855,9400,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+856|3865,856,3865,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+856|3895,856,3895,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+857|9562,857,9562,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+858|9592,858,9592,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+859|3873,859,3873,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+860|3874,860,3874,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+860|3927,860,3927,retain,adjudicated: changed partner (manual-linkage pair was 860|3874); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+861|3875,861,3875,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+861|3892,861,3892,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+862|2029,862,2029,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+863|3875,863,3875,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+863|3890,863,3890,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+863|3892,863,3892,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+864|5205,864,5205,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+865|5495,865,5495,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+866|9339,866,9339,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+868|9530,868,9530,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+870|9459,870,9459,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+870|9461,870,9461,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+872|2044,872,2044,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+874|1069,874,1069,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+875|9953,875,9953,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+877|852,877,852,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+878|241,878,241,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+878|242,878,242,retain,adjudicated: changed partner (manual-linkage pair was 878|241); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+878|264,878,264,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+879|248,879,248,retain,adjudicated: models disagree,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+879|814,879,814,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+880|443,880,443,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+881|1721,881,1721,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+881|4775,881,4775,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+882|2015,882,2015,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+883|5111,883,5111,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+885|2125,885,2125,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+885|5474,885,5474,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+886|653,886,653,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+887|651,887,651,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+888|635,888,635,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+889|4840,889,4840,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+890|2245,890,2245,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+891|9737,891,9737,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+892|9481,892,9481,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+893|3844,893,3844,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+895|9577,895,9577,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+897|8274,897,8274,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+898|10760,898,10760,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+899|8253,899,8253,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+900|5208,900,5208,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+901|5408,901,5408,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+901|5409,901,5409,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+902|10302,902,10302,retain,adjudicated: models disagree,Author adjudicated,FALSE,proposed,agrees,ACCEPT,REJECT,FALSE
+903|1131,903,1131,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+904|1599,904,1599,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+904|1834,904,1834,retain,adjudicated: changed partner (manual-linkage pair was 904|1599); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+905|1838,905,1838,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,not_comparable,ACCEPT,UNCERTAIN,TRUE
+906|1837,906,1837,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,REJECT,TRUE
+907|1972,907,1972,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+910|7339,910,7339,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,REJECT,TRUE
+911|7376,911,7376,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+912|7334,912,7334,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+917|2344,917,2344,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+918|2344,918,2344,reject,not linked,,FALSE,review_band,not_comparable,REJECT,REJECT,FALSE
+919|746,919,746,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+920|745,920,745,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+921|7209,921,7209,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+922|762,922,762,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+923|760,923,760,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+924|8148,924,8148,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+925|8198,925,8198,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+928|4509,928,4509,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+930|4510,930,4510,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+930|5028,930,5028,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+932|9512,932,9512,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+933|693,933,693,reject,not linked,,FALSE,not_linked,not_comparable,REJECT,UNCERTAIN,TRUE
+934|691,934,691,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+935|338,935,338,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+936|694,936,694,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+937|695,937,695,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+940|4234,940,4234,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+942|9482,942,9482,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+944|4149,944,4149,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+945|9385,945,9385,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+946|373,946,373,retain,adjudicated: models disagree,Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,FALSE
+946|7607,946,7607,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+946|9586,946,9586,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+947|4749,947,4749,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+948|4902,948,4902,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+949|624,949,624,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+950|4341,950,4341,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+951|808,951,808,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+951|4337,951,4337,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+954|4338,954,4338,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+955|2347,955,2347,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+955|8860,955,8860,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+958|8351,958,8351,retain,adjudicated: changed partner (manual-linkage pair was 958|8379); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+958|8379,958,8379,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+958|8456,958,8456,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+958|8593,958,8593,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+959|4456,959,4456,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+960|4457,960,4457,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+961|1982,961,1982,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+964|9232,964,9232,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+965|8103,965,8103,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+965|8322,965,8322,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+965|8365,965,8365,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+965|8367,965,8367,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+965|8459,965,8459,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+965|9233,965,9233,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+966|8371,966,8371,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+967|9234,967,9234,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+968|5612,968,5612,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+968|8321,968,8321,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+971|6892,971,6892,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+972|4630,972,4630,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,FALSE
+973|2425,973,2425,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+975|4629,975,4629,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+977|7686,977,7686,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+978|7685,978,7685,reject,not linked,,FALSE,not_linked,contradicts,UNCERTAIN,UNCERTAIN,TRUE
+980|8275,980,8275,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+981|7783,981,7783,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+982|467,982,467,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+984|5252,984,5252,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+985|5053,985,5053,reject,not linked,,FALSE,review,,UNCERTAIN,ACCEPT,FALSE
+985|5285,985,5285,retain,adjudicated: one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+986|4721,986,4721,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+987|4465,987,4465,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,FALSE
+988|5255,988,5255,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+989|4188,989,4188,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+990|4522,990,4522,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+992|1723,992,1723,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+993|4342,993,4342,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+994|4307,994,4307,reject,not linked,,FALSE,proposed,agrees,UNCERTAIN,UNCERTAIN,TRUE
+996|4402,996,4402,retain,adjudicated: changed partner (manual-linkage pair was 996|4743); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+996|4743,996,4743,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,TRUE
+997|4365,997,4365,retain,adjudicated: changed partner (manual-linkage pair was 997|5002); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+997|5002,997,5002,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+998|4358,998,4358,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+999|1748,999,1748,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1000|1674,1000,1674,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1001|1777,1001,1777,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1002|4787,1002,4787,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+1005|4492,1005,4492,retain,adjudicated: changed partner (manual-linkage pair was 1005|4743); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1005|4743,1005,4743,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,TRUE
+1006|4493,1006,4493,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1007|9346,1007,9346,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1009|9525,1009,9525,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1013|4950,1013,4950,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,UNCERTAIN,TRUE
+1014|4804,1014,4804,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_contradiction,contradicts,ACCEPT,REJECT,TRUE
+1015|5147,1015,5147,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1016|1566,1016,1566,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1017|2310,1017,2310,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,TRUE
+1024|674,1024,674,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+1026|656,1026,656,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+1028|655,1028,655,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+1029|1514,1029,1514,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+1031|1870,1031,1870,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1032|1516,1032,1516,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1033|52,1033,52,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1033|1517,1033,1517,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models; one person for two census heads",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1033|7631,1033,7631,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1034|7744,1034,7744,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+1034|10413,1034,10413,retain,adjudicated: changed partner (manual-linkage pair was 1034|7744); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1036|80,1036,80,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1037|5618,1037,5618,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1038|102,1038,102,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,TRUE
+1040|1,1040,1,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+1040|63,1040,63,retain,adjudicated: changed partner (manual-linkage pair was 1040|1); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1042|7,1042,7,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1043|4482,1043,4482,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1045|282,1045,282,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+1046|5497,1046,5497,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+1049|4353,1049,4353,retain,"adjudicated: manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,not_linked,agrees,ACCEPT,ACCEPT,TRUE
+1050|3928,1050,3928,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1052|9242,1052,9242,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1055|5057,1055,5057,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+1055|5190,1055,5190,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+1057|2531,1057,2531,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+1063|1967,1063,1967,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1064|1538,1064,1538,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1081|9176,1081,9176,reject,not linked,,FALSE,not_linked,contradicts,REJECT,REJECT,TRUE
+1084|122,1084,122,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,FALSE
+1086|9729,1086,9729,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1089|9716,1089,9716,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1090|3508,1090,3508,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1090|9716,1090,9716,reject,not linked,,FALSE,review_band,not_comparable,REJECT,REJECT,FALSE
+1091|9288,1091,9288,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1091|9729,1091,9729,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+1093|9142,1093,9142,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,TRUE
+1094|8127,1094,8127,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+1096|9630,1096,9630,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1098|9477,1098,9477,reject,not linked,,FALSE,review_band,not_comparable,REJECT,REJECT,FALSE
+1099|485,1099,485,retain,"adjudicated: not proposed by classifier, both models accept",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,ACCEPT,FALSE
+1100|9361,1100,9361,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1101|9341,1101,9341,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1102|9473,1102,9473,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1105|727,1105,727,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1107|9463,1107,9463,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1107|9533,1107,9533,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1108|9463,1108,9463,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+1108|9533,1108,9533,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1109|9477,1109,9477,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1111|9535,1111,9535,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1112|9552,1112,9552,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1114|9330,1114,9330,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1116|4356,1116,4356,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+1117|4884,1117,4884,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1118|2454,1118,2454,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1119|9615,1119,9615,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,TRUE
+1120|7786,1120,7786,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1121|1961,1121,1961,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+1123|7786,1123,7786,retain,adjudicated: two persons for one census head,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1123|7914,1123,7914,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+1124|7907,1124,7907,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1136|4639,1136,4639,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1137|5162,1137,5162,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+1139|782,1139,782,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1140|8228,1140,8228,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1141|10289,1141,10289,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+1141|10291,1141,10291,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1142|966,1142,966,reject,not linked,,FALSE,not_linked,agrees,REJECT,UNCERTAIN,TRUE
+1142|10290,1142,10290,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+1145|4659,1145,4659,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_contradiction,contradicts,ACCEPT,ACCEPT,TRUE
+1146|1015,1146,1015,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,UNCERTAIN,TRUE
+1146|1117,1146,1117,retain,adjudicated: models disagree; changed partner (manual-linkage pair was 1146|1015); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,FALSE
+1147|2409,1147,2409,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1147|4587,1147,4587,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+1150|2438,1150,2438,reject,not linked,,FALSE,review,,ACCEPT,ACCEPT,FALSE
+1150|4220,1150,4220,retain,"adjudicated: not proposed by classifier, both models accept; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,TRUE
+1151|743,1151,743,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1152|737,1152,737,reject,not linked,,FALSE,review_band,not_comparable,REJECT,UNCERTAIN,FALSE
+1153|4520,1153,4520,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1155|1859,1155,1859,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1157|4747,1157,4747,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1158|4632,1158,4632,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+1158|4748,1158,4748,retain,"adjudicated: not proposed by classifier, both models accept; one person for two census heads",Author adjudicated,FALSE,review_band,agrees,ACCEPT,ACCEPT,FALSE
+1159|4808,1159,4808,reject,not linked,,FALSE,not_linked,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+1161|4575,1161,4575,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1162|9704,1162,9704,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1163|9150,1163,9150,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+1163|9310,1163,9310,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+1163|9753,1163,9753,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1166|9733,1166,9733,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1167|9150,1167,9150,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+1167|9309,1167,9309,reject,not linked,,FALSE,review,,REJECT,UNCERTAIN,FALSE
+1167|9310,1167,9310,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1167|9753,1167,9753,retain,adjudicated: models disagree; two persons for one census head; one person for two census heads,Author adjudicated,FALSE,review,,ACCEPT,UNCERTAIN,FALSE
+1168|9754,1168,9754,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1170|9311,1170,9311,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1171|9650,1171,9650,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1172|9622,1172,9622,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1173|9652,1173,9652,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1174|7358,1174,7358,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+1174|8347,1174,8347,retain,adjudicated: models disagree; one person for two census heads,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+1175|5284,1175,5284,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1176|5179,1176,5179,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1179|4665,1179,4665,reject,not linked,,FALSE,review,,UNCERTAIN,UNCERTAIN,FALSE
+1179|5259,1179,5259,reject,not linked,,FALSE,review,,REJECT,REJECT,FALSE
+1179|5326,1179,5326,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1180|5223,1180,5223,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,TRUE
+1181|5223,1181,5223,reject,not linked,,FALSE,review_band,not_comparable,UNCERTAIN,UNCERTAIN,FALSE
+1182|1644,1182,1644,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1183|2156,1183,2156,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,UNCERTAIN,TRUE
+1184|2157,1184,2157,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1187|5310,1187,5310,reject,not linked,,FALSE,not proposed (manual-linkage pair),,UNCERTAIN,UNCERTAIN,TRUE
+1190|5197,1190,5197,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1191|9478,1191,9478,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1192|4292,1192,4292,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+1192|9600,1192,9600,retain,adjudicated: changed partner (manual-linkage pair was 1192|4292); one person for two census heads,Author adjudicated,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1193|9605,1193,9605,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,ACCEPT,REJECT,TRUE
+1195|9603,1195,9603,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1199|1306,1199,1306,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1202|4489,1202,4489,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1205|4779,1205,4779,retain,adjudicated: models disagree,Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,FALSE
+1207|1695,1207,1695,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1208|2174,1208,2174,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,proposed,agrees,UNCERTAIN,ACCEPT,TRUE
+1209|567,1209,567,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1210|8544,1210,8544,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE
+1211|9192,1211,9192,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1212|9219,1212,9219,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1215|8510,1215,8510,reject,not linked,,FALSE,not proposed (manual-linkage pair),,REJECT,REJECT,TRUE
+1216|8850,1216,8850,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1217|9453,1217,9453,retain,"adjudicated: models disagree; manual-linkage pair, not a proposal accepted by both models",Author adjudicated,FALSE,review_band,not_comparable,ACCEPT,UNCERTAIN,TRUE
+1219|3949,1219,3949,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,TRUE
+1220|8692,1220,8692,retain,classifier proposal accepted by both blind model reviews,Both models,FALSE,proposed,agrees,ACCEPT,ACCEPT,FALSE

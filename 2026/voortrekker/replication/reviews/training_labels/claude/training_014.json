@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "724|9645",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Hermanus Philippus vs Hermanus Gerhardus Lambertus). The census wife Van Rooyen clearly differs from his only spouse, Botha, whom he married in 1817, before the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "725|1836",
+  "verdict": "REJECT",
+  "reason": "The second given name differs (Jacobus Johannes vs Jacobus Christoffel). The census wife Steenkamp matches none of his three recorded spouses (Botha, Grobler, Herbst).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "725|9277",
+  "verdict": "REJECT",
+  "reason": "The first name differs (Jacobus Johannes vs Lodewyk Johannes), and no wife is recorded that could link them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "726|8899",
+  "verdict": "REJECT",
+  "reason": "The names are entirely different (Willem Jacobus vs Fredrik Johannes). He married Botha in 1822, yet the census head has no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "727|9646",
+  "verdict": "REJECT",
+  "reason": "The first name differs (Nicolaas vs Lucas). The census head already had a wife, Prinslo, in 1825, but the genealogy's first marriage (Lubbe) was in 1826.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "730|9209",
+  "verdict": "ACCEPT",
+  "reason": "Hans Jurie is a normal form of the distinctive name Hans Jurgen, and the district (Uitenhage) matches. He married Uys in 1826, which fits an unmarried head aged about 22 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "730|9745",
+  "verdict": "REJECT",
+  "reason": "The census head 'Johannes' had a wife, Muller, in 1825, but Hans Jurgen first married Uys in 1826. The census entry Hans Jurie fits him far better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Hans Jurie"
+ },
+ {
+  "pair_id": "734|4471",
+  "verdict": "REJECT",
+  "reason": "The names differ (Dewald Johannes vs Charel Sr.), and he was about 16 in 1825. The census head had a wife, Combrink, but his first marriage was in 1830.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "735|4815",
+  "verdict": "REJECT",
+  "reason": "The names differ (Wynand Johannes vs Sybrand Gerhardus). Another genealogy person named Sybrand Gerhardus is proposed for this head, and a census Wynand Johannes exists.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Wynand Johannes"
+ },
+ {
+  "pair_id": "756|4815",
+  "verdict": "ACCEPT",
+  "reason": "The full name Sybrand Gerhardus matches exactly in Graaff-Reinet. A head with no wife fits his first marriage in 1828, at about 19 years of age.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "735|5006",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches exactly, but the census head had a wife, Anna Christina Pretorius, in 1825. The genealogy man was about 19 then and first married Aucamp in 1827, so the head may be an older namesake.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|1651",
+  "verdict": "REJECT",
+  "reason": "The names differ (Matthys Cornelis vs Marthinnus Wessel). The census wife Pretorius differs from his wife Kruger, whom he married in 1809.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|1651",
+  "verdict": "REJECT",
+  "reason": "The names differ (Johannes Petrus vs Marthinnus Wessel), and he was about 14 in 1823. The annotation 'de oude' indicates an older man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|2339",
+  "verdict": "REJECT",
+  "reason": "The names differ (Matthys Cornelis vs Abraham). The census wife Venter differs from his wife Kruger, whom he married in 1809.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|4106",
+  "verdict": "REJECT",
+  "reason": "The names are entirely different (Matthys Cornelis vs Dirk Jacobus), and the district differs (Somerset vs Graaff-Reinet).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|4701",
+  "verdict": "REJECT",
+  "reason": "The second given name differs (Cornelis vs Jacobus), and the district differs (Somerset vs Graaff-Reinet). The census also names no wife, although he married Kruger in 1809.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|4701",
+  "verdict": "REJECT",
+  "reason": "The names differ (Gerhardus Petrus vs Matthys Jacobus). He married Bester in 1824, yet the census head has no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4701",
+  "verdict": "REJECT",
+  "reason": "The first name differs (Johannes Jacobus vs Matthys Jacobus).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|5072",
+  "verdict": "REJECT",
+  "reason": "The names differ (Matthys Cornelis vs Marthinus Wessel). The census wife Viljoen differs from his wife Kruger, whom he married in 1809.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "746|5072",
+  "verdict": "REJECT",
+  "reason": "The names differ (Andries Wilhelmus Jacobus vs Marthinus Wessel), and the census wife Viljoen differs from his wife De Wit, married in 1818. The census Andries Wilhelm Jacobus with wife De Wit fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Andries Wilhelm Jacobus"
+ },
+ {
+  "pair_id": "736|5167",
+  "verdict": "REJECT",
+  "reason": "The second given name differs (Cornelis vs Wynand). The census wife Magdalena G. Pretorius differs from his wife Kruger and matches the competing Matthys Wynand Sr.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "743|5167",
+  "verdict": "ACCEPT",
+  "reason": "The name Matthys Wynand matches exactly, and the census wife Magdalena G. Pretorius matches his wife Magdalena Gerbrecht Pretorius, married in 1807. The district (Graaff-Reinet) also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|5257",
+  "verdict": "REJECT",
+  "reason": "The names differ (Matthys Cornelis vs Marthinus Gerhardus). The census wife Fourie differs from his wife Kruger, married in 1809.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5257",
+  "verdict": "REJECT",
+  "reason": "The names differ (Johannes Andries vs Marthinus Gerhardus). The census wife Fourie differs from his wife Davel, married in 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|4894",
+  "verdict": "REJECT",
+  "reason": "Gert can be a short form of Gerhardus, but the census wife Greeff clearly differs from his wife Bester. He married Bester in 1824, the year before the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "744|4894",
+  "verdict": "REJECT",
+  "reason": "He was about 16 in 1825 and first married Blom in 1827. The census head Gert already had a wife, Greeff, in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|5008",
+  "verdict": "REJECT",
+  "reason": "The names differ (Gerhardus Petrus vs Matthys van As), and he married Bester in 1824 while the census head has no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5008",
+  "verdict": "REJECT",
+  "reason": "The names differ (Hercules Albertus vs Matthys van As), and he married in 1822 while the census head has no wife. The census Hercules Albertus with wife Schombe fits exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Hercules Albertus"
+ },
+ {
+  "pair_id": "738|5040",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census wife Geesina Catharina Becker clearly differs from his wife Elsje Josina Bester. He married Bester in May 1824, too recently for a remarriage before 1825 to be plausible.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "744|5040",
+  "verdict": "REJECT",
+  "reason": "He was about 16 in 1825 and first married Blom in 1827. The census head already had a wife, Becker, in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|5040",
+  "verdict": "REJECT",
+  "reason": "The names are reordered (Petrus Gerhardus vs Gerhardus Petrus), but the census wife Becker clearly differs from his wife Scholtz, married in 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|5079",
+  "verdict": "REJECT",
+  "reason": "The names differ (Gerhardus Petrus vs Hercules Albertus). The census wife Schombe differs from his wife Bester, married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5079",
+  "verdict": "ACCEPT",
+  "reason": "The name Hercules Albertus matches exactly. The census wife Anna Elisabeth Schombe(?) matches his wife Anna Elisabeth Schoombee, married in 1822, and the district (Graaff-Reinet) matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5079",
+  "verdict": "REJECT",
+  "reason": "The names differ (Johannes Petrus vs Hercules Albertus), and he was about 16 in 1825. The census wife Schombe matches none of his spouses (Strauss, Alberts).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|5079",
+  "verdict": "REJECT",
+  "reason": "The names differ (Petrus Gerhardus vs Hercules Albertus). The census wife Schombe differs from his wife Scholtz, married in 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "741|5146",
+  "verdict": "REJECT",
+  "reason": "The names differ (Hendrik Jacobus Matthys Wynand vs Andries Wilhelm Jacobus). The census wife De Wit is recorded in 1825, but his first marriage (Oosthuizen) was in 1831.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "746|5146",
+  "verdict": "ACCEPT",
+  "reason": "The name Andries Wilhelm(us) Jacobus matches, and the census wife Christina Petronella De Wit exactly matches his wife, married in 1818. The district (Graaff-Reinet) also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5146",
+  "verdict": "REJECT",
+  "reason": "The first name differs (Johannes Jacobus vs Andries Wilhelm Jacobus). The census wife De Wit matches the competing Andries Wilhelmus Jacobus Sr.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "747|4526",
+  "verdict": "REJECT",
+  "reason": "The names differ (Henning Petrus Nicolaas vs Hendrik Stephanus). The census wife Joosten differs from his wife Vorster, married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "747|4527",
+  "verdict": "REJECT",
+  "reason": "The census household is headed by a woman, Geertruida Grobler, widow of Hendrik Stephanus Pretorius. A male genealogy person cannot be that head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

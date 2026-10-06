@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "942|9482",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in the declared district (Uitenhage). The census wife, Combrink Maria Elisabeth, matches the spouse he married in 1822.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "944|4149",
+  "verdict": "ACCEPT",
+  "reason": "Same forenames in a different order (Hendrik Barend Josephus vs Barend Hendrik Josephus). The census wife, Van Wyk Geertruy, matches his 1818 wife Zacharia Geertruida van Wyk; the Graaff-Reinet/Somerset difference fits boundary changes.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "945|9385",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive three-forename name matches exactly in his declared district, Uitenhage. No wife is listed, which fits a man who first married in 1834.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "946|373",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match. The census wife, Van Emmenes Cornelia Susanna, matches his second wife Cornelia Zacharia van Emmenis (married 1814) apart from the middle name; Beaufort is plausible next to Worcester.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "946|7607",
+  "verdict": "UNCERTAIN",
+  "reason": "Only the name matches. Swellendam is not his declared district (Worcester), and no wife is recorded although he had married in 1801 and 1814.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "946|9586",
+  "verdict": "UNCERTAIN",
+  "reason": "Only the name matches. Uitenhage is far from his declared district (Worcester), and no wife is recorded although he had married in 1801 and 1814.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "947|4749",
+  "verdict": "ACCEPT",
+  "reason": "The census wife, Venter Hester Catharina, matches his 1822 wife exactly, in his declared district. Adriaan vs Abraham as middle name is a minor discrepancy.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "948|4902",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in the declared district (Graaff-Reinet). However, no wife is recorded, so his 1790 marriage to Anna Fourie cannot be confirmed, and the record does not say whether he was widowed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "949|624",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district (Beaufort) match, and having no wife fits a man who married in 1827. However, the census annotation 'Senior' is odd for a 21-year-old and suggests an older namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "950|4341",
+  "verdict": "ACCEPT",
+  "reason": "Name matches in the declared district (Graaff-Reinet). The census wife, v. Tonder Johanna Catharina, matches his 1807 wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "951|808",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, and having no wife fits a man who married in 1827. However, he was only about 17 in 1825, and Beaufort differs from his declared district (Somerset).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "951|4337",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but this head has a wife (Van Tonder Hester Maria) in 1825. He was only about 17 then, and his only recorded marriage was in 1827 to Anna Maria Swanepoel, so this head is probably an older namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "954|4338",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match. The census wife, v. Tonder Hendrina Petronella, matches his 1816 wife; the Graaff-Reinet/Cradock difference fits boundary changes.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "955|2347",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Cradock 1823, which corresponds to his declared district (Somerset). He was about 19, and having no wife fits his first marriage in December 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "955|8860",
+  "verdict": "UNCERTAIN",
+  "reason": "Only the name matches. Swellendam is far from his declared district (Somerset), and a same-named Cradock head fits the district better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Swart, Gerhardus Jacobus"
+ },
+ {
+  "pair_id": "958|8351",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in the declared district (Swellendam). The census wife, Swart Maria, matches his 1808 wife Maria Elizabeth Swart.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "958|8379",
+  "verdict": "REJECT",
+  "reason": "The census wife, Moolman Johanna Wilhelmina, differs clearly from his only recorded wife, Maria Elizabeth Swart (married 1808), and no remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "958|8456",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but no wife is recorded although he married in 1808, so nothing corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "958|8593",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but no wife is recorded although he married in 1808, so nothing corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "959|4456",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in the declared district (Graaff-Reinet). The census wife, v. d. Merwe Martha Magdalena, matches his 1819 wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "960|4457",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match. The census wife, Liebenberg Elsje Magdalena, matches his second wife Elsabe Magdalena Liebenberg (married August 1825); Graaff-Reinet included Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "961|1982",
+  "verdict": "ACCEPT",
+  "reason": "Theunis is a variant of Theunissen, and the forenames match. The census wife, Hatting Catharina Susanna, matches his 1816 wife Hattingh, and Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "964|9232",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Uitenhage, and the 'Senior' annotation suits his age. The census wife, Moolman Susanna Margaretha, matches his 1793 wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "965|8103",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, and he was unmarried until 1834. However, Swellendam is not his declared district (Uitenhage), and several Cornelius Janse heads appear in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "965|8322",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, and he was unmarried until 1834. However, Swellendam is not his declared district (Uitenhage), and several Cornelius Janse heads appear in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "965|8365",
+  "verdict": "UNCERTAIN",
+  "reason": "This head is married to Gildenhuis Sara Johanna in 1825, while his only recorded marriage was in 1834. Swellendam is also outside his declared district, so this is probably a namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "965|8367",
+  "verdict": "UNCERTAIN",
+  "reason": "This head is married to Laurens Diena Louisa in 1825, while his only recorded marriage was in 1834. Swellendam is also outside his declared district, so this is probably a namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "965|8459",
+  "verdict": "UNCERTAIN",
+  "reason": "This head is married to Human Cornelia Geertruyda in 1825, while his only recorded marriage was in 1834. Swellendam is also outside his declared district, so this is probably a namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "965|9233",
+  "verdict": "UNCERTAIN",
+  "reason": "Cornelis Johannes is a plausible variant of Cornelis Janse, the district (Uitenhage) matches, and having no wife fits his 1834 marriage. However, nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "966|8371",
+  "verdict": "ACCEPT",
+  "reason": "Pertus is a variant of Petrus, and the census wife, Uys Alida Maria, matches his 1815 wife exactly. The Swellendam/Uitenhage difference is outweighed by this.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "967|9234",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Uitenhage, and the 'Junior' annotation suits his age. The census wife, Human Geertruyda, matches his 1823 wife Geertruida Johanna Human.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "968|5612",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but no genealogy spouse is recorded to compare with the census wife (Fick). Stellenbosch is not his declared district, while a same-named Swellendam head fits the district better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Uys, Johannes Gerhardus Sr."
+ },
+ {
+  "pair_id": "968|8321",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district (Swellendam) match, and 'Sr.' suits a man of about 46. However, no genealogy spouse is recorded to check against the census wife, Swart Elsabe Hendrina.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "971|6892",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match. The census wife, Le Roux Susanna Magdalena, matches his 1820 wife Susanna M. le Roux; Stellenbosch adjoins Worcester.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "972|4630",
+  "verdict": "ACCEPT",
+  "reason": "Isaac Gerhardus is a plausible form of Izak Gerrit. The census wife, Bester Hendrina, matches his 1823 wife Hendrina Christina Bester, and Colesberg was part of Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "973|2425",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Cradock 1823, which corresponds to Somerset. The census wife, Fourie Aletta Cornelia, matches his 1822 wife Aletta Catharina Fourie apart from the middle name.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "975|4629",
+  "verdict": "ACCEPT",
+  "reason": "Name matches allowing for spelling (v. Biljoen). The census wife, Visagie Martha Jac., matches his first wife Martha Jacomina Visagie, and Colesberg was part of Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "977|7686",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Daniel is a form of Johannes Daniel in his declared district, and having no wife fits his 1826 marriage. However, the name is also borne by an older namesake, and nothing else corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "978|7685",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but no birth year is given. The census wife's initials (M. S.) fit Margaretha, but her surname (Slabbert) differs from the genealogy's 'Van Coller', which may be a married-name artifact; with no marriage date this neither confirms nor contradicts.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "980|8275",
+  "verdict": "ACCEPT",
+  "reason": "Jan Daniel is a form of Johannes Daniel, in his declared district (Swellendam). The census wife, Spies Susanna M., matches his 1812 wife Susanna Maria Spies.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

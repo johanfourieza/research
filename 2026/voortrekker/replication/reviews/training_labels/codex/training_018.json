@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "865|5495",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and his age of about 16 does not establish a contradiction. However, another head has the same name, and no census wife or other distinguishing evidence confirms this identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "871|4507",
+  "verdict": "UNCERTAIN",
+  "reason": "Erasmus appears in the census head's longer name, and the district agrees. The wives differ, but the marriage to Susanna Catharina Maritz is undated, so the difference cannot establish a contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "872|4669",
+  "verdict": "UNCERTAIN",
+  "reason": "Only Johannes and the surname agree; Petrus versus Leonardus and the different districts weaken the match. The Potgieter marriage is undated, preventing a conclusive comparison with Sara Magdalena van der Heever.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "873|248",
+  "verdict": "REJECT",
+  "reason": "Samuel Jacobus and Carel (Sarel) Gerhardus are entirely different given names, with no supplied variant connecting them. The shared surname and district do not resolve that contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "874|1010",
+  "verdict": "REJECT",
+  "reason": "The census wife Maria Barbara Visagie conflicts with Anna Margaretha Mouton, married in 1823 before the 1824 census. Gerrit Erasmus also differs from Gerrit Willem.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "877|852",
+  "verdict": "ACCEPT",
+  "reason": "Johan Hendrik is compatible with Johannes Hendrik, and the Beaufort district agrees. The census wife exactly matches Maria Jacoba Korf, whose supplied marriage date is in 1820.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "878|476",
+  "verdict": "REJECT",
+  "reason": "Anna Jacoba Jacobs conflicts with Catharina Maria Brits, married in 1823. The alternative Willem Jacobus Smit with Catharina Maria Brits matches both the man's name and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "878|5113",
+  "verdict": "REJECT",
+  "reason": "Maria Magdalena Smit conflicts with Catharina Maria Brits, married in 1823. The alternative Willem Jacobus Smit with Catharina Maria Brits provides a clearly better name-and-wife match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "878|5288",
+  "verdict": "REJECT",
+  "reason": "Helena Elisabeth Jacobse conflicts with Catharina Maria Brits, married in 1823, and Paul Jacobus does not match the man's full given names. The alternative Willem Jacobus Smit with Catharina Maria Brits clearly fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "879|5288",
+  "verdict": "UNCERTAIN",
+  "reason": "The shared Jacobus Smit provides limited support, while Samuel versus Paul and the district difference leave the identity unresolved. Both listed marriages occurred after 1825 and cannot confirm or contradict the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "879|1890",
+  "verdict": "REJECT",
+  "reason": "Laurens Erasmus and Samuel Jacobus are entirely different given names with no supplied equivalent or variant connecting them. The marriages in 1829 and 1831 cannot be compared with the wife recorded in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "879|5158",
+  "verdict": "REJECT",
+  "reason": "Hendrik does not correspond to either Samuel or Jacobus and is not a supplied name variant. Both genealogy marriages postdate the census, so the census wife supplies no valid contradiction or confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|4508",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly female: Dorothea Maria van Heerden, widow of Erasmus Johannes Smit. She cannot be the male genealogy person Abraham Johannes Smit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|9363",
+  "verdict": "REJECT",
+  "reason": "Hermanus Wilhelmus conflicts with the entirely different given names Abraham Johannes. Geertruyda Susanna Crouse also matches neither Elizabeth Johanna Susanna Coetzee, married in 1809, nor the listed undated spouse Anna Elizabeth Vorster.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "882|4896",
+  "verdict": "REJECT",
+  "reason": "Maria Elisabeth van Eeden conflicts with Frederika Elisabeth (Jacoba) de Beer, married in 1813. Jurgen also does not correspond to Burgert Godlieb.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|4275",
+  "verdict": "REJECT",
+  "reason": "Alletta Magdalena van Heerden conflicts with Dorothea Wilhelmina Claasens, married in 1817. Nicolaas Jacobus also differs entirely from Christiaan Hendrik Stephanus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|4711",
+  "verdict": "REJECT",
+  "reason": "Catharina Ph. Naude conflicts with Dorothea Wilhelmina Claasens, married in 1817. The shared given name Hendrik does not overcome this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|4711",
+  "verdict": "REJECT",
+  "reason": "Johannes Hendrik and Andries Adriaan are entirely different given names. Catharina Ph. Naude also matches neither Aletta Catharina Magdalena Olivier, married in 1821, nor the undated spouse Magdalena Maria Adriana Klopper.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|4783",
+  "verdict": "REJECT",
+  "reason": "Hendrina Magdalena Martens conflicts with Dorothea Wilhelmina Claasens, married in 1817. Francois H. supplies no convincing full-name match to Christiaan Hendrik Stephanus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|4739",
+  "verdict": "REJECT",
+  "reason": "Anna Breggie Nienaber matches neither Aletta Catharina Magdalena Olivier, married in 1821, nor the listed undated spouse Magdalena Maria Adriana Klopper. The shared Adriaan does not overcome the wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "887|651",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Christoffel Snyders and the Beaufort district match exactly. Aletta Sophia Janze van Rensburg is a spelling-compatible match to Aletta Sophia Janse van Rensburg, married in 1816.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "889|4840",
+  "verdict": "ACCEPT",
+  "reason": "David Benjamin Snyman matches exactly, and Anna Francina van Eeden matches the wife married in 1817. This strong corroboration outweighs the difference between the declared and census districts.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "891|9737",
+  "verdict": "ACCEPT",
+  "reason": "Theunis Snyman and the Uitenhage district match. Sara Jacoba Marx exactly matches the wife married in 1820, and his birth year is compatible with adult headship.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "892|9481",
+  "verdict": "UNCERTAIN",
+  "reason": "Gerhardus Snyman, the district and the wife's surname Moolman agree. Sanna could reflect Susanna, but Sanna Maria does not securely establish Johanna Susanna, leaving the wife evidence ambiguous.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "899|8212",
+  "verdict": "REJECT",
+  "reason": "Barend Christoffel differs entirely from Andries Theodorus, and Cornelia Petronella Horn matches neither the 1821 wife Maria Magdalena Fourie nor the undated spouse Alida Maria Uys. The alternative Andries Theodorus Spies with Fourie, M. M. clearly fits better; the 1871 marriage is not comparable.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Spies, Andries Theodorus"
+ },
+ {
+  "pair_id": "909|400",
+  "verdict": "REJECT",
+  "reason": "Elizabeth Louisa Kuun conflicts with Francina Christina Koorts, married in 1811, and Hermanus does not match Hans Jurgen. Johannes Jurgen Steyn with Koortze, Sina Christina is a clearly better fit through compatible name forms.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Steyn, Johannes Jurgen"
+ },
+ {
+  "pair_id": "920|400",
+  "verdict": "REJECT",
+  "reason": "Hermanus differs from Johannes, and Elizabeth Louisa Kuun conflicts with Machteld Susara Oosthuizen, married in 1822. The alternative Johannes Steyn with Oosthuizen, Magtel clearly fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Steyn, Johannes"
+ },
+ {
+  "pair_id": "910|7377",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Steyn and the district agree, but Jacobus does not establish the recorded Christoffel. No census wife is named, and the August 1825 marriage cannot be placed before the census without an enumeration date.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "911|7334",
+  "verdict": "REJECT",
+  "reason": "The census wife Vogel, M. C. conflicts with Jacoba Hendrina Roos, married in 1820. Hermanus also differs entirely from Petrus Paulus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "912|8198",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus is compatible with Hermanus Jacobus, and the district agrees. No birth date, wife or census parentage corroborates the genealogy's P. seun designation, so the name match is insufficient.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "913|759",
+  "verdict": "UNCERTAIN",
+  "reason": "Douw Steyn and the district agree, but Gerbrand does not establish Petrus Jacobus. No census wife is named, and the supplied genealogy does not identify his father for comparison with Jacobus' son.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "913|761",
+  "verdict": "REJECT",
+  "reason": "Martha Catharina Vivier conflicts with Engela Petronella Esterhuyse, married in 1824. Jacobus alone could be an abbreviated name, but it does not overcome the wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "913|912",
+  "verdict": "UNCERTAIN",
+  "reason": "Douw Steyn and the district agree, but Johannes does not establish Petrus Jacobus. The absent census wife and uncorroborated Johannes' son annotation leave insufficient evidence for identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "924|7326",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Steyn and the Swellendam district agree, but Gerbrand differs from Wouter. With no census wife named, the marriage to Johanna Susanna du Preez cannot corroborate this pair.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "924|8148",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Wouter Steyn and the district match exactly. Du Preez, J. S. agrees with the surname and initials of Johanna Susanna du Preez, married in 1810.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "925|8195",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus Steyn is compatible with omission of Jacobus, and the district agrees. The census provides neither a wife nor parentage to confirm Susanna Maria Steyn or the Douw seun designation, and Senior alone does not establish an age contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "928|5028",
+  "verdict": "REJECT",
+  "reason": "Johanna Cornelia Viljoen conflicts with Elisabeth Louisa Liebenberg, married in 1802. The alternative Straus, David Jacobus with Elisabeth Louisa Liebenberg matches both the man's name and wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Straus, David Jacobus"
+ },
+ {
+  "pair_id": "930|5028",
+  "verdict": "UNCERTAIN",
+  "reason": "Adries Jacobus is spelling-compatible with Andries Jacobus, and age about 19 and the Colesberg/Graaff-Reinet geography are compatible. The 1830 marriage cannot be compared with the census wife, and the other same-name head prevents a secure identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "934|338",
+  "verdict": "REJECT",
+  "reason": "Susara Maria Oosthuizen conflicts with Anna Dorothea Bekker, married in 1816. The alternative Johannes Matthys Strydom with Anna Dorothea Becker matches both name and wife, allowing normal surname spelling variation.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Strydom, Johannes Matthys"
+ },
+ {
+  "pair_id": "935|338",
+  "verdict": "ACCEPT",
+  "reason": "David Jan Jacobus Strydom and the Beaufort district match exactly. Susara Maria Oosthuizen matches the explicitly listed spouse variant, whose supplied marriage date is in 1820.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

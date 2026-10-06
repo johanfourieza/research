@@ -1,0 +1,163 @@
+[
+ {
+  "pair_id": "1190|4292",
+  "verdict": "REJECT",
+  "reason": "The census wife Aletta Booyzen contradicts Johanna Susanna Viljoen, married in 1821. Christoffel also differs from Christiaan Rudolph.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1190|5197",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan Rudolph Viljoen and his wife Johanna Susanna Viljoen match exactly, with their marriage preceding the census in 1821. His age and the Colesberg/Graaff-Reinet district relationship are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1192|5197",
+  "verdict": "REJECT",
+  "reason": "Johanna Susanna Viljoen contradicts the documented wife Elizabeth Maria Janse van Vuuren, married in 1810. The census given names Christiaan Rudolph also differ from Christoffel.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1192|4290",
+  "verdict": "UNCERTAIN",
+  "reason": "Christoffel Viljoen is compatible with Christoffel Jacobus Viljoen, and the district and age are consistent. No census wife is named to corroborate the marriage to Elizabeth Maria Janse van Vuuren.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1193|9464",
+  "verdict": "REJECT",
+  "reason": "Although both wives have the surname Van Staden, Sara Aletta differs from Hendrina Maria, married in 1814. Gerhardus Stephanus also differs materially from Stephanus Petrus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1194|5258",
+  "verdict": "REJECT",
+  "reason": "Aletta Elisabeth Booyzen contradicts Cecilia Johanna Botha, married in 1823. The other listed marriage is dated 1842 and cannot explain the census wife in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|4288",
+  "verdict": "REJECT",
+  "reason": "Hendrik D. Jacobus and Carel Marthinus are substantively different given names. The census wife also differs from Margaretha Isabella Botha, although the May 1825 marriage cannot be placed before enumeration from the supplied dates.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1196|4288",
+  "verdict": "REJECT",
+  "reason": "Marg. Louisa Joubert contradicts Susara Maria Bekker, married in 1823. Hendrik D. Jacobus also differs from Gideon Petrus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|9478",
+  "verdict": "REJECT",
+  "reason": "Cornelis Hendrik and Carel Marthinus are substantively different given names. The differing wife cannot independently establish a contradiction because the supplied May 1825 marriage may fall after enumeration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|9536",
+  "verdict": "REJECT",
+  "reason": "Christiaan Gerhardus and Carel Marthinus are substantively different given names. The census wife's relationship to the May 1825 marriage cannot be resolved without the enumeration date, and the 1862 marriage is irrelevant to this census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1200|5239",
+  "verdict": "REJECT",
+  "reason": "Hester Maria Aucamp contradicts Martha Johanna Susanna van der Heyden, married in 1816; the other marriage dates to 1856. Isaac also differs from Rudolphus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1207|1699",
+  "verdict": "REJECT",
+  "reason": "The census identifies Jan Lodewyk, annotated as Gert's son, rather than Gerrit. The alternative Vosloo, Gert has the compatible given name and the exact listed spouse name, although her marriage date is missing.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Vosloo, Gert"
+ },
+ {
+  "pair_id": "1208|2174",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Johannes matches exactly, and Anna Botha is compatible with Anna Barbara Botha, married in 1821. His dates and the Somerset/Cradock district relationship fit; no explicit genealogical father is supplied to compare with 'Piet's zoon'.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1212|9219",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and district match, and Elisabeth Catharina Kemp matches the spouse married in April 1825. His age is consistent, and the later Uys marriage presents no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1213|8510",
+  "verdict": "REJECT",
+  "reason": "Elisabeth Johanna Gildenhuis contradicts Elizabeth Susanna Botha, married in 1817. Wessel also differs from Johannes Bernardus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1215|8510",
+  "verdict": "REJECT",
+  "reason": "Although Wessel is compatible with an omitted middle name, Elisabeth Johanna Gildenhuis contradicts Elizabeth Carolina Swart, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1213|8625",
+  "verdict": "REJECT",
+  "reason": "Wynand is a different given name from Johannes Bernardus, not an omission, reordering or spelling variant. The missing census wife provides no comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1215|8516",
+  "verdict": "REJECT",
+  "reason": "Anna Johanna Wessels contradicts Elizabeth Carolina Swart, married in 1820. The middle names Johannes and Jacobus also differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1216|8508",
+  "verdict": "REJECT",
+  "reason": "Johannes Albertus and Hermanus Wilhelmus are substantively different given names. The differing wife cannot independently establish a contradiction because the February 1825 marriage cannot be placed before enumeration from the supplied dates.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1216|8532",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly female and recorded as the widow of Zacharias. She cannot be the male genealogy person Hermanus Wilhelmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1216|8850",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus Wilhelmus Wessels matches exactly, with a consistent district and plausible age of about 20. No census wife or other independent identifying detail corroborates the name, and the missing wife is not itself a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1217|9455",
+  "verdict": "REJECT",
+  "reason": "Jan is compatible with Johannes, but Willem differs substantively from Adam. The alternative Wilken, Johan Adam provides a clearly better full-name match in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Wilken, Johan Adam"
+ },
+ {
+  "pair_id": "1219|3949",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Gerhardus is a spelling variant of Frederik Gerhardus, and Le Roux, C. M. matches Catharina Maria le Roux, married in 1810. The district and dates are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

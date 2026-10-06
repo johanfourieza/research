@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "69|9411",
+  "verdict": "REJECT",
+  "reason": "Census head is Gerrit Botha ('Theunis' son'), whose given name is wholly different from Lourens Rasmus; the genealogy man was only about 19 and married Bester in 1830.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "87|9411",
+  "verdict": "REJECT",
+  "reason": "Census head Gerrit Botha does not match the given names Ernst Adriaan Lodewyk, and the genealogy man was only about 16 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "71|1944",
+  "verdict": "REJECT",
+  "reason": "Census head is Jacobus Christoffel, not Johannes Jurgen. A Cradock 1823 head named exactly Johannes Jurgen Botha ('Fredrik's zoon', unmarried) fits this 18-year-old far better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Botha, Johannes Jurgen"
+ },
+ {
+  "pair_id": "71|4388",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes has wife Jordaan in 1825, but this man (b.1805) has no recorded marriage before 1832 (Opperman) and no Jordaan spouse. An exact-name unmarried 'Johannes Jurgen, Fredrik's zoon' in Cradock 1823 fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Johannes Jurgen"
+ },
+ {
+  "pair_id": "82|4388",
+  "verdict": "REJECT",
+  "reason": "Census wife Petronella Jordaan matches neither of his spouses (van den Berg m.1809, Scholtz m.1819), both married before 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "84|4388",
+  "verdict": "REJECT",
+  "reason": "Given name Alwyn Petrus does not match Johannes, and census wife Jordaan contradicts his 1823 marriage to Smit. Census head Alewijn Petrus Botha with wife Smit, Anna Marg. is an evident match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Alewijn Petrus"
+ },
+ {
+  "pair_id": "85|4388",
+  "verdict": "REJECT",
+  "reason": "Census wife Jordaan contradicts his 1819 marriage to Catharina Maria Janse van Vuuren.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "72|1840",
+  "verdict": "REJECT",
+  "reason": "Census head Carel Hendrik ('Gert's zoon') does not match Herculas David, who was about 17 in 1823 and married only in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|1840",
+  "verdict": "REJECT",
+  "reason": "Given name Carel Hendrik differs from Pieter Hendrik, and census wife Coetzer contradicts his 1821 marriage to Goosen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "72|1868",
+  "verdict": "REJECT",
+  "reason": "Census head Theunis Christoffel ('Hercules' zoon', wife Robbertse) does not match Herculas David, who was about 17 in 1823 and married Smith in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "73|4670",
+  "verdict": "REJECT",
+  "reason": "Name is compatible, but census wife Maria Susanna v. Zyl contradicts his January 1825 marriage to Anna Maria Geere. Pair 97 (Petrus Johannes, m. Maria Susanna van Zyl 1822) is clearly this head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|4670",
+  "verdict": "REJECT",
+  "reason": "Theunis Johannes does not match Petrus Johannes, and census wife v. Zyl contradicts his 1822 marriage to Bronkhorst.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|4670",
+  "verdict": "REJECT",
+  "reason": "Theunis Gerhardus does not match Petrus Johannes, and wife v. Zyl contradicts his 1821 marriage to Els. Cradock 1823 head Theunis Gerhardus Botha with wife Els, Anna Maria fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Theunis Gerhardus"
+ },
+ {
+  "pair_id": "91|4670",
+  "verdict": "REJECT",
+  "reason": "Although the name is compatible, this census head is identified by an exact wife match (Maria Susanna van Zyl, m.1822) with competing pair 97. This man was 19 and married Putter only in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|4670",
+  "verdict": "REJECT",
+  "reason": "Pieter Hendrik vs Petrus Johannes, and census wife v. Zyl contradicts his 1821 marriage to Goosen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4670",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Petrus Johannes, and census wife v. Zyl, Maria Susanna matches his spouse Maria Susanna van Zyl married 1822. Graaff-Reinet is consistent with Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "73|4671",
+  "verdict": "REJECT",
+  "reason": "Census wife Snyman, A. M. A. contradicts his January 1825 marriage to Anna Maria Geere (different surname).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|4671",
+  "verdict": "REJECT",
+  "reason": "Willem Jacobus does not match Petrus, and wife Snyman contradicts his 1823 marriage to Hennop. Head Willem Jacobus Botha with wife Hennop, Hester Fredrika Jac. matches clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Willem Jacobus"
+ },
+ {
+  "pair_id": "91|4671",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus is compatible with Pieter Johannes, but he was about 19 and his only recorded marriage (Putter, 1827) postdates the census, so wife Snyman can neither confirm nor contradict. The name alone is too common.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|4671",
+  "verdict": "REJECT",
+  "reason": "Census wife Snyman contradicts his 1821 marriage to Anna Catharina Susanna Goosen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4671",
+  "verdict": "REJECT",
+  "reason": "Census wife Snyman matches none of his spouses (van Schalkwyk, van Zyl, van Zyl m.1822). Head Petrus Johannes with wife v. Zyl, Maria Susanna is an exact match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Petrus Johannes"
+ },
+ {
+  "pair_id": "74|1687",
+  "verdict": "REJECT",
+  "reason": "Theunis Jacobus ('Christoffel's zoon') does not match Frederik Jacobus, and census wife van der Nest contradicts his 1810 marriage to van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|1949",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Jurgen, 'Fredrik's zoon', has different given names. He is evidently a son of a Fredrik, consistent with being this Frederik Jacobus' son rather than the man himself.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|4385",
+  "verdict": "REJECT",
+  "reason": "Hendrik Johannes does not match Frederik Jacobus, and census wife Van Wyk contradicts his 1810 marriage to van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4385",
+  "verdict": "REJECT",
+  "reason": "Hendrik Johannes does not match Petrus Johannes, and wife Van Wyk matches none of his spouses. Head Petrus Johannes with wife v. Zyl, Maria Susanna matches exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Petrus Johannes"
+ },
+ {
+  "pair_id": "74|5241",
+  "verdict": "REJECT",
+  "reason": "Willem Jacobus does not match Frederik Jacobus, and census wife Hennop contradicts his 1810 marriage to van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|5241",
+  "verdict": "REJECT",
+  "reason": "Name Willem is compatible, but census wife Hennop contradicts his 1817 marriage to Pieterse. Competing pair 83 matches this wife exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|5241",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Willem Jacobus, and census wife Hennop, Hester Fredrika Jac. matches his 1823 spouse Ester Francina Jacoba Hennop (spelling variant). Graaff-Reinet is consistent with Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|5241",
+  "verdict": "REJECT",
+  "reason": "Census wife Hennop contradicts his 1822 marriage to Helena Catharina Botha, and Jacobus differs from Frederik.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "75|4413",
+  "verdict": "REJECT",
+  "reason": "Theunis Johannes does not match Christiaan, and wife Theron matches neither spouse (van Aarde 1799, van Rooyen 1818).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|4413",
+  "verdict": "REJECT",
+  "reason": "Name matches exactly, but census wife Anna Catharina Theron contradicts his 1822 marriage to Bronkhorst. His other wife, du Plessis (undated), is not Theron either.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|4413",
+  "verdict": "REJECT",
+  "reason": "Theunis Johannes does not match Willem, and wife Theron contradicts his 1817 marriage to Pieterse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|4413",
+  "verdict": "REJECT",
+  "reason": "Middle name Johannes differs from Louis, and census wife Theron differs from his only recorded wife Erasmus. This man was about 50 and almost certainly married by 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|4413",
+  "verdict": "REJECT",
+  "reason": "Wife Theron contradicts his 1821 marriage to Els. Cradock 1823 head Theunis Gerhardus Botha with wife Els, Anna Maria is an exact fit.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Theunis Gerhardus"
+ },
+ {
+  "pair_id": "97|4413",
+  "verdict": "REJECT",
+  "reason": "Theunis Johannes does not match Petrus Johannes, and wife Theron matches none of his spouses. Head Petrus Johannes with wife v. Zyl, Maria Susanna matches exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Petrus Johannes"
+ },
+ {
+  "pair_id": "77|2006",
+  "verdict": "REJECT",
+  "reason": "Census head Theunis Gerhardus with wife Els does not match Theunis Johannes, who married Bronkhorst in 1822. The head fits competing pair 90 (Theunis Gerhardus, m. Els 1821).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|2006",
+  "verdict": "REJECT",
+  "reason": "Middle name Gerhardus differs from Louis, and wife Els differs from his wife Erasmus. The head is matched exactly by competing pair 90.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|2006",
+  "verdict": "REJECT",
+  "reason": "Theunis Gerhardus does not match Petrus Johannes, and wife Els matches none of his spouses. Head Petrus Johannes with wife v. Zyl, Maria Susanna matches exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Petrus Johannes"
+ },
+ {
+  "pair_id": "100|2006",
+  "verdict": "REJECT",
+  "reason": "Theunis Gerhardus does not match Willem Frederik, and wife Els contradicts his 1822 marriage to Helena Catharina Botha.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|9528",
+  "verdict": "REJECT",
+  "reason": "Barend Johannes ('Gert's son') does not match Theunis Johannes, and wife Janze van Vuuren contradicts his 1822 marriage to Bronkhorst.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

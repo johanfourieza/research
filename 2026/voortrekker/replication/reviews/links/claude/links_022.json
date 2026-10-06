@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "1107|9533",
+  "verdict": "UNCERTAIN",
+  "reason": "Jurgen/Jurie is a plausible variant and he was unmarried in 1825, matching the wifeless 'Junior' head; but competing person 1108 (Johannes Jurie, b.1806, declared Uitenhage) matches the name and district more exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1108|9533",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name and declared district (Uitenhage) match the wifeless 'Junior' head, consistent with his 1826 marriage. However, he was only about 19, and competing person 1107 (b.1803) could be the same head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1111|9535",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact full name, and the census head has no wife, consistent with his 1828 marriage. Against this, he was only about 17 in 1825 and was declared in Albany rather than Uitenhage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1112|9552",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Viljoen, Susanna Elisabeth matches his 1798 spouse Susanna Elizabeth Viljoen; name and Uitenhage district agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1114|9330",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Scheepers, Hester Antonetta matches his 1796 spouse Hester Anthoinetta Scheepers; name and district agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1116|4356",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus is compatible with Jacob Abraham, but the head has no wife while his marriage to Prinsloo is undated. The name is common and the district differs from the declared Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1117|4884",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive full name Francois Cornelis matches, the district (Graaff-Reinet) matches, and the wifeless head fits his 1832 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1118|2454",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and census wife Pelzer, Maria Anna Catharina matches his 1816 spouse Peltzer; Cradock fits the declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1119|9615",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Nortje, Lena Catharina matches his 1806 spouse Magdalena (Helena) Catharina Nortje; name and district agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1120|7786",
+  "verdict": "REJECT",
+  "reason": "He was about 18 and did not marry until 1838 (Odendaal), yet the census head has wife Joubert M.M. The competing Andries Johannes b.1792 had a wife Maria Magdalena Joubert.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1123|7786",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Joubert, M. M. matches his (undated) second spouse Maria Magdalena Joubert after a first marriage in 1810. Exact name and Swellendam district agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1121|1961",
+  "verdict": "REJECT",
+  "reason": "He was about 14 in 1823 and married only in 1840, whereas the head is 'de Oude' with wife Breytenbach, Catharina.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1123|7914",
+  "verdict": "REJECT",
+  "reason": "Census wife Van Wyk, Anna Maria matches none of his spouses, and the middle name differs (Jacobus vs Johannes). The Andries Johannes household with a Joubert wife fits him.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Tonder, Andries Johannes"
+ },
+ {
+  "pair_id": "1124|7907",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Oosthuysen, Cornelia C. matches his 1816 spouse Cornelia Carolina Oosthuizen; Fredrik/Frederik Johannes and Swellendam agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1136|4639",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and census wife Liebenberg, Catharina matches his 1824 spouse Catharina Johanna Liebenberg; Graaff-Reinet fits Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|5162",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name, but the head has no wife and his Steenkamp marriage is undated, so there is no corroboration. The district (Graaff-Reinet) differs from the declared Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1139|782",
+  "verdict": "ACCEPT",
+  "reason": "Exact full name, and census wife Van Stade, Martha Catharina matches his 1821 spouse Martha Catharina van Staden; Beaufort agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1140|8228",
+  "verdict": "ACCEPT",
+  "reason": "Census wife De Jager, J. C. matches his 1805 spouse Johanna Catharina de Jager; name and Swellendam agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1141|10289",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and the wifeless head fits his 1830 marriage. The 'Henning Jacobus zoon' annotation and an adjacent Gert Matthys entry (likely his brother) support the match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1141|10291",
+  "verdict": "REJECT",
+  "reason": "This namesake ('Arie zoon') has wife Steenkamp, Geesje in 1824, but he did not marry until 1830 (Van Kraayenburg).",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Wyk, Henning Jacobus"
+ },
+ {
+  "pair_id": "1142|966",
+  "verdict": "REJECT",
+  "reason": "The head is annotated 'Senior' with wife Van Wyk, Martha Elisabeth, which does not fit a 20-year-old whose wife was Duraan. The unmarried Gert Matthys 'Henning Jacobus zoon' fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Wyk, Gert Matthys"
+ },
+ {
+  "pair_id": "1142|10290",
+  "verdict": "ACCEPT",
+  "reason": "Gert/Gerrit Matthys matches, and the unmarried head fits his undated later marriage. He is listed as 'Henning Jacobus zoon' next to Henning Jacobus, consistent with the genealogy siblings.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1145|4659",
+  "verdict": "ACCEPT",
+  "reason": "Census wife v. Loggenberg, Christophora Catharina is a plausible variant of his 1824 spouse Stoffelina Catharina van Locherenberg; the name matches exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1146|1015",
+  "verdict": "REJECT",
+  "reason": "He married Susanna Maria Ras in 1819, and she appears as wife of another Van Zyl, Willem head. This wifeless 'Erasmus zoon' entry is therefore a different man.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Zyl, Willem Johannes"
+ },
+ {
+  "pair_id": "1146|1117",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Ras, Susanna Maria exactly matches his 1819 spouse; the Johannes/Jacobus middle-name difference is minor.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|2409",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and in 1823 the census wife Venter, Hester Johanna Margaretha Sophia matches his 1820 first spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4587",
+  "verdict": "ACCEPT",
+  "reason": "Piet is Petrus, and in 1825 the census wife v. d. Walt, Hester Sophia matches his second spouse, married 05/09/1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1150|2438",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Olivier, Johanna Catharina Maria exactly matches his 1816 spouse; Barend? is compatible with Bernhardus/Barnard.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1150|4220",
+  "verdict": "ACCEPT",
+  "reason": "Barnard matches his given alias, and census wife Olivier, Johanna matches his 1816 spouse; Graaff-Reinet agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1151|743",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Bezuidenhout, Aletta Sophia matches his 1807 spouse; name, 'Senior' and Beaufort agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1152|737",
+  "verdict": "REJECT",
+  "reason": "He was about 16 in 1825 and first married in 1831 (Venter), but the head has wife Oosthuizen, Dina Magdalena.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|4520",
+  "verdict": "ACCEPT",
+  "reason": "Census wife v. d. Merwe, Helena Johanna matches his 1822 spouse; exact name, and Graaff-Reinet fits Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|1859",
+  "verdict": "REJECT",
+  "reason": "He was about 16 in 1823 and married Hugo only in 1827, while the head has wife Kloppers, Anna Maria.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4747",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Botha, Johanna Adriana matches his 1804 spouse; Marius/Marcus Albertus is a spelling variant and the district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4632",
+  "verdict": "REJECT",
+  "reason": "Census wife Bezuidenhout, Maria Dorothea contradicts his only spouse Maria Elizabeth Kruger (m.1810), and another Jan Adriaan head has a Kruger wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Venter, Jan Adriaan"
+ },
+ {
+  "pair_id": "1158|4748",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Kruger, Maria Elisabeth matches his 1810 spouse; exact name and Graaff-Reinet agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1159|4808",
+  "verdict": "UNCERTAIN",
+  "reason": "Paul/Paulus Stephanus matches and the district agrees, but no wife is recorded although he married Smit in 1813. Possible widowhood leaves this unconfirmed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4575",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Venter, Lacya Sophia Petronella matches his 1816 spouse Lasya Sophia Petronella Venter; exact name and district agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1162|9704",
+  "verdict": "ACCEPT",
+  "reason": "Exact name, and census wife Meyer, Maria Catharina matches his 1800 spouse Anna Maria Catharina Meyer (omitted first name); Uitenhage agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

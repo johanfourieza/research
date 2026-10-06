@@ -1,0 +1,2630 @@
+[
+ {
+  "pair_id": "1163|9150",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2195",
+  "genealogy_id": "VERMAAKa1b2c6d1e1",
+  "surname": "VERMAAK",
+  "given_names": "JACOBUS STEPHANUS",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JOHANNA SALOMINA",
+    "surname": "PIENAAR",
+    "marriage_date": "21/04/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|306",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Vermaak, Jacobus Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Jacomina Alletta",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermaak, Johannes Adriaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Gerrit Thomas",
+    "census_spouse": "Potgieter, Martha Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Ignatius Marthinus",
+    "census_spouse": "Kritzinger, Anna Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Johannes Rynier",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Petrus Hendrik",
+    "census_spouse": "Gerber, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Agata Catarina",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1163|9150"
+  ]
+ },
+ {
+  "pair_id": "1169|9188",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2202",
+  "genealogy_id": "VERMAAKa1b2c6d2e3",
+  "surname": "VERMAAK",
+  "given_names": "SALOMON CORNELIS JOHANNES",
+  "birth_year": "1809.0",
+  "death_year": "1883",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ELIZABETH MARIA CATHARINA",
+    "surname": "KNOETZE",
+    "marriage_date": "01/03/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|348",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Vermaak, Gerrit Thomas",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Martha Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Road Master",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermaak, Johannes Adriaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Jacomina Alletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Ignatius Marthinus",
+    "census_spouse": "Kritzinger, Anna Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Johannes Rynier",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Petrus Hendrik",
+    "census_spouse": "Gerber, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Agata Catarina",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1169|9188"
+  ]
+ },
+ {
+  "pair_id": "1170|9311",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2204",
+  "genealogy_id": "VERMAAKa1b2c6d7",
+  "surname": "VERMAAK",
+  "given_names": "PETRUS THEODORUS",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HESTER JACOBA (JACOMINA) DU PREEZ",
+    "surname": null,
+    "marriage_date": "04/01/1818",
+    "marriage_year": "1818"
+   },
+   {
+    "name": "MAGDALENA JOSINA",
+    "surname": "STRYDOM",
+    "marriage_date": "03/11/1822",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|477",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Vermaak, Petrus Theodorus",
+  "census_head_role": "male",
+  "census_spouse": "Strydom, Magdalena Josina",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermaak, Johannes Adriaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Jacomina Alletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Gerrit Thomas",
+    "census_spouse": "Potgieter, Martha Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Ignatius Marthinus",
+    "census_spouse": "Kritzinger, Anna Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Johannes Rynier",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Petrus Hendrik",
+    "census_spouse": "Gerber, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1170|9311"
+  ]
+ },
+ {
+  "pair_id": "1170|9754",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2204",
+  "genealogy_id": "VERMAAKa1b2c6d7",
+  "surname": "VERMAAK",
+  "given_names": "PETRUS THEODORUS",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HESTER JACOBA (JACOMINA) DU PREEZ",
+    "surname": null,
+    "marriage_date": "04/01/1818",
+    "marriage_year": "1818"
+   },
+   {
+    "name": "MAGDALENA JOSINA",
+    "surname": "STRYDOM",
+    "marriage_date": "03/11/1822",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|955",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Vermaak, Johannes Gerhardus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Enrolled",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermaak, Johannes Adriaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Jacomina Alletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Gerrit Thomas",
+    "census_spouse": "Potgieter, Martha Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Ignatius Marthinus",
+    "census_spouse": "Kritzinger, Anna Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Johannes Rynier",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Petrus Hendrik",
+    "census_spouse": "Gerber, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1170|9754"
+  ]
+ },
+ {
+  "pair_id": "1172|9622",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2206",
+  "genealogy_id": "VERMAAKa1b2c8d5",
+  "surname": "VERMAAK",
+  "given_names": "NICOLAAS JACOBUS",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARIA FRANCINA",
+    "surname": "DEKKER",
+    "marriage_date": "05/08/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|815",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Vermaak, Nicolaas Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Dekker, Maria Francina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermaak, Johannes Adriaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Jacomina Alletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Gerrit Thomas",
+    "census_spouse": "Potgieter, Martha Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Ignatius Marthinus",
+    "census_spouse": "Kritzinger, Anna Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Johannes Rynier",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Petrus Hendrik",
+    "census_spouse": "Gerber, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1172|9622"
+  ]
+ },
+ {
+  "pair_id": "1173|9650",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2209",
+  "genealogy_id": "VERMAAKa1b2c8d6",
+  "surname": "VERMAAK",
+  "given_names": "COENRAAD MARTHINUS",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "RACHEL LEA",
+    "surname": "MEYER",
+    "marriage_date": "12/11/1815",
+    "marriage_year": "1815"
+   },
+   {
+    "name": "GERBRECHT SUSANNA JACOBA",
+    "surname": "BREYTENBACH",
+    "marriage_date": "02/03/1823",
+    "marriage_year": null
+   },
+   {
+    "name": "JACOBA JOHANNA",
+    "surname": "DU PREEZ",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "27/09/1840",
+    "surname": "MARIA CATHARINA",
+    "marriage_date": "PIETERMARITZBURG",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": "14/07/1897",
+  "census_source": "1825 series.xlsx|Uitenhage 1825|845",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Vermaak, Cornelis Tobias",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermaak, Johannes Adriaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Jacobus Stephanus",
+    "census_spouse": "Potgieter, Jacomina Alletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Gerrit Thomas",
+    "census_spouse": "Potgieter, Martha Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Ignatius Marthinus",
+    "census_spouse": "Kritzinger, Anna Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Johannes Rynier",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Vermaak, Petrus Hendrik",
+    "census_spouse": "Gerber, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1173|9650"
+  ]
+ },
+ {
+  "pair_id": "1175|5043",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2211",
+  "genealogy_id": "VERMEULENa1b3c2d2e3",
+  "surname": "VERMEULEN",
+  "given_names": "SAREL (CAREL) JOHANNES",
+  "birth_year": "1801.0",
+  "death_year": "1878",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "CATHARINA ELIZABETH",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "05/03/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1012",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Vermeulen, Hendrik Johannes",
+  "census_head_role": "male",
+  "census_spouse": "v. Vreeden, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermeulen, Carel Rynier",
+    "census_spouse": "Esterhuizen, Hilletje Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Vermeulen, Dirk Johannes",
+    "census_spouse": "Pretorius, Barendina Christina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Vermeulen, Gabriel Jacobus",
+    "census_spouse": "Janzen, Elsje Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Guilliam Ch.",
+    "census_spouse": "Wolfhard, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Jan Gabriel",
+    "census_spouse": "Pretorius, Catharina Geertruida M.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Jan Walters",
+    "census_spouse": "Pretorius, Christina Gerharda",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1175|5043"
+  ]
+ },
+ {
+  "pair_id": "1176|5179",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2212",
+  "genealogy_id": "VERMEULENa1b3c2d2e4",
+  "surname": "VERMEULEN",
+  "given_names": "JAN GABRIEL",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA GERTRUIDA MARIA",
+    "surname": "PRETORIUS",
+    "marriage_date": "06/06/1824",
+    "marriage_year": "1824"
+   },
+   {
+    "name": "SARA SUSANNA",
+    "surname": "STEENKAMP",
+    "marriage_date": "27/05/1872",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1149",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Vermeulen, Jan Gabriel",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Catharina Geertruida M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermeulen, Gabriel Jacobus",
+    "census_spouse": "Janzen, Elsje Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Guilliam Ch.",
+    "census_spouse": "Wolfhard, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Hendrik Johannes",
+    "census_spouse": "v. Vreeden, Anna Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Jan Walters",
+    "census_spouse": "Pretorius, Christina Gerharda",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Petrus Cornelis",
+    "census_spouse": "Marais, Hendrina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Petrus Cornelis",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1176|5179"
+  ]
+ },
+ {
+  "pair_id": "1176|5256",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2212",
+  "genealogy_id": "VERMEULENa1b3c2d2e4",
+  "surname": "VERMEULEN",
+  "given_names": "JAN GABRIEL",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA GERTRUIDA MARIA",
+    "surname": "PRETORIUS",
+    "marriage_date": "06/06/1824",
+    "marriage_year": "1824"
+   },
+   {
+    "name": "SARA SUSANNA",
+    "surname": "STEENKAMP",
+    "marriage_date": "27/05/1872",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1227",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Vermeulen, Jan Walters",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Christina Gerharda",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Vermeulen, Gabriel Jacobus",
+    "census_spouse": "Janzen, Elsje Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Guilliam Ch.",
+    "census_spouse": "Wolfhard, Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Hendrik Johannes",
+    "census_spouse": "v. Vreeden, Anna Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Jan Gabriel",
+    "census_spouse": "Pretorius, Catharina Geertruida M.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Petrus Cornelis",
+    "census_spouse": "Marais, Hendrina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Vermeulen, Petrus Cornelis",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1176|5256"
+  ]
+ },
+ {
+  "pair_id": "1178|1638",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2216",
+  "genealogy_id": "VILJOENa1b3c4d10e2f2",
+  "surname": "VILJOEN",
+  "given_names": "MARTHINUS CHRISTOFFEL",
+  "birth_year": "1808.0",
+  "death_year": "1854",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA WILHELMINA",
+    "surname": "DURAND",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|167",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "van der Merwe, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Abraham",
+    "census_spouse": "Vorster, Elsje",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1178|1638",
+   "1184|1638"
+  ]
+ },
+ {
+  "pair_id": "1184|1638",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2227",
+  "genealogy_id": "VILJOENa1b3c4d2e11f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN ALBERTUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELIZABETH CATHARINA",
+    "surname": "VAN DEVENTER",
+    "marriage_date": "04/01/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "ANNA",
+    "surname": null,
+    "marriage_date": "1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|167",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "van der Merwe, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Abraham",
+    "census_spouse": "Vorster, Elsje",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1178|1638",
+   "1184|1638"
+  ]
+ },
+ {
+  "pair_id": "1178|5020",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2216",
+  "genealogy_id": "VILJOENa1b3c4d10e2f2",
+  "surname": "VILJOEN",
+  "given_names": "MARTHINUS CHRISTOFFEL",
+  "birth_year": "1808.0",
+  "death_year": "1854",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA WILHELMINA",
+    "surname": "DURAND",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|989",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Ignatius Michiel",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Alletta Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1178|5020"
+  ]
+ },
+ {
+  "pair_id": "1179|4294",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2218",
+  "genealogy_id": "VILJOENa1b3c4d10e6",
+  "surname": "VILJOEN",
+  "given_names": "JOHANNES HERCULES",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "KRUGER",
+    "marriage_date": "05/04/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|261",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, A. J. S.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|4294"
+  ]
+ },
+ {
+  "pair_id": "1179|4371",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2218",
+  "genealogy_id": "VILJOENa1b3c4d10e6",
+  "surname": "VILJOEN",
+  "given_names": "JOHANNES HERCULES",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "KRUGER",
+    "marriage_date": "05/04/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|338",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Nieuwhoudt, Anna Catharina Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|4371",
+   "1187|4371"
+  ]
+ },
+ {
+  "pair_id": "1187|4371",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2236",
+  "genealogy_id": "VILJOENa1b3c4d2e13f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA SOPHIA",
+    "surname": "JACOBS",
+    "marriage_date": "03/07/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "ANNA SOPHIA",
+    "surname": "VERSTER",
+    "marriage_date": "01/02/1841",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|338",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Jan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Nieuwhoudt, Anna Catharina Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|4371",
+   "1187|4371"
+  ]
+ },
+ {
+  "pair_id": "1179|5196",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2218",
+  "genealogy_id": "VILJOENa1b3c4d10e6",
+  "surname": "VILJOEN",
+  "given_names": "JOHANNES HERCULES",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "KRUGER",
+    "marriage_date": "05/04/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1166",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Jan",
+  "census_head_role": "male",
+  "census_spouse": "Jacobsz, Johanna Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|5196",
+   "1184|5196",
+   "1187|5196"
+  ]
+ },
+ {
+  "pair_id": "1184|5196",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2227",
+  "genealogy_id": "VILJOENa1b3c4d2e11f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN ALBERTUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELIZABETH CATHARINA",
+    "surname": "VAN DEVENTER",
+    "marriage_date": "04/01/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "ANNA",
+    "surname": null,
+    "marriage_date": "1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1166",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Jan",
+  "census_head_role": "male",
+  "census_spouse": "Jacobsz, Johanna Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|5196",
+   "1184|5196",
+   "1187|5196"
+  ]
+ },
+ {
+  "pair_id": "1187|5196",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2236",
+  "genealogy_id": "VILJOENa1b3c4d2e13f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA SOPHIA",
+    "surname": "JACOBS",
+    "marriage_date": "03/07/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "ANNA SOPHIA",
+    "surname": "VERSTER",
+    "marriage_date": "01/02/1841",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1166",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Jan",
+  "census_head_role": "male",
+  "census_spouse": "Jacobsz, Johanna Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|5196",
+   "1184|5196",
+   "1187|5196"
+  ]
+ },
+ {
+  "pair_id": "1179|5326",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2218",
+  "genealogy_id": "VILJOENa1b3c4d10e6",
+  "surname": "VILJOEN",
+  "given_names": "JOHANNES HERCULES",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "KRUGER",
+    "marriage_date": "05/04/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1297",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Johannes Hercules",
+  "census_head_role": "male",
+  "census_spouse": "Kruger, Johanna Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1179|5326"
+  ]
+ },
+ {
+  "pair_id": "1181|4374",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2220",
+  "genealogy_id": "VILJOENa1b3c4d11e2f5",
+  "surname": "VILJOEN",
+  "given_names": "ALBERTUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JANETJE JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|341",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Albertus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|4374",
+   "1186|4374"
+  ]
+ },
+ {
+  "pair_id": "1186|4374",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2234",
+  "genealogy_id": "VILJOENa1b3c4d2e11f8",
+  "surname": "VILJOEN",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "GEERTRUIDA MARGARETHA",
+    "surname": "KLOPPER",
+    "marriage_date": "02/08/1829",
+    "marriage_year": "1829"
+   },
+   {
+    "name": "JOHANNA ARNOLDINA",
+    "surname": "GREYLING",
+    "marriage_date": "1840",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|341",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Albertus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|4374",
+   "1186|4374"
+  ]
+ },
+ {
+  "pair_id": "1181|4665",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2220",
+  "genealogy_id": "VILJOENa1b3c4d11e2f5",
+  "surname": "VILJOEN",
+  "given_names": "ALBERTUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JANETJE JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|633",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Johannes Herculus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|4665",
+   "1187|4665"
+  ]
+ },
+ {
+  "pair_id": "1187|4665",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2236",
+  "genealogy_id": "VILJOENa1b3c4d2e13f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA SOPHIA",
+    "surname": "JACOBS",
+    "marriage_date": "03/07/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "ANNA SOPHIA",
+    "surname": "VERSTER",
+    "marriage_date": "01/02/1841",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|633",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Johannes Herculus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|4665",
+   "1187|4665"
+  ]
+ },
+ {
+  "pair_id": "1181|5027",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2220",
+  "genealogy_id": "VILJOENa1b3c4d11e2f5",
+  "surname": "VILJOEN",
+  "given_names": "ALBERTUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JANETJE JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|996",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Griesel, Johanna Elisabeth",
+  "census_head_role": "female",
+  "census_spouse": null,
+  "census_widow_of": "Viljoen, Albertus (widow of)",
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5027"
+  ]
+ },
+ {
+  "pair_id": "1181|5223",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2220",
+  "genealogy_id": "VILJOENa1b3c4d11e2f5",
+  "surname": "VILJOEN",
+  "given_names": "ALBERTUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JANETJE JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1193",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Albertus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5223",
+   "1195|5223"
+  ]
+ },
+ {
+  "pair_id": "1195|5223",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2251",
+  "genealogy_id": "VILJOENa1b4c2d2e1f8",
+  "surname": "VILJOEN",
+  "given_names": "CAREL MARTHINUS",
+  "birth_year": "1806.0",
+  "death_year": "1889",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARGARETHA ISABELLA",
+    "surname": "BOTHA",
+    "marriage_date": "01/05/1825",
+    "marriage_year": "1825"
+   },
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "SCHOEMAN",
+    "marriage_date": "05/07/1862",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1193",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Albertus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5223",
+   "1195|5223"
+  ]
+ },
+ {
+  "pair_id": "1181|5261",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2220",
+  "genealogy_id": "VILJOENa1b3c4d11e2f5",
+  "surname": "VILJOEN",
+  "given_names": "ALBERTUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JANETJE JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1232",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Petrus Cornelis",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Catharina Johanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5261",
+   "1188|5261"
+  ]
+ },
+ {
+  "pair_id": "1188|5261",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2237",
+  "genealogy_id": "VILJOENa1b3c4d2e3f7",
+  "surname": "VILJOEN",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1802.0",
+  "death_year": "1836",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARHTA",
+    "surname": "JANSE VAN RENSBURG",
+    "marriage_date": "04/01/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1232",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Petrus Cornelis",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Catharina Johanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5261",
+   "1188|5261"
+  ]
+ },
+ {
+  "pair_id": "1181|5309",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2220",
+  "genealogy_id": "VILJOENa1b3c4d11e2f5",
+  "surname": "VILJOEN",
+  "given_names": "ALBERTUS JOHANNES",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JANETJE JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1280",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Petrus G.",
+  "census_head_role": "male",
+  "census_spouse": "De Beer, Maria Aletta",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5309",
+   "1192|5309"
+  ]
+ },
+ {
+  "pair_id": "1192|5309",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2244",
+  "genealogy_id": "VILJOENa1b4c2d2e1f1",
+  "surname": "VILJOEN",
+  "given_names": "CHRISTOFFEL SR.",
+  "birth_year": "1792.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELIZABETH MARIA",
+    "surname": "JANSE VAN VUUREN",
+    "marriage_date": "26/08/1810",
+    "marriage_year": "1810"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1280",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Petrus G.",
+  "census_head_role": "male",
+  "census_spouse": "De Beer, Maria Aletta",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Frederik Jacobus",
+    "census_spouse": "v. d. Merwe, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Hendrik D. Jacobus",
+    "census_spouse": "Joubert, Marg. Louisa",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Dirk Petrus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Booyzen, Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Viljoen, Johannes H.",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1181|5309",
+   "1192|5309"
+  ]
+ },
+ {
+  "pair_id": "1183|1623",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2226",
+  "genealogy_id": "VILJOENa1b3c4d2e11",
+  "surname": "VILJOEN",
+  "given_names": "WILLEM WOUTER",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JACOMINA HENDRINA",
+    "surname": "GREYLING",
+    "marriage_date": "01/01/1797",
+    "marriage_year": "1797"
+   },
+   {
+    "name": "ANNA MARIA PETRONELLA",
+    "surname": "LOOTS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|152",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Jan Wilhelmus",
+  "census_head_role": "male",
+  "census_spouse": "Aucamp, Elizabeth Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Hercules' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Abraham",
+    "census_spouse": "Vorster, Elsje",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1183|1623",
+   "1184|1623"
+  ]
+ },
+ {
+  "pair_id": "1184|1623",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2227",
+  "genealogy_id": "VILJOENa1b3c4d2e11f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN ALBERTUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELIZABETH CATHARINA",
+    "surname": "VAN DEVENTER",
+    "marriage_date": "04/01/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "ANNA",
+    "surname": null,
+    "marriage_date": "1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|152",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Jan Wilhelmus",
+  "census_head_role": "male",
+  "census_spouse": "Aucamp, Elizabeth Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Hercules' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Abraham",
+    "census_spouse": "Vorster, Elsje",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1183|1623",
+   "1184|1623"
+  ]
+ },
+ {
+  "pair_id": "1183|2156",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2226",
+  "genealogy_id": "VILJOENa1b3c4d2e11",
+  "surname": "VILJOEN",
+  "given_names": "WILLEM WOUTER",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JACOMINA HENDRINA",
+    "surname": "GREYLING",
+    "marriage_date": "01/01/1797",
+    "marriage_year": "1797"
+   },
+   {
+    "name": "ANNA MARIA PETRONELLA",
+    "surname": "LOOTS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|745",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Willem Wouter",
+  "census_head_role": "male",
+  "census_spouse": "Greyling, Jacomina Hendrina",
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1183|2156"
+  ]
+ },
+ {
+  "pair_id": "1183|5022",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2226",
+  "genealogy_id": "VILJOENa1b3c4d2e11",
+  "surname": "VILJOEN",
+  "given_names": "WILLEM WOUTER",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JACOMINA HENDRINA",
+    "surname": "GREYLING",
+    "marriage_date": "01/01/1797",
+    "marriage_year": "1797"
+   },
+   {
+    "name": "ANNA MARIA PETRONELLA",
+    "surname": "LOOTS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|991",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Susanna Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1183|5022"
+  ]
+ },
+ {
+  "pair_id": "1184|2157",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2227",
+  "genealogy_id": "VILJOENa1b3c4d2e11f1",
+  "surname": "VILJOEN",
+  "given_names": "JAN ALBERTUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELIZABETH CATHARINA",
+    "surname": "VAN DEVENTER",
+    "marriage_date": "04/01/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "ANNA",
+    "surname": null,
+    "marriage_date": "1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|746",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Jan Albertus",
+  "census_head_role": "male",
+  "census_spouse": "van Deventer, Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Willem Wouter's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1184|2157"
+  ]
+ },
+ {
+  "pair_id": "1185|9603",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2233",
+  "genealogy_id": "VILJOENa1b3c4d2e11f7",
+  "surname": "VILJOEN",
+  "given_names": "BAREND CHRISTIAAN",
+  "birth_year": "1807.0",
+  "death_year": "1859",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JUDITH CORNELIA THERESIA (OF ETRESIA)",
+    "surname": "BOOYSEN",
+    "marriage_date": "02/08/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|794",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Carel Marthinus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jan's son; enrolled",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1185|9603"
+  ]
+ },
+ {
+  "pair_id": "1188|2103",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2237",
+  "genealogy_id": "VILJOENa1b3c4d2e3f7",
+  "surname": "VILJOEN",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1802.0",
+  "death_year": "1836",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARHTA",
+    "surname": "JANSE VAN RENSBURG",
+    "marriage_date": "04/01/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|686",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Viljoen, Abraham",
+  "census_head_role": "male",
+  "census_spouse": "Vorster, Elsje",
+  "census_widow_of": null,
+  "census_annotation": "Hercules' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1188|2103"
+  ]
+ },
+ {
+  "pair_id": "1188|9605",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2237",
+  "genealogy_id": "VILJOENa1b3c4d2e3f7",
+  "surname": "VILJOEN",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1802.0",
+  "death_year": "1836",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARHTA",
+    "surname": "JANSE VAN RENSBURG",
+    "marriage_date": "04/01/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|796",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Stephanus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Hendrina Maria",
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1188|9605",
+   "1193|9605",
+   "1194|9605"
+  ]
+ },
+ {
+  "pair_id": "1193|9605",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2248",
+  "genealogy_id": "VILJOENa1b4c2d2e1f2",
+  "surname": "VILJOEN",
+  "given_names": "STEPHANUS PETRUS",
+  "birth_year": "1794.0",
+  "death_year": "1873",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HENDRINA MARIA",
+    "surname": "VAN STADEN",
+    "marriage_date": "13/03/1814",
+    "marriage_year": "1814"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|796",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Stephanus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Hendrina Maria",
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Gerhardus Stephanus",
+    "census_spouse": "Van Staden, Sara Aletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Janze van Vuuren, Johanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Viljoen, Cornelis Hendrik",
+    "census_spouse": "Strydom, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Prinslo, Maria Aletta",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Viljoen, Christiaan Gerhardus",
+    "census_spouse": "Bondhuys, Christina Barendina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Viljoen, Christoffel",
+    "census_spouse": "Janze van Vuuren, Elisabeth Maria",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1188|9605",
+   "1193|9605",
+   "1194|9605"
+  ]
+ },
+ {
+  "pair_id": "1194|9605",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|2250",
+  "genealogy_id": "VILJOENa1b4c2d2e1f7",
+  "surname": "VILJOEN",
+  "given_names": "GERHARDUS COENRADUS",
+  "birth_year": "1804.0",
+  "death_year": "1883",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CECILIA JOHANNA",
+    "surname": "BOTHA",
+    "marriage_date": "04/01/1823",
+    "marriage_year": "1823"
+   },
+   {
+    "name": "GESINA MARIA",
+    "surname": "NEL",
+    "marriage_date": "16/12/1842",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|796",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Viljoen, Stephanus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Hendrina Maria",
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Viljoen, Hercules Albertus",
+    "census_spouse": "Booysen, Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Wilhelmus",
+    "census_spouse": "Aucamp, Elizabeth Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Henning Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": "van der Merwe, Hester Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, David Schalk",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Viljoen, Jan Hendrik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "1188|9605",
+   "1193|9605",
+   "1194|9605"
+  ]
+ }
+]

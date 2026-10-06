@@ -1,0 +1,3 @@
+# Keep replication inputs byte-exact (checksums are verified by the pipeline)
+replication/data/** -text
+replication/reviews/** -text

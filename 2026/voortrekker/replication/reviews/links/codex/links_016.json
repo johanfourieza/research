@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "806|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and Junior designation agree, the districts are compatible, and his age was about 23. However, no genealogy spouse or named father is supplied to distinguish him securely from the other Jan Hendrik identities.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "808|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district are compatible, but he was only about 14 in 1823, making a married household head unlikely. No genealogy spouse or named father corroborates the identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes/Jan Hendrik, the district and an age of about 20 are compatible, but competing namesakes remain unresolved. His 1830 marriage cannot confirm or contradict the census wife Elizabeth Helena Grobbelaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "815|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district are compatible, but he was only about 14 in 1823, an unlikely age for this married head. Both listed marriages occurred after the census and cannot establish the census wife's identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "806|1916",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district are compatible, but the genealogy calls him Junior while this census entry says Senior, leaving the identification doubtful without further corroboration. No genealogy spouse is supplied to compare with Heyla Magdalena de Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "808|1916",
+  "verdict": "UNCERTAIN",
+  "reason": "Although the name and district are compatible, he was only about 14 in 1823, making identification with a married head designated Senior unlikely. The supplied genealogy provides neither a spouse nor a named father to resolve the match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1916",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age of about 20 are compatible, but the Senior and patronymic annotations cannot be verified from his genealogy record. His 1830 marriage cannot confirm or contradict Heyla Magdalena de Beer as the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "815|1916",
+  "verdict": "UNCERTAIN",
+  "reason": "He was only about 14 in 1823, making this married head designated Senior an unlikely identification despite the matching name. His marriages in 1833 and 1860 provide no comparable wife evidence for 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "808|1567",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan/Johannes Hendrik and Robbertse/Robberts are compatible variants, but his age was only about 14 in 1823. Neither Hester Maria van Niekerk nor the annotation identifying Daniel as the father can be corroborated from his genealogy record.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1567",
+  "verdict": "UNCERTAIN",
+  "reason": "The names and Cradock district agree, and his age was about 20, but the father's name is not independently supplied in his genealogy record. His marriage to Labuschagne in 1830 cannot confirm or contradict the census wife Hester Maria van Niekerk.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "815|1567",
+  "verdict": "UNCERTAIN",
+  "reason": "The name variants and districts are compatible, but he was only about 14 in 1823, making this married head unlikely. Both listed marriages postdate the census, and the Daniel patronymic remains unverified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "809|1970",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Matthys Robbertse matches the name, the districts are compatible, and his age was about 31. However, the census names no wife, the genealogy marriage is undated, and the Jan patronymic cannot be corroborated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "812|1504",
+  "verdict": "UNCERTAIN",
+  "reason": "The name variants, compatible districts and age of about 19 support the possibility, but do not securely establish identity. The census names no wife, the Coetzee marriage was in 1826, and the Hattingh marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "813|1679",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit/Gert and Robbertse/Robberts are compatible name variants, and the census wife exactly matches Anna Sophia van Heerden, married in 1800. His age and the Somerset/Cradock districts are also compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "814|1682",
+  "verdict": "ACCEPT",
+  "reason": "Lambertus Nicolaas matches, allowing the Robbertse/Robberts surname variation, and Catharina Helena Venter exactly matches his wife married in 1808. His age and the districts are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "818|1882",
+  "verdict": "ACCEPT",
+  "reason": "The full names agree with minor spelling differences, including Roets/Roetz and Rudoplh/Rudolph. Johanna Hendrica Venter plausibly matches Johanna Hendrina Venter, married in 1813, and the age and districts are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "820|1883",
+  "verdict": "UNCERTAIN",
+  "reason": "Gerhardus Jacobus Roets/Roetz, compatible districts and an age of about 22 support the match, but no spouse or verified patronymic independently establishes identity. The 1824 marriage cannot corroborate the 1823 entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "821|1893",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name is compatible, as are the districts and his age of about 20, but the Hendrik patronymic is unverified. Both marriages occurred after 1823, and no census wife provides additional corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "822|232",
+  "verdict": "UNCERTAIN",
+  "reason": "The three given names and surname match exactly, and his age of about 21 is plausible, but Beaufort differs from the declared Somerset district. The 1827 marriage cannot corroborate the entry, and his father's name is not supplied for comparison with the Nicolaas annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "823|556",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Gysbertus Roos matches, and the census wife exactly matches Aletta Helena Vorster, whose marriage date establishes a marriage in 1822. His lifespan is compatible, and the district difference does not outweigh the matching couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "824|4728",
+  "verdict": "UNCERTAIN",
+  "reason": "Charl/Charel Petrus Roos is a compatible name match, and his age of about 18 is plausible. However, the districts differ and the 1830 marriage provides no corroboration for the wife-less 1825 entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "827|9588",
+  "verdict": "ACCEPT",
+  "reason": "Paul/Paulus Stephanus Roos matches, and the census wife exactly matches the listed spouse Hester Maria Swanepoel, although her marriage date is unknown. The other marriages are dated 1832 and 1834, and the district difference does not outweigh the matching couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "828|4794",
+  "verdict": "ACCEPT",
+  "reason": "Gysbert/Gysbertus Johannes Roos and the Graaff-Reinet district agree. Magdalena Elisabeth Roos matches his wife married in 1820, with only a minor spelling variation in Magdalena.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "829|5537",
+  "verdict": "UNCERTAIN",
+  "reason": "Izaak/Isaac Francois Roos and the district agree, and his age of about 26 is plausible. Neither record supplies a spouse or another distinguishing relationship to establish identity securely.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "831|5538",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus Roos and the district match, and his age of about 19 is plausible. The 1826 marriage cannot corroborate the census entry, leaving the identification dependent on the name and locality.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "832|5795",
+  "verdict": "ACCEPT",
+  "reason": "Francois Roos and the Stellenbosch district match, and Maria Elisabeth Furstenberg matches his wife married in 1805. The omitted umlaut is an ordinary spelling variation, and his lifespan is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "832|6388",
+  "verdict": "REJECT",
+  "reason": "Margaretha Elisabeth Meyer contradicts the listed wife Maria Elisabeth Fürstenberg, married in 1805, with no supplied remarriage explaining the difference. The separate supplied entry for Roos, Francois in pair 832|5795 matches that wife and district.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Roos, Francois"
+ },
+ {
+  "pair_id": "838|4942",
+  "verdict": "ACCEPT",
+  "reason": "Stephanus Scheepers is compatible with Stephanus Johannes Scheepers, and the district agrees. Maria Magdalena Janse v. Rensburg exactly matches his wife married in 1808 after expanding the abbreviation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "840|3852",
+  "verdict": "ACCEPT",
+  "reason": "Gideon/Gidion Scheepers and the George district agree, while Hester M. Klynhans matches Hester Magdalena Kleynhans, married in 1803. The other marriage occurred in 1851 and does not affect the census comparison.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "841|3851",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Johannes Scheepers, the George district and an age of about 20 are compatible, but the census names no wife. His marriage occurred during 1825, and the unknown census date prevents treating the missing wife as a contradiction or corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "842|9522",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Stephanus Scheepers and the Uitenhage district match. Isabella Potgieter is compatible with Johanna Isalbella Servasina Potgieter, married in 1817, allowing omitted given names and the apparent spelling error.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "843|9621",
+  "verdict": "UNCERTAIN",
+  "reason": "Frederik/Fredrik Coenraad Scheepers, the district and his age of about 24 are compatible. However, the 1827 marriage cannot corroborate the entry, and the Fredrik patronymic is not independently established in his genealogy record.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "844|9613",
+  "verdict": "ACCEPT",
+  "reason": "Coenraad Scheepers and the district match, and Elsie Magdalena Petronella Potgieter matches his wife married in 1821 with minor spelling and truncation differences. His lifespan is compatible with the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "845|9661",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus Scheepers is compatible with Marthinus Easias Scheepers, and the district agrees. Elsie Catharina Scheepers matches Elsje Catharina Scheepers, married in 1822, providing strong corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "846|9088",
+  "verdict": "UNCERTAIN",
+  "reason": "The abbreviated head name and district are compatible, but his age of about 17 and the unverified Fredrik patronymic leave the identification weak. His 1829 marriage to Hester Susanna Oosthuizen cannot confirm or contradict Anna Christina Steyn as the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "847|9697",
+  "verdict": "ACCEPT",
+  "reason": "Jan/Johannes Marthinus Scheepers and the Uitenhage district agree. Magdalena Landman exactly matches his wife married in 1798, and his age is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "849|9523",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Petrus Scheepers is compatible with his name and district, but another genealogy person also fits the abbreviated head name. No census wife is named, his birth year is missing, and the July 1825 marriage cannot resolve the identity without a census date.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "851|9523",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Petrus Scheepers is compatible with Hendrik Christoffel Pretrus Scheepers, and his age of about 19 and district fit. However, the competing Hendrik Petrus Gerrit also fits, while the 1839 marriage provides no census-era corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "850|9487",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Jacobus Scheepers and the Uitenhage district match exactly. Anna Catharina Lindeque exactly matches his wife married in 1820, and his age is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "852|9156",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Stephanus Scheepers and the Uitenhage district match. Anna Susanna Scheepers exactly matches his wife married in 1821, and his lifespan includes the census year.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

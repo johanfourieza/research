@@ -1,0 +1,254 @@
+[
+ {
+  "pair_id": "990|4344",
+  "verdict": "REJECT",
+  "reason": "Van der Linde and Van der Merwe are different surnames, and the additional given names also differ. The undated Aucamp marriage cannot establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "990|5186",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Hendrik is compatible with Johannes Hendrik Gerhardus through a normal name variant and omission. Rachel G. A. Harmse provides no corroboration, but the undated marriage to Magdalena Judith Aucamp prevents a firm wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|5186",
+  "verdict": "REJECT",
+  "reason": "Jan Adriaan Venter and Jan Hendrik van der Linde have different surnames and additional given names. Rachel G. A. Harmse also contradicts Maria Elizabeth Kruger, whom the genealogical man married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "990|5189",
+  "verdict": "REJECT",
+  "reason": "Johannes Francois conflicts with the supplied given names Johannes Hendrik Gerhardus; Francois is neither an abbreviation nor a reordered listed name. The undated Aucamp marriage cannot independently establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|5189",
+  "verdict": "REJECT",
+  "reason": "Van der Merwe and Van der Linde are different surnames, and Stephanus and Francois also differ. The Griesel marriage has no date, so the census wife cannot be compared conclusively.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4073",
+  "verdict": "REJECT",
+  "reason": "Although the man's name and district match, Hendrina Johanna Vermeulen contradicts Hester Sophia Maartens, whom he married in 1814. No supplied remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|4073",
+  "verdict": "REJECT",
+  "reason": "The census names Hendrik Jacobus rather than Gerrit Jacobus. Hendrina Johanna Vermeulen also contradicts the documented 1805 spouse, Maria Elizabeth van Tonder.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4073",
+  "verdict": "REJECT",
+  "reason": "David Schalk and Hendrik Jacobus are different given names, not normal variants. The Weideman marriage is undated and the De Beer marriage occurred in 1836, so neither establishes a wife contradiction for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4073",
+  "verdict": "REJECT",
+  "reason": "Theunis Jacobus and Hendrik Jacobus have conflicting first names that are not normal variants. The undated marriage to Cornelia Catharina de Beer cannot establish who his wife was in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4343",
+  "verdict": "REJECT",
+  "reason": "The abbreviated head name is compatible, but Petronella Elisabeth Joubert contradicts Hester Sophia Maartens, married in 1814. No supplied remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4343",
+  "verdict": "REJECT",
+  "reason": "Marthinus and Hendrik are different given names, not spelling variants. The undated Van Rooyen marriage makes the wife evidence inconclusive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4421",
+  "verdict": "REJECT",
+  "reason": "Anna Cornelia Viljoen contradicts Hester Sophia Maartens, whom the genealogical man married in 1814. The head's additional name Schalk also differs from Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4421",
+  "verdict": "REJECT",
+  "reason": "Theunis Jacobus and Hendrik Schalk are incompatible given names. The undated De Beer marriage cannot establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4422",
+  "verdict": "REJECT",
+  "reason": "Elsje Maria Theron contradicts Hester Sophia Maartens, married in 1814. Schalk Jacobus also differs from Hendrik Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1011|4422",
+  "verdict": "REJECT",
+  "reason": "Marthinus Stephanus and Schalk Jacobus are different given names, not normal variants. The Jordaan marriage occurred in 1838 and the Vosloo marriage is undated, leaving neither wife comparable to the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4431",
+  "verdict": "REJECT",
+  "reason": "Andries conflicts with Hendrik Jacobus. Anna Elisabeth Roux also contradicts Hester Sophia Maartens, whom the genealogical man married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4431",
+  "verdict": "REJECT",
+  "reason": "Marthinus and Andries are different given names, not normal variants. The undated Van Rooyen marriage cannot independently establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4431",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus and Andries are incompatible given names. The 1836 marriage to Martha Sophia Eloff can neither confirm nor contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4432",
+  "verdict": "REJECT",
+  "reason": "Magdalena Jac. van der Merwe contradicts Hester Sophia Maartens, married in 1814. The head is also named Andries Jacobus rather than Hendrik Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4432",
+  "verdict": "REJECT",
+  "reason": "Theunis and Andries are conflicting given names; the shared Jacobus and surname do not resolve this. The De Beer marriage is undated, so the wife evidence is not chronologically comparable.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4499",
+  "verdict": "REJECT",
+  "reason": "Van der Merwe and Van der Walt are different surnames. Johanna Alida Alletta van der Walt also contradicts Hester Sophia Maartens, married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4997",
+  "verdict": "REJECT",
+  "reason": "Barend van der Berg conflicts with both the surname and given names of Hendrik Jacobus van der Merwe. Sara Jac. Esterhuisen also contradicts his documented 1814 spouse, Hester Sophia Maartens.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|5000",
+  "verdict": "REJECT",
+  "reason": "Anna Maria Pietersen contradicts Hester Sophia Maartens, whom the genealogical man married in 1814. David Jacobus also differs from Hendrik Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|5000",
+  "verdict": "REJECT",
+  "reason": "Anna Maria Pietersen contradicts Maria Elizabeth van Tonder, married in 1805. The head is also David Jacobus rather than Gerrit Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|5000",
+  "verdict": "REJECT",
+  "reason": "David Schalk and David Jacobus contain conflicting additional given names, not an omission or reordering. The Weideman marriage is undated and the De Beer marriage occurred in 1836, so neither establishes a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|5000",
+  "verdict": "REJECT",
+  "reason": "Diedelof and David are different given names, not normal spelling variants, despite the shared Jacobus and surname. The undated Robberts marriage cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|1678",
+  "verdict": "REJECT",
+  "reason": "Gert is compatible with Gerrit, but Catharina Johanna Grobbelaar contradicts Maria Elizabeth van Tonder, married in 1805. The compatible Cradock/Somerset geography does not resolve the wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|1678",
+  "verdict": "REJECT",
+  "reason": "Marthinus and Gert are different given names, not normal variants. The Van Rooyen marriage is undated, and no genealogical father's name is supplied to compare with 'Hendrik's zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1021|1678",
+  "verdict": "REJECT",
+  "reason": "Lucas Petrus Daniël van der Schyff conflicts with both the surname and given name of Gert van der Merwe. The genealogy marriage occurred in 1831 and cannot be compared with the 1823 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|1723",
+  "verdict": "ACCEPT",
+  "reason": "Gert Jacobus van der Merwe matches Gerrit Jacobus van der Merwe, and Maria Elizabeth van Tonder exactly matches his spouse married in 1805. His age of about 40 and the Cradock/Somerset geography are compatible, with no supplied contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|2149",
+  "verdict": "REJECT",
+  "reason": "Although Gerrit van der Merwe is a compatible shortened name, Johanna Magdalena Petronella Britz contradicts Maria Elizabeth van Tonder, married in 1805. No supplied remarriage explains this difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|9499",
+  "verdict": "REJECT",
+  "reason": "Susanna Jusina Janze van Rensburg contradicts Maria Elizabeth van Tonder, married in 1805. Petrus Jacobus also differs from Gerrit Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4042",
+  "verdict": "REJECT",
+  "reason": "Venter and Van der Merwe are different surnames. Geertrui Johanna Gryling also contradicts Aletta Cornelia Viljoen, whom the genealogical man married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4283",
+  "verdict": "REJECT",
+  "reason": "Magdalena Maria Theron contradicts Aletta Cornelia Viljoen, married in 1816. The head's additional name Petrus also differs from Lodevicus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4283",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Petrus van der Merwe matches exactly, but the man was only about 17 and there is no independent corroboration. His 1836 marriage to Martha Sophia Eloff can neither confirm nor contradict the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4283",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus and Johannes Petrus contain conflicting additional given names, not an omission or reordering. The undated Griesel marriage cannot independently establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

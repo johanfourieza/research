@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "77|9549",
+  "verdict": "REJECT",
+  "reason": "Census head is Jacobus Johannes, not Theunis Johannes. The census wife Nel, Geertruyda Elisabeth differs from Geertruy Maria Bronkhorst, whom he married in 1822, before the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "101|9549",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Frederik (b.1809) would be about 16 in 1825, and the census middle name Johannes differs. His only recorded marriage (Potgieter, 1830) is after the census, so the census wife Nel can be neither confirmed nor excluded.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|103",
+  "verdict": "REJECT",
+  "reason": "Census head Theunis Christoffel does not match Willem. The census wife Goosen differs from Pieterse, whom he married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|103",
+  "verdict": "REJECT",
+  "reason": "Census wife Goosen, Dorothea Magdalena differs from Anna Cornelia Maria Els, whom he married in 1821. The middle names Christoffel and Gerhardus also differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|163",
+  "verdict": "REJECT",
+  "reason": "Census wife Venter, Hester Elizabeth differs from Anna Christina Magdalena Pieterse, whom he married in 1817, and no other spouse is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|163",
+  "verdict": "REJECT",
+  "reason": "Census wife Venter, Hester Elizabeth differs from Helena Catharina Botha, whom he married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|4985",
+  "verdict": "REJECT",
+  "reason": "Census wife v. d. Berg, Anna Marg. differs from Pieterse, whom he married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|4985",
+  "verdict": "REJECT",
+  "reason": "Census wife v. d. Berg, Anna Marg. differs from Ester Francina Jacoba Hennop, whom he married in January 1823, before the 1825 census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3388",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Christoffel does not match Petrus Johannes. The census wife Koen differs from Carelse, whom he married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3910",
+  "verdict": "REJECT",
+  "reason": "Census head Johan Adriaan does not match Petrus Johannes. The census wife Schoeman differs from Carelse, whom he married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3931",
+  "verdict": "REJECT",
+  "reason": "Census head Louis Johannes (Field Cornet) does not match Petrus Johannes. The census wife Strydom differs from Carelse, whom he married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "80|3931",
+  "verdict": "REJECT",
+  "reason": "Census given names Louis Johannes conflict entirely with Willem Adriaan. The wives also differ (Strydom vs Schoeman), but the Schoeman marriage is undated, so the wife evidence cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3935",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Christoffel conflicts with Petrus Johannes: Petrus is absent and Christoffel is not among his names. The census head has no wife, although he married Carelse in 1821.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "82|4436",
+  "verdict": "UNCERTAIN",
+  "reason": "Only the first name Johannes matches. The census middle name Jacobus is not among Lodewicus Petrus. No census wife is named, despite marriages in 1809 and 1819, which could reflect widowhood.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|2016",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Christoffel 'de Oude' does not match Willem Jacobus (b.1798). The census wife du Plessies differs from Hennop, whom he married in January 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|2243",
+  "verdict": "REJECT",
+  "reason": "Census wife Botha, Catharina Geertruida differs from Hennop, whom he married in January 1823, before the 1823 roll would normally have been compiled.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|2243",
+  "verdict": "UNCERTAIN",
+  "reason": "The name Willem and the district (Cradock, later Somerset) fit, and the census wife's surname Botha matches his 1822 spouse. However, her given names Catharina Geertruida only partly match Helena Catharina, so identity is unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|4541",
+  "verdict": "REJECT",
+  "reason": "Census wife Venter, Maria Elisabeth differs from Hennop, whom he married in 1823. The middle names Albertus and Jacobus also differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|5311",
+  "verdict": "REJECT",
+  "reason": "Census head Christoffel Francois does not match Willem Jacobus. The census wife Viljoen differs from Hennop, whom he married in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "89|5311",
+  "verdict": "REJECT",
+  "reason": "Census wife Viljoen, Anna Christina differs from Maria Dorothea Terblanche, whom he married in 1817. The census middle name Francois is not among his names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "85|1690",
+  "verdict": "UNCERTAIN",
+  "reason": "Census Johannes Francois partly matches Johannes Christiaan, but the middle names conflict. No census wife is named, despite his 1819 marriage to Janse van Vuuren.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|5269",
+  "verdict": "UNCERTAIN",
+  "reason": "Theunis matches, and an older man (b.1775) fits a head. The census wife Roos differs from Erasmus, but that marriage is undated, so a remarriage cannot be excluded.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|5269",
+  "verdict": "REJECT",
+  "reason": "Census wife Roos, Magdalena differs from Anna Cornelia Maria Els, whom he married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|1950",
+  "verdict": "REJECT",
+  "reason": "Census head Fredrik Johannes 'de Oude' does not match Pieter Johannes, who was about 17 in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "94|1950",
+  "verdict": "UNCERTAIN",
+  "reason": "Fredrik matches, but the census middle name Johannes conflicts with Christoffel. No census wife is named, despite his 1818 marriage to Nel, and 'de Oude' sits oddly with a man of about 28.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|1954",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name Pieter Johannes matches exactly, and the district fits (Cradock 1823 = Somerset). An unmarried head is consistent with his 1827 marriage. However, he was only about 17, and the common name lacks wife corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "92|9008",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus matches the census Jacobus Theodoris, and his age (about 20) is plausible. His only recorded marriage (Willemse, 1829) is after the census, so the census wife Van Rooyen can be neither confirmed nor contradicted.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "94|1856",
+  "verdict": "REJECT",
+  "reason": "Census wife Venter, Maria Petronella differs from Petronella Catharina Nel, whom he married in 1818. The middle names Jacobus and Christoffel also differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "96|3932",
+  "verdict": "REJECT",
+  "reason": "Census middle name Herculis conflicts with Adolph Michiel, and the census head already has a wife, Botha L. J. His Carelse marriage was in October 1825, the census year itself, so the wife evidence is not decisive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|2259",
+  "verdict": "REJECT",
+  "reason": "Census head Bothma, Abraham Carel does not match Botha, Petrus Johannes. The census wife Bothma differs from all three of his spouses, whom he married in 1816–1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|1688",
+  "verdict": "REJECT",
+  "reason": "Census head Abraham Lodovicus does not match Philip Rudolph. The census wife van der Nest differs from Anna Johanna Nel, whom he married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|1691",
+  "verdict": "REJECT",
+  "reason": "The name matches exactly, but the census wife Prinsloo, Geertruide Petronella differs from Anna Johanna Nel, whom he married in January 1822, before the 1823 census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "108|1691",
+  "verdict": "REJECT",
+  "reason": "Census head Botha, Philip Rudolph does not match Bothma, Cornelis Arnoldus in either surname or given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|4696",
+  "verdict": "REJECT",
+  "reason": "The census head is a woman (Oberholzer, Anna Sophia), entered as widow of Philip Rudolph Botha. A male genealogy person cannot be this head, and this Philip Rudolph lived until 1875.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|9514",
+  "verdict": "REJECT",
+  "reason": "Census head Jacobus ('Jacobus' son') does not match Willem Frederik. The census wife Crouse differs from Helena Catharina Botha, whom he married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "105|1901",
+  "verdict": "REJECT",
+  "reason": "Census head Botha, Joseph Johannes does not match Bothma, Jan Daniel, who was also only about 16 in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "105|1952",
+  "verdict": "REJECT",
+  "reason": "Census head Botha, Pieter 'de Oude' does not match Bothma, Jan Daniel, who was about 16 in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "106|2261",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Arnoldus conflicts with the given names Gerhardus Cornelis.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "112|9859",
+  "verdict": "REJECT",
+  "reason": "Census wife Jacobs, Elisabeth Susanna differs from Cornelia Josina Steenberg, whom he married in 1821. His next marriage was not until 1834.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "119|4210",
+  "verdict": "ACCEPT",
+  "reason": "The full name Gerhardus Christiaan Breed matches, and the census wife Venter, Gegina Wilhelmina matches Gesina Wilhelmina Venter, whom he married in 1824, allowing for spelling. There is no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "55|3370",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and George district match, and the age is plausible, but no census wife is named. Another same-named head without a wife is listed, and the Field Cornet annotation cannot be corroborated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "55|3394",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, district and age are compatible, but another same-named head is listed and no census wife provides corroboration. The genealogy supplies no father's name to verify the 'A. son' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "56|7341",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and district match, and the census wife exactly matches Aletta Helena Joubert, married in 1807. His life dates are compatible with 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "57|5552",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and an age of about 17 does not exclude headship. Neither marriage predates the census, so the absent census wife supplies no independent confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "58|5542",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district match, and Aletta Sophia v. d. Berg matches the listed spouse married on 13/10/1811. The other listed spouse creates no demonstrated contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "59|6761",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and district match, and Sara Susanna Hausman plausibly matches Sara Susanna Hauman, married in 1817. The minor surname spelling difference is not a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "60|203",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and the wife's surname and first three given names match the couple married in 1825. Carolina versus Cornelia is a plausible recording variation in this otherwise detailed match, and the district difference does not overturn it.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "61|397",
+  "verdict": "ACCEPT",
+  "reason": "The man's three given names and district match exactly, and Maria Elizabeth Pieterse matches Maria Elisabeth Pieterse, married in 1825. His age is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|303",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, district and age are compatible, but the 1826 marriage cannot corroborate an 1825 identity. No father's name is supplied to verify 'Sybrand's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|307",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, but the genealogy's only marriage is in 1826 and therefore cannot confirm or contradict Gerbregt Aletta Van Emmenes in 1825. The 'Anthonie's son' annotation cannot be checked against the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|366",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, district and age are compatible, but there is no comparable wife evidence because the listed marriage occurred in 1826. The genealogy provides no father's name to corroborate 'Piet's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|398",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, but the 1826 marriage cannot confirm or contradict the census wife Anna Magdalena Pietersen in 1825. No supplied paternal evidence verifies 'Jacobus' son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|371",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and age are compatible, but Beaufort differs from the declared Colesberg district and the paternal annotation cannot be verified. Both listed marriages postdate 1825, leaving no wife corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|10417",
+  "verdict": "UNCERTAIN",
+  "reason": "Anthony and Anthonie are compatible name forms, but Worcester differs from the declared Colesberg district and 'Anthony zoon' cannot be verified. Both marriages postdate 1824, so no wife evidence confirms the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "65|200",
+  "verdict": "UNCERTAIN",
+  "reason": "Wietsche is compatible with Wietse and the district matches, but the 'Senior' annotation is uncorroborated for a man aged about 18. The 1827 marriage cannot confirm or contradict Anna Maria Olivier in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "66|403",
+  "verdict": "ACCEPT",
+  "reason": "Charel Fredrik is a plausible spelling of Carel Frederik, and the district matches. Aletta Johanna Potgieter exactly matches the spouse married in 1804.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "67|5311",
+  "verdict": "UNCERTAIN",
+  "reason": "The man's full name and district match, but the marriage to Anna Christina Cornelia Viljoen is dated 1826. Under the stated rule, that later spouse cannot corroborate or contradict the wife recorded in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "70|1689",
+  "verdict": "REJECT",
+  "reason": "Jacomina Oberholster differs clearly from Johanna Susanna Janse van Vuuren, married in 1818. The other listed marriage occurred in 1846 and cannot explain the wife recorded in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "89|1689",
+  "verdict": "REJECT",
+  "reason": "The census wife Jacomina Oberholster clearly differs from Maria Dorothea Terblanche, married in 1817. The shared given name Christoffel does not overcome this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "71|1949",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and Somerset/Cradock geography are compatible, and an age of about 18 is possible. No census wife or supplied father's name corroborates the identity or the 'Fredrik's zoon' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "73|4671",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus is compatible with Pieter, but the abbreviated head name and different district give weak support. Snyman differs from Geere, yet the Geere marriage occurred on 08/01/1825 and the census date within that year is unspecified, preventing a firm contemporaneous wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|1856",
+  "verdict": "REJECT",
+  "reason": "Although Fredrik Jacobus matches Frederik Jacobus, Maria Petronella Venter clearly differs from Johanna Cornelia van der Merwe, married in 1810. No listed remarriage explains that discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "76|9472",
+  "verdict": "ACCEPT",
+  "reason": "Rynier is a plausible spelling of Reynier, and the district matches. Isabella Elisabeth van Staden exactly matches the spouse married in 1817.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|5270",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Geertruida Maria Bronkhorst is compatible with Geertruy Maria Bronkhorst, married in 1822. This spouse corroboration outweighs the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|2420",
+  "verdict": "ACCEPT",
+  "reason": "The head's name matches, and Anna Christina Magdalena Pietersen matches the spouse married in 1817, allowing the minor Pieterse/Pietersen variation. Somerset and Cradock are geographically compatible for 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3887",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and district match, and Carelse, H. D. matches Helena Dorothea Carelse, married in 1821. His age is compatible with the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "80|3904",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and district match, and Schoeman, M. is consistent with the listed spouse Maria Schoeman. Although the marriage is undated, the combined head and spouse evidence supports the link without a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "81|3884",
+  "verdict": "ACCEPT",
+  "reason": "Mathinus/Marthinus is a plausible spelling variation, and Carelse, M. D. matches Margaretha Dorothea Carelse, married in 1824. The wife corroboration outweighs the George/Uitenhage district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "82|5206",
+  "verdict": "ACCEPT",
+  "reason": "The man's three given names and district match exactly. Anna Dorothea Scholtz matches the second listed spouse, whose marriage date is 07/02/1819 despite the missing marriage_year field.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|5241",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's full name and Colesberg/Graaff-Reinet geography agree, and the wife's surname and Ester/Hester and Jacoba/Jac. names align. Fredrika differs from Francina, leaving an unresolved discrepancy that neither establishes a clearly different wife nor permits a strong acceptance.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "84|4387",
+  "verdict": "ACCEPT",
+  "reason": "Alewijn Petrus is compatible with Alwyn Petrus, and the district matches. Anna Marg. Smit matches the abbreviated names of Anna Margaretha Catharina Smit, married in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "85|2016",
+  "verdict": "REJECT",
+  "reason": "The census wife Johanna Helena du Plessies clearly differs from Catharina Maria Janse van Vuuren, married in 1819. The head's Christoffel also differs from the genealogy's Christiaan.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|2006",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Anna Maria Els is compatible with Anna Cornelia Maria Els, married in 1821, with one middle name omitted. The age and Somerset/Cradock geography are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|1954",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and Somerset/Cradock geography match, and an age of about 17 does not exclude headship. The 1827 marriage supplies no census-year corroboration, and no father's name is supplied to verify 'Piet's zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "92|9514",
+  "verdict": "UNCERTAIN",
+  "reason": "The common name Jacobus Botha and district match, but the paternal annotation cannot be verified. The marriage to Susara Jacoba Margaretha Willemse occurred in 1829 and cannot confirm or contradict Martha Catharina Crouse in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|1952",
+  "verdict": "REJECT",
+  "reason": "Elizabeth Botha clearly differs from Anna Catharina Susanna Goosen, married in 1821. The compatible first name Pieter and regional geography do not overcome the wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4670",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Maria Susanna v. Zyl matches the third listed spouse, married on 26/12/1822. Colesberg's inclusion in Graaff-Reinet makes the districts compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|1691",
+  "verdict": "REJECT",
+  "reason": "Geertruide Petronella Prinsloo clearly differs from Anna Johanna Nel, married in 1822. The other listed marriage dates to 1860 and cannot explain the census wife in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|2243",
+  "verdict": "REJECT",
+  "reason": "The census wife Catharina Geertruida Botha differs materially from Helena Catharina Botha, married in 1822. Their shared surname and given name Catharina do not explain the conflicting additional given names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "104|2259",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Geertruida Maria Bothma is compatible with Geertruida Maria Barbara Botma, married in 1822, allowing surname variation and an omitted middle name. The age and Somerset/Cradock geography are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

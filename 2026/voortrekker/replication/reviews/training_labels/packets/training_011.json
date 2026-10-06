@@ -1,0 +1,2516 @@
+[
+ {
+  "pair_id": "504|2131",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|900",
+  "genealogy_id": "KOTZEa1b2c4d1e2",
+  "surname": "KOTZE",
+  "given_names": "JACOBUS JOHANNES JURGEN",
+  "birth_year": "1788.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARIA DOROTHEA",
+    "surname": "KRUGER",
+    "marriage_date": "30/05/1813",
+    "marriage_year": "1813"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|716",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kotze, Jacobus Johannes Jurgen",
+  "census_head_role": "male",
+  "census_spouse": "Kruger, Maria Dorothea",
+  "census_widow_of": null,
+  "census_annotation": "Gert's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Koortze, Barend Johannes",
+    "census_spouse": "Jones (?), Johanna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Koortze, Marthinus Johannes",
+    "census_spouse": "Botes, Johanna Geertruida",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kotze, Gerhardus Dirk",
+    "census_spouse": "Erasmus, Engela Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kotze, Gerhardus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kotze, Philip",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kotze, Jacobus Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "504|2131"
+  ]
+ },
+ {
+  "pair_id": "504|4249",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|900",
+  "genealogy_id": "KOTZEa1b2c4d1e2",
+  "surname": "KOTZE",
+  "given_names": "JACOBUS JOHANNES JURGEN",
+  "birth_year": "1788.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARIA DOROTHEA",
+    "surname": "KRUGER",
+    "marriage_date": "30/05/1813",
+    "marriage_year": "1813"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|215",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kotze, Jacobus Johannes Jurgen",
+  "census_head_role": "male",
+  "census_spouse": "Kruger, Maria Dorothea",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Koortze, Barend Johannes",
+    "census_spouse": "Jones (?), Johanna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Koortze, Marthinus Johannes",
+    "census_spouse": "Botes, Johanna Geertruida",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kotze, Gerhardus Dirk",
+    "census_spouse": "Erasmus, Engela Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kotze, Gerhardus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kotze, Philip",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kotze, Jacobus Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "504|4249"
+  ]
+ },
+ {
+  "pair_id": "511|4136",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|911",
+  "genealogy_id": "KRUGERa1b3c8d1",
+  "surname": "KRUGER",
+  "given_names": "FRANS JOHANNES CHRISTIAAN",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ZIRKIA JACOBA JANSEN",
+    "surname": null,
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|102",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Barend Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Gryling, Maria Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik Gerhardus",
+    "census_spouse": "Steenkamp, Johanna Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Gert Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Philippus",
+    "census_spouse": "Pelzer, Levina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Hendrik",
+    "census_spouse": "Coetzee, Marg. Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Aucamp, Johanna Catharina Marg.",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "511|4136"
+  ]
+ },
+ {
+  "pair_id": "512|1577",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|914",
+  "genealogy_id": "KRUGERa1b5",
+  "surname": "KRUGER",
+  "given_names": "DANIEL FREDERIK SR",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA ALIDA",
+    "surname": "JOOSTE",
+    "marriage_date": "15/01/1809",
+    "marriage_year": "1809"
+   },
+   {
+    "name": "ANNA MARIA",
+    "surname": "VENTER",
+    "marriage_date": "04/09/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|98",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kruger, Johannes Jacob",
+  "census_head_role": "male",
+  "census_spouse": "Vorster, Maria Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Petrus",
+    "census_spouse": "van der Walt, Martha Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Maurits Herman Otto",
+    "census_spouse": "de Bruin, Johanna Catharina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "512|1577"
+  ]
+ },
+ {
+  "pair_id": "512|2132",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|914",
+  "genealogy_id": "KRUGERa1b5",
+  "surname": "KRUGER",
+  "given_names": "DANIEL FREDERIK SR",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA ALIDA",
+    "surname": "JOOSTE",
+    "marriage_date": "15/01/1809",
+    "marriage_year": "1809"
+   },
+   {
+    "name": "ANNA MARIA",
+    "surname": "VENTER",
+    "marriage_date": "04/09/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|717",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kruger, Daniel Fredrik",
+  "census_head_role": "male",
+  "census_spouse": "Joosten, Johanna Alida",
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": "Vorster, Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Petrus",
+    "census_spouse": "van der Walt, Martha Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "512|2132"
+  ]
+ },
+ {
+  "pair_id": "512|4201",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|914",
+  "genealogy_id": "KRUGERa1b5",
+  "surname": "KRUGER",
+  "given_names": "DANIEL FREDERIK SR",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA ALIDA",
+    "surname": "JOOSTE",
+    "marriage_date": "15/01/1809",
+    "marriage_year": "1809"
+   },
+   {
+    "name": "ANNA MARIA",
+    "surname": "VENTER",
+    "marriage_date": "04/09/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|167",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Johannes Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": "Vorster, Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Petrus",
+    "census_spouse": "van der Walt, Martha Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "512|4201"
+  ]
+ },
+ {
+  "pair_id": "512|4887",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|914",
+  "genealogy_id": "KRUGERa1b5",
+  "surname": "KRUGER",
+  "given_names": "DANIEL FREDERIK SR",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA ALIDA",
+    "surname": "JOOSTE",
+    "marriage_date": "15/01/1809",
+    "marriage_year": "1809"
+   },
+   {
+    "name": "ANNA MARIA",
+    "surname": "VENTER",
+    "marriage_date": "04/09/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|856",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Pieter Ernst",
+  "census_head_role": "male",
+  "census_spouse": "Erasmus, Adriana Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": "Vorster, Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Petrus",
+    "census_spouse": "van der Walt, Martha Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "512|4887"
+  ]
+ },
+ {
+  "pair_id": "512|5211",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|914",
+  "genealogy_id": "KRUGERa1b5",
+  "surname": "KRUGER",
+  "given_names": "DANIEL FREDERIK SR",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA ALIDA",
+    "surname": "JOOSTE",
+    "marriage_date": "15/01/1809",
+    "marriage_year": "1809"
+   },
+   {
+    "name": "ANNA MARIA",
+    "surname": "VENTER",
+    "marriage_date": "04/09/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1181",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, David",
+  "census_head_role": "male",
+  "census_spouse": "Brits, Neeltje",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": "Vorster, Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Petrus",
+    "census_spouse": "van der Walt, Martha Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "512|5211"
+  ]
+ },
+ {
+  "pair_id": "513|1584",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|915",
+  "genealogy_id": "KRUGERa1b5c1",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES (JOHAN) CHRISTIAAN",
+  "birth_year": "1809.0",
+  "death_year": "1883",
+  "declared_district": "CRADOCK",
+  "spouses": [
+   {
+    "name": "ALETTA ELIZABETH",
+    "surname": "DU PLESSIS",
+    "marriage_date": "06/04/1829",
+    "marriage_year": "1829"
+   },
+   {
+    "name": "CATHARINA CORNELIA MARTHA",
+    "surname": "DU PLESSIS",
+    "marriage_date": "07/11/1849",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|105",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kruger, Johannes Petrus",
+  "census_head_role": "male",
+  "census_spouse": "van der Walt, Martha Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus Alwyn's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": "Vorster, Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Maurits Herman Otto",
+    "census_spouse": "de Bruin, Johanna Catharina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "513|1584"
+  ]
+ },
+ {
+  "pair_id": "513|2357",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|915",
+  "genealogy_id": "KRUGERa1b5c1",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES (JOHAN) CHRISTIAAN",
+  "birth_year": "1809.0",
+  "death_year": "1883",
+  "declared_district": "CRADOCK",
+  "spouses": [
+   {
+    "name": "ALETTA ELIZABETH",
+    "surname": "DU PLESSIS",
+    "marriage_date": "06/04/1829",
+    "marriage_year": "1829"
+   },
+   {
+    "name": "CATHARINA CORNELIA MARTHA",
+    "surname": "DU PLESSIS",
+    "marriage_date": "07/11/1849",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|969",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kruger, Johannes Abraham",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": "Jacob's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik",
+    "census_spouse": "Steenkamp, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": "Vorster, Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Caspar Jan Hendrik",
+    "census_spouse": "Vorster, Lasya Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Petrus",
+    "census_spouse": "van der Walt, Martha Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Jacobus Alwyn",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Kruger, Johannes",
+    "census_spouse": "Bothman, Geetruida Maria",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "513|2357"
+  ]
+ },
+ {
+  "pair_id": "515|4205",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|918",
+  "genealogy_id": "KRUGERa1b7c2d4",
+  "surname": "KRUGER",
+  "given_names": "STEPHANUS JOHANNES",
+  "birth_year": "1778.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SOPHIA MARGARETHA",
+    "surname": "STEENKAMP",
+    "marriage_date": "21/01/1798",
+    "marriage_year": "1798"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|171",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Stephanus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Steenkamp, Sophia Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik Gerhardus",
+    "census_spouse": "Steenkamp, Johanna Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Gert Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Philippus",
+    "census_spouse": "Pelzer, Levina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Barend Johannes",
+    "census_spouse": "Gryling, Maria Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Hendrik",
+    "census_spouse": "Coetzee, Marg. Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "515|4205"
+  ]
+ },
+ {
+  "pair_id": "516|4203",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|919",
+  "genealogy_id": "KRUGERa1b7c2d4e1",
+  "surname": "KRUGER",
+  "given_names": "GERRIT JOHANNES",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELIZABETH JOHANNA",
+    "surname": "PELSER",
+    "marriage_date": "03/09/1820",
+    "marriage_year": "1820"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|169",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Gert Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Pelzer, Elisabeth Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik Gerhardus",
+    "census_spouse": "Steenkamp, Johanna Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Gert Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Philippus",
+    "census_spouse": "Pelzer, Levina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Barend Johannes",
+    "census_spouse": "Gryling, Maria Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Hendrik",
+    "census_spouse": "Coetzee, Marg. Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "516|4203"
+  ]
+ },
+ {
+  "pair_id": "518|4189",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|923",
+  "genealogy_id": "KRUGERa1b7c2d4e3",
+  "surname": "KRUGER",
+  "given_names": "GERT STEPHANUS JACOBUS",
+  "birth_year": "1804.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HEYLTJE MARIA MARGARETHA",
+    "surname": "PELSER",
+    "marriage_date": "04/07/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|155",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Gert",
+  "census_head_role": "male",
+  "census_spouse": "Lessing, Johanna Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik Gerhardus",
+    "census_spouse": "Steenkamp, Johanna Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Gert Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Philippus",
+    "census_spouse": "Pelzer, Levina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Barend Johannes",
+    "census_spouse": "Gryling, Maria Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Hendrik",
+    "census_spouse": "Coetzee, Marg. Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "518|4189"
+  ]
+ },
+ {
+  "pair_id": "519|4230",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|924",
+  "genealogy_id": "KRUGERa1b7c2d4e4",
+  "surname": "KRUGER",
+  "given_names": "THEUNIS JOHANNES",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|196",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Hendrik Bernardus",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Anna Susanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, Hendrik Gerhardus",
+    "census_spouse": "Steenkamp, Johanna Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Gert Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Philippus",
+    "census_spouse": "Pelzer, Levina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Barend Johannes",
+    "census_spouse": "Gryling, Maria Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Jacob",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Hendrik",
+    "census_spouse": "Coetzee, Marg. Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "519|4230"
+  ]
+ },
+ {
+  "pair_id": "520|1705",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|925",
+  "genealogy_id": "KRUGERa1b8c3d10",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES LODEWYK",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "COLESBERG (?)",
+  "spouses": [
+   {
+    "name": "ANNA MARIA JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/11/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "MARIA SUSANNA ELIZABETH JOHANNA",
+    "surname": "VORSTER",
+    "marriage_date": "07/12/1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|243",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kruger, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Bothman, Geetruida Maria",
+  "census_widow_of": null,
+  "census_annotation": "Pieter Ernst's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, David Jacobus",
+    "census_spouse": "Olivier, Rensche",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Pieter Ernst",
+    "census_spouse": "Van Eck, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Diederik Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Hendrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": "Griesel, Fredrica Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "520|1705"
+  ]
+ },
+ {
+  "pair_id": "520|2066",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|925",
+  "genealogy_id": "KRUGERa1b8c3d10",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES LODEWYK",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "COLESBERG (?)",
+  "spouses": [
+   {
+    "name": "ANNA MARIA JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/11/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "MARIA SUSANNA ELIZABETH JOHANNA",
+    "surname": "VORSTER",
+    "marriage_date": "07/12/1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|645",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Kruger, Johannes Gideon",
+  "census_head_role": "male",
+  "census_spouse": "Coetzee, Johanna Alida",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus Stephanus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, David Jacobus",
+    "census_spouse": "Olivier, Rensche",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Pieter Ernst",
+    "census_spouse": "Van Eck, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Diederik Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Hendrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": "Griesel, Fredrica Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "520|2066"
+  ]
+ },
+ {
+  "pair_id": "520|4144",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|925",
+  "genealogy_id": "KRUGERa1b8c3d10",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES LODEWYK",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "COLESBERG (?)",
+  "spouses": [
+   {
+    "name": "ANNA MARIA JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/11/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "MARIA SUSANNA ELIZABETH JOHANNA",
+    "surname": "VORSTER",
+    "marriage_date": "07/12/1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|110",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Coetzee, Marg. Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, David Jacobus",
+    "census_spouse": "Olivier, Rensche",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Pieter Ernst",
+    "census_spouse": "Van Eck, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Diederik Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Hendrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": "Griesel, Fredrica Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "520|4144"
+  ]
+ },
+ {
+  "pair_id": "520|4146",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|925",
+  "genealogy_id": "KRUGERa1b8c3d10",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES LODEWYK",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "COLESBERG (?)",
+  "spouses": [
+   {
+    "name": "ANNA MARIA JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/11/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "MARIA SUSANNA ELIZABETH JOHANNA",
+    "surname": "VORSTER",
+    "marriage_date": "07/12/1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|112",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Aucamp, Johanna Catharina Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, David Jacobus",
+    "census_spouse": "Olivier, Rensche",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Pieter Ernst",
+    "census_spouse": "Van Eck, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Diederik Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Hendrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": "Griesel, Fredrica Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "520|4146"
+  ]
+ },
+ {
+  "pair_id": "520|5213",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|925",
+  "genealogy_id": "KRUGERa1b8c3d10",
+  "surname": "KRUGER",
+  "given_names": "JOHANNES LODEWYK",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "COLESBERG (?)",
+  "spouses": [
+   {
+    "name": "ANNA MARIA JACOBA",
+    "surname": "GRIESEL",
+    "marriage_date": "03/11/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "MARIA SUSANNA ELIZABETH JOHANNA",
+    "surname": "VORSTER",
+    "marriage_date": "07/12/1837",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1183",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Kruger, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Griesel, Anna Maria Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Kruger, David Jacobus",
+    "census_spouse": "Olivier, Rensche",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Pieter Ernst",
+    "census_spouse": "Van Eck, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Diederik Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Hendrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": "Griesel, Fredrica Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Kruger, Johannes Lodewikus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "520|5213"
+  ]
+ },
+ {
+  "pair_id": "523|2020",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|940",
+  "genealogy_id": "LABUSCHAGNEa1b2c4d3",
+  "surname": "LABUSCHAGNE",
+  "given_names": "CASPER (JEREMIAS)",
+  "birth_year": "1770.0",
+  "death_year": "1860",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA CATHARINA",
+    "surname": "NEL",
+    "marriage_date": "05/07/1795",
+    "marriage_year": "1795"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|593",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "La Buscagne, Frans Jacob",
+  "census_head_role": "male",
+  "census_spouse": "La Buscagne, Clara Isabella",
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "La Buscagne, Adriaan",
+    "census_spouse": "van der Merwe, Johanna Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Caspar",
+    "census_spouse": "Jordaan, Susanna Adriana",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Jan Hendrik",
+    "census_spouse": "Jordaan, Elsje Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Fredrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Jan",
+    "census_spouse": "Schutte, Susanna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "523|2020"
+  ]
+ },
+ {
+  "pair_id": "529|9548",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|951",
+  "genealogy_id": "LABUSCHAGNEa1b2c4d6e2",
+  "surname": "LABUSCHAGNE",
+  "given_names": "FRANS JACOBUS",
+  "birth_year": "1797.0",
+  "death_year": "1853",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA SUSANNA",
+    "surname": "HATTINGH",
+    "marriage_date": "04/04/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|735",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Labuschagne, Jan",
+  "census_head_role": "male",
+  "census_spouse": "Van Devender, Dorothea",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "La Buscagne, Adriaan",
+    "census_spouse": "van der Merwe, Johanna Christina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Caspar",
+    "census_spouse": "Jordaan, Susanna Adriana",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Jan Hendrik",
+    "census_spouse": "Jordaan, Elsje Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Fredrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Jan",
+    "census_spouse": "Schutte, Susanna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "La Buscagne, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "529|9548"
+  ]
+ },
+ {
+  "pair_id": "536|9179",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|965",
+  "genealogy_id": "LANDMANa1b2c1d1",
+  "surname": "LANDMAN",
+  "given_names": "JOHANNES ABRAHAM",
+  "birth_year": "1798.0",
+  "death_year": "1879",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HESTER SALOMINA MARIA FRANSINA",
+    "surname": "LE ROUX",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|337",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Landman, Johan Christiaan",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Enrolled",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Landman, Willem Johannes",
+    "census_spouse": "Vogel, Catharina Elisabeth Magdalena",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Christoffel",
+    "census_spouse": "Scholtz, Elisabeth Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Fredrik Coenraad",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Willem",
+    "census_spouse": "Scheepers, Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": "De Jager, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "536|9179"
+  ]
+ },
+ {
+  "pair_id": "536|9271",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|965",
+  "genealogy_id": "LANDMANa1b2c1d1",
+  "surname": "LANDMAN",
+  "given_names": "JOHANNES ABRAHAM",
+  "birth_year": "1798.0",
+  "death_year": "1879",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HESTER SALOMINA MARIA FRANSINA",
+    "surname": "LE ROUX",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|435",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Landman, Johan Abraham",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Christoffel's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Landman, Willem Johannes",
+    "census_spouse": "Vogel, Catharina Elisabeth Magdalena",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Christiaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Christoffel",
+    "census_spouse": "Scholtz, Elisabeth Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Fredrik Coenraad",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Willem",
+    "census_spouse": "Scheepers, Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": "De Jager, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "536|9271"
+  ]
+ },
+ {
+  "pair_id": "536|9272",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|965",
+  "genealogy_id": "LANDMANa1b2c1d1",
+  "surname": "LANDMAN",
+  "given_names": "JOHANNES ABRAHAM",
+  "birth_year": "1798.0",
+  "death_year": "1879",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "HESTER SALOMINA MARIA FRANSINA",
+    "surname": "LE ROUX",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|436",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Landman, Johan Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Scholtz, Elisabeth Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Landman, Willem Johannes",
+    "census_spouse": "Vogel, Catharina Elisabeth Magdalena",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Christiaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Fredrik Coenraad",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Willem",
+    "census_spouse": "Scheepers, Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": "De Jager, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "536|9272"
+  ]
+ },
+ {
+  "pair_id": "537|9632",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|966",
+  "genealogy_id": "LANDMANa1b2c1d6",
+  "surname": "LANDMAN",
+  "given_names": "WILLEM ADOLPH",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARIA JACOMINA",
+    "surname": "VERMAAK",
+    "marriage_date": "24/05/1829",
+    "marriage_year": "1829"
+   },
+   {
+    "name": "DOROTHEA JACOBA",
+    "surname": "RETIEF",
+    "marriage_date": "04/12/1839",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|825",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Landman, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Scheepers, Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Landman, Willem Johannes",
+    "census_spouse": "Vogel, Catharina Elisabeth Magdalena",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Christiaan",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Christoffel",
+    "census_spouse": "Scholtz, Elisabeth Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Fredrik Coenraad",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Landman, Johan Abraham",
+    "census_spouse": "De Jager, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "537|9632"
+  ]
+ },
+ {
+  "pair_id": "544|4412",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|981",
+  "genealogy_id": "LIEBENBERGa1b2c2d2e2",
+  "surname": "LIEBENBERG",
+  "given_names": "CHRISTIAAN JACOBUS",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET/COLESBERG",
+  "spouses": [
+   {
+    "name": "ANNA JOHANNA PETRONELLA",
+    "surname": "CILLIERS",
+    "marriage_date": "06/02/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|379",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Philippus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Du Toit, Sara Johanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Godlieb",
+    "census_spouse": "Pienaar, Alletta Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Charel Johannes",
+    "census_spouse": "v. d. Merwe, Anna Maria",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "544|4412"
+  ]
+ },
+ {
+  "pair_id": "544|4552",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|981",
+  "genealogy_id": "LIEBENBERGa1b2c2d2e2",
+  "surname": "LIEBENBERG",
+  "given_names": "CHRISTIAAN JACOBUS",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET/COLESBERG",
+  "spouses": [
+   {
+    "name": "ANNA JOHANNA PETRONELLA",
+    "surname": "CILLIERS",
+    "marriage_date": "06/02/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|520",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Albertus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Jacomina Elisabeth Adriana",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Godlieb",
+    "census_spouse": "Pienaar, Alletta Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Philippus Jacobus",
+    "census_spouse": "Du Toit, Sara Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "544|4552",
+   "545|4552"
+  ]
+ },
+ {
+  "pair_id": "545|4552",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|982",
+  "genealogy_id": "LIEBENBERGa1b2c3d2",
+  "surname": "LIEBENBERG",
+  "given_names": "BAREND JOHANNES SR.",
+  "birth_year": "1788.0",
+  "death_year": "1838",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HESTER MAGDALENA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "02/11/1806",
+    "marriage_year": "1806"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|520",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Albertus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Jacomina Elisabeth Adriana",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Godlieb",
+    "census_spouse": "Pienaar, Alletta Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Philippus Jacobus",
+    "census_spouse": "Du Toit, Sara Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "544|4552",
+   "545|4552"
+  ]
+ },
+ {
+  "pair_id": "544|4614",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|981",
+  "genealogy_id": "LIEBENBERGa1b2c2d2e2",
+  "surname": "LIEBENBERG",
+  "given_names": "CHRISTIAAN JACOBUS",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET/COLESBERG",
+  "spouses": [
+   {
+    "name": "ANNA JOHANNA PETRONELLA",
+    "surname": "CILLIERS",
+    "marriage_date": "06/02/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|582",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Christiaan Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Cilliers, Anna Petronella",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Godlieb",
+    "census_spouse": "Pienaar, Alletta Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Philippus Jacobus",
+    "census_spouse": "Du Toit, Sara Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "544|4614"
+  ]
+ },
+ {
+  "pair_id": "545|5345",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|982",
+  "genealogy_id": "LIEBENBERGa1b2c3d2",
+  "surname": "LIEBENBERG",
+  "given_names": "BAREND JOHANNES SR.",
+  "birth_year": "1788.0",
+  "death_year": "1838",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HESTER MAGDALENA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "02/11/1806",
+    "marriage_year": "1806"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1316",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Barend Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Koekemoer, H. J. C.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Godlieb",
+    "census_spouse": "Pienaar, Alletta Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Philippus Jacobus",
+    "census_spouse": "Du Toit, Sara Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "545|5345",
+   "546|5345"
+  ]
+ },
+ {
+  "pair_id": "546|5345",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|988",
+  "genealogy_id": "LIEBENBERGa1b2c4",
+  "surname": "LIEBENBERG",
+  "given_names": "BAREND GODLIEB",
+  "birth_year": "1766.0",
+  "death_year": "1836",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MARIA PETRONELLA",
+    "surname": "VAN JAARSVELD",
+    "marriage_date": "28/10/1787",
+    "marriage_year": "1787"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1316",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Barend Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Koekemoer, H. J. C.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Godlieb",
+    "census_spouse": "Pienaar, Alletta Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Philippus Jacobus",
+    "census_spouse": "Du Toit, Sara Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "545|5345",
+   "546|5345"
+  ]
+ },
+ {
+  "pair_id": "546|4411",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|988",
+  "genealogy_id": "LIEBENBERGa1b2c4",
+  "surname": "LIEBENBERG",
+  "given_names": "BAREND GODLIEB",
+  "birth_year": "1766.0",
+  "death_year": "1836",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MARIA PETRONELLA",
+    "surname": "VAN JAARSVELD",
+    "marriage_date": "28/10/1787",
+    "marriage_year": "1787"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|378",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Liebenberg, Barend Godlieb",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Alletta Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Liebenberg, Jacobus Coenraad",
+    "census_spouse": "Louw, Maria Helena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Barend Johannes",
+    "census_spouse": "v. d. Berg, Hester Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Philippus Jacobus",
+    "census_spouse": "Du Toit, Sara Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter. (?)",
+    "census_spouse": "Du Toit, Geertruida Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Daniel Pieter",
+    "census_spouse": "Smit, Engela Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Liebenberg, Charel Johannes",
+    "census_spouse": "v. d. Merwe, Anna Maria",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "546|4411"
+  ]
+ },
+ {
+  "pair_id": "552|9485",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|995",
+  "genealogy_id": "LINDEQUEa1b2c10d1",
+  "surname": "LINDEQUE",
+  "given_names": "PETRUS",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARTHA MARIA",
+    "surname": "DU PREEZ",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|666",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Lindeque, Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Lindeque, Gerhardus Johannes",
+    "census_spouse": "Viljoen, Anna Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Lindeque, Petrus",
+    "census_spouse": "Dupree, Martha Maria",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "552|9485"
+  ]
+ },
+ {
+  "pair_id": "553|541",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|997",
+  "genealogy_id": "LOMBARDa1b1c3d6",
+  "surname": "LOMBARD",
+  "given_names": "ANDRIES LOUIS SR.",
+  "birth_year": "1775.0",
+  "death_year": null,
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "CORNELIA",
+    "surname": "DE WEGE",
+    "marriage_date": "23/09/1798",
+    "marriage_year": "1798"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|389",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Lombart, Andries Louis",
+  "census_head_role": "male",
+  "census_spouse": "De Wege, Cornelia",
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Lombart, Johannes Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Lombart, David Hendrik Jacobus",
+    "census_spouse": "Lombart, Anna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Lombart, Johannes Anthonie",
+    "census_spouse": "Lombart, Anna Johanna",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "553|541"
+  ]
+ },
+ {
+  "pair_id": "563|1192",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1010",
+  "genealogy_id": "LUBBEa1b12c2d4e4",
+  "surname": "LUBBE",
+  "given_names": "PAULUS WILHELMUS",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "CLANWILLIAM",
+  "spouses": [
+   {
+    "name": "JOHANNA MARIA",
+    "surname": "MOUTON",
+    "marriage_date": "07/08/1813",
+    "marriage_year": "1813"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Clanwilliam 1824|317",
+  "census_district": "Clanwilliam",
+  "census_year": 1824,
+  "census_head_name": "Lubbe, Schalk Willem",
+  "census_head_role": "male",
+  "census_spouse": "Van Wyk, Sara Johanna",
+  "census_widow_of": null,
+  "census_annotation": "Frans zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Lubbe, Johannes Hendrik",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Lubbe, Willem Jacobus",
+    "census_spouse": "Burger, Anna Johanna Aletta",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Lubbe, Paul Willem",
+    "census_spouse": "Mouton, Johanna Maria",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Lubbe, Barend Fredrik",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Lubbe, Frans Jacobus",
+    "census_spouse": "Burger, Hester Johanna",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Lubbe, Frans",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "563|1192"
+  ]
+ },
+ {
+  "pair_id": "564|4464",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1012",
+  "genealogy_id": "LUBBEa1b3c10d5",
+  "surname": "LUBBE",
+  "given_names": "JAN LODEWYK",
+  "birth_year": "1797.0",
+  "death_year": "1867",
+  "declared_district": "SOMERSET AND BEFORE THAT IN BEAUFORT",
+  "spouses": [
+   {
+    "name": "MARGARETHA MAGDALENA ELIZABETH",
+    "surname": "DE KOKER",
+    "marriage_date": "06/04/1816",
+    "marriage_year": "1816"
+   },
+   {
+    "name": "MARTHA ELIZABETH",
+    "surname": "DE KOKER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|431",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Lubbe, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Joubert, Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Lubbe, Barend Fredrik",
+    "census_spouse": "Bester, Helena Levina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Lubbe, Carel Johannes",
+    "census_spouse": "Nieuwhoudt, Marg. Fr.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Lubbe, Schalk Willem",
+    "census_spouse": "v. Heerden, Martha Aletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Lubbe, Henning Jeremias",
+    "census_spouse": "Pringle, Elisabeth Marg.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Lubbe, Andries Johannes",
+    "census_spouse": "Scholtz, Sophia Jacomina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Lubbe, Willem",
+    "census_spouse": "Nienaber, Carolina Marg.",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "564|4464"
+  ]
+ },
+ {
+  "pair_id": "567|5118",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1020",
+  "genealogy_id": "MAARTENSa6b1c7",
+  "surname": "MAARTENS",
+  "given_names": "HENDRIK JACOBUS",
+  "birth_year": "1802.0",
+  "death_year": null,
+  "declared_district": "GRAAF-REINET",
+  "spouses": [
+   {
+    "name": "ELIZABETH MARIA",
+    "surname": "ROOS",
+    "marriage_date": "9/2/1832",
+    "marriage_year": "1832"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1088",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Maartens, Jos. Francois",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Catharina Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Martens, Johannes Lodewyk",
+    "census_spouse": "v. d. Merwe, M. A. H.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Martens, Joachim Hendrik",
+    "census_spouse": "Joubert, Martha M.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Maartens, Joachim Hendrik",
+    "census_spouse": "Grobler, Louisa Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Maartens, Jacobus",
+    "census_spouse": "Joubert, Maria Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Maartens, Hendrik Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "567|5118"
+  ]
+ },
+ {
+  "pair_id": "572|9668",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1032",
+  "genealogy_id": "MARAISa1b2c2d1e4f2",
+  "surname": "MARAIS",
+  "given_names": "DANIËL PETRUS",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|863",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Marais, Daniel Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Marais, Barend Daniel",
+    "census_spouse": "Vogel, Aletta Fredrika",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Marais, Johan Christian",
+    "census_spouse": "Terblansch, Hester Cecilia",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Marais, Gerrit Hendrik",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Marais, Johannes Lodewyk",
+    "census_spouse": "Meyer, Aletta Susanna Adriana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Marais, Barend Daniel",
+    "census_spouse": "Ferreira, Catharina Maria",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Marais, Matthys Hendrik",
+    "census_spouse": "Meyer, Maria Petronella",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "572|9668"
+  ]
+ },
+ {
+  "pair_id": "573|663",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1034",
+  "genealogy_id": "MARAISa2b4",
+  "surname": "MARAIS",
+  "given_names": "MARIA PETRONELLA (WEDUWEE JESIAS ESTERHUIZEN)",
+  "birth_year": "1773.0",
+  "death_year": null,
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "JESIAS",
+    "surname": "ESTERHUIZEN",
+    "marriage_date": "12/7/1795",
+    "marriage_year": "1795"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|527",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Marais, Gabriel Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Du Plessis, Anna Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Jacob Philip's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Marais, Johannes Stephanus",
+    "census_spouse": "Janzen, Geertruida Susara",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Matthys Adriaan",
+    "census_spouse": "Benadie, Anna Susanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Gerhardus Petrus",
+    "census_spouse": "Vermeulen, Maria Adriana",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Johannes Stephanus",
+    "census_spouse": "Botes, Engela Susara",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, David Jacobus",
+    "census_spouse": "Botes, Anna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Petrus Gerhardus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "573|663"
+  ]
+ },
+ {
+  "pair_id": "575|488",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1036",
+  "genealogy_id": "MARAISa2b7",
+  "surname": "MARAIS",
+  "given_names": "GERHARDUS PETRUS",
+  "birth_year": "1779.0",
+  "death_year": null,
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "MARIA ADRIANA",
+    "surname": "VERMEULEN",
+    "marriage_date": "12/1/1800",
+    "marriage_year": "1800"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|330",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Marais, Gerhardus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Vermeulen, Maria Adriana",
+  "census_widow_of": null,
+  "census_annotation": "Fieldcornet",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Marais, Johannes Stephanus",
+    "census_spouse": "Janzen, Geertruida Susara",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Matthys Adriaan",
+    "census_spouse": "Benadie, Anna Susanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Johannes Stephanus",
+    "census_spouse": "Botes, Engela Susara",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, David Jacobus",
+    "census_spouse": "Botes, Anna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Gabriel Stephanus",
+    "census_spouse": "Du Plessis, Anna Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Marais, Petrus Gerhardus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "575|488"
+  ]
+ }
+]

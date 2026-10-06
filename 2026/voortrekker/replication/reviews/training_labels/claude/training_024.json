@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "1069|9174",
+  "verdict": "REJECT",
+  "reason": "The surname (Van Rensburg vs Van Rooyen) and the given names (Johannes Jacobus vs Gerrit) both differ. His wife Bronkhorst (married 1802) also contradicts the census wife Muller.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1086|9174",
+  "verdict": "REJECT",
+  "reason": "The genealogy wife Maria van Rooyen (married 1803) contradicts the census wife Martha Johanna Muller, and no later marriage is recorded. Another census Gerret van Rooyen in Uitenhage has wife Maria van Rooyen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Rooyen, Gerret"
+ },
+ {
+  "pair_id": "1091|9174",
+  "verdict": "REJECT",
+  "reason": "His wives are both Kock (married 1807, and remarried 1826), which contradicts the census wife Muller. The census head Gerret Rynier with no wife fits his full name and the widowed interval better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Rooyen, Gerret Rynier"
+ },
+ {
+  "pair_id": "1083|9729",
+  "verdict": "REJECT",
+  "reason": "The given name Dirk contradicts Gerret. He was born 1809, so he was about 16 in 1825 and did not marry until 1828, yet the census head is a married heemraad.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1089|9729",
+  "verdict": "REJECT",
+  "reason": "His wife Susanna Elizabeth Minnie (married 1804) contradicts the census wife Maria van Rooyen. Census head Gerrit Thomas van Rooyen has wife Susanna Elisabeth Minie.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Rooyen, Gerrit Thomas"
+ },
+ {
+  "pair_id": "1088|9288",
+  "verdict": "REJECT",
+  "reason": "The given names Theodorus Cornelis contradict Gerret Rynier. He was also only about 17 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9288",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Reynier and Gerret Rynier are a near-exact match on a distinctive name combination, in the same district, at age about 37. No census wife is listed, which is consistent with being widowed between his 1807 marriage and his 1826 remarriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1089|9716",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Thomas van Rooyen matches exactly. His wife Susanna Elizabeth Minnie (married 1804) matches the census wife Minie, Susanna Elisabeth.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1098|9477",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but he was about 16 in 1825 and his only recorded marriage was to Joubert in 1833. The census head already had a wife, Sara Johanna Scheepers, so this may be an older namesake such as his father.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1099|485",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Hendrik van Staden/Van Stade matches, in Beaufort. His wife Magdalena Johanna de Klerk (married 1819) matches De Clercq, Johanna Magdalena, with the given names reordered and the surname spelled differently.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1100|9361",
+  "verdict": "ACCEPT",
+  "reason": "The name matches. His wife Martha Magdalena Janse van Rensburg (married 1824) matches the census wife exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1101|9341",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Johannes van Staden matches. His wife Anna Maria Smit (married 1822) matches the census wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1114|9341",
+  "verdict": "REJECT",
+  "reason": "His wife Hester Anthoinetta Scheepers (married 1796) contradicts the census wife Smit. Census head Petrus van Staden has wife Scheepers, Hester Antonetta.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Staden, Petrus"
+ },
+ {
+  "pair_id": "1115|9341",
+  "verdict": "REJECT",
+  "reason": "The given name Marthinus Johannes contradicts Petrus Johannes. He was about 18 in 1825 and did not marry until 1827, whereas the census head was married to Smit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1110|9504",
+  "verdict": "REJECT",
+  "reason": "The given names Jacobus Frederik contradict Roelof Jacobus. His wife Muller (married June 1825) also does not match the census wife Janze van Vuuren.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1112|9552",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus (Petrus) van Staden matches. His wife Susanna Elizabeth Viljoen (married 1798) matches the census wife exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1114|9552",
+  "verdict": "REJECT",
+  "reason": "Both the given name (Petrus vs Marthinus) and the wife (Scheepers, married 1796, vs Viljoen) contradict.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Staden, Petrus"
+ },
+ {
+  "pair_id": "1114|9533",
+  "verdict": "REJECT",
+  "reason": "The given name Petrus (born 1772) contradicts Johannes Jurie 'Junior'. The census head Petrus van Staden with wife Scheepers fits clearly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Staden, Petrus"
+ },
+ {
+  "pair_id": "1116|9463",
+  "verdict": "REJECT",
+  "reason": "Both the surname (Van Straten vs Van Staden) and the given names (Jacob Abraham vs Johannes Jurie) differ. The census wife Janze van Rensburg is unlike his undated Prinsloo spouse.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1117|4356",
+  "verdict": "REJECT",
+  "reason": "The given name Francois Cornelius contradicts Jacobus. A census head named Van Straten, Francois Cornelis exists in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Straten, Francois Cornelis"
+ },
+ {
+  "pair_id": "1120|9615",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes, not Andries Johannes. He was about 18 in 1825 and first married in 1838, whereas the census head was already married to Nortje.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1121|1961",
+  "verdict": "REJECT",
+  "reason": "He was born 1809, so about 14 in 1823, which contradicts a married census head annotated 'de Oude' (the elder).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1121|4185",
+  "verdict": "REJECT",
+  "reason": "The given names Adriaan Jacobus contradict Johannes Jacob. He was about 16 in 1825 and unmarried until 1840.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1123|7786",
+  "verdict": "ACCEPT",
+  "reason": "Andries Johannes van Tonder matches exactly in Swellendam. The census wife Joubert, M. M. matches his second spouse Maria Magdalena Joubert, which is consistent with remarriage after 1810.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1124|7347",
+  "verdict": "REJECT",
+  "reason": "The surname (Van Tonder vs Van Eeden) differs. His wife Oosthuizen (married 1816) contradicts the census wife Van Zyl.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Tonder, Fredrik"
+ },
+ {
+  "pair_id": "1124|7907",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik van Tonder matches. His wife Cornelia Carolina Oosthuizen (married 1816) matches Oosthuysen, Cornelia C.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1136|4639",
+  "verdict": "ACCEPT",
+  "reason": "Jacob Pieter van Wyk matches exactly. His wife Catharina Liebenberg (married 1824) matches, and Colesberg lay within Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|1616",
+  "verdict": "REJECT",
+  "reason": "The given names Adriaan Pieter contradict Carel Petrus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|4093",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Pieter vs Jacobus). The census wife Burger also differs from his only recorded spouse Steenkamp, although that marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1137|4158",
+  "verdict": "UNCERTAIN",
+  "reason": "Adriaan van Wyk is compatible with Adriaan Pieter, aged about 21. However, the census wife Elsje van Wyk differs from his undated spouse Steenkamp, and the name is common.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1140|8360",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Daniel vs Jacobus). His wife De Jager (married 1805) contradicts the census wife Strydom.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1141|961",
+  "verdict": "REJECT",
+  "reason": "The given names Henning Jacobus contradict Hendrik Albertus. He married only in 1830, whereas the census head had a wife in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1142|970",
+  "verdict": "REJECT",
+  "reason": "The given names Gerrit Matthys contradict Abraham Erasmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1145|1809",
+  "verdict": "REJECT",
+  "reason": "The given names Cornelis Johannes contradict Willem Abraham. His 1824 marriage to Van Locherenberg postdates the 1823 census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1146|1117",
+  "verdict": "ACCEPT",
+  "reason": "His wife Susanna Maria Ras (married 1819) matches the census wife exactly in Clanwilliam. The middle-name variant (Jacobus vs Johannes) is a minor discrepancy.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1146|1240",
+  "verdict": "REJECT",
+  "reason": "The middle name Adriaan differs from Jacobus. Census head Willem Johannes van Zyl has his wife Susanna Maria Ras and fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van Zyl, Willem Johannes"
+ },
+ {
+  "pair_id": "1146|1352",
+  "verdict": "REJECT",
+  "reason": "The given name Andreas contradicts Willem Jacobus. The census wife Van der Westhuyse contradicts his wife Ras (married 1819).",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Zyl, Willem Johannes"
+ },
+ {
+  "pair_id": "1147|1859",
+  "verdict": "REJECT",
+  "reason": "The given names Albertus Johannes contradict Petrus Jan Hendrik. The census wife Kloppers contradicts his wife Venter (married 1820).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|1881",
+  "verdict": "REJECT",
+  "reason": "The census wife Viljoen contradicts his wife Venter (married 1820). He was 24 in 1823, while the census head is annotated 'De Oude' (the elder).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

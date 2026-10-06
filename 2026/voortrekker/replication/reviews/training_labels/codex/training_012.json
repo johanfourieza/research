@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "576|129",
+  "verdict": "REJECT",
+  "reason": "Wynand does not match David Jacobus, and Cornelia Aletta Jansen van Rensburg contradicts Susanna Maria Pietersen, married in 1820. The Botes marriage dated 1826 is after the census and cannot explain this wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "580|9294",
+  "verdict": "REJECT",
+  "reason": "Isaac Johannes Meyer differs materially from Johannes Stephanus (Albertus) Maré in both surname and given names. The genealogy marriage in 1832 cannot be compared with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "587|3859",
+  "verdict": "REJECT",
+  "reason": "E. E. Otto contradicts Catherina Aletta Nortier, married in 1813; the other listed marriages occurred after 1825. Another Johan Coenraad Marneweck has wife C. A. Nortje, a plausible match to Nortier.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Marneweck, Johan Coenraad"
+ },
+ {
+  "pair_id": "587|3860",
+  "verdict": "REJECT",
+  "reason": "M. K. Scheepers contradicts Catherina Aletta Nortier, married in 1813, and neither later spouse explains the discrepancy. The alternative Johan Coenraad Marneweck with C. A. Nortje fits both names substantially better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Marneweck, Johan Coenraad"
+ },
+ {
+  "pair_id": "590|5435",
+  "verdict": "REJECT",
+  "reason": "The census specifies Johannes Jacobus rather than Johannes Petrus, a substantive given-name difference rather than an omission or spelling variant. Both listed marriages occurred after 1825 and provide no wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "593|5435",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus matches exactly and an age of about 20 is plausible, but there is no corroborating wife match. The Struwig marriage was in 1826 and the other marriages are undated, so Maria Carolina Storkenstrom does not establish a dated spouse contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "591|4167",
+  "verdict": "ACCEPT",
+  "reason": "Willem J. Albertus matches Willem Jacobus Albertus, and Anna Francina Johanna Viljoen matches the second spouse, whose supplied marriage date is in 1822. This corroboration outweighs the approximate district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "592|4252",
+  "verdict": "ACCEPT",
+  "reason": "Schalk Willem matches exactly, and Cornelia Klaassen plausibly matches Cornelia Margaretha Maria Therisia Claas(s), married in 1823. The abbreviated wife names and surname variation introduce no material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "595|4824",
+  "verdict": "REJECT",
+  "reason": "Hendrik Adriaan differs from Petrus Jacobus, and Christina Johanna Joubert contradicts Susanna Jacoba de Meyer, married in 1823. The alternative Pieter Jacobus Meintjes matches both the man's name and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Meintjes, Pieter Jacobus"
+ },
+ {
+  "pair_id": "597|3467",
+  "verdict": "REJECT",
+  "reason": "Although Jacobus is compatible with the man's given names, H. H. Smit contradicts Johanna Elisabeth van Rooyen, married in 1819. No listed remarriage explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "597|3471",
+  "verdict": "REJECT",
+  "reason": "Jacobus Philippus is compatible with omitted Johannes and spelling variation, but H. Barnard contradicts Johanna Elisabeth van Rooyen, married in 1819. No listed remarriage explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "602|9654",
+  "verdict": "REJECT",
+  "reason": "The genealogy explicitly identifies Elsie, widow of P. H. Fick, whereas the census identifies a male head named Coenraad Fredrik Meyer. These are incompatible personal identities.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "605|4395",
+  "verdict": "REJECT",
+  "reason": "Jacoba Johanna van Heerden contradicts the senior man's wife Maria Jacoba Jansen, married in 1798, and instead matches the competing junior man's spouse. The separate Philip Carel Sr. entry has the matching wife Maria Jac. Janzen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Minnaar, Philip Carel Sr."
+ },
+ {
+  "pair_id": "606|4395",
+  "verdict": "ACCEPT",
+  "reason": "Philip Carel matches, and Jac. Johanna v. Heerden matches Jacoba Johanna van Heerden, married in 1820. This wife distinguishes the man born in 1801 from the competing senior man born in 1776.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "605|4396",
+  "verdict": "ACCEPT",
+  "reason": "Philip Carel Sr. matches the genealogy name and designation, while Maria Jac. Janzen matches Maria Jacoba Jansen, married in 1798. The wife also distinguishes him from the competing junior man.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "606|4396",
+  "verdict": "REJECT",
+  "reason": "Maria Jac. Janzen contradicts Jacoba Johanna van Heerden, married in 1820, and matches the competing senior man's spouse. The alternative Philip Carel entry has the junior man's matching wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Minnaar, Philip Carel"
+ },
+ {
+  "pair_id": "613|838",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and Beaufort district agree, and the man's dates permit the match. However, no census wife is named and the genealogy supplies no father against which to check 'Fredrik's son', leaving the identity without independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "620|1542",
+  "verdict": "REJECT",
+  "reason": "Isabella Anna Janze contradicts Christina Petronella de Beer, married in 1821; the de Klerk marriage was only in 1827. The alternative Johannes Christiaan Muller matches the man's full name and has no named wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Muller, Johannes Christiaan"
+ },
+ {
+  "pair_id": "628|5500",
+  "verdict": "REJECT",
+  "reason": "The initials S. D. do not correspond to Philip Jacob, while an alternative head is explicitly named Philip Jacob Naude. The genealogy marriage in 1831 cannot be compared with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Naude, Philip Jacob"
+ },
+ {
+  "pair_id": "630|4823",
+  "verdict": "UNCERTAIN",
+  "reason": "Francois P. is compatible with Francois Paulus, and the district and age are plausible. The additional initial L. is unresolved and no census wife is named to corroborate the identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "633|9336",
+  "verdict": "REJECT",
+  "reason": "Magdelt Bekker contradicts Elisabeth Calitz, married in 1815, and does not match the other listed spouse, Susanna Schutte. Hendrik Johannes also differs materially from Pieter Johannes Lodewyk.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "633|9658",
+  "verdict": "REJECT",
+  "reason": "Jacoba van der Merwe contradicts Elisabeth Calitz, married in 1815, and does not match the other listed spouse, Susanna Schutte. Pieter Willem also differs from the supplied Pieter Johannes Lodewyk.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "639|9658",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Willem and the Uitenhage district match, with a plausible age of about 29. The marriage to Anna Helena Martha Nel is undated, so the different census wife cannot establish a chronological contradiction or corroborate identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "635|92",
+  "verdict": "REJECT",
+  "reason": "Stephanus is not a spelling variant or shortened form of Pueter Schalk Johannes. The marriage to Susanna Sophia Oosthuizen in 1829 cannot be compared with the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "635|4315",
+  "verdict": "REJECT",
+  "reason": "Even allowing Pueter as a spelling of Pieter, Willem differs substantively from the supplied Schalk Johannes. The 1829 marriage provides no evidence about the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "635|9556",
+  "verdict": "REJECT",
+  "reason": "Even allowing Pueter as Pieter, Willem Adriaan does not match Schalk Johannes through spelling variation, omission or reordering. The genealogy marriage occurred in 1829 and cannot confirm or contradict Jacoba Dorothea Coetzer in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "638|9359",
+  "verdict": "REJECT",
+  "reason": "Adriaan differs from Johannes Hendrik, and Jacomina Aletta van Eeden contradicts Johanna Helena van der Merwe, married in 1785. The alternative Johannes Hendrik Nel has a matching wife, Johanna van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Nel, Johannes Hendrik"
+ },
+ {
+  "pair_id": "640|13",
+  "verdict": "REJECT",
+  "reason": "Jan is compatible with Johannes, but Johanna Elizabeth Lombaard contradicts Maria du Preez, married in 1797. The other Jan Nel entry avoids this wife contradiction, although its unnamed wife leaves that alternative unconfirmed.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Nel, Jan"
+ },
+ {
+  "pair_id": "644|4312",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem is compatible with Willem Adriaan through omission of a middle name, but the common name lacks corroboration. The genealogy marriage in 1828 cannot be compared with Maria Catharina Koen in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "654|3643",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Willem is compatible with omitted Adriaan, but the undated Bekker marriage prevents a firm contradiction with A. J. Gosen. The alternative Pieter Willem Andries Nel is a stronger candidate because H. D. Bekker matches the listed spouse, despite its final given-name difference.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Nel, Pieter Willem Andries"
+ },
+ {
+  "pair_id": "655|4604",
+  "verdict": "REJECT",
+  "reason": "Jacob Josias differs materially from Izak Johannes. The alternative Isaac Johannes Niemand with Catharina Geertruida Strydom matches both the man's name and his spouse married in 1811.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Niemand, Isaac Johannes"
+ },
+ {
+  "pair_id": "671|1909",
+  "verdict": "REJECT",
+  "reason": "Marthinus Jacobus substitutes Marthinus for Gerhardus, a substantive given-name contradiction. The genealogy marriage in 1824 is after this 1823 census and cannot be compared with Jacomina Margaretha Opperman.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "673|471",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus and Beaufort agree, but the undated marriage to Johanna Maria Jansen cannot establish which wife should appear in 1825. Another Johannes Jacobus head is also listed, and the genealogy supplies no father to verify 'Jan's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "675|471",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus differs from Ockert Jacobus through a substantive given-name substitution. The marriage in 1834 and the undated Badenhorst marriage provide no secure comparison with the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "673|833",
+  "verdict": "REJECT",
+  "reason": "Johan is compatible with Johannes, but Hendrik Christoffel does not match Jacobus through spelling variation, omission or reordering. The undated Jansen marriage provides no firm wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "675|684",
+  "verdict": "REJECT",
+  "reason": "Cornelis Andries is incompatible with the supplied Ockert Jacobus; 'Ockert's son' names the census head's father, not the head. Neither the 1834 marriage nor the undated marriage supplies a secure census-year wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "680|1561",
+  "verdict": "REJECT",
+  "reason": "Despite the exact head-name match, Hester Maria Pienaar contradicts Anna Maria Elisabeth Greyling, married in 1820. Another Godlieb Rudolph Opperman has the matching Greyling wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Opperman, Godlieb Rudolph"
+ },
+ {
+  "pair_id": "683|246",
+  "verdict": "REJECT",
+  "reason": "Johan Philip Matthys differs substantively from Johan Frederik; the annotation 'Frederik's son' does not make Frederik the head's given name. The alternative Johan Fredrik Otto provides a substantially better name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Otto, Johan Fredrik"
+ },
+ {
+  "pair_id": "686|4992",
+  "verdict": "REJECT",
+  "reason": "Marthinus Nicolaas is incompatible with Johannes Jacobus. One genealogy marriage is undated and the other is explicitly dated 1827, so neither establishes a wife comparison for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "687|1605",
+  "verdict": "REJECT",
+  "reason": "Carel Johannes differs from Abraham Johannes, and Johanna Bezuidenhout contradicts Hendrina Jacoba Maria van Aswegen, married in 1817. The alternative Abraham Johannes Pelzer matches both the man's full name and that wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pelzer, Abraham Johannes"
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "119|4212",
+  "verdict": "REJECT",
+  "reason": "Census head is Petrus, not Gerhardus Christiaan, and his wife Fourie differs from Venter, whom the man married in 1824, before the 1825 census. The listed candidate Breedt, Gerhardus Christiaan (Cradock, no wife, fits an 1823 entry before the 1824 marriage) matches by name.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Breedt, Gerhardus Christiaan"
+ },
+ {
+  "pair_id": "120|2095",
+  "verdict": "ACCEPT",
+  "reason": "Willem matches Willem Sterrenberg, and the census wife Visagie, Maria Magdalena exactly matches the 1822 spouse. Cradock versus Colesberg is not a material conflict.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "120|4214",
+  "verdict": "ACCEPT",
+  "reason": "Willem Herzenberg is a plausible variant of Willem Sterrenberg, and the census wife Visagie, Maria Magdalena matches the 1822 spouse. Graaff-Reinet covered Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|243",
+  "verdict": "REJECT",
+  "reason": "Census head Jacob Johannes, with wife Janze van Rensburg, differs from Jan, who married Myburgh in January 1825. Brits, Jan with wife Meyburg, Anna Cornelia fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Jan"
+ },
+ {
+  "pair_id": "130|4052",
+  "verdict": "REJECT",
+  "reason": "The census wife v. d. Linde differs from Myburgh, whom he married in January 1825. Brits, Jan with wife Meyburg fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Jan"
+ },
+ {
+  "pair_id": "130|4053",
+  "verdict": "REJECT",
+  "reason": "The census wife Brits, Johanna Petronella differs from Myburgh, whom he married in January 1825. Brits, Jan with wife Meyburg fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Jan"
+ },
+ {
+  "pair_id": "130|4077",
+  "verdict": "ACCEPT",
+  "reason": "The names match exactly (Jan), and the census wife Meyburg, Anna Cornelia is a plausible variant of Myburgh, Anna Cecilia, married January 1825. Graaff-Reinet included Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|5227",
+  "verdict": "REJECT",
+  "reason": "The census wife v. d. Berg differs from Myburgh, whom he married in January 1825. Brits, Jan with wife Meyburg fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Jan"
+ },
+ {
+  "pair_id": "132|5227",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes, not Willem, and his wife v. d. Berg differs from Brits, Johanna Christina (married 1820). Brits, Willem Petrus has the matching wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Willem Petrus"
+ },
+ {
+  "pair_id": "131|5335",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan P. matches Christiaan Pieter, and the census wife De Beer, Susanna Petronella exactly matches the 1821 spouse. The district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "132|4050",
+  "verdict": "ACCEPT",
+  "reason": "Willem Petrus fits Willem, and the census wife Brits, Johanna Christina exactly matches the 1820 spouse. The district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "141|202",
+  "verdict": "REJECT",
+  "reason": "The census head is Rudolph Johannes, Hendrik's son, not Johannes Jacob Sr. His wife Beukes matches neither Geel (1797) nor De Beer (1814).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "144|503",
+  "verdict": "ACCEPT",
+  "reason": "The names match exactly, and the census wife Fourie, Maria Elizabeth matches the 1805 spouse. The 'Senior' annotation fits a man born in 1775.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "145|504",
+  "verdict": "ACCEPT",
+  "reason": "The names match exactly, and the annotation 'Johannes Andries' son' fits the son of Jan Andries Broodryk. Unmarried in 1825 is consistent with his 1827 marriage, and he was about 20.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "146|7704",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Godfried Jr., not Johannes Hendrik, and his wife Swanepoel differs from Moller (married 1823).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "148|9609",
+  "verdict": "ACCEPT",
+  "reason": "The rare full name Carel Valentyn Buchner matches exactly, and the garbled second-spouse entry carries 'LANDMAN', matching the census wife Landman, which implies a remarriage. The Field Cornet role fits his later Volksraad office.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "154|4615",
+  "verdict": "REJECT",
+  "reason": "The census head is Charel Gerhardus with wife Nieuwhoudt, which contradicts Viljoen (married 1823). Cilliers, Charel Arnoldus with wife Viljoen, Anna Francina matches exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Cilliers, Charel Arnoldus"
+ },
+ {
+  "pair_id": "156|4615",
+  "verdict": "REJECT",
+  "reason": "The census head's first name Charel contradicts Petrus, and the 1826 marriage cannot be compared. Cilliers, Petrus Gerhardus (no wife, consistent with marrying in 1826) fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Cilliers, Petrus Gerhardus"
+ },
+ {
+  "pair_id": "155|7559",
+  "verdict": "REJECT",
+  "reason": "The census head is Gerrit Daniel, not Jan Gabriel, and his wife Hasebroek differs from Du Toit (married 1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|1772",
+  "verdict": "REJECT",
+  "reason": "The census wife Heydenryk differs from Venter, Hester Hendrina Aletta (married 1805), and the head is Coetzer, Gerrit's son.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|2080",
+  "verdict": "REJECT",
+  "reason": "The census wife van der Walt differs from Venter (married 1805).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "164|2080",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Jacobus, not Cornelis Gerhardus, and his wife van der Walt differs from Strydom (married 1812).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4162",
+  "verdict": "REJECT",
+  "reason": "The census wife Kruger, Anna Elisabeth differs from Venter (married 1805), despite the matching name Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "165|4162",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes contradicts the given name Ockert Jacobus. His 1827 marriage cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4180",
+  "verdict": "REJECT",
+  "reason": "The census wife v. d. Walt differs from Venter (married 1805).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4227",
+  "verdict": "REJECT",
+  "reason": "The census wife Venter, Johanna Alida has different given names from Venter, Hester Hendrina Aletta (married 1805), and the head carries the extra name Viljoen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "161|1775",
+  "verdict": "REJECT",
+  "reason": "The census head Jacobus Albertus, Jacobus' son, has a different first name from Maarten Petrus Albertus, who was only 17 in 1823. His 1824 marriage cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "161|2315",
+  "verdict": "REJECT",
+  "reason": "The census head Abram Jacobus, Jan's son, has a different name, and the man was 17 in 1823. His 1824 marriage cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "161|4145",
+  "verdict": "REJECT",
+  "reason": "The census head Henning Johannes Hendrik has a different name, and his wife Stein differs from van der Merwe (married 1824).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "162|259",
+  "verdict": "REJECT",
+  "reason": "The census head Cornelis Johannes Adriaan, Gerrit's son, has a different name from Jan Abraham, who was about 17 and did not marry until 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "162|4164",
+  "verdict": "REJECT",
+  "reason": "This is a female-headed household (Viljoen, Hester, widow of Jan Coetzee), and a male genealogy person cannot be that head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "162|4567",
+  "verdict": "REJECT",
+  "reason": "Jan Adriaan differs from Jan Abraham, and the man was about 17 in 1825 with his only recorded marriage in 1829, yet the census head has a wife (Du Plessis).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "164|2268",
+  "verdict": "REJECT",
+  "reason": "The census head is Floris (Floris' son, Senior), not Cornelis Gerhardus, and his wife de Klerk differs from Strydom (married 1812).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "165|2271",
+  "verdict": "REJECT",
+  "reason": "The census head Dirk Jacobus has a different first name from Ockert Jacobus. His 1827 marriage cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "165|4825",
+  "verdict": "REJECT",
+  "reason": "The census head Dirk Jacobus has a different first name from Ockert Jacobus. His 1827 marriage cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "168|1756",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Jacobus, not Hendrik, and his wife Coetzer, Elsje Maria matches none of the listed spouses (de Bruyn, married 1822; Terblanche; Bester).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1756",
+  "verdict": "UNCERTAIN",
+  "reason": "The name Johannes Jacobus Coetzer matches exactly but is common. His only recorded marriage (Heydenrych, 1824) postdates the 1823 census, so the census wife Coetzer, Elsje Maria can neither confirm nor rule him out.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1765",
+  "verdict": "REJECT",
+  "reason": "The census head Caspar Johannes has a different name from Johannes Jacobus. His 1824 marriage cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "172|2283",
+  "verdict": "REJECT",
+  "reason": "The census wife Venter, Hester Hendrina differs from Nel, Anna Catharina (married 1815).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "173|2007",
+  "verdict": "REJECT",
+  "reason": "The census head is annotated 'de Oude' (the elder), while the genealogy man is Jr. and was about 18 in 1823. His 1824 marriage cannot be compared, so this is likely his father.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

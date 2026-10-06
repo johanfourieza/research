@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "687|2429",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Hendrina Jacoba Maria van Aswegen match the genealogy and its 1817 marriage. His age and the Somerset–Cradock district correspondence are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4367",
+  "verdict": "REJECT",
+  "reason": "The census wife J. L. van der Merwe contradicts Anna Elisabeth Visagie, married in 1806. The abbreviated head name does not overcome this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4681",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Arnoldus Pienaar and Anna Elisabeth Visagie match exactly, with their marriage preceding the census in 1806. His dates and the Colesberg–Graaff-Reinet district correspondence are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4994",
+  "verdict": "REJECT",
+  "reason": "Magdalena Elisabeth van der Merwe contradicts the recorded 1806 wife Anna Elisabeth Visagie. Although Pieter and Petrus are compatible forms, Jacobus also differs from Arnoldus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4140",
+  "verdict": "ACCEPT",
+  "reason": "Jacob Arnoldus and his 1822 wife Aletta Petronella van Heerden match, allowing ordinary spelling and particle abbreviations. His age and district are compatible; the Cradock alternative provides no clearly superior identity match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4141",
+  "verdict": "REJECT",
+  "reason": "Martha Jacoba van Zyl contradicts Aletta Petronella van Heerden, married in 1822. The alternative Jacob Arnoldus Pienaar matches both the man's name and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pienaar, Jacob Arnoldus"
+ },
+ {
+  "pair_id": "693|4141",
+  "verdict": "UNCERTAIN",
+  "reason": "Only Jacobus clearly matches, while the census first name Abel is explicitly uncertain and the genealogical man was about 16. All listed marriages occurred after 1825, so the census wife cannot establish a contradiction or agreement.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4646",
+  "verdict": "REJECT",
+  "reason": "Anna Sophia van Heerden is a different wife from Aletta Petronella van Heerden, married in 1822. The alternative Jacob Arnoldus Pienaar matches both the genealogical name and wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pienaar, Jacob Arnoldus"
+ },
+ {
+  "pair_id": "693|4261",
+  "verdict": "UNCERTAIN",
+  "reason": "Schalk and the district agree, but Willem differs from Jacobus and the man was only about 16. The marriages dated 1832, 1853 and 1855 provide no comparable wife evidence for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "693|4459",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus and the district agree, but Hendrik differs from Schalk and the man was about 16. His listed marriages all postdate the census, leaving insufficient corroboration to resolve the partial name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "697|7488",
+  "verdict": "UNCERTAIN",
+  "reason": "The names match with ordinary spelling variation and the district agrees, but the man was only about 16 and there is no comparable spouse evidence. His 1838 marriage cannot contradict the census wife, and the unmarried Bernardus Hermanus alternative is not conclusively better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "698|9368",
+  "verdict": "REJECT",
+  "reason": "Fredrik differs from David Johannes, and Elisabeth Smit contradicts Anna Christina Pieterse, married in 1819. The shared surname and district do not resolve these contradictions.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "699|9503",
+  "verdict": "ACCEPT",
+  "reason": "Nicolaas Theodoris and Susanna Julianna Wilken closely match both genealogical names, with compatible age and district. The marriage date is unknown, but the matching couple supplies strong corroboration without a stated chronological contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "702|9410",
+  "verdict": "UNCERTAIN",
+  "reason": "Ferdinand Albertus closely matches Ferdinandus Albertus, with compatible age and district. No census wife or genealogical father's name is supplied to corroborate the match or verify the annotation 'David's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "703|9410",
+  "verdict": "UNCERTAIN",
+  "reason": "Ferdinand is compatible with Ferdinandus, but Albertus differs from Petrus and no census wife is named. The competing genealogy in 702|9410 matches the full census name more closely, leaving this identification unsupported.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "706|114",
+  "verdict": "REJECT",
+  "reason": "Emerentia Hester Snyman contradicts Martha Maria Maritz, married in 1813. The census middle name Hermanus also differs from Petrus Theodorus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "708|9166",
+  "verdict": "REJECT",
+  "reason": "Salomon Theodoris differs from Johannes Hermanus, and Sara Johanna Barkhuysen contradicts Emerentia Hester Snyman, married in 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "709|9616",
+  "verdict": "UNCERTAIN",
+  "reason": "Only Johannes overlaps between Marthinus Johannes and Johannes Hermanus Jacobus, and no census wife is named. The supplied genealogy gives no father's name with which to check 'Jurie's son', so the partial name and district agreement are insufficient.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "709|9775",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes agrees, but Petrus Theodorus differs from Hermanus Jacobus and the genealogy supplies no father's name to check 'Cornelis' son'. The undated Bezuidenhout marriage cannot establish that Martha Maria Maretz was an incompatible wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "711|9118",
+  "verdict": "REJECT",
+  "reason": "Petrus Hendrik differs from Evert Frederik, and Adriana Angenesse Muller contradicts Elsje Johanna Marthina Scheepers, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "712|9118",
+  "verdict": "REJECT",
+  "reason": "Petrus Hendrik is incompatible with the supplied name Theodorus; the listed Theodoris candidate is a clearly better name match. The 1833 marriage supplies no wife comparison for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Theodoris"
+ },
+ {
+  "pair_id": "711|9629",
+  "verdict": "ACCEPT",
+  "reason": "Evert Fredrik and Elsie Johanna Marthina Scheepers match the genealogical couple with ordinary spelling variations. Their 1820 marriage, his age and the district support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "716|9639",
+  "verdict": "REJECT",
+  "reason": "Marthinus Gerhardus differs completely from Petrus Hendrik Theunis, and Elsie Magdalena Breedenbach matches neither listed wife, including Sara Johanna Janse(n) van Vuuren married in 1823. The Petrus Hendrik candidate with Adriana Angenesse Muller fits substantially better, although its marriage chronology remains unresolved.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Petrus Hendrik"
+ },
+ {
+  "pair_id": "726|9639",
+  "verdict": "REJECT",
+  "reason": "Marthinus Gerhardus differs completely from Willem Jacobus. Elsie Magdalena Breedenbach also matches neither Maria Petronella Botha, married in 1822, nor the undated spouse Francina Louisa de Jager.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "717|1832",
+  "verdict": "REJECT",
+  "reason": "Maria Petronella Botha contradicts Geertruyda Margaretha Erasmus, married in 1822. The alternative Willem Frederick Potgieter with Gertruyda Margaretha Erasmus matches both names substantially better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Willem Frederick"
+ },
+ {
+  "pair_id": "718|1832",
+  "verdict": "REJECT",
+  "reason": "Maria Petronella Botha contradicts the 1816 wife Aletta Magdalena Jordaan and matches neither other listed spouse. Willem also differs from Pieter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "718|1813",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Jacobus and Aletta Magdalena Jordaan match exactly, with their marriage dated 1816. His age and district are compatible, and the competing genealogies do not match this couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "722|1813",
+  "verdict": "REJECT",
+  "reason": "Pieter Jacobus differs from Hermanus, and Aletta Magdalena Jordaan matches none of the four wives married before 1823. The competing genealogy in 718|1813 matches the census couple exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "726|1813",
+  "verdict": "REJECT",
+  "reason": "Aletta Magdalena Jordaan contradicts Maria Petronella Botha, married in 1822, and does not match the undated spouse Francina Louisa de Jager. The competing genealogy in 718|1813 matches both census names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "727|1813",
+  "verdict": "REJECT",
+  "reason": "Pieter Jacobus is incompatible with Nicolaas Johannes, and the competing genealogy in 718|1813 matches the census couple exactly. Both listed marriages occurred after 1823 and therefore provide no wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "719|4561",
+  "verdict": "REJECT",
+  "reason": "Maria Magdalena Coetzee contradicts Geertruida Maria Steenkamp, married in 1817. The shared name Jacobus cannot overcome the wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "720|4561",
+  "verdict": "REJECT",
+  "reason": "Jacobus is incompatible with Hans Jurgen. The Steenkamp marriage occurred during 1825, and the census date within that year is unspecified, so the wife difference is not independently decisive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "720|1833",
+  "verdict": "UNCERTAIN",
+  "reason": "Hans can correspond to Johannes, but Nicolaas is not explained by the supplied name Hans Jurgen, leaving only a partial name correspondence. No wife is named, the listed marriage occurred in 1825, and the genealogy supplies no father's name to verify 'Hermanus' zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "721|9741",
+  "verdict": "REJECT",
+  "reason": "Isaac is incompatible with Philippus Johannes. The 1831 Du Plessis marriage and undated Raath marriage do not establish a comparable wife for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "727|9741",
+  "verdict": "REJECT",
+  "reason": "Isaac is incompatible with Nicolaas Johannes. The marriages dated 1826 and 1831 cannot confirm or contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "723|1831",
+  "verdict": "ACCEPT",
+  "reason": "Andries Hendrik and Elisabeth Helena Botha match the census couple, allowing Elizabeth as a spelling variant. Their 1812 marriage, his age and the Somerset–Cradock correspondence support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|113",
+  "verdict": "REJECT",
+  "reason": "Jeremeas Iesaias differs completely from Hermanus Philippus, and Emerentia Hester Potgieter contradicts Cornelia Elisabeth Botha, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|1862",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus and the district are compatible, but no wife is named to corroborate the 1817 marriage. The annotation 'de Oude' does not establish identity or a definite age contradiction for a man about 26.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "729|1862",
+  "verdict": "REJECT",
+  "reason": "Hermanus is incompatible with Marthinus Johannes; these are not omitted or reordered versions of the supplied names. The absence of a census wife provides no independent contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|9318",
+  "verdict": "REJECT",
+  "reason": "Theunis differs from Hermanus Philippus, and Gertruyda Woutrina de Vos contradicts Cornelia Elisabeth Botha, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

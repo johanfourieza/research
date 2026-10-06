@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "724|9645",
+  "verdict": "REJECT",
+  "reason": "Susanna Magdalena van Rooyen contradicts the documented 1817 marriage to Cornelia Elisabeth Botha. The head's additional given names also differ from Hermanus Philippus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "725|1836",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Potgieter partially matches, and Cradock is compatible with Somerset in 1823, but Christoffel versus Johannes remains unexplained. The Botha and Herbst marriages are undated, while the Grobler marriage is circa 1854, so the census wife cannot establish a dated contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "725|9277",
+  "verdict": "REJECT",
+  "reason": "Lodewyk and Jacobus are distinct given names, not spelling variants; sharing Johannes Potgieter does not resolve that conflict. No census wife is supplied.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "726|8899",
+  "verdict": "REJECT",
+  "reason": "Fredrik Johannes conflicts with Willem Jacobus and cannot be explained by omitted or reordered names. The missing census wife provides no comparison with either listed spouse.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "727|9646",
+  "verdict": "REJECT",
+  "reason": "Lucas and Nicolaas are distinct given names despite the shared Johannes Potgieter. Both listed marriages occurred after 1825 and therefore cannot confirm or contradict Hester Prinslo.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "730|9209",
+  "verdict": "ACCEPT",
+  "reason": "Hans Jurie is a plausible variant of the distinctive Hans Jurgen, with the same surname and Uitenhage district. His age of about 22 is compatible, and no wife is named before his documented 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "730|9745",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes could correspond to Hans with Jurgen omitted, but the name and district do not establish identity, and the 1826 marriage cannot be compared with the census wife. The supplied Hans Jurie Potgieter entry is a clearly stronger name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Hans Jurie"
+ },
+ {
+  "pair_id": "734|4471",
+  "verdict": "REJECT",
+  "reason": "Charel conflicts with Dewald Johannes and is not an ordinary spelling or abbreviated form of those names. The genealogy marriage in 1830 cannot be compared with the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "735|4815",
+  "verdict": "REJECT",
+  "reason": "Sybrand Gerhardus conflicts with Wynand Johannes. Competing pair 756|4815 supplies a man named exactly Sybrand Gerhardus, also born in 1806 and associated with Graaff-Reinet.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "756|4815",
+  "verdict": "ACCEPT",
+  "reason": "The full name Sybrand Gerhardus Pretorius and the district agree, and an age of about 19 is compatible with household headship. No wife is named before his listed 1828 marriage, and the competing Wynand Johannes has conflicting given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "735|5006",
+  "verdict": "UNCERTAIN",
+  "reason": "Wynand Johannes Pretorius matches exactly and the district agrees, but there is no independent corroboration of the census marriage to Anna Christina Pretorius. The listed Aucamp marriage in 1827 can neither confirm nor contradict a wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|1651",
+  "verdict": "REJECT",
+  "reason": "Marthinnus Wessel conflicts with Matthys Cornelis, and Maria Christina Pretorius contradicts the documented 1809 marriage to Wilhelmina Christina Kruger.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|1651",
+  "verdict": "REJECT",
+  "reason": "Marthinnus Wessel conflicts with Johannes Petrus; the man's age of about 14 also fits poorly with a married head annotated 'De oude'. The Strauss marriage is undated and the Alberts marriage occurred in 1829, preventing a firm wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|2339",
+  "verdict": "REJECT",
+  "reason": "Abraham conflicts with Matthys Cornelis. Lasya Christina Venter also contradicts the documented 1809 marriage to Wilhelmina Christina Kruger.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|4106",
+  "verdict": "REJECT",
+  "reason": "Dirk Jacobus and Matthys Cornelis are conflicting given names, not spelling variants or reordered names. No census wife is available for comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|4701",
+  "verdict": "UNCERTAIN",
+  "reason": "Matthys Pretorius partially matches, but Jacobus versus Cornelis remains unexplained and the districts differ. No census wife or other corroborating detail identifies this head as the man married to Wilhelmina Christina Kruger.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|4701",
+  "verdict": "REJECT",
+  "reason": "Matthys Jacobus conflicts with Gerhardus Petrus despite the shared surname and district. The missing census wife supplies no comparison with Elsje Josina Bester.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4701",
+  "verdict": "REJECT",
+  "reason": "Matthys and Johannes are distinct given names; sharing Jacobus Pretorius does not explain the conflict. The absent census wife is not contradictory because the listed marriage occurred in December 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|5072",
+  "verdict": "REJECT",
+  "reason": "Marthinus Wessel conflicts with Matthys Cornelis. Susanna Elisabeth Viljoen also contradicts the documented 1809 marriage to Wilhelmina Christina Kruger.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "746|5072",
+  "verdict": "REJECT",
+  "reason": "Both Marthinus Wessel and his wife Susanna Elisabeth Viljoen conflict with Andries Wilhelmus Jacobus and his 1818 spouse Christina Petronella de Wit. The supplied Andries Wilhelm Jacobus census entry matches both the man and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Andries Wilhelm Jacobus"
+ },
+ {
+  "pair_id": "736|5167",
+  "verdict": "REJECT",
+  "reason": "Magdalena G. Pretorius contradicts the documented 1809 spouse Wilhelmina Christina Kruger. Competing pair 743|5167 matches both Matthys Wynand and Magdalena Gerbrecht Pretorius, married in 1807.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "743|5167",
+  "verdict": "ACCEPT",
+  "reason": "Matthys Wynand matches exactly, and Magdalena G. Pretorius agrees with Magdalena Gerbrecht Pretorius, married in 1807. The district and age of about 39 are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "736|5257",
+  "verdict": "REJECT",
+  "reason": "Marthinus Gerhardus conflicts with Matthys Cornelis. Louisa Johanna Fourie also contradicts the documented 1809 spouse Wilhelmina Christina Kruger.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5257",
+  "verdict": "REJECT",
+  "reason": "Marthinus Gerhardus conflicts with Johannes Andries. Louisa Johanna Fourie also contradicts the documented 1803 marriage to Johanna Catharina Davel.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|4894",
+  "verdict": "REJECT",
+  "reason": "Although Gert is compatible with Gerhardus, Maria Magdalena Greeff contradicts Elsje Josina Bester, whom the genealogy man married in 1824. No supplied remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "744|4894",
+  "verdict": "UNCERTAIN",
+  "reason": "Gert is compatible with Gerhardus, but this abbreviated name and the district provide insufficient identification for a man aged about 16. Both listed marriages occurred after 1825, so Maria Magdalena Greeff cannot be assessed against them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|5008",
+  "verdict": "REJECT",
+  "reason": "Matthys van As conflicts with Gerhardus Petrus and is not an ordinary variant or abbreviation. No census wife is supplied to compare with Elsje Josina Bester.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5008",
+  "verdict": "REJECT",
+  "reason": "Matthys van As conflicts with Hercules Albertus. The supplied Hercules Albertus census entry matches his full name and his 1822 spouse Anna Elisabeth Schoombee.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Hercules Albertus"
+ },
+ {
+  "pair_id": "738|5040",
+  "verdict": "REJECT",
+  "reason": "Despite the exact head-name match, Geesina Catharina Becker contradicts Elsje Josina Bester, married in 1824. The supplied evidence offers no remarriage or plausible spelling explanation for these different wives.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "744|5040",
+  "verdict": "UNCERTAIN",
+  "reason": "Gerhardus Petrus is compatible with omission of Jacobus, and the district agrees, but the man was only about 16 and lacks spouse corroboration. His marriages in 1827 and 1829 cannot confirm or contradict Geesina Catharina Becker in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|5040",
+  "verdict": "REJECT",
+  "reason": "Reordering Petrus Gerhardus to Gerhardus Petrus is acceptable, but Geesina Catharina Becker contradicts Sophia Joachimina Scholtz, married in 1801. No supplied remarriage explains the wife difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "738|5079",
+  "verdict": "REJECT",
+  "reason": "Hercules Albertus conflicts with Gerhardus Petrus, and Anna Elisabeth Schombe contradicts Elsje Josina Bester, married in 1824. Competing pair 749|5079 matches both the census head and wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5079",
+  "verdict": "ACCEPT",
+  "reason": "Hercules Albertus matches exactly, and Anna Elisabeth Schombe is a plausible spelling of Anna Elisabeth Schoombee, married in 1822. The district and age of about 22 are compatible; the 1844 marriage is irrelevant to 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5079",
+  "verdict": "REJECT",
+  "reason": "Hercules Albertus conflicts with Johannes Petrus, and competing pair 749|5079 matches both the head and his wife. The undated Strauss marriage and the 1829 Alberts marriage do not permit a firm wife comparison for Johannes Petrus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|5079",
+  "verdict": "REJECT",
+  "reason": "Hercules Albertus conflicts with Petrus Gerhardus, and Anna Elisabeth Schombe contradicts Sophia Joachimina Scholtz, married in 1801. Competing pair 749|5079 matches both census names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "741|5146",
+  "verdict": "REJECT",
+  "reason": "Andries Wilhelm Jacobus conflicts with Hendrik Jacobus Matthys Wynand; sharing Jacobus does not explain the other names. Competing pair 746|5146 matches both the head and his pre-census wife, while this man's listed marriages occurred after 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "746|5146",
+  "verdict": "ACCEPT",
+  "reason": "Andries Wilhelm Jacobus agrees with Andries Wilhelmus Jacobus, and Christina Petronella de Wit exactly matches his 1818 spouse. The district and age of about 27 are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5146",
+  "verdict": "REJECT",
+  "reason": "Andries Wilhelm conflicts with Johannes despite the shared Jacobus, and competing pair 746|5146 matches both census names. The December 1825 Van Vreede(n) marriage cannot establish a wife contradiction without knowing when the census was taken.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "747|4526",
+  "verdict": "REJECT",
+  "reason": "Hendrik Stephanus conflicts with Henning Petrus Nicolaas. Magdalena Maria Joosten matches neither Johanna Christina Vorster, married in 1821, nor the undated spouse Martha Johanna Muller.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "747|4527",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly female: Geertruida Grobler, widow of Hendrik Stephanus Pretorius. She cannot be the male genealogy person Henning Petrus Nicolaas Pretorius.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

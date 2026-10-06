@@ -1,0 +1,268 @@
+[
+ {
+  "pair_id": "1013|4490",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus van der Merwe and the district are compatible, but do not establish identity. Maria Bezuidenhout matches neither listed spouse, whose missing marriage dates prevent a firm contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1013|4804",
+  "verdict": "REJECT",
+  "reason": "Francois Arnoldus differs from Jacobus Francois by a substantive given-name substitution, rather than spelling or reordering. Neither undated genealogy marriage permits a firm comparison with Christina Kotze.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4804",
+  "verdict": "REJECT",
+  "reason": "Francois Anroldus closely matches Francois Arnoldus, but Christina Kotze conflicts with Christina Cornelia Koch, married in 1819; the supplied evidence does not establish these distinct surnames as spelling variants. The Scheepers marriage in 1830 is after the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|1574",
+  "verdict": "UNCERTAIN",
+  "reason": "David Schalk matches exactly, and Somerset is compatible with Cradock in 1823. Anna Susanna Eelhof differs from Neeltjie Christina van der Merwe, but the missing marriage date prevents a firm contradiction, and the genealogy supplies no father to compare with Carel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|2312",
+  "verdict": "REJECT",
+  "reason": "David Fredrik conflicts with David Schalk: Fredrik is a different given name, not a spelling variant of Schalk. No census wife or comparable genealogical parentage resolves that discrepancy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|81",
+  "verdict": "REJECT",
+  "reason": "Johannes Frederick conflicts with Johannes Petrus through a substantive given-name difference. The genealogy marriage in 1836 cannot be compared with the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|2310",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and the Somerset–Cradock district relationship fit, but the man was only about 15 in 1823 and the genealogy does not corroborate the annotation identifying David as his father. His 1836 marriage neither confirms nor contradicts the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4117",
+  "verdict": "REJECT",
+  "reason": "Venter and van der Merwe are different surnames despite the matching given names Johannes Petrus. The 1836 genealogy marriage provides no comparable wife evidence for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|9346",
+  "verdict": "REJECT",
+  "reason": "Johannes Marthinus conflicts with Johannes Petrus through a substantive given-name difference. The genealogy supplies no father to compare with Piet, and its 1836 marriage cannot establish the wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4060",
+  "verdict": "REJECT",
+  "reason": "Van der Walt is a different surname from van der Merwe, and Hendrik also differs from Stephanus. The undated Griesel marriage cannot establish a wife contradiction for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4406",
+  "verdict": "UNCERTAIN",
+  "reason": "The census includes Johannes Stephanus van der Merwe with the additional name Nicolaas, and the district and age of about 20 are compatible. No named census wife or other corroborating identity evidence establishes the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4829",
+  "verdict": "REJECT",
+  "reason": "Pieter Jacobus van der Berg conflicts with Johannes Stephanus van der Merwe in both surname and given names. The shared district does not resolve these differences.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|702",
+  "verdict": "REJECT",
+  "reason": "Van der Westhuizen conflicts with van der Schyff, and Johannes differs from Marthinus. Both genealogy marriages occurred after 1825 and cannot be compared with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|2409",
+  "verdict": "REJECT",
+  "reason": "Venter is a different surname from van der Schyff, with further differences between Jan Hendrik and Marthinus. The marriages in 1827 and 1861 provide no wife comparison for 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|4110",
+  "verdict": "REJECT",
+  "reason": "The census surname Venter contradicts van der Schyff despite the shared name Petrus. Neither genealogy marriage predates the census, so Hester Potgieter cannot be used as a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4110",
+  "verdict": "REJECT",
+  "reason": "Hester Potgieter conflicts with Wilhelmina Catharina Francina Venter, whom Petrus Albertus married in 1812. The compatible abbreviated head name and district do not overcome that wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4110",
+  "verdict": "REJECT",
+  "reason": "The census given name Petrus conflicts with Albertus Johannes rather than representing an omission or spelling variant. The Hugo marriage in 1827 cannot be compared with the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|4539",
+  "verdict": "REJECT",
+  "reason": "Van der Walt and van der Schyff are different surnames despite the shared name Petrus. Both listed marriages occurred after 1825, making the wife evidence non-comparable.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1022|2151",
+  "verdict": "REJECT",
+  "reason": "Gert van der Merwe conflicts with Willem Bartholomeus van der Vyver in both surname and given names. The Botma marriage in 1827 cannot be compared with the census wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1022|5015",
+  "verdict": "REJECT",
+  "reason": "Barend Jacobus van der Berg conflicts with Willem Bartholomeus van der Vyver in both surname and given names. The genealogy marriage occurred in 1827, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|330",
+  "verdict": "REJECT",
+  "reason": "Isaac conflicts with Nicolaas Georg, while the listed Nicolaas van der Westhuizen is a clearly better name match in Beaufort. The Barnard marriage in 1846 cannot be compared with the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Westhuizen, Nicolaas"
+ },
+ {
+  "pair_id": "1028|330",
+  "verdict": "REJECT",
+  "reason": "Isaac and Johannes are different given names, and the listed Johannes van der Westhuizen is a clearly better name match in Beaufort. The Naude marriage in 1828 cannot confirm or contradict the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Westhuizen, Johannes"
+ },
+ {
+  "pair_id": "1023|656",
+  "verdict": "UNCERTAIN",
+  "reason": "Nicolaas van der Westhuizen, Beaufort, and an age of about 33 are compatible, but the genealogy does not corroborate the annotation identifying Johannes as his father. No census wife is named, and the 1846 marriage provides no contemporary confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|730",
+  "verdict": "REJECT",
+  "reason": "Jan Adriaan Venter conflicts with Nicolaas Georg van der Westhuizen in both surname and given names. The listed Nicolaas van der Westhuizen is a clearly better name match; the 1846 marriage supplies no wife comparison for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Westhuizen, Nicolaas"
+ },
+ {
+  "pair_id": "1152|730",
+  "verdict": "REJECT",
+  "reason": "Jan Adriaan conflicts with Jan Louis through a substantive given-name substitution. The man was about 16 in 1825, and his 1831 marriage cannot be compared with Maria Venter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|867",
+  "verdict": "REJECT",
+  "reason": "Nicolaas Hendrik conflicts with Nicolaas Georg through a substantive given-name difference. The listed Nicolaas van der Westhuizen is a better name match without that conflict, while no wife evidence is comparable.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Westhuizen, Nicolaas"
+ },
+ {
+  "pair_id": "1024|660",
+  "verdict": "REJECT",
+  "reason": "Martha Maria Elizabeth Smit conflicts with Sara Magdalena Kock, whom Jacob married in 1806. The matching head name and district do not overcome that dated wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1024|674",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacob and Jacobus are compatible forms, and the additional name Andries does not by itself establish a contradiction. The district and age fit, but no census wife is named and the genealogy provides no father to compare with Piet.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1027|301",
+  "verdict": "REJECT",
+  "reason": "Wietsche conflicts with Jasper as the head's given name. The Louw marriage in 1829 cannot be compared with Susanna Francina Koortze in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1032|1516",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Gerritse and Jan Gerritze are compatible spellings, and the district and age of about 25 fit. However, the genealogy supplies no independently comparable parentage or contemporary spouse to establish the identity beyond the name and district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1036|102",
+  "verdict": "REJECT",
+  "reason": "Frans conflicts with Sybrand, and Anna Catharina de Lange conflicts with Helena Susanna van der Merwe, married in 1805. The alternative Sybrand van Dyk matches both the man's name and his wife in Albany.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Dyk, Sybrand"
+ },
+ {
+  "pair_id": "1039|1",
+  "verdict": "UNCERTAIN",
+  "reason": "Joseph van Dyk matches the name, but the man was only about 16 in 1825 and another Joseph van Dyk appears among the census alternatives. Both genealogy marriages occurred after the census, so neither establishes or contradicts Sagareia Krieger as his wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1040|1",
+  "verdict": "REJECT",
+  "reason": "Sagareia Krieger conflicts with Sophia Elizabeth Potgieter, whom Joseph married in 1813. The alternative Joseph van Dyk with Sophia Elizabeth Potgieter in Albany matches both spouses and is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Dyk, Joseph"
+ },
+ {
+  "pair_id": "1040|63",
+  "verdict": "ACCEPT",
+  "reason": "Joseph van Dyk and Sophia Elizabeth Potgieter match the genealogy couple married in 1813. Albany and the man's age of about 36 are compatible, with no material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1043|4482",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Nicolaas van Dyk and Jacoba Hendrina de Beer match exactly, and their marriage in 1819 predates the census. The Somerset–Graaff-Reinet district difference does not outweigh this strong couple match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1045|282",
+  "verdict": "REJECT",
+  "reason": "Susanna Elizabeth Rossouw conflicts with Susanna Maria la Grange, whom Gerrit married in 1820. The matching head name and district do not overcome the different wife's maiden surname and given names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1055|5190",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Johannes van Nieuwkerk is a plausible spelling variant of Pieter Johannes van Niekerk, and Heilje Magdalena v. d. Berg plausibly matches Hilletje Magdalena Petronella van den Berg, married in 1818. The matching district and compatible age support the couple identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1059|9162",
+  "verdict": "REJECT",
+  "reason": "Pieter Cornelis conflicts with Johannes Wilhelmus. Jacomina Aletta Ferreira matches neither Margaretha Maria Spies, married in 1805, nor Maria Catharina van Wyk, whose supplied marriage date is in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

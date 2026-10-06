@@ -1,197 +1,190 @@
 # Codebook
 
-All files are UTF-8 encoded CSV with a single header row. Missing values
-are represented as empty strings. Counts are non-negative integers; monetary
-values are in pounds sterling unless stated otherwise.
+All files are UTF-8 CSV with one header row; missing values are empty. Counts of persons and animals are integers; grain is in muids, wine and brandy in leaguers, money in pounds sterling. [`docs/variable_definitions.csv`](docs/variable_definitions.csv) lists every variable with its type and number of missing values.
 
-A machine-readable version of this codebook is at
-[`docs/variable_definitions.csv`](docs/variable_definitions.csv).
+Join keys: `census_id` identifies a census household in every file. `row_id` (`vt_row_id` in the compensation links) identifies one of the 1,220 men in the linkage sample; `data/linked/genealogy_crosswalk.csv` maps it to the genealogy (`source_row` in `data/raw/voortrekkers.csv`).
 
 ---
 
 ## `data/raw/cape_census_1825.csv`
 
-Household-level 1825 Cape Colony census. One row per household. 10,420 rows.
+The 1825 Cape Colony census (*opgaafrolle*), one row per household: 10,783 households in eleven districts. The Somerset data come from the Cradock returns of 1823 and the Clanwilliam and Worcester data from 1824. Source corrections and excluded entries are documented in `replication/data/inputs/`.
 
-### Identifiers and geography
-
-| Variable | Type | Description |
-|---|---|---|
-| `record_nr` | integer | Sequential record number within the source district return. |
-| `name_raw` | string | Household head name as transcribed from the census. |
-| `wife_name_raw` | string | Wife's name as transcribed from the census, where recorded. |
-| `sublocation` | string | Sub-district or place name, where recorded. |
-| `district` | string | Census district. One of: Albany, Beaufort, Cape, Clanwilliam, Cradock, George, Graaff-Reinet, Stellenbosch, Swellendam, Uitenhage, Worcester. |
-| `census_id` | integer | Unique household identifier constructed within the pipeline. Used to join to `voortrekker_census_matches.csv` and `analysis_dataset.csv`. |
-
-### Household composition (persons)
-
-Separate counts by race/status category and by gender/age. `_men` and
-`_women` are adults; `_sons` and `_daughters` are children under 16.
+### Identifiers and names
 
 | Variable | Description |
 |---|---|
-| `settler_men`, `settler_women` | Adult European settler men and women. |
-| `settler_sons`, `settler_daughters` | European settler children. |
-| `khoe_men`, `khoe_women`, `khoe_sons`, `khoe_daughters` | Khoekhoe workers resident on the household. |
-| `freeblacks_men`, `freeblacks_women`, `freeblacks_sons`, `freeblacks_daughters` | Free Black persons. |
-| `prize_men`, `prize_women`, `prize_sons`, `prize_daughters` | Prize Negroes (liberated from intercepted slave ships). |
-| `slaves_men`, `slaves_women`, `slaves_sons`, `slaves_daughters` | Enslaved persons on the household. |
+| `census_id` | Household identifier. |
+| `district` | Census district: Albany, Beaufort, Cape, Clanwilliam, Cradock, George, Graaff-Reinet, Stellenbosch, Swellendam, Uitenhage or Worcester. |
+| `record_nr` | Running number of the household within its district return. |
+| `source_row`, `source_key` | Row of the entry in the source workbook, and its workbook, sheet and row. |
+| `sublocation` | Field cornetcy or place, where recorded. |
+| `name_raw` | Name of the household head used in the linkage (equal to `head_name_raw`). |
+| `wife_name_raw` | Name of the head's wife used in the linkage (equal to `spouse_name_raw`), where recorded. |
+| `head_role` | Head of household as parsed: `male`, `female` or `unresolved`. |
+| `head_name_raw` | Name of the head as parsed. |
+| `spouse_name_raw` | Name of the wife of a male head, as parsed. |
+| `spouse_source_row` | Source row from which the wife's name was read (the same row or a continuation row). |
+| `husband_named_absent` | For a female head (for example, a widow entered under her late husband's name), the man's name in the entry. |
+| `annotation` | Annotation in the return, such as a widow marker. |
 
-### Livestock
+### Persons
+
+`_men` and `_women` are adults; `_sons` and `_daughters` are children, generally sons under 16 and daughters under 20.
+
+| Variable | Description |
+|---|---|
+| `settler_men`, `settler_women`, `settler_sons`, `settler_daughters` | European settlers. |
+| `khoe_men`, `khoe_women`, `khoe_sons`, `khoe_daughters` | Khoekhoe workers resident with the household. |
+| `freeblacks_men`, `freeblacks_women`, `freeblacks_sons`, `freeblacks_daughters` | Free Black persons. |
+| `prize_men`, `prize_women`, `prize_sons`, `prize_daughters` | Prize Negroes (people liberated from intercepted slave ships and indentured). |
+| `slaves_men`, `slaves_women`, `slaves_sons`, `slaves_daughters` | Enslaved persons. |
+
+### Livestock and production
 
 | Variable | Description |
 |---|---|
 | `horses_saddle`, `horses_breeding` | Saddle and breeding horses. |
 | `cattle_oxen`, `cattle_breeding` | Draught oxen and breeding cattle. |
-| `sheep_wethers`, `sheep_breeding`, `sheep_spanish` | Sheep by type; `sheep_spanish` refers to Merino sheep. |
+| `sheep_wethers`, `sheep_breeding`, `sheep_spanish` | Sheep; `sheep_spanish` are merinos. |
 | `donkeys`, `goats`, `pigs` | Other livestock. |
-
-### Agriculture
-
-| Variable | Description |
-|---|---|
-| `wheat_sown`, `barley_sown`, `oats_sown`, `rye_sown` | Grain sown, in muids. |
-| `wheat_reaped`, `barley_reaped`, `rye_reaped`, `oats_reaped` | Grain reaped, in muids. |
-| `wine` | Wine produced, in leaguers. |
-| `brandy` | Brandy produced, in leaguers. |
-| `hay` | Hay produced, where recorded. |
+| `wheat_sown`, `barley_sown`, `oats_sown`, `rye_sown` | Grain sown (muids). |
+| `wheat_reaped`, `barley_reaped`, `oats_reaped`, `rye_reaped` | Grain reaped (muids). |
+| `hay` | Hay, where recorded. |
+| `wine`, `brandy` | Wine and brandy produced (leaguers). |
 
 ---
 
 ## `data/raw/voortrekkers.csv`
 
-Voortrekker genealogical records. 2,702 rows; matching sample is 917 adult
-males born before 1810 with valid names.
+Voortrekker genealogical records: 2,702 rows, one per person entry, with individual, spouse and trek fields. The linkage uses the 1,220 named men born before 1810 or with unknown birth year.
 
 | Variable | Description |
 |---|---|
-| `surname_oorspronklik` | Surname as recorded in the original genealogical source (Afrikaans spelling). |
-| `surname_no_spaces` | Surname with spacing removed. |
-| `surname` | Surname, cleaned. |
-| `name` | First name, original. |
-| `name_proper` | First name, standardised. |
-| `number_original`, `number_a1_inserted` | Genealogical reference numbers from the source. |
-| `id` | Individual identifier within the Voortrekker dataset. |
-| `birth_place` | Place of birth. |
-| `dob` | Date of birth, where recorded. |
-| `birth_year` | Year of birth. |
-| `baptised_place`, `baptise_date` | Place and date of baptism. |
-| `birthyear`, `babtise_year` | Year of birth/baptism, parsed. |
-| `place` | Place of death (where recorded). |
-| `birth_or_baptise_year` | Year used in the analysis (birth if available, else baptism). |
-| `dod` | Date of death. |
-| `death_year` | Year of death. |
-| `m_place`, `m_date`, `marry_year` | Marriage place, date, year (first marriage). |
-| `m_to` | Spouse (first marriage). |
-| `surname.1` | Wife's surname. |
-| `wyk` | Sub-district (*wyk*). |
-| `distrik` | District. |
-| `move_on` | Indicator for whether the individual joined the Great Trek. |
-| `move_year` | Year of departure on the Trek. |
-| `move_with` | Trek leader or party. |
-| `move_to` | Destination. |
-| `s_m_place` | Second marriage place, where recorded. |
-| `notes` | Free-text notes from the genealogical source. |
-| `leaders` | Indicator for known Voortrekker leaders. |
+| `source_row` | Row in the source workbook (row 1 is the header); joins to `data/linked/genealogy_crosswalk.csv`. |
+| `surname_oorspronklik`, `surname_no_spaces`, `surname` | Surname as in the source, without spaces, and standardised. |
+| `name`, `name_proper` | First names as in the source and standardised. |
+| `number_original`, `number_a1_inserted`, `id` | Genealogical reference numbers and the person identifier of the source. |
+| `birth_place`, `dob`, `birth_year`, `birthyear` | Place, date and year of birth. |
+| `baptised_place`, `baptise_date`, `babtise_year` | Place, date and year of baptism. |
+| `birth_or_baptise_year` | Birth year, or baptism year where the birth year is missing. |
+| `place`, `dod`, `death_year` | Place, date and year of death. |
+| `m_place`, `m_date`, `marry_year`, `m_to`, `surname.1` | First marriage: place, date and year, and the wife's first names and surname. |
+| `s_m_place` | Place of a second marriage. |
+| `wyk`, `distrik` | Ward and district of residence before the Trek. |
+| `move_on`, `move_year`, `move_with`, `move_to` | Trek participation, year of departure, trek leader or party, and destination. |
+| `notes`, `leaders` | Notes from the source, and trek leaders named in it. |
 
 ---
 
 ## `data/raw/slave_compensation.csv`
 
-Slave compensation records, individual-slave level. 36,419 rows. Source:
-[Ekama (2021)](https://datafirst.uct.ac.za/dataportal/index.php/catalog/848).
+The Cape slave compensation records compiled by [Ekama (2021)](https://datafirst.uct.ac.za/dataportal/index.php/catalog/848): 36,417 rows, one per enslaved person.
 
 | Variable | Description |
 |---|---|
-| `name` | Slave's given name as recorded. |
-| `age`, `age_2` | Age as recorded; `age_2` is a cleaned version. |
-| `gender` | Gender. |
-| `occupation`, `occ_cat`, `hisco` | Occupation as recorded, coarse category, and HISCO occupational code. |
-| `origin`, `origin_exact`, `origin_reg` | Origin as recorded, cleaned, and regional category. |
-| `ucl` | Identifier from the UCL Legacies of British Slave-Ownership database. |
-| `owner_surname`, `owner_name` | Owner name. |
-| `owner_brit`, `owner_hugenoot`, `owner_exslave`, `owner_minor`, `owner_deceased` | Owner attribute flags. |
-| `owner_note` | Free-text owner notes. |
-| `place_a`, `place_b` | Place of registration. |
-| `valuation` | Appraised valuation in pounds sterling. |
-| `compensation` | Compensation actually paid in pounds sterling. |
-| `district_name`, `district_num`, `dist_type` | Administrative district. |
-| `comments` | Free-text comments. |
-| `biblical`, `calendar`, `classical`, `dutch`, `english`, `diminutive`, `european`, `facetious`, `geographical`, `muslim`, `occupational`, `other` | Name-category indicators (exclusive one-hot). |
-| `num_slaves` | Number of slaves held by the same owner (owner-level summary). |
-| `log_valuation` | Natural logarithm of valuation. |
+| `name`, `gender`, `age`, `age_2` | The enslaved person's name, gender, and age as recorded and cleaned. |
+| `occupation`, `occ_cat`, `hisco` | Occupation as recorded, category, and HISCO code. |
+| `origin`, `origin_exact`, `origin_reg` | Origin as recorded, cleaned, and by region. |
+| `owner_surname`, `owner_name` | Owner. |
+| `owner_brit`, `owner_hugenoot`, `owner_exslave`, `owner_minor`, `owner_deceased`, `owner_note` | Owner characteristics and notes. |
+| `valuation`, `compensation`, `log_valuation` | Appraised value, compensation paid, and log appraised value (pounds sterling). |
+| `num_slaves` | Number of enslaved persons on the same claim. |
+| `place_a`, `place_b`, `district_name`, `district_num`, `dist_type` | Place and district of registration. |
+| `ucl` | Identifier in the UCL Legacies of British Slavery database. |
+| `comments` | Comments. |
+| `biblical`, `calendar`, `classical`, `dutch`, `english`, `diminutive`, `european`, `facetious`, `geographical`, `muslim`, `occupational`, `other` | Category of the enslaved person's name (one indicator per category). |
 
 ---
 
 ## `data/linked/voortrekker_census_matches.csv`
 
-Accepted Voortrekker-to-census linkage pairs. 558 rows; 536 unique matched
-census households.
+The final census links: 569 rows, one per linked Voortrekker and census household.
 
 | Variable | Description |
 |---|---|
-| `row_id` | Row identifier within the Voortrekker dataset. |
-| `vt_surname` | Voortrekker surname. |
-| `vt_name` | Voortrekker first name. |
-| `name_raw` | Matched census household name. |
-| `district` | Census district. |
-| `match_score` | Random Forest match probability, or equivalent for expert-review cases. |
-| `match_quality` | Tier: `high`, `medium`, `low-accepted`, or `review-accepted`. |
-| `census_id` | Join key to `cape_census_1825.csv` and `analysis_dataset.csv`. |
+| `row_id`, `census_id` | The linked genealogy row and census household. |
+| `vt_surname`, `vt_name` | Voortrekker name. |
+| `census_name`, `census_district` | Census head and district. |
+| `block_type` | How the pair entered the candidate set: `exact` surname, approximate surname (`fuzzy`), `cross_district` search, or `decided_pair` (outside the candidate set, decided by the authors). |
+| `evidence_state` | Spouse evidence: `agrees` (wives' names agree), `not_comparable` (missing or inconclusive), `contradicts`. |
+| `classifier_score` | Random forest match probability. |
+| `classifier_status` | Status of the pair in the classifier output: `proposed`, `review_band` (within 0.15 of its threshold), `review_contradiction`, `review` and `not_linked` (other pairs submitted for review), or `not proposed (manual-linkage pair)`. |
+| `review_claude`, `review_codex` | Verdicts of the two blind model reviews: `ACCEPT`, `REJECT` or `UNCERTAIN`. |
+| `decided_by` | `Both models` (classifier proposal accepted by both reviews) or `Author adjudicated`. |
 
----
+## `data/linked/link_decisions.csv`
+
+Every reviewed pair: 923 rows, of which 569 are retained.
+
+| Variable | Description |
+|---|---|
+| `pair_id` | `row_id|census_id`. |
+| `row_id`, `census_id` | The reviewed pair. |
+| `decision` | `retain` or `reject`. |
+| `basis` | Reason for the decision. |
+| `final_quality` | For retained pairs, `Both models` (classifier proposal accepted by both reviews) or `Author adjudicated`; empty for rejected pairs. |
+| `identity_ambiguous` | Whether the identity remains ambiguous (false for every pair). |
+| `classifier` | Status of the pair in the classifier output, as `classifier_status` above. |
+| `spouse_evidence` | Spouse-evidence state, as `evidence_state` above; empty for pairs outside the scored candidate set. |
+| `claude`, `codex` | Verdicts of the two blind model reviews. |
+| `manual_linkage_pair` | The pair was linked in a manual linkage of these records and entered the review as a supplementary candidate. |
+
+## `data/linked/training_labels.csv`
+
+The 972 resolved labels (160 matches). Of these, 910 pairs arise as candidates in the linkage: 813 are used for training and cross-validation and 97 form the held-out audit sample. The remaining 62 pairs are not candidates and do not enter the classifier.
+
+| Variable | Description |
+|---|---|
+| `row_id`, `census_id` | The labeled pair. |
+| `label` | 1 = match, 0 = non-match. |
+| `label_source` | `both model reviews` (the two blind reviews agreed with each other and, for hand-labeled pairs, with the hand label) or `authors` (decided by the authors). |
+| `sample` | `hand-labeled pair` (from the four labelers) or `supplementary sample` (drawn from the candidate set). |
+| `hand_label` | The labeler's label, for hand-labeled pairs. |
 
 ## `data/linked/voortrekker_emancipation_matches.csv`
 
-Voortrekker-to-slave-compensation matches on owner name and district. 577
-rows.
+Voortrekker links to slave owners in the compensation records: 577 rows.
 
 | Variable | Description |
 |---|---|
-| `vt_row_id` | Row identifier within the Voortrekker dataset. |
-| `census_id` | Join key to the census (NA for Voortrekkers not matched to a census household). |
-| `census_corroborated` | 1 if the match is corroborated by an independent census link. |
-| `census_match_score` | Match score for the census link, where applicable. |
+| `vt_row_id` | Genealogy row. |
+| `census_id`, `census_corroborated`, `census_match_score` | The person's census household, whether the census link corroborates the identity, and its score. |
 | `vt_surname`, `vt_name`, `vt_district` | Voortrekker name and district. |
-| `owner_surname`, `owner_name`, `owner_district` | Matched slave-owner details. |
-| `total_valuation` | Total appraised value of the owner's slaves, in pounds sterling. |
-| `total_compensation` | Total compensation paid, in pounds sterling. |
-| `num_slaves` | Number of slaves held by the matched owner. |
-| `loss` | `total_valuation − total_compensation`, in pounds sterling. |
-| `loss_pct` | Loss as a fraction of valuation. |
-| `mean_slave_value` | Mean appraised value per slave. |
-| `match_score` | Name-and-district match score. |
-| `owner_key` | Owner identifier within the compensation dataset. |
+| `owner_surname`, `owner_name`, `owner_district`, `owner_key` | Matched owner and owner identifier. |
+| `total_valuation`, `total_compensation` | Owner's total appraised value and compensation. |
+| `num_slaves`, `mean_slave_value` | Number of enslaved persons across the owner's claims, and their mean appraised value. |
+| `loss`, `loss_pct` | Valuation minus compensation, and 100 × loss / valuation (percent). |
+| `match_score` | Name-and-district similarity score (links accepted at 0.70 or above). |
+
+## `data/linked/genealogy_crosswalk.csv`
+
+Links the 1,220 men of the linkage sample to the genealogy: 1,220 rows.
+
+| Variable | Description |
+|---|---|
+| `row_id` | Identifier of the man in the linkage sample, as `row_id` and `vt_row_id` in the files above. |
+| `source_row` | His row in `data/raw/voortrekkers.csv` (column `source_row`) and in the source workbook. |
+| `id` | His genealogical identifier (column `id` of `voortrekkers.csv`; not unique there, because some persons appear in several entries). |
 
 ---
 
 ## `data/analysis/analysis_dataset.csv`
 
-Household-level analysis file. 10,420 rows. Combines the cleaned 1825 census
-with a Voortrekker-match flag, a composite wealth index, derived
-household-composition variables, and Voortrekker genealogical fields for
-matched households. This is the file used to produce the main regression
-tables in the paper.
-
-All variables from `cape_census_1825.csv` are included. The additional
-variables are:
+The household-level dataset used for the paper's estimates: the 10,783 census households with all variables of `cape_census_1825.csv`, plus:
 
 | Variable | Description |
 |---|---|
-| `horses` | Sum of saddle and breeding horses. |
-| `cattle` | Sum of draught oxen and breeding cattle. |
-| `sheep` | Sum of all sheep categories. |
-| `total_slaves` | Sum of enslaved men, women, sons and daughters. |
-| `total_khoe` | Sum of Khoekhoe workers across gender and age categories. |
-| `total_grain_sown` | Sum of wheat, barley, oats and rye sown (in muids). |
-| `total_grain_reaped` | Sum of grain reaped (in muids). |
-| `wealth_index` | Composite wealth index standardised within district (mean 0, SD 1). Principal component of livestock, slaves, grain and wine/brandy. |
-| `wealth_simple` | Simple additive wealth score, unstandardised. |
+| `is_voortrekker` | Household linked to a Voortrekker (569 households). |
+| `married_couple` | Male head with a named wife (6,380 households). |
 | `settler_children` | `settler_sons + settler_daughters`. |
 | `settler_adults` | `settler_men + settler_women`. |
-| `household_size` | Total settler household size (`settler_adults + settler_children`). |
+| `household_size` | Settler adults and children. |
 | `children_ratio` | `settler_children / household_size`. |
-| `is_voortrekker` | 1 if the household is linked to a Voortrekker record, 0 otherwise. |
-| `name_clean`, `has_comma`, `census_surname`, `census_first`, `census_surname_std`, `census_first_std`, `census_first_only` | Cleaned and standardised name fields used in the linkage pipeline. |
-| `wife_name_clean`, `wife_has_comma`, `census_wife_surname`, `census_wife_first`, `census_wife_surname_std`, `census_wife_first_std`, `census_wife_first_only` | Cleaned and standardised wife-name fields. |
+| `horses`, `cattle`, `sheep` | Sums of the horse, cattle and sheep categories. |
+| `total_slaves`, `total_khoe` | Enslaved persons and Khoekhoe workers. |
+| `total_grain_sown`, `total_grain_reaped` | Wheat, barley, oats and rye sown and reaped. |
+| `wealth_index` | First principal component of horses, cattle, sheep, goats, pigs, slaves, Khoekhoe workers, wheat reaped and wine (mean 0, standard deviation 1.87; missing where an input is missing). |
+| `wealth_simple` | Sum of the standardised horses, cattle, sheep, slaves, wheat reaped and wine. |
+| `census_surname`, `census_first`, `census_surname_std`, `census_first_std`, `census_first_only` | Head's name split and standardised for linkage. |
+| `census_wife_surname`, `census_wife_first`, `census_wife_surname_std`, `census_wife_first_std`, `census_wife_first_only` | Wife's name split and standardised for linkage. |

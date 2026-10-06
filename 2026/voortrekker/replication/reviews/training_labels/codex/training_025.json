@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "1147|4127",
+  "verdict": "REJECT",
+  "reason": "Stephanus does not match Petrus Jan Hendrik, and Maria Jac. Coetzee matches neither listed wife. The marriage date for Hester Sophia van der Walt explicitly places that marriage in 1824, before the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4127",
+  "verdict": "REJECT",
+  "reason": "Stephanus differs from Petrus Albertus, and Maria Jac. Coetzee contradicts the recorded 1812 wife, Wilhelmina Catharina Francina Venter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4224",
+  "verdict": "REJECT",
+  "reason": "Willemina Catharina Venter matches neither Hester Johanna Margaretha Sophia Venter, married in 1820, nor Hester Sophia van der Walt, whose marriage date is in 1824. The partial Petrus/Pieter name agreement does not overcome this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4361",
+  "verdict": "REJECT",
+  "reason": "Isaac Johannes van der Merwe has a different surname and given names from Petrus Jan Hendrik Venter. Maria Martha van der Merwe also matches neither wife married before 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4587",
+  "verdict": "ACCEPT",
+  "reason": "Piet is compatible with Petrus, and Hester Sophia v. d. Walt matches the spouse whose explicit marriage date is 05/09/1824. His age is compatible, and the district difference is not a contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4587",
+  "verdict": "REJECT",
+  "reason": "Although Piet is compatible with Petrus, Hester Sophia van der Walt contradicts Wilhelmina Catharina Francina Venter, married in 1812. The competing genealogy person in pair 1147|4587 has the matching wife married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1148|1874",
+  "verdict": "REJECT",
+  "reason": "Albertus Stephanus differs from Christiaan Willem, and Cornelia Gesina La Buscagne contradicts Anna Maria Venter, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1148|4129",
+  "verdict": "REJECT",
+  "reason": "The shared name Christiaan is insufficient because Lacya Christina Coetzee contradicts Anna Maria Venter, the recorded wife from 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4134",
+  "verdict": "REJECT",
+  "reason": "Pieter is compatible with Petrus, but Heeltje Johanna Pretorius contradicts Wilhelmina Catharina Francina Venter, married in 1812.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1150|4519",
+  "verdict": "REJECT",
+  "reason": "Erasmus Albertus differs from Bernhardus/Barnard Gerhardus. Johanna Susanna Nienaber also contradicts Johanna Catharina Maria Olivier, married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4519",
+  "verdict": "REJECT",
+  "reason": "Johanna Susanna Nienaber contradicts Johanna Adriana Botha, married in 1804. Erasmus also differs from Marcus despite the shared middle name Albertus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1151|841",
+  "verdict": "REJECT",
+  "reason": "Van der Westhuizen is a different surname from Venter, and Saartje Magdalena Kock contradicts Aletta Sophia Bezuidenhout, married in 1807. The 1840 marriage cannot explain the census wife in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|1858",
+  "verdict": "REJECT",
+  "reason": "Pieter Jacobus differs from Jan Adriaan, and Elizabeth Johanna Venter contradicts Helena Johanna van der Merwe, married in 1822. The undated spouse Anaa Catharina Oberholzer does not match the census wife either.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|1910",
+  "verdict": "REJECT",
+  "reason": "Despite the exact head-name match, Anna Catharina van Jaarsveld differs from Helena Johanna van der Merwe, married in 1822. The undated Anaa Catharina Oberholzer has similar given names but a different maiden surname, so that marriage does not resolve the contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|2280",
+  "verdict": "REJECT",
+  "reason": "Anna Maria van der Walt contradicts Helena Johanna van der Merwe, married in 1822, and does not match the undated spouse Anaa Catharina Oberholzer. The shared name Jan does not overcome this evidence.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|2352",
+  "verdict": "REJECT",
+  "reason": "Anna Catharina Sophia Venter differs from Helena Johanna van der Merwe, married in 1822, and from the undated Anaa Catharina Oberholzer. Neither listed marriage explains the census wife's maiden surname.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|2439",
+  "verdict": "REJECT",
+  "reason": "Sophia Aletta Jacoba de Meyer contradicts Helena Johanna van der Merwe, married in 1822, and matches neither listed spouse. Jan/Johannes compatibility does not resolve this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|2060",
+  "verdict": "REJECT",
+  "reason": "Christiaan Philippus and Paulus Christoffel are different given names, not merely reordered or abbreviated forms. The 1827 marriage cannot be compared with the census wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|4178",
+  "verdict": "REJECT",
+  "reason": "Hendrik does not correspond to either Paulus or Christoffel, giving an affirmative name contradiction. The only listed marriage occurred in 1827 and cannot establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|4808",
+  "verdict": "UNCERTAIN",
+  "reason": "Paul is compatible with Paulus, but Stephanus does not corroborate Christoffel, and there is no matching wife evidence. At about 17 he could conceivably head a household, but the partial name match and different district are insufficient.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|4812",
+  "verdict": "UNCERTAIN",
+  "reason": "Paul is compatible with Paulus, but the common abbreviated name provides insufficient identification for a man about 17 in a different district. His 1827 marriage can neither confirm nor contradict Anna Catharina Fourie in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1159|4812",
+  "verdict": "REJECT",
+  "reason": "Paul is compatible with Paulus, but Anna Catharina Fourie contradicts Cecilia Jacomina Smit, married in 1813.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4125",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the district agree, but Andries versus Albertus leaves the name match unresolved. The only listed marriage occurred in 1827, so it cannot confirm or contradict Levina Catharina van der Walt in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4125",
+  "verdict": "REJECT",
+  "reason": "Levina Catharina van der Walt contradicts Lasya Sophia Petronella Venter, married in 1816. The later marriage to Anna Maria Sophia Pretorius occurred in 1834 and cannot explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4573",
+  "verdict": "REJECT",
+  "reason": "Willem Adriaan and Albertus Johannes have incompatible given names. The marriage to Cecilia Jacomina Louisa Hugo in 1827 cannot be compared with the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1156|4220",
+  "verdict": "REJECT",
+  "reason": "Maria Catharina and Barnard are incompatible given names despite the shared surname Venter. The undated marriage to Johannes Jacobus Klopper supplies no comparable census-wife evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1156|4747",
+  "verdict": "REJECT",
+  "reason": "Maria Catharina does not match Marius Albertus; this is more than an omitted or reordered name. The undated marriage to Johannes Jacobus Klopper provides no comparable census-wife evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4747",
+  "verdict": "ACCEPT",
+  "reason": "Johanna Adriana Botha exactly matches the wife married in 1804, and the district and age are compatible. Marius versus Marcus is a plausible spelling or transcription variation with Albertus and Venter unchanged.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4585",
+  "verdict": "REJECT",
+  "reason": "Johanna Maria Venter contradicts Johanna Adriana Botha, married in 1804. Nicolaas also differs from Marcus despite the shared Albertus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4058",
+  "verdict": "REJECT",
+  "reason": "Catharina Johanna Venter contradicts Maria Elizabeth Kruger, married in 1810. The shared name Jan and matching district do not overcome the wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4058",
+  "verdict": "REJECT",
+  "reason": "Catharina Johanna Venter differs clearly from Lasya Sophia Petronella Venter, married in 1816, despite their shared maiden surname. The 1834 marriage cannot explain the census wife in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4194",
+  "verdict": "REJECT",
+  "reason": "Johanna Marg. van der Walt contradicts Maria Elizabeth Kruger, married in 1810. Andries also does not match Jan Adriaan.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4194",
+  "verdict": "REJECT",
+  "reason": "Johanna Marg. van der Walt contradicts Lasya Sophia Petronella Venter, married in 1816. The other listed marriage dates to 1834 and cannot resolve this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4520",
+  "verdict": "REJECT",
+  "reason": "Although Jan Adriaan matches, Helena Johanna van der Merwe contradicts Maria Elizabeth Kruger, married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4520",
+  "verdict": "REJECT",
+  "reason": "The exact head-name match is outweighed by Helena Johanna van der Merwe contradicting Lasya Sophia Petronella Venter, married in 1816. The 1834 marriage is too late to explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4571",
+  "verdict": "REJECT",
+  "reason": "Hercules Frederik differs from Jan Adriaan, and Engela Elisabeth Pretorius contradicts Maria Elizabeth Kruger, married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4581",
+  "verdict": "REJECT",
+  "reason": "Jan is a compatible abbreviated name, but Johanna Aletta van der Walt contradicts Maria Elizabeth Kruger, married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4581",
+  "verdict": "REJECT",
+  "reason": "Johanna Aletta van der Walt contradicts Lasya Sophia Petronella Venter, married in 1816. The compatible abbreviated head name and the later 1834 marriage do not resolve that contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4574",
+  "verdict": "REJECT",
+  "reason": "Anna Sophia Venter differs from Lasya Sophia Petronella Venter, married in 1816; the shared Sophia and surname do not explain Anna versus Lasya. Anna Maria Sophia Pretorius was married only in 1834 and cannot corroborate the 1825 wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4586",
+  "verdict": "REJECT",
+  "reason": "Johanna Catharina van der Walt contradicts Lasya Sophia Petronella Venter, married in 1816. The abbreviated name Jan is compatible, but the 1834 marriage cannot explain the census wife in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

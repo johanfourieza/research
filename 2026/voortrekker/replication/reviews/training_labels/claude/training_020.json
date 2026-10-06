@@ -1,0 +1,254 @@
+[
+ {
+  "pair_id": "990|4344",
+  "verdict": "REJECT",
+  "reason": "The surname conflicts: the genealogy man is Van der Linde and the census head is v. d. Merwe, Johannes Lodewicus. The census wife Joubert cannot be compared with the undated spouse Aucamp.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Linde, Jan Hendrik"
+ },
+ {
+  "pair_id": "990|5186",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Hendrik van der Linde is a good fit for Johannes Hendrik Gerhardus van der Linde (Jan = Johannes, third name omitted), and the age (about 35) and district are plausible. The census wife Harmse differs from the genealogy spouse Aucamp, but that marriage is undated, so it neither confirms nor contradicts.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|5186",
+  "verdict": "REJECT",
+  "reason": "The names conflict: the genealogy man is Venter, Jan Adriaan and the census head is Van der Linde, Jan Hendrik. The census wife Harmse also differs from Maria Elizabeth Kruger, whom he married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "990|5189",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Francois, which does not match the given names Johannes Hendrik Gerhardus. A clearly better same-surname candidate exists (Jan Hendrik van der Linde). The census wife Rossouw cannot be compared with the undated spouse Aucamp.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Linde, Jan Hendrik"
+ },
+ {
+  "pair_id": "1018|5189",
+  "verdict": "REJECT",
+  "reason": "The names conflict: the genealogy man is Van der Merwe, Johannes Stephanus and the census head is v. d. Linde, Johannes Francois. The census wife Rossouw cannot be compared with the undated spouse Griesel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4073",
+  "verdict": "REJECT",
+  "reason": "The name is an exact match (Hendrik Jacobus van der Merwe). However, the census wife is Vermeulen, Hendrina Johanna, while his only listed spouse is Hester Sophia Maartens, married 1814, before the census. No remarriage is recorded; note that the merged genealogy ID may conflate two men.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|4073",
+  "verdict": "REJECT",
+  "reason": "The given names differ: Gerrit Jacobus versus Hendrik Jacobus. The census wife Vermeulen also differs from Van Tonder, whom he married in 1805.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "van der Merwe, Gert Jacobus"
+ },
+ {
+  "pair_id": "996|4073",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: David Schalk versus Hendrik Jacobus. Neither of his spouses (Weideman, undated; De Beer, 1836) can be compared with the census wife Vermeulen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4073",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Theunis Jacobus versus Hendrik Jacobus. The census wife Vermeulen cannot be compared with the undated spouse De Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4343",
+  "verdict": "REJECT",
+  "reason": "The name is compatible (Hendrik, middle name omitted). However, the census wife Joubert, Petronella Elisabeth differs from Hester Sophia Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4343",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Marthinus versus Hendrik. The census wife Joubert cannot be compared with the undated spouse Van Rooyen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4421",
+  "verdict": "REJECT",
+  "reason": "The middle names differ: Hendrik Schalk versus Hendrik Jacobus. The census wife Viljoen also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4421",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Theunis Jacobus versus Hendrik Schalk. The census wife Viljoen cannot be compared with the undated spouse De Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4422",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Schalk Jacobus versus Hendrik Jacobus. The census wife Theron also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1011|4422",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Marthinus Stephanus versus Schalk Jacobus, and he was only about 18 in 1825. The census wife Theron cannot be compared with Jordaan (1838) or Vosloo (undated).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4431",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Andries versus Hendrik Jacobus. The census wife Roux also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4431",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Marthinus versus Andries. The census wife Roux cannot be compared with the undated spouse Van Rooyen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4431",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Johannes Petrus versus Andries, and he was only about 17 in 1825. The census wife Roux cannot be compared with Eloff, whom he married in 1836.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4432",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Andries Jacobus versus Hendrik Jacobus. The census wife, Magdalena van der Merwe, also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4432",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Theunis Jacobus versus Andries Jacobus. The census wife cannot be compared with the undated spouse De Beer.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4499",
+  "verdict": "REJECT",
+  "reason": "The surname conflicts: v. d. Walt versus Van der Merwe. The census wife, Johanna Alida Alletta van der Walt, also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|4997",
+  "verdict": "REJECT",
+  "reason": "The name conflicts completely: v. d. Berg, Barend versus Van der Merwe, Hendrik Jacobus. The census wife Esterhuisen also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "991|5000",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: David Jacobus versus Hendrik Jacobus. The census wife Pietersen also differs from Maartens, whom he married in 1814.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|5000",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: David Jacobus versus Gerrit Jacobus. The census wife Pietersen also differs from Van Tonder, whom he married in 1805, and that wife matches another census head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "van der Merwe, Gert Jacobus"
+ },
+ {
+  "pair_id": "996|5000",
+  "verdict": "UNCERTAIN",
+  "reason": "The first name David, the district and the age (about 26) fit, but the middle names differ: Jacobus in the census versus Schalk in the genealogy. The census wife Pietersen cannot be compared with Weideman (undated) or De Beer (1836).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|5000",
+  "verdict": "REJECT",
+  "reason": "Diedelof and David are distinct given names, and he was only about 19 in 1825. The census wife Pietersen cannot be compared with the undated spouse Robberts.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|1678",
+  "verdict": "REJECT",
+  "reason": "Gert is compatible with Gerrit, but the census wife Grobbelaar differs from Maria Elizabeth van Tonder, whom he married in 1805. Another Cradock head, Gert Jacobus, has exactly that wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "van der Merwe, Gert Jacobus"
+ },
+ {
+  "pair_id": "1010|1678",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Marthinus versus Gert. The census wife Grobbelaar cannot be compared with the undated spouse Van Rooyen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1021|1678",
+  "verdict": "REJECT",
+  "reason": "The names conflict completely: Van der Schyff, Lucas Petrus Daniël versus van der Merwe, Gert. He was also only about 15 in 1823. The census wife Grobbelaar cannot be compared with his 1831 spouse.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|1723",
+  "verdict": "ACCEPT",
+  "reason": "Gert Jacobus van der Merwe matches Gerrit Jacobus, and the census wife is exactly Maria Elizabeth van Tonder, whom he married in 1805. The district also fits: Cradock 1823 is the area later called Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|2149",
+  "verdict": "REJECT",
+  "reason": "Gerrit matches the name, but the census wife Britz differs from Van Tonder, whom he married in 1805. A Cradock head with exactly that wife exists.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "van der Merwe, Gert Jacobus"
+ },
+ {
+  "pair_id": "992|9499",
+  "verdict": "REJECT",
+  "reason": "The given names conflict: Petrus Jacobus versus Gerrit Jacobus. The census wife Janse van Rensburg also differs from Van Tonder, whom he married in 1805.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "van der Merwe, Gert Jacobus"
+ },
+ {
+  "pair_id": "993|4042",
+  "verdict": "REJECT",
+  "reason": "The surname conflicts: Venter, Johannes Alidanus versus Van der Merwe, Johannes Lodevicus. The census wife Gryling also differs from Viljoen, whom he married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4283",
+  "verdict": "REJECT",
+  "reason": "The middle names differ: Johannes Petrus versus Johannes Lodevicus. The census wife Theron also differs from Aletta Cornelia Viljoen, whom he married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4283",
+  "verdict": "UNCERTAIN",
+  "reason": "The name is an exact match (Johannes Petrus van der Merwe), but he was only about 17 in 1825. A married head with wife Theron is hard to reconcile with his first recorded marriage to Eloff in 1836, though this is not a formal contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4283",
+  "verdict": "REJECT",
+  "reason": "The middle names differ: Johannes Stephanus versus Johannes Petrus, and a competing genealogy man has the exact name. The census wife Theron cannot be compared with the undated spouse Griesel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

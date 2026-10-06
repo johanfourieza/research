@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "308|2415",
+  "verdict": "ACCEPT",
+  "reason": "Frederik Christoffel Eloff matches Fredrik Christoffel Eelhoff, and Martha Meyberg plausibly matches Martha Catharina Myburgh, married in 1818. The age and Somerset/Cradock district correspondence support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "311|1999",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Els is compatible with Frederik Nicolaas Els, and Susanna Cornelia de Bruin matches the wife married in 1803. Somerset and Cradock are geographically compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "318|1694",
+  "verdict": "UNCERTAIN",
+  "reason": "Johan Adam and Jan Adam Enslin are compatible names, and the age and district fit. The 1825 marriage cannot corroborate the 1823 entry, and no supplied genealogy evidence verifies the annotation naming Christoffel Bernardus as his father.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "321|4239",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Abram matches Lourens Abraham, and Helena Geertruida Bekker matches Helena Geertruyda Bekker, married in 1800. These joint matches provide strong evidence despite the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4239",
+  "verdict": "REJECT",
+  "reason": "The wife married in 1818 was Helena Dorothea Bekker, whereas the census names Helena Geertruida Bekker; the earlier Labuschagne spouse does not match either. The head's Abram also differs from Marthinus, and competing pair 321|4239 matches both the head and wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|4243",
+  "verdict": "UNCERTAIN",
+  "reason": "Daniel E. is compatible with Daniel Elardus, and the wife's given names match the spouse married in 1824. Gausch versus Goud is an unresolved surname discrepancy that prevents strong confirmation but does not securely establish a different wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "324|2233",
+  "verdict": "REJECT",
+  "reason": "Although the head's name matches exactly, Jacomina Elizabeth Bothma clearly differs from Cornelia Jacoba Susanna Kruger, married in 1807. No listed remarriage explains this discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "324|9362",
+  "verdict": "ACCEPT",
+  "reason": "Daniel Jacobus Erasmus matches exactly, and Cornelia Susanna Kruger matches the wife married in 1807 with Jacoba omitted. The district difference does not outweigh the matching couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|2220",
+  "verdict": "UNCERTAIN",
+  "reason": "Antonie Philippus matches Anthonie Philippus, and an approximately 18-year-old head in Cradock is possible. Both listed marriages occurred after 1823, and the father's name in the census annotation cannot be verified from the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|2222",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, approximate age of 28 and district are compatible. The 1825 marriage cannot confirm the 1823 head, and the supplied genealogy does not verify the Daniel's-son annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "328|53",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's full name and Albany district match, and both wives are Anna Johanna Delport. Maria versus Catharina remains unresolved, while the missing marriage date prevents a firm chronological comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|5292",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Marthinus matches Lourens Marthinus, and Helena Dorothea Bekker matches the spouse whose marriage_date gives 1818. The district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "330|2221",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend Christoffel Erasmus matches exactly, with a compatible age and district. No spouse or verified parental information independently corroborates the identity, and another Barend Erasmus is listed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|2224",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacob Erasmus matches, and the age and district are compatible, but this name lacks independent corroboration. The 1828 marriage cannot confirm the 1823 entry, and the father's name is not supplied in the genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|2223",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Johanna Maria Elizabeth van Straten matches Johanna Elisabeth Maria van Straten with reordered given names. Although the marriage date is unknown, the matching couple and compatible district provide strong corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "333|2218",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter and Petrus Rasmus are compatible names, but a man born in 1809 would be only about 14 in 1823, making this married head unlikely. The 1829 marriage to Gesina Meyer cannot contradict or confirm the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "334|1827",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's full name and district fit, and both wives are Hester Botha. Cornelia versus Carolina could reflect a recording variation, but the supplied evidence does not resolve the difference sufficiently for acceptance.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "336|5304",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Jacob is compatible with Willem Jacobus, but the census adds Rudolph and gives a different district. At about 17 he could be a head, but the 1831 marriage supplies no corroboration for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|1737",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's name and district fit, but Anna Sophia Botha differs from the listed Elisabeth Erasmus. Because the genealogy marriage is undated and the man's birth year is missing, the discrepancy cannot establish an affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "338|1769",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's name, district and wife's given names agree. Grobler versus Grobbelaar remains an unresolved maiden-surname difference; the record does not establish whether this is a spelling variation or a different woman.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "339|1738",
+  "verdict": "UNCERTAIN",
+  "reason": "Michiel Coenraad matches exactly, and both wives are Martha Maria, but Grobler versus Grobbelaar is unresolved. The missing marriage date further limits comparison, so the evidence does not securely confirm or contradict identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "345|7458",
+  "verdict": "UNCERTAIN",
+  "reason": "Andries Johannes Erwe matches the genealogy name, with a compatible age and the same district. The 1826 marriage cannot corroborate the 1825 entry, leaving no independent identifying match beyond the name and location.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "346|79",
+  "verdict": "ACCEPT",
+  "reason": "Jogchem Christoffel Espach plausibly matches Joachim Christoffel Espag, and Rachel Meyer matches the wife married in 1810 with Catharina omitted. Albany also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "347|296",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's full name and district match, but Elizabeth Koortze differs from Maria Magdalena Buitendach. The genealogy marriage is undated, so this difference does not establish a contradiction, and the Andries'-son annotation cannot be verified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "347|463",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, district and approximate age of 19 are compatible, but another Jan Christoffel Esterhuizen is explicitly listed. No marriage date or supplied father's name distinguishes this Josias'-son entry securely.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "348|9348",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus Gerrit Thomas Ferreira and Susanna Maria Marx both match exactly, with their marriage recorded in 1821. The district and age are also compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "349|5567",
+  "verdict": "UNCERTAIN",
+  "reason": "Anthon Fredricus Fick is compatible with Anthonie Frederik Fick, and the district and age fit. The 1827 marriage cannot corroborate the 1825 entry, and no additional identifying evidence is supplied.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "350|8987",
+  "verdict": "ACCEPT",
+  "reason": "James Ford matches James Foord, and Maria Dorothea Helman plausibly matches Maria Dorothea Hellmond, married in 1824. These matching names provide strong corroboration despite the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "351|4971",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Paulus Fouchee matches the genealogy name, and the district and approximate age of 19 are compatible. The 1828 marriage cannot confirm the 1825 entry, leaving insufficient independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "352|7575",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name fits, but Swellendam differs from the declared Graaff-Reinet district; Fouchee, Gustaphus in Graaff-Reinet is the better candidate on the supplied evidence. The marriage to Johanna Swanepoel in 1828 cannot contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fouchee, Gustaphus"
+ },
+ {
+  "pair_id": "353|7576",
+  "verdict": "UNCERTAIN",
+  "reason": "Stephanus Fouche is compatible with Stephanus Jacobus, but another identically named candidate is listed in Swellendam. The census date within 1825 is unknown, so the absent wife cannot be resolved against the May 1825 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "354|266",
+  "verdict": "ACCEPT",
+  "reason": "David Stephanus Fourie matches, and Isabella Elizabeth Janze van Rensburg matches the wife married in 1802. The district and age support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "355|225",
+  "verdict": "UNCERTAIN",
+  "reason": "The uncertain reading Baret (?) does not securely identify Bartholomeus, although Jacobus and Fourie agree. The district differs, both marriages postdate the census, and the David's-son annotation cannot be verified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "356|224",
+  "verdict": "UNCERTAIN",
+  "reason": "The three given names match exactly and the approximate age of 20 is compatible, but the district differs. The undated marriage and unverified David's-son annotation leave the identity without sufficient independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "356|4750",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Fourie is compatible with the longer genealogy name but is insufficiently specific to establish identity. The district differs, and neither a census wife nor a dated genealogy marriage supplies corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "357|826",
+  "verdict": "ACCEPT",
+  "reason": "Daniel Jacobus Fourie and Jacoba Susanna Fourie both match exactly, and their February 1825 marriage is compatible with the census year. Beaufort and the man's age also fit.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "358|8258",
+  "verdict": "UNCERTAIN",
+  "reason": "Philip Jacobus matches Philippus Jacobus, but the Uitenhage candidate fits the declared district better than this Swellendam head. Both genealogy marriages postdate 1825, so Martha Hermiena de Jager cannot be treated as a contradictory wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fourie, Philip Jacobus"
+ },
+ {
+  "pair_id": "358|9718",
+  "verdict": "UNCERTAIN",
+  "reason": "Philip Jacobus matches Philippus Jacobus, and Uitenhage and the approximate age of 22 are compatible. Neither later marriage corroborates the 1825 entry, and the supplied genealogy does not verify the Philip's-son annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "360|2236",
+  "verdict": "REJECT",
+  "reason": "The head's name matches, but Maria Elizabeth Booysen clearly differs in given names from Aletta Booysen, married in 1797. No listed remarriage explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "364|387",
+  "verdict": "UNCERTAIN",
+  "reason": "Joseph Johannes Fourie matches exactly, but Beaufort differs from the declared Swellendam district and no census wife corroborates the 1820 marriage. The absent wife does not establish a contradiction, and the father's name in the annotation cannot be verified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

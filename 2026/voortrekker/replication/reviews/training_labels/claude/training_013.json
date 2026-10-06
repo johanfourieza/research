@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "687|2429",
+  "verdict": "ACCEPT",
+  "reason": "Full name Abraham Johannes Pelzer matches and census wife van Aswegen, Hendrina Jacoba Maria matches his 1817 spouse; Cradock 1823 corresponds to declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4367",
+  "verdict": "REJECT",
+  "reason": "Census wife v. d. Merwe, J. L. contradicts his only spouse Anna Elisabeth Visagie (m. 1806); another census head Petrus Arnoldus Pienaar has wife Visagie, Anna Elisabeth.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pienaar, Petrus Arnoldus"
+ },
+ {
+  "pair_id": "691|4681",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Petrus Arnoldus Pienaar and census wife Visagie, Anna Elisabeth matches his 1806 spouse; Graaff-Reinet included Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4994",
+  "verdict": "REJECT",
+  "reason": "Census head is Pieter Jacobus (not Petrus Arnoldus) with wife v. d. Merwe, Magdalena Elisabeth, contradicting his 1806 marriage to Visagie.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pienaar, Petrus Arnoldus"
+ },
+ {
+  "pair_id": "692|4140",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Jacob Arnoldus Pienaar and census wife v. Heerden, Alletta Petronella matches his 1822 spouse; Graaff-Reinet fits Colesberg (the Cradock entry with the same wife may be a duplicate).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4141",
+  "verdict": "REJECT",
+  "reason": "Census head Abel Jacobus with wife Van Zyl, Martha Jacoba contradicts Jacob Arnoldus's 1822 marriage to Aletta Petronella van Heerden, who appears with the Jacob Arnoldus Pienaar head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pienaar, Jacob Arnoldus"
+ },
+ {
+  "pair_id": "693|4141",
+  "verdict": "REJECT",
+  "reason": "Given name Abel differs from Schalk, and Schalk Jacobus (b. 1809, aged ~16) first married in 1832, whereas the census head already had wife Van Zyl, Martha Jacoba.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4646",
+  "verdict": "REJECT",
+  "reason": "Census head Jacobus Johannes with wife v. Heerden, Anna Sophia differs from Jacob Arnoldus's wife Aletta Petronella van Heerden (m. 1822), who is with another census head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pienaar, Jacob Arnoldus"
+ },
+ {
+  "pair_id": "693|4261",
+  "verdict": "REJECT",
+  "reason": "Middle name Willem differs from Jacobus, and Schalk Jacobus was ~16 and unmarried until 1832 while the census head had wife v. d. Merwe, H. A.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "693|4459",
+  "verdict": "REJECT",
+  "reason": "Given name Hendrik differs from Schalk, and the genealogy man was ~16 and first married in 1832 while the census head had wife v. d. Merwe, Johanna Catharina.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "697|7488",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but he was ~16 in 1825 and first married 1838, while the census head had wife Groenewald, Susanna Maria, suggesting an older namesake (e.g. a father).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "698|9368",
+  "verdict": "REJECT",
+  "reason": "Census head Fredrik 'Senior' with wife Smit, Elisabeth differs in name from David Johannes and contradicts his 1819 marriage to Anna Christina Pieterse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "699|9503",
+  "verdict": "ACCEPT",
+  "reason": "Name Nicolaas Theodorus/Theodoris Pieterse matches and census wife Wilken, Susanna Julianna matches his spouse; same district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "702|9410",
+  "verdict": "UNCERTAIN",
+  "reason": "Name Ferdinand(us) Albertus Pieterse and Uitenhage match, but no census wife is named to confirm his 1798 marriage to Meyer, and the 'David's son' annotation cannot be checked.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "703|9410",
+  "verdict": "REJECT",
+  "reason": "Middle name Petrus differs from census Albertus, and genealogy person Ferdinandus Albertus Pieterse matches the census head's name exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "706|114",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Hermanus with wife Snyman contradicts Hans Potgieter's 1813 marriage to Martha Maria Maritz; the Uitenhage head Johannes Petrus Theodorus has wife Maretz, Martha Maria.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Johannes Petrus Theodorus"
+ },
+ {
+  "pair_id": "708|9166",
+  "verdict": "REJECT",
+  "reason": "Census head Salomon Theodoris with wife Barkhuysen contradicts Johannes Hermanus's 1803 marriage to Emerentia Hester Snyman, who appears with the Albany head Johannes Hermanus Potgieter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Johannes Hermanus"
+ },
+ {
+  "pair_id": "709|9616",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Johannes ('Jurie's son') has a different given name from Johannes Hermanus Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "709|9775",
+  "verdict": "REJECT",
+  "reason": "Middle names Petrus Theodorus differ from Hermanus Jacobus, and census wife Maretz, Martha Maria fits Hans (J.P.T.) Potgieter, not this man's spouse Bezuidenhout (undated).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "711|9118",
+  "verdict": "REJECT",
+  "reason": "Census head Petrus Hendrik with wife Muller contradicts Evert Frederik's 1820 marriage to Scheepers, who appears with the Evert Fredrik Potgieter head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Evert Fredrik"
+ },
+ {
+  "pair_id": "712|9118",
+  "verdict": "REJECT",
+  "reason": "Census head Petrus Hendrik differs in name from Theodorus, and wife Muller matches the spouse of genealogy man Petrus Hendrik Theunis Potgieter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "711|9629",
+  "verdict": "ACCEPT",
+  "reason": "Name Evert Fredrik Potgieter matches and census wife Scheepers, Elsie Johanna Marthina matches his 1820 spouse; same district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "716|9639",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Gerhardus with wife Breedenbach matches neither his name nor his spouses Muller or Janse van Vuuren (m. 1823); head Petrus Hendrik has wife Muller, Adriana Angenesse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Petrus Hendrik"
+ },
+ {
+  "pair_id": "726|9639",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Gerhardus with wife Breedenbach contradicts Willem Jacobus's 1822 marriage to Maria Petronella Botha, who appears with the Cradock head Willem Jacobus Potgieter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Willem Jacobus"
+ },
+ {
+  "pair_id": "717|1832",
+  "verdict": "REJECT",
+  "reason": "Census head Willem Jacobus with wife Botha contradicts Willem Frederik's 1822 marriage to Erasmus; the Albany head Willem Frederick has wife Erasmus, Gertruyda Margaretha.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Willem Frederick"
+ },
+ {
+  "pair_id": "718|1832",
+  "verdict": "REJECT",
+  "reason": "Census head Willem Jacobus with wife Botha contradicts Pieter Jacobus's 1816 marriage to Jordaan; the head Pieter Jacobus has wife Jordaan, Aletta Magdalena.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Pieter Jacobus"
+ },
+ {
+  "pair_id": "718|1813",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Pieter Jacobus Potgieter and census wife Jordaan, Aletta Magdalena matches his 1816 spouse; Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "722|1813",
+  "verdict": "REJECT",
+  "reason": "Census head Pieter Jacobus with wife Jordaan differs from Hermanus Sr. (b. 1765), whose latest pre-census wife was Coetzee (m. 1814); the head 'Hermanus, de Oude' fits him better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Hermanus"
+ },
+ {
+  "pair_id": "726|1813",
+  "verdict": "REJECT",
+  "reason": "Census head Pieter Jacobus with wife Jordaan contradicts Willem Jacobus's 1822 marriage to Botha; the head Willem Jacobus has wife Botha, Maria Petronella.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Potgieter, Willem Jacobus"
+ },
+ {
+  "pair_id": "727|1813",
+  "verdict": "REJECT",
+  "reason": "Census head Pieter Jacobus differs in name from Nicolaas Johannes (married only 1826); the unmarried Cradock head Nicolaas Johannes ('Hermanus' zoon') fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Nicolaas Johannes"
+ },
+ {
+  "pair_id": "719|4561",
+  "verdict": "REJECT",
+  "reason": "Census wife Coetzee, Maria Magdalena contradicts his 1817 marriage to Geertruida Maria Steenkamp, and the head is recorded only as Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "720|4561",
+  "verdict": "REJECT",
+  "reason": "Census head Jacobus (wife Coetzee) does not match the name Hans Jurgen; his marriage to Steenkamp was only in July 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "720|1833",
+  "verdict": "REJECT",
+  "reason": "Census head Nicolaas Johannes differs in name from Hans Jurgen (aged ~17 in 1823), and matches genealogy man Nicolaas Johannes Potgieter instead.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "721|9741",
+  "verdict": "REJECT",
+  "reason": "Census head Isaac ('Jan's son', wife Van Rooyen) differs in name from Philippus Johannes, who was ~17 and first married 1831.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "727|9741",
+  "verdict": "REJECT",
+  "reason": "Census head Isaac differs in name from Nicolaas Johannes (married only 1826); the Cradock head Nicolaas Johannes fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Nicolaas Johannes"
+ },
+ {
+  "pair_id": "723|1831",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Andries Hendrik Potgieter and census wife Botha, Elizabeth Helena matches his 1812 spouse; Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|113",
+  "verdict": "REJECT",
+  "reason": "Census head Jeremeas Iesaias with wife Potgieter, Emerentia Hester differs in name and contradicts his 1817 marriage to Cornelia Elisabeth Botha.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|1862",
+  "verdict": "UNCERTAIN",
+  "reason": "Given name Hermanus matches and no wife is named, but 'de Oude' sits poorly with a man aged ~26, and Hermanus Sr. (b. 1765) is a more likely 'old' Hermanus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "729|1862",
+  "verdict": "REJECT",
+  "reason": "Census head Hermanus 'de Oude' differs in name from Marthinus Johannes, who was ~26 and recently married (1823).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|9318",
+  "verdict": "REJECT",
+  "reason": "Census head Theunis with wife De Vos, Gertruyda Woutrina differs in name and contradicts his 1817 marriage to Cornelia Elisabeth Botha.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,973 @@
+row_id,census_id,label,label_source,sample,hand_label
+6,4112,0,both model reviews,hand-labeled pair,0
+13,5244,0,authors,hand-labeled pair,0
+20,9438,1,both model reviews,hand-labeled pair,1
+21,4909,0,both model reviews,hand-labeled pair,0
+22,9436,0,authors,hand-labeled pair,1
+22,9439,1,authors,hand-labeled pair,0
+24,9561,0,authors,hand-labeled pair,1
+32,8483,0,both model reviews,hand-labeled pair,0
+33,7858,0,authors,hand-labeled pair,1
+35,1854,0,both model reviews,hand-labeled pair,0
+36,1843,0,both model reviews,hand-labeled pair,0
+41,8552,0,both model reviews,hand-labeled pair,0
+42,716,0,authors,hand-labeled pair,1
+44,422,0,both model reviews,hand-labeled pair,0
+45,4231,0,both model reviews,hand-labeled pair,0
+45,4447,1,authors,hand-labeled pair,0
+47,700,0,both model reviews,hand-labeled pair,0
+48,316,0,both model reviews,hand-labeled pair,0
+54,5305,1,both model reviews,hand-labeled pair,1
+58,5542,1,authors,hand-labeled pair,0
+59,5615,0,both model reviews,hand-labeled pair,0
+59,6391,0,both model reviews,hand-labeled pair,0
+62,303,1,authors,hand-labeled pair,1
+63,303,0,both model reviews,hand-labeled pair,0
+63,304,0,both model reviews,hand-labeled pair,0
+63,306,0,both model reviews,hand-labeled pair,0
+64,365,0,both model reviews,supplementary sample,
+65,367,0,both model reviews,hand-labeled pair,0
+68,1548,0,both model reviews,hand-labeled pair,0
+68,5206,0,both model reviews,hand-labeled pair,0
+69,9411,0,both model reviews,hand-labeled pair,0
+71,1548,0,both model reviews,hand-labeled pair,0
+71,1944,0,both model reviews,supplementary sample,
+71,4388,0,authors,hand-labeled pair,0
+72,1840,0,both model reviews,hand-labeled pair,0
+72,1868,0,both model reviews,hand-labeled pair,0
+73,4670,0,authors,hand-labeled pair,0
+73,4671,0,authors,hand-labeled pair,1
+74,1687,0,both model reviews,hand-labeled pair,0
+74,1949,0,both model reviews,supplementary sample,
+74,4385,0,both model reviews,hand-labeled pair,0
+74,5241,0,both model reviews,hand-labeled pair,0
+75,4413,0,both model reviews,hand-labeled pair,0
+77,2006,0,both model reviews,hand-labeled pair,0
+77,4413,0,both model reviews,hand-labeled pair,0
+77,4670,0,both model reviews,hand-labeled pair,0
+77,9528,0,both model reviews,hand-labeled pair,0
+77,9549,0,both model reviews,hand-labeled pair,0
+78,103,0,both model reviews,hand-labeled pair,0
+78,163,0,both model reviews,hand-labeled pair,0
+78,4413,0,both model reviews,hand-labeled pair,0
+78,4985,0,both model reviews,hand-labeled pair,0
+78,5241,0,both model reviews,hand-labeled pair,0
+79,3388,0,both model reviews,hand-labeled pair,0
+79,3910,0,both model reviews,hand-labeled pair,0
+79,3931,0,both model reviews,hand-labeled pair,0
+79,3935,0,authors,supplementary sample,
+80,3931,0,both model reviews,supplementary sample,
+82,4388,0,both model reviews,hand-labeled pair,0
+83,2016,0,both model reviews,hand-labeled pair,0
+83,2243,0,authors,hand-labeled pair,0
+83,4541,0,both model reviews,hand-labeled pair,0
+83,4671,0,both model reviews,hand-labeled pair,0
+83,4985,0,both model reviews,hand-labeled pair,0
+83,5241,1,authors,hand-labeled pair,0
+83,5311,0,both model reviews,hand-labeled pair,0
+84,4388,0,both model reviews,hand-labeled pair,0
+85,1548,0,both model reviews,hand-labeled pair,0
+85,4388,0,both model reviews,hand-labeled pair,0
+85,5206,0,both model reviews,hand-labeled pair,0
+87,9411,0,both model reviews,hand-labeled pair,0
+88,1548,0,both model reviews,hand-labeled pair,0
+88,2006,0,authors,supplementary sample,
+88,4413,0,authors,hand-labeled pair,0
+89,5311,0,both model reviews,hand-labeled pair,0
+90,103,0,both model reviews,hand-labeled pair,0
+90,4413,0,both model reviews,hand-labeled pair,0
+90,4670,0,both model reviews,hand-labeled pair,0
+90,5269,0,both model reviews,hand-labeled pair,0
+91,1950,0,authors,hand-labeled pair,0
+91,4670,0,authors,hand-labeled pair,0
+94,1856,0,both model reviews,hand-labeled pair,0
+95,1840,0,both model reviews,hand-labeled pair,0
+95,4670,0,both model reviews,hand-labeled pair,0
+95,4671,0,both model reviews,hand-labeled pair,0
+96,3932,0,authors,hand-labeled pair,0
+97,2006,0,both model reviews,hand-labeled pair,0
+97,2259,0,both model reviews,supplementary sample,
+97,4385,0,both model reviews,hand-labeled pair,0
+97,4413,0,both model reviews,hand-labeled pair,0
+97,4670,1,authors,hand-labeled pair,0
+97,4671,0,both model reviews,hand-labeled pair,0
+99,1688,0,both model reviews,hand-labeled pair,0
+99,1691,0,both model reviews,supplementary sample,
+99,4696,0,authors,hand-labeled pair,1
+100,163,0,both model reviews,hand-labeled pair,0
+100,2006,0,both model reviews,hand-labeled pair,0
+100,2243,1,authors,hand-labeled pair,0
+100,5241,0,both model reviews,hand-labeled pair,0
+100,9514,0,both model reviews,hand-labeled pair,0
+101,1548,0,both model reviews,hand-labeled pair,0
+105,1901,0,authors,supplementary sample,
+105,1952,0,both model reviews,supplementary sample,
+106,2261,0,both model reviews,hand-labeled pair,0
+108,1691,0,both model reviews,supplementary sample,
+112,9859,0,authors,hand-labeled pair,1
+119,4210,1,both model reviews,hand-labeled pair,1
+119,4212,0,both model reviews,hand-labeled pair,0
+120,2095,1,both model reviews,supplementary sample,
+120,4214,1,both model reviews,hand-labeled pair,1
+130,243,0,authors,hand-labeled pair,0
+130,4052,0,authors,hand-labeled pair,0
+130,4053,0,authors,hand-labeled pair,0
+130,4077,1,authors,hand-labeled pair,0
+130,5227,0,authors,hand-labeled pair,0
+131,5335,1,both model reviews,hand-labeled pair,1
+132,4050,1,both model reviews,hand-labeled pair,1
+132,5227,0,both model reviews,hand-labeled pair,0
+141,202,0,both model reviews,hand-labeled pair,0
+144,503,1,both model reviews,supplementary sample,
+145,504,1,authors,hand-labeled pair,0
+146,7704,0,both model reviews,hand-labeled pair,0
+148,9609,1,authors,hand-labeled pair,0
+154,4615,0,both model reviews,hand-labeled pair,0
+155,7559,0,both model reviews,hand-labeled pair,0
+156,4615,0,both model reviews,hand-labeled pair,0
+160,1772,0,both model reviews,supplementary sample,
+160,2080,0,both model reviews,hand-labeled pair,0
+160,4162,0,both model reviews,hand-labeled pair,0
+160,4180,0,authors,hand-labeled pair,1
+160,4227,0,both model reviews,hand-labeled pair,0
+161,1775,0,both model reviews,hand-labeled pair,0
+161,2315,0,both model reviews,hand-labeled pair,0
+161,4145,0,both model reviews,hand-labeled pair,0
+162,259,0,both model reviews,hand-labeled pair,0
+162,4164,0,both model reviews,hand-labeled pair,0
+162,4567,0,both model reviews,hand-labeled pair,0
+164,2080,0,both model reviews,hand-labeled pair,0
+164,2268,0,both model reviews,hand-labeled pair,0
+165,2271,0,both model reviews,hand-labeled pair,0
+165,4162,0,both model reviews,hand-labeled pair,0
+165,4825,0,both model reviews,hand-labeled pair,0
+168,1756,0,both model reviews,hand-labeled pair,0
+170,1765,0,both model reviews,hand-labeled pair,0
+172,2283,0,both model reviews,supplementary sample,
+173,2007,0,authors,hand-labeled pair,1
+173,2008,1,authors,supplementary sample,
+180,4345,1,both model reviews,hand-labeled pair,1
+182,520,0,both model reviews,supplementary sample,
+191,9469,1,authors,hand-labeled pair,0
+193,1530,0,both model reviews,hand-labeled pair,0
+193,1646,0,both model reviews,hand-labeled pair,0
+193,1782,0,authors,hand-labeled pair,1
+193,1969,0,both model reviews,hand-labeled pair,0
+193,5523,0,both model reviews,hand-labeled pair,0
+193,9540,1,both model reviews,hand-labeled pair,1
+194,9689,0,both model reviews,supplementary sample,
+195,359,0,authors,hand-labeled pair,1
+196,1757,1,authors,hand-labeled pair,0
+196,1779,0,both model reviews,hand-labeled pair,0
+196,5300,0,both model reviews,hand-labeled pair,0
+197,1780,0,both model reviews,supplementary sample,
+197,1782,0,both model reviews,hand-labeled pair,0
+197,1969,0,both model reviews,hand-labeled pair,0
+198,1641,0,authors,hand-labeled pair,0
+198,1779,0,authors,hand-labeled pair,0
+199,9540,0,both model reviews,supplementary sample,
+200,1788,0,both model reviews,hand-labeled pair,0
+200,4384,0,both model reviews,hand-labeled pair,0
+201,1782,0,both model reviews,hand-labeled pair,0
+201,1799,1,authors,hand-labeled pair,1
+201,5325,0,both model reviews,hand-labeled pair,0
+201,9757,0,both model reviews,supplementary sample,
+203,4384,1,authors,hand-labeled pair,1
+203,4704,0,both model reviews,hand-labeled pair,0
+203,4719,0,both model reviews,hand-labeled pair,0
+203,4724,0,both model reviews,hand-labeled pair,0
+205,464,1,both model reviews,hand-labeled pair,1
+205,591,0,both model reviews,hand-labeled pair,0
+206,359,0,both model reviews,hand-labeled pair,0
+206,592,0,authors,hand-labeled pair,1
+206,593,1,authors,supplementary sample,
+209,5325,1,authors,hand-labeled pair,0
+213,9261,1,both model reviews,hand-labeled pair,1
+218,9264,1,both model reviews,hand-labeled pair,1
+220,8109,0,authors,hand-labeled pair,0
+223,8121,0,both model reviews,hand-labeled pair,0
+223,8277,1,authors,hand-labeled pair,0
+225,8118,1,authors,hand-labeled pair,0
+236,11,0,both model reviews,hand-labeled pair,0
+236,2234,0,both model reviews,supplementary sample,
+237,11,0,both model reviews,hand-labeled pair,0
+238,9283,0,both model reviews,supplementary sample,
+242,8342,1,authors,hand-labeled pair,1
+244,6058,0,both model reviews,supplementary sample,
+244,6179,0,both model reviews,hand-labeled pair,0
+244,6182,0,both model reviews,hand-labeled pair,0
+244,6267,0,both model reviews,hand-labeled pair,0
+244,6403,0,both model reviews,hand-labeled pair,0
+246,67,1,authors,hand-labeled pair,0
+247,120,1,authors,hand-labeled pair,0
+250,2381,1,authors,hand-labeled pair,1
+253,9425,0,authors,hand-labeled pair,1
+258,4084,0,both model reviews,hand-labeled pair,0
+260,7268,1,both model reviews,hand-labeled pair,1
+263,7981,0,both model reviews,hand-labeled pair,0
+264,4066,0,both model reviews,hand-labeled pair,0
+264,4479,0,both model reviews,hand-labeled pair,0
+265,1615,0,both model reviews,supplementary sample,
+265,4479,0,both model reviews,hand-labeled pair,0
+266,4479,0,both model reviews,hand-labeled pair,0
+266,5066,0,both model reviews,hand-labeled pair,0
+269,1615,0,both model reviews,hand-labeled pair,0
+269,4496,0,both model reviews,hand-labeled pair,0
+270,2430,0,both model reviews,supplementary sample,
+270,4066,0,both model reviews,hand-labeled pair,0
+270,5066,0,both model reviews,hand-labeled pair,0
+272,4496,0,both model reviews,hand-labeled pair,0
+272,4568,0,both model reviews,hand-labeled pair,0
+273,4041,0,both model reviews,hand-labeled pair,0
+273,4547,0,both model reviews,hand-labeled pair,0
+280,812,1,both model reviews,hand-labeled pair,1
+280,929,0,both model reviews,hand-labeled pair,0
+281,639,0,both model reviews,supplementary sample,
+281,812,0,both model reviews,hand-labeled pair,0
+283,928,0,both model reviews,hand-labeled pair,0
+285,4766,0,both model reviews,hand-labeled pair,0
+285,4769,0,both model reviews,hand-labeled pair,0
+287,9680,1,both model reviews,supplementary sample,
+290,4769,0,both model reviews,hand-labeled pair,0
+290,5314,0,authors,hand-labeled pair,0
+295,914,1,both model reviews,hand-labeled pair,1
+296,926,1,authors,hand-labeled pair,0
+297,4697,0,authors,hand-labeled pair,0
+297,4768,0,both model reviews,hand-labeled pair,0
+297,5217,0,both model reviews,hand-labeled pair,0
+298,4983,0,both model reviews,hand-labeled pair,0
+299,2048,0,authors,supplementary sample,
+300,4529,0,both model reviews,hand-labeled pair,0
+300,4697,0,both model reviews,hand-labeled pair,0
+300,5215,0,both model reviews,hand-labeled pair,0
+300,5219,0,both model reviews,hand-labeled pair,0
+301,926,0,both model reviews,hand-labeled pair,0
+301,2048,0,authors,hand-labeled pair,1
+301,4529,0,both model reviews,hand-labeled pair,0
+302,5215,0,both model reviews,hand-labeled pair,0
+302,5219,1,authors,hand-labeled pair,0
+311,1999,1,authors,hand-labeled pair,0
+312,5445,0,both model reviews,supplementary sample,
+316,4401,0,both model reviews,supplementary sample,
+320,4856,0,both model reviews,hand-labeled pair,0
+320,9343,0,both model reviews,hand-labeled pair,0
+321,1745,0,both model reviews,hand-labeled pair,0
+321,4206,0,both model reviews,hand-labeled pair,0
+321,5292,0,both model reviews,hand-labeled pair,0
+322,53,0,both model reviews,hand-labeled pair,0
+322,2233,0,both model reviews,hand-labeled pair,0
+322,2437,0,both model reviews,hand-labeled pair,0
+322,4207,0,both model reviews,hand-labeled pair,0
+322,9513,0,both model reviews,hand-labeled pair,0
+324,1768,0,both model reviews,hand-labeled pair,0
+325,5293,0,both model reviews,hand-labeled pair,0
+326,2233,0,both model reviews,hand-labeled pair,0
+326,5293,0,both model reviews,hand-labeled pair,0
+326,9362,0,both model reviews,hand-labeled pair,0
+327,2224,0,both model reviews,hand-labeled pair,0
+327,4213,0,both model reviews,hand-labeled pair,0
+327,5292,0,both model reviews,hand-labeled pair,0
+327,9362,0,both model reviews,supplementary sample,
+329,4206,0,both model reviews,hand-labeled pair,0
+329,4239,1,authors,hand-labeled pair,0
+329,4240,0,both model reviews,hand-labeled pair,0
+329,5292,1,both model reviews,hand-labeled pair,1
+330,1769,0,both model reviews,hand-labeled pair,0
+330,2221,1,authors,hand-labeled pair,1
+330,5304,0,both model reviews,hand-labeled pair,0
+330,9335,0,both model reviews,hand-labeled pair,0
+331,2218,0,both model reviews,hand-labeled pair,0
+331,5293,0,both model reviews,hand-labeled pair,0
+332,2437,0,both model reviews,hand-labeled pair,0
+332,4213,0,both model reviews,hand-labeled pair,0
+332,4239,0,both model reviews,hand-labeled pair,0
+332,5292,0,both model reviews,hand-labeled pair,0
+333,2233,0,both model reviews,supplementary sample,
+334,4074,0,both model reviews,hand-labeled pair,0
+337,2218,0,both model reviews,hand-labeled pair,0
+337,2437,0,both model reviews,hand-labeled pair,0
+337,5293,0,both model reviews,hand-labeled pair,0
+340,4852,0,both model reviews,hand-labeled pair,0
+341,4852,0,both model reviews,hand-labeled pair,0
+342,4243,0,both model reviews,hand-labeled pair,0
+342,9335,0,both model reviews,hand-labeled pair,0
+343,451,0,both model reviews,hand-labeled pair,0
+343,1737,0,both model reviews,hand-labeled pair,0
+343,1761,0,both model reviews,hand-labeled pair,0
+343,4856,0,both model reviews,hand-labeled pair,0
+344,2437,0,both model reviews,supplementary sample,
+348,9083,0,both model reviews,hand-labeled pair,0
+349,5567,1,authors,hand-labeled pair,1
+355,493,0,both model reviews,hand-labeled pair,0
+357,406,0,both model reviews,hand-labeled pair,0
+358,9718,1,authors,hand-labeled pair,1
+360,9718,0,both model reviews,hand-labeled pair,0
+364,7809,0,both model reviews,hand-labeled pair,0
+364,8256,0,both model reviews,hand-labeled pair,0
+364,8597,0,both model reviews,hand-labeled pair,0
+364,8615,0,both model reviews,hand-labeled pair,0
+365,8251,0,both model reviews,hand-labeled pair,0
+365,8254,0,authors,hand-labeled pair,1
+366,4871,1,both model reviews,hand-labeled pair,1
+366,5331,0,both model reviews,hand-labeled pair,0
+379,2194,1,authors,hand-labeled pair,0
+380,2198,0,both model reviews,supplementary sample,
+382,1547,0,authors,hand-labeled pair,1
+384,9567,0,both model reviews,hand-labeled pair,0
+387,1996,1,authors,supplementary sample,
+387,4186,0,both model reviews,hand-labeled pair,0
+388,9391,0,both model reviews,hand-labeled pair,0
+392,9451,0,both model reviews,hand-labeled pair,0
+394,4830,0,both model reviews,hand-labeled pair,0
+394,4968,0,both model reviews,hand-labeled pair,0
+394,5117,1,authors,hand-labeled pair,0
+401,396,1,authors,hand-labeled pair,1
+403,757,0,authors,hand-labeled pair,1
+403,779,0,both model reviews,hand-labeled pair,0
+408,2033,1,authors,supplementary sample,
+412,2295,1,both model reviews,supplementary sample,
+414,4415,1,both model reviews,hand-labeled pair,1
+414,4476,0,both model reviews,hand-labeled pair,0
+417,4503,0,both model reviews,hand-labeled pair,0
+418,5172,0,both model reviews,hand-labeled pair,0
+424,429,0,authors,hand-labeled pair,0
+424,430,1,authors,hand-labeled pair,1
+429,9177,0,authors,hand-labeled pair,1
+432,5338,0,both model reviews,supplementary sample,
+433,244,0,both model reviews,hand-labeled pair,0
+436,204,0,both model reviews,hand-labeled pair,0
+436,511,0,authors,hand-labeled pair,1
+441,274,1,authors,hand-labeled pair,0
+442,664,0,both model reviews,hand-labeled pair,0
+443,234,1,both model reviews,hand-labeled pair,1
+443,607,0,both model reviews,supplementary sample,
+443,664,0,both model reviews,hand-labeled pair,0
+445,607,0,both model reviews,hand-labeled pair,0
+447,871,0,authors,hand-labeled pair,0
+448,244,0,both model reviews,hand-labeled pair,0
+448,563,0,both model reviews,hand-labeled pair,0
+458,1760,0,both model reviews,supplementary sample,
+459,1822,0,authors,hand-labeled pair,0
+459,1849,0,both model reviews,supplementary sample,
+461,9659,0,both model reviews,hand-labeled pair,0
+463,1760,0,authors,hand-labeled pair,0
+463,1822,1,authors,hand-labeled pair,1
+465,2176,0,authors,hand-labeled pair,1
+470,7675,0,authors,hand-labeled pair,0
+471,4890,0,both model reviews,hand-labeled pair,0
+471,5353,0,both model reviews,hand-labeled pair,0
+471,9404,0,both model reviews,hand-labeled pair,0
+472,9494,0,both model reviews,hand-labeled pair,0
+474,7343,0,authors,hand-labeled pair,0
+474,7724,1,authors,hand-labeled pair,1
+475,5425,0,both model reviews,hand-labeled pair,0
+475,5426,0,both model reviews,hand-labeled pair,0
+478,7675,0,both model reviews,hand-labeled pair,0
+478,7712,0,both model reviews,hand-labeled pair,0
+478,7718,1,authors,hand-labeled pair,1
+485,1543,0,authors,hand-labeled pair,0
+486,4809,1,authors,hand-labeled pair,0
+486,4811,0,both model reviews,hand-labeled pair,0
+490,2229,0,both model reviews,hand-labeled pair,0
+496,5093,1,authors,hand-labeled pair,1
+497,5346,0,both model reviews,hand-labeled pair,0
+499,4578,0,both model reviews,hand-labeled pair,0
+500,1884,1,authors,hand-labeled pair,1
+504,2131,1,both model reviews,supplementary sample,
+504,4249,1,both model reviews,hand-labeled pair,1
+511,4136,0,both model reviews,hand-labeled pair,0
+512,1577,0,both model reviews,supplementary sample,
+512,2132,1,both model reviews,hand-labeled pair,1
+512,4201,0,both model reviews,hand-labeled pair,0
+512,4887,0,both model reviews,hand-labeled pair,0
+512,5211,0,both model reviews,hand-labeled pair,0
+513,1584,0,authors,hand-labeled pair,0
+513,2357,0,authors,hand-labeled pair,0
+515,4205,1,both model reviews,hand-labeled pair,1
+516,4203,1,both model reviews,hand-labeled pair,1
+518,4189,0,both model reviews,hand-labeled pair,0
+519,4230,0,both model reviews,hand-labeled pair,0
+520,1705,0,both model reviews,supplementary sample,
+520,2066,0,both model reviews,hand-labeled pair,0
+520,4144,0,both model reviews,hand-labeled pair,0
+520,4146,0,both model reviews,hand-labeled pair,0
+520,5213,1,both model reviews,hand-labeled pair,1
+523,2020,0,both model reviews,supplementary sample,
+529,9548,0,both model reviews,hand-labeled pair,0
+536,9179,0,authors,hand-labeled pair,0
+536,9272,0,authors,hand-labeled pair,0
+537,9632,0,authors,hand-labeled pair,0
+544,4412,0,authors,hand-labeled pair,0
+544,4552,0,both model reviews,hand-labeled pair,0
+544,4614,1,authors,hand-labeled pair,0
+545,4552,0,both model reviews,hand-labeled pair,0
+545,5345,0,both model reviews,hand-labeled pair,0
+546,4411,0,authors,hand-labeled pair,0
+546,5345,0,both model reviews,hand-labeled pair,0
+552,9485,0,authors,hand-labeled pair,1
+553,541,1,both model reviews,supplementary sample,
+563,1192,0,both model reviews,hand-labeled pair,0
+564,4464,0,both model reviews,hand-labeled pair,0
+567,5118,0,both model reviews,hand-labeled pair,0
+573,663,0,both model reviews,hand-labeled pair,0
+575,488,1,both model reviews,hand-labeled pair,1
+576,129,0,both model reviews,hand-labeled pair,0
+580,9294,0,both model reviews,supplementary sample,
+587,3859,0,authors,hand-labeled pair,1
+587,3860,0,authors,hand-labeled pair,1
+590,5435,0,both model reviews,hand-labeled pair,0
+591,4167,1,authors,hand-labeled pair,0
+592,4252,1,both model reviews,hand-labeled pair,1
+593,5435,0,authors,hand-labeled pair,0
+595,4824,0,both model reviews,hand-labeled pair,0
+597,3467,0,both model reviews,hand-labeled pair,0
+597,3471,0,both model reviews,supplementary sample,
+602,9654,0,both model reviews,hand-labeled pair,0
+605,4395,0,authors,hand-labeled pair,1
+605,4396,1,both model reviews,hand-labeled pair,1
+606,4395,1,both model reviews,hand-labeled pair,1
+606,4396,0,both model reviews,hand-labeled pair,0
+613,838,1,authors,hand-labeled pair,0
+620,1542,0,both model reviews,hand-labeled pair,0
+628,5500,0,both model reviews,supplementary sample,
+633,9336,0,both model reviews,hand-labeled pair,0
+633,9658,0,both model reviews,hand-labeled pair,0
+635,92,0,both model reviews,hand-labeled pair,0
+635,4315,0,both model reviews,hand-labeled pair,0
+635,9556,0,both model reviews,hand-labeled pair,0
+638,9359,0,both model reviews,hand-labeled pair,0
+640,13,0,both model reviews,hand-labeled pair,0
+654,3643,0,authors,hand-labeled pair,0
+655,4604,0,both model reviews,hand-labeled pair,0
+671,1909,0,both model reviews,hand-labeled pair,0
+673,833,0,both model reviews,hand-labeled pair,0
+675,471,0,both model reviews,hand-labeled pair,0
+675,684,0,both model reviews,hand-labeled pair,0
+680,1561,0,authors,hand-labeled pair,1
+683,246,0,both model reviews,hand-labeled pair,0
+686,4992,0,both model reviews,hand-labeled pair,0
+687,1605,0,both model reviews,hand-labeled pair,0
+687,2429,1,both model reviews,hand-labeled pair,1
+691,4367,0,both model reviews,hand-labeled pair,0
+691,4681,1,both model reviews,hand-labeled pair,1
+691,4994,0,both model reviews,hand-labeled pair,0
+692,4140,1,both model reviews,hand-labeled pair,1
+692,4141,0,both model reviews,hand-labeled pair,0
+692,4646,0,both model reviews,hand-labeled pair,0
+693,4141,0,authors,hand-labeled pair,0
+693,4261,0,authors,hand-labeled pair,0
+693,4459,0,authors,hand-labeled pair,0
+698,9368,0,both model reviews,hand-labeled pair,0
+699,9503,1,both model reviews,hand-labeled pair,1
+703,9410,0,authors,hand-labeled pair,0
+706,114,0,both model reviews,hand-labeled pair,0
+708,9166,0,both model reviews,hand-labeled pair,0
+709,9616,0,authors,hand-labeled pair,0
+709,9775,0,authors,supplementary sample,
+711,9118,0,both model reviews,hand-labeled pair,0
+711,9629,1,both model reviews,hand-labeled pair,1
+712,9118,0,both model reviews,hand-labeled pair,0
+716,9639,0,both model reviews,hand-labeled pair,0
+717,1832,0,both model reviews,hand-labeled pair,0
+718,1813,1,both model reviews,hand-labeled pair,1
+718,1832,0,both model reviews,hand-labeled pair,0
+719,4561,0,both model reviews,hand-labeled pair,0
+720,1833,0,authors,supplementary sample,
+720,4561,0,both model reviews,hand-labeled pair,0
+721,9741,0,both model reviews,hand-labeled pair,0
+722,1813,0,both model reviews,hand-labeled pair,0
+723,1831,1,both model reviews,hand-labeled pair,1
+724,113,0,both model reviews,hand-labeled pair,0
+724,9318,0,both model reviews,hand-labeled pair,0
+724,9645,0,both model reviews,hand-labeled pair,0
+725,1836,0,authors,hand-labeled pair,0
+725,9277,0,both model reviews,hand-labeled pair,0
+726,1813,0,both model reviews,hand-labeled pair,0
+726,8899,0,both model reviews,hand-labeled pair,0
+726,9639,0,both model reviews,supplementary sample,
+727,1813,0,both model reviews,hand-labeled pair,0
+727,9646,0,both model reviews,hand-labeled pair,0
+727,9741,0,both model reviews,hand-labeled pair,0
+729,1862,0,both model reviews,hand-labeled pair,0
+730,9209,1,both model reviews,hand-labeled pair,1
+730,9745,0,authors,hand-labeled pair,0
+734,4471,0,both model reviews,hand-labeled pair,0
+735,4815,0,both model reviews,hand-labeled pair,0
+736,1651,0,both model reviews,hand-labeled pair,0
+736,2339,0,both model reviews,hand-labeled pair,0
+736,4106,0,both model reviews,hand-labeled pair,0
+736,4701,0,authors,hand-labeled pair,0
+736,5072,0,both model reviews,hand-labeled pair,0
+736,5167,0,both model reviews,hand-labeled pair,0
+736,5257,0,both model reviews,hand-labeled pair,0
+738,4701,0,both model reviews,hand-labeled pair,0
+738,4894,0,both model reviews,hand-labeled pair,0
+738,5008,0,both model reviews,hand-labeled pair,0
+738,5040,0,both model reviews,hand-labeled pair,0
+738,5079,0,both model reviews,hand-labeled pair,0
+741,5146,0,both model reviews,hand-labeled pair,0
+743,5167,1,both model reviews,hand-labeled pair,1
+744,4894,0,authors,hand-labeled pair,0
+744,5040,0,authors,hand-labeled pair,0
+746,5072,0,both model reviews,hand-labeled pair,0
+746,5146,1,both model reviews,hand-labeled pair,1
+747,4526,0,both model reviews,hand-labeled pair,0
+747,4527,0,both model reviews,hand-labeled pair,0
+747,5180,0,both model reviews,hand-labeled pair,0
+749,5008,0,both model reviews,hand-labeled pair,0
+749,5079,1,both model reviews,hand-labeled pair,1
+749,5114,0,both model reviews,hand-labeled pair,0
+751,1523,0,authors,supplementary sample,
+752,1495,0,authors,hand-labeled pair,0
+752,1497,0,authors,hand-labeled pair,0
+752,1651,0,both model reviews,hand-labeled pair,0
+752,4104,0,authors,hand-labeled pair,0
+752,4108,0,authors,hand-labeled pair,0
+752,4598,0,both model reviews,hand-labeled pair,0
+752,4709,0,both model reviews,hand-labeled pair,0
+752,4814,0,authors,hand-labeled pair,0
+752,5007,0,authors,hand-labeled pair,0
+752,5079,0,both model reviews,hand-labeled pair,0
+752,5114,0,authors,hand-labeled pair,0
+753,4103,0,authors,hand-labeled pair,0
+753,4108,0,authors,hand-labeled pair,0
+753,4701,0,both model reviews,hand-labeled pair,0
+753,4702,0,both model reviews,hand-labeled pair,0
+753,5114,0,authors,hand-labeled pair,0
+753,5146,0,both model reviews,hand-labeled pair,0
+753,5152,0,both model reviews,hand-labeled pair,0
+753,5178,0,authors,hand-labeled pair,0
+755,4107,0,both model reviews,hand-labeled pair,0
+755,4709,1,authors,hand-labeled pair,0
+756,4815,1,authors,hand-labeled pair,0
+757,4103,0,authors,hand-labeled pair,0
+757,4108,0,both model reviews,hand-labeled pair,0
+757,4814,0,both model reviews,hand-labeled pair,0
+757,5114,0,both model reviews,hand-labeled pair,0
+757,5148,0,both model reviews,hand-labeled pair,0
+757,5257,0,both model reviews,hand-labeled pair,0
+758,4108,0,authors,hand-labeled pair,0
+758,4702,0,both model reviews,hand-labeled pair,0
+759,4107,0,both model reviews,hand-labeled pair,0
+759,4709,0,authors,hand-labeled pair,0
+759,5109,0,authors,hand-labeled pair,0
+759,5181,1,authors,hand-labeled pair,1
+760,4228,0,both model reviews,hand-labeled pair,0
+760,4709,0,both model reviews,hand-labeled pair,0
+760,4900,0,both model reviews,hand-labeled pair,0
+760,5040,0,both model reviews,hand-labeled pair,0
+760,5079,0,both model reviews,hand-labeled pair,0
+760,5164,1,authors,hand-labeled pair,1
+761,4709,0,both model reviews,hand-labeled pair,0
+763,4108,0,both model reviews,hand-labeled pair,0
+763,5029,0,both model reviews,hand-labeled pair,0
+765,4107,0,both model reviews,hand-labeled pair,0
+765,4570,0,both model reviews,hand-labeled pair,0
+765,4709,0,both model reviews,hand-labeled pair,0
+765,5109,0,both model reviews,hand-labeled pair,0
+766,2200,0,both model reviews,hand-labeled pair,0
+766,2203,0,both model reviews,hand-labeled pair,0
+766,2231,0,authors,hand-labeled pair,0
+767,2201,0,both model reviews,hand-labeled pair,0
+767,2210,0,both model reviews,hand-labeled pair,0
+767,2235,0,both model reviews,hand-labeled pair,0
+767,2258,0,both model reviews,hand-labeled pair,0
+768,2207,0,both model reviews,hand-labeled pair,0
+768,2235,0,both model reviews,supplementary sample,
+770,2204,0,authors,hand-labeled pair,1
+770,2231,0,both model reviews,supplementary sample,
+772,2201,0,both model reviews,supplementary sample,
+773,2200,0,both model reviews,supplementary sample,
+773,2202,0,both model reviews,hand-labeled pair,0
+773,2203,0,both model reviews,hand-labeled pair,0
+775,2208,0,both model reviews,hand-labeled pair,0
+779,2210,0,both model reviews,supplementary sample,
+781,2201,0,both model reviews,supplementary sample,
+781,2213,0,authors,hand-labeled pair,0
+782,2231,0,both model reviews,supplementary sample,
+785,2204,0,both model reviews,supplementary sample,
+786,9502,1,both model reviews,supplementary sample,
+791,1948,1,authors,hand-labeled pair,0
+797,1118,0,both model reviews,hand-labeled pair,0
+797,1158,1,authors,hand-labeled pair,0
+797,1359,0,both model reviews,supplementary sample,
+801,5153,1,both model reviews,hand-labeled pair,1
+810,1970,0,both model reviews,hand-labeled pair,0
+820,4925,0,both model reviews,hand-labeled pair,0
+822,1882,0,authors,supplementary sample,
+825,9588,0,both model reviews,hand-labeled pair,0
+827,9588,1,authors,hand-labeled pair,0
+828,4726,0,authors,hand-labeled pair,1
+828,4794,1,both model reviews,hand-labeled pair,1
+831,5537,0,both model reviews,hand-labeled pair,0
+832,5795,1,authors,hand-labeled pair,0
+832,5821,0,both model reviews,hand-labeled pair,0
+832,6388,0,authors,hand-labeled pair,1
+838,4942,1,both model reviews,hand-labeled pair,1
+838,4946,0,both model reviews,hand-labeled pair,0
+839,4946,0,both model reviews,hand-labeled pair,0
+840,3852,1,both model reviews,hand-labeled pair,1
+842,9088,0,authors,hand-labeled pair,1
+842,9156,0,authors,hand-labeled pair,1
+843,9159,0,both model reviews,hand-labeled pair,0
+843,9621,1,authors,hand-labeled pair,1
+844,9487,0,both model reviews,hand-labeled pair,0
+844,9523,0,both model reviews,hand-labeled pair,0
+846,9156,0,both model reviews,hand-labeled pair,0
+847,9697,1,authors,hand-labeled pair,0
+848,9156,0,both model reviews,hand-labeled pair,0
+850,9159,0,both model reviews,hand-labeled pair,0
+850,9487,1,authors,hand-labeled pair,0
+850,9610,0,both model reviews,hand-labeled pair,0
+850,9697,0,both model reviews,hand-labeled pair,0
+851,9173,0,both model reviews,supplementary sample,
+854,9614,0,both model reviews,hand-labeled pair,0
+854,9706,0,both model reviews,hand-labeled pair,0
+857,9562,1,both model reviews,supplementary sample,
+858,9592,1,both model reviews,hand-labeled pair,1
+861,3874,0,authors,supplementary sample,
+864,5205,1,both model reviews,hand-labeled pair,1
+872,4669,0,authors,hand-labeled pair,0
+873,248,0,both model reviews,hand-labeled pair,0
+874,1010,0,both model reviews,supplementary sample,
+877,852,1,both model reviews,hand-labeled pair,1
+878,476,0,both model reviews,hand-labeled pair,0
+878,5113,0,both model reviews,hand-labeled pair,0
+878,5288,0,both model reviews,hand-labeled pair,0
+879,1890,0,both model reviews,hand-labeled pair,0
+879,5158,0,both model reviews,hand-labeled pair,0
+879,5288,0,authors,hand-labeled pair,0
+881,4508,0,both model reviews,hand-labeled pair,0
+881,9363,0,both model reviews,hand-labeled pair,0
+882,4896,0,both model reviews,hand-labeled pair,0
+883,4275,0,both model reviews,hand-labeled pair,0
+883,4711,0,both model reviews,hand-labeled pair,0
+883,4783,0,both model reviews,hand-labeled pair,0
+885,4711,0,both model reviews,hand-labeled pair,0
+885,4739,0,both model reviews,hand-labeled pair,0
+887,651,1,both model reviews,hand-labeled pair,1
+889,4840,1,both model reviews,hand-labeled pair,1
+891,9737,1,both model reviews,hand-labeled pair,1
+892,9481,1,authors,hand-labeled pair,1
+899,8212,0,both model reviews,hand-labeled pair,0
+909,400,0,both model reviews,hand-labeled pair,0
+910,7377,0,authors,hand-labeled pair,0
+911,7334,0,both model reviews,hand-labeled pair,0
+913,759,0,authors,hand-labeled pair,0
+913,761,0,both model reviews,hand-labeled pair,0
+913,912,0,authors,hand-labeled pair,0
+920,400,0,both model reviews,hand-labeled pair,0
+924,7326,0,authors,hand-labeled pair,0
+924,8148,1,both model reviews,hand-labeled pair,1
+928,5028,0,both model reviews,hand-labeled pair,0
+934,338,0,both model reviews,hand-labeled pair,0
+935,338,1,both model reviews,hand-labeled pair,1
+935,693,0,authors,hand-labeled pair,1
+937,695,1,authors,supplementary sample,
+940,9482,0,both model reviews,hand-labeled pair,0
+942,9482,1,both model reviews,supplementary sample,
+943,9312,0,both model reviews,hand-labeled pair,0
+944,4149,1,both model reviews,hand-labeled pair,1
+947,4749,1,authors,hand-labeled pair,1
+947,4964,0,both model reviews,hand-labeled pair,0
+948,4749,0,both model reviews,hand-labeled pair,0
+948,4771,0,both model reviews,hand-labeled pair,0
+951,4772,0,both model reviews,hand-labeled pair,0
+958,7444,0,both model reviews,hand-labeled pair,0
+958,8380,0,authors,hand-labeled pair,1
+958,8492,0,both model reviews,hand-labeled pair,0
+958,8738,0,both model reviews,hand-labeled pair,0
+958,8766,0,both model reviews,hand-labeled pair,0
+958,8853,0,both model reviews,hand-labeled pair,0
+960,4284,0,both model reviews,hand-labeled pair,0
+960,4457,1,authors,hand-labeled pair,0
+964,9232,1,both model reviews,hand-labeled pair,1
+965,9232,0,both model reviews,hand-labeled pair,0
+972,4630,1,authors,hand-labeled pair,0
+973,2425,1,authors,supplementary sample,
+980,7667,0,both model reviews,supplementary sample,
+980,7696,0,both model reviews,supplementary sample,
+982,467,1,both model reviews,hand-labeled pair,1
+984,4065,0,both model reviews,supplementary sample,
+985,5053,1,both model reviews,supplementary sample,
+989,2433,0,both model reviews,supplementary sample,
+990,27,0,both model reviews,supplementary sample,
+990,2112,0,both model reviews,supplementary sample,
+990,4072,0,both model reviews,supplementary sample,
+990,4229,0,both model reviews,supplementary sample,
+990,4344,0,both model reviews,supplementary sample,
+990,5189,0,both model reviews,hand-labeled pair,0
+991,4073,0,both model reviews,hand-labeled pair,0
+991,4343,0,both model reviews,hand-labeled pair,0
+991,4421,0,both model reviews,hand-labeled pair,0
+991,4422,0,both model reviews,hand-labeled pair,0
+991,4431,0,both model reviews,hand-labeled pair,0
+991,4432,0,both model reviews,hand-labeled pair,0
+991,4499,0,both model reviews,supplementary sample,
+991,4997,0,both model reviews,supplementary sample,
+991,5000,0,both model reviews,hand-labeled pair,0
+992,1678,0,authors,hand-labeled pair,1
+992,1723,1,both model reviews,hand-labeled pair,1
+992,2149,0,both model reviews,hand-labeled pair,0
+992,4073,0,both model reviews,hand-labeled pair,0
+992,5000,0,both model reviews,hand-labeled pair,0
+992,9499,0,both model reviews,hand-labeled pair,0
+993,4042,0,both model reviews,supplementary sample,
+993,4072,0,both model reviews,supplementary sample,
+993,4283,0,both model reviews,hand-labeled pair,0
+993,4342,0,authors,hand-labeled pair,1
+993,4352,0,both model reviews,hand-labeled pair,0
+993,4402,0,both model reviews,hand-labeled pair,0
+993,4787,0,both model reviews,hand-labeled pair,0
+993,5002,0,both model reviews,hand-labeled pair,0
+994,4584,0,both model reviews,hand-labeled pair,0
+996,4073,0,both model reviews,hand-labeled pair,0
+996,4352,0,both model reviews,hand-labeled pair,0
+996,4402,1,authors,hand-labeled pair,0
+996,4407,0,both model reviews,hand-labeled pair,0
+996,4787,0,both model reviews,hand-labeled pair,0
+996,4995,0,both model reviews,hand-labeled pair,0
+996,5000,0,authors,hand-labeled pair,1
+996,5002,0,both model reviews,hand-labeled pair,0
+997,4365,1,authors,hand-labeled pair,0
+997,4366,0,both model reviews,hand-labeled pair,0
+997,4405,0,both model reviews,hand-labeled pair,0
+997,4407,0,authors,hand-labeled pair,1
+997,4584,0,both model reviews,hand-labeled pair,0
+997,4803,0,both model reviews,hand-labeled pair,0
+997,4993,0,both model reviews,hand-labeled pair,0
+997,5002,0,authors,hand-labeled pair,1
+998,4358,1,authors,hand-labeled pair,0
+998,4402,0,both model reviews,hand-labeled pair,0
+998,4430,0,both model reviews,hand-labeled pair,0
+998,4759,0,both model reviews,hand-labeled pair,0
+998,5157,0,both model reviews,hand-labeled pair,0
+998,5207,0,both model reviews,hand-labeled pair,0
+999,4073,0,both model reviews,hand-labeled pair,0
+999,4421,0,both model reviews,hand-labeled pair,0
+999,4432,0,both model reviews,hand-labeled pair,0
+999,4787,0,both model reviews,hand-labeled pair,0
+1000,41,0,both model reviews,hand-labeled pair,0
+1000,43,0,both model reviews,hand-labeled pair,0
+1000,2123,0,both model reviews,supplementary sample,
+1000,4342,0,both model reviews,hand-labeled pair,0
+1001,4402,0,both model reviews,hand-labeled pair,0
+1001,4434,0,both model reviews,hand-labeled pair,0
+1001,4759,0,both model reviews,hand-labeled pair,0
+1001,5000,0,both model reviews,hand-labeled pair,0
+1002,1613,0,both model reviews,supplementary sample,
+1002,1674,0,both model reviews,hand-labeled pair,0
+1002,4209,0,both model reviews,supplementary sample,
+1002,4542,0,authors,hand-labeled pair,0
+1002,5336,0,both model reviews,supplementary sample,
+1003,1963,0,both model reviews,hand-labeled pair,0
+1003,4109,0,both model reviews,supplementary sample,
+1003,4342,0,both model reviews,hand-labeled pair,0
+1003,4787,0,both model reviews,hand-labeled pair,0
+1005,866,0,both model reviews,supplementary sample,
+1006,1880,0,both model reviews,supplementary sample,
+1006,2279,0,both model reviews,supplementary sample,
+1006,4493,1,both model reviews,hand-labeled pair,1
+1006,4540,0,both model reviews,supplementary sample,
+1006,4689,0,both model reviews,hand-labeled pair,0
+1009,9525,1,both model reviews,hand-labeled pair,1
+1010,1678,0,both model reviews,hand-labeled pair,0
+1010,4124,0,both model reviews,supplementary sample,
+1010,4343,0,both model reviews,hand-labeled pair,0
+1010,4431,0,both model reviews,hand-labeled pair,0
+1010,4516,0,both model reviews,hand-labeled pair,0
+1011,41,0,both model reviews,hand-labeled pair,0
+1011,4422,0,both model reviews,hand-labeled pair,0
+1011,5283,0,both model reviews,hand-labeled pair,0
+1013,4043,0,both model reviews,supplementary sample,
+1013,4804,0,both model reviews,hand-labeled pair,0
+1014,4342,0,both model reviews,hand-labeled pair,0
+1014,4352,0,both model reviews,hand-labeled pair,0
+1014,4787,0,both model reviews,hand-labeled pair,0
+1014,4804,1,authors,hand-labeled pair,1
+1016,41,0,both model reviews,hand-labeled pair,0
+1016,2312,0,both model reviews,supplementary sample,
+1017,81,0,both model reviews,hand-labeled pair,0
+1017,1674,0,both model reviews,hand-labeled pair,0
+1017,2310,0,authors,hand-labeled pair,1
+1017,4117,0,both model reviews,supplementary sample,
+1017,4342,0,both model reviews,hand-labeled pair,0
+1017,4352,0,both model reviews,hand-labeled pair,0
+1017,4405,0,both model reviews,hand-labeled pair,0
+1017,4431,0,both model reviews,hand-labeled pair,0
+1017,4787,0,both model reviews,hand-labeled pair,0
+1017,9346,0,both model reviews,hand-labeled pair,0
+1018,4060,0,both model reviews,supplementary sample,
+1018,4283,0,both model reviews,hand-labeled pair,0
+1018,4342,0,both model reviews,hand-labeled pair,0
+1018,4352,0,both model reviews,hand-labeled pair,0
+1018,4759,0,both model reviews,hand-labeled pair,0
+1018,4787,0,both model reviews,hand-labeled pair,0
+1018,4829,0,both model reviews,supplementary sample,
+1018,5189,0,both model reviews,supplementary sample,
+1019,702,0,both model reviews,supplementary sample,
+1019,2409,0,both model reviews,supplementary sample,
+1019,4110,0,both model reviews,supplementary sample,
+1019,4539,0,both model reviews,supplementary sample,
+1021,1678,0,both model reviews,supplementary sample,
+1022,2151,0,both model reviews,supplementary sample,
+1022,5015,0,both model reviews,supplementary sample,
+1023,330,0,both model reviews,hand-labeled pair,0
+1023,730,0,both model reviews,supplementary sample,
+1023,867,0,both model reviews,supplementary sample,
+1024,660,0,both model reviews,hand-labeled pair,0
+1027,301,0,both model reviews,hand-labeled pair,0
+1028,330,0,both model reviews,supplementary sample,
+1032,1516,1,authors,supplementary sample,
+1036,102,0,both model reviews,hand-labeled pair,0
+1039,1,0,authors,supplementary sample,
+1040,1,0,both model reviews,hand-labeled pair,0
+1040,63,1,both model reviews,supplementary sample,
+1043,4482,1,both model reviews,hand-labeled pair,1
+1045,282,0,authors,hand-labeled pair,1
+1055,5190,1,both model reviews,supplementary sample,
+1059,9162,0,both model reviews,hand-labeled pair,0
+1069,9174,0,both model reviews,supplementary sample,
+1083,9729,0,both model reviews,hand-labeled pair,0
+1086,9174,0,authors,hand-labeled pair,1
+1088,9288,0,both model reviews,hand-labeled pair,0
+1089,9716,1,both model reviews,hand-labeled pair,1
+1089,9729,0,authors,hand-labeled pair,1
+1091,9174,0,both model reviews,hand-labeled pair,0
+1091,9288,1,authors,hand-labeled pair,1
+1099,485,1,both model reviews,supplementary sample,
+1100,9361,1,both model reviews,hand-labeled pair,1
+1101,9341,1,authors,hand-labeled pair,0
+1110,9504,0,authors,supplementary sample,
+1112,9552,1,authors,hand-labeled pair,0
+1114,9341,0,both model reviews,hand-labeled pair,0
+1114,9533,0,both model reviews,supplementary sample,
+1114,9552,0,both model reviews,hand-labeled pair,0
+1115,9341,0,both model reviews,hand-labeled pair,0
+1116,9463,0,both model reviews,supplementary sample,
+1117,4356,0,both model reviews,hand-labeled pair,0
+1120,9615,0,authors,hand-labeled pair,0
+1121,1961,0,authors,supplementary sample,
+1121,4185,0,both model reviews,supplementary sample,
+1123,7786,1,authors,hand-labeled pair,0
+1124,7347,0,both model reviews,supplementary sample,
+1124,7907,1,both model reviews,hand-labeled pair,1
+1136,4639,1,both model reviews,hand-labeled pair,1
+1137,1616,0,both model reviews,hand-labeled pair,0
+1137,4093,0,authors,hand-labeled pair,0
+1140,8360,0,both model reviews,hand-labeled pair,0
+1141,961,0,both model reviews,hand-labeled pair,0
+1142,970,0,both model reviews,supplementary sample,
+1145,1809,0,both model reviews,supplementary sample,
+1146,1117,1,authors,supplementary sample,
+1146,1240,0,authors,hand-labeled pair,0
+1146,1352,0,both model reviews,hand-labeled pair,0
+1147,1859,0,both model reviews,hand-labeled pair,0
+1147,1881,0,both model reviews,hand-labeled pair,0
+1147,4043,0,both model reviews,hand-labeled pair,0
+1147,4127,0,both model reviews,hand-labeled pair,0
+1147,4224,0,both model reviews,hand-labeled pair,0
+1147,4361,0,both model reviews,supplementary sample,
+1147,4587,1,both model reviews,hand-labeled pair,1
+1148,1874,0,both model reviews,hand-labeled pair,0
+1148,4129,0,both model reviews,hand-labeled pair,0
+1149,4110,0,both model reviews,hand-labeled pair,0
+1149,4127,0,both model reviews,hand-labeled pair,0
+1149,4134,0,both model reviews,hand-labeled pair,0
+1149,4587,0,both model reviews,hand-labeled pair,0
+1149,5336,0,both model reviews,supplementary sample,
+1150,4519,0,both model reviews,hand-labeled pair,0
+1151,841,0,both model reviews,supplementary sample,
+1152,730,0,both model reviews,hand-labeled pair,0
+1153,1858,0,both model reviews,hand-labeled pair,0
+1153,1910,0,both model reviews,hand-labeled pair,0
+1153,2280,0,both model reviews,hand-labeled pair,0
+1153,2352,0,both model reviews,supplementary sample,
+1153,2439,0,both model reviews,hand-labeled pair,0
+1154,2060,0,both model reviews,supplementary sample,
+1154,4178,0,both model reviews,hand-labeled pair,0
+1154,4808,0,authors,hand-labeled pair,0
+1154,4812,0,authors,hand-labeled pair,0
+1155,4043,0,both model reviews,hand-labeled pair,0
+1155,4110,0,both model reviews,hand-labeled pair,0
+1155,4125,0,authors,hand-labeled pair,0
+1155,4573,0,both model reviews,hand-labeled pair,0
+1156,2112,0,both model reviews,hand-labeled pair,0
+1156,4220,0,both model reviews,hand-labeled pair,0
+1156,4747,0,both model reviews,hand-labeled pair,0
+1157,4519,0,both model reviews,hand-labeled pair,0
+1157,4585,0,both model reviews,hand-labeled pair,0
+1157,4747,1,both model reviews,hand-labeled pair,1
+1158,4058,0,both model reviews,hand-labeled pair,0
+1158,4194,0,both model reviews,hand-labeled pair,0
+1158,4520,0,both model reviews,hand-labeled pair,0
+1158,4571,0,both model reviews,hand-labeled pair,0
+1158,4581,0,both model reviews,hand-labeled pair,0
+1158,5186,0,both model reviews,supplementary sample,
+1159,4812,0,both model reviews,hand-labeled pair,0
+1161,4058,0,both model reviews,hand-labeled pair,0
+1161,4109,0,both model reviews,hand-labeled pair,0
+1161,4125,0,both model reviews,hand-labeled pair,0
+1161,4194,0,both model reviews,hand-labeled pair,0
+1161,4520,0,authors,hand-labeled pair,1
+1161,4574,0,both model reviews,hand-labeled pair,0
+1161,4581,0,both model reviews,hand-labeled pair,0
+1161,4586,0,both model reviews,hand-labeled pair,0
+1163,9150,0,authors,hand-labeled pair,1
+1169,9188,0,both model reviews,hand-labeled pair,0
+1170,9311,1,authors,hand-labeled pair,0
+1170,9754,0,both model reviews,hand-labeled pair,0
+1172,9622,1,both model reviews,hand-labeled pair,1
+1173,9650,0,both model reviews,hand-labeled pair,0
+1175,5043,0,both model reviews,hand-labeled pair,0
+1176,5179,1,both model reviews,hand-labeled pair,1
+1176,5256,0,both model reviews,hand-labeled pair,0
+1178,1638,0,both model reviews,hand-labeled pair,0
+1178,5020,0,both model reviews,hand-labeled pair,0
+1179,4294,0,both model reviews,hand-labeled pair,0
+1179,4371,0,both model reviews,hand-labeled pair,0
+1179,5196,0,both model reviews,hand-labeled pair,0
+1179,5326,1,both model reviews,hand-labeled pair,1
+1181,4665,0,both model reviews,hand-labeled pair,0
+1181,5027,0,authors,hand-labeled pair,1
+1181,5261,0,both model reviews,hand-labeled pair,0
+1181,5309,0,both model reviews,hand-labeled pair,0
+1183,1623,0,both model reviews,hand-labeled pair,0
+1183,2156,1,both model reviews,hand-labeled pair,1
+1183,5022,0,both model reviews,hand-labeled pair,0
+1184,1623,0,both model reviews,supplementary sample,
+1184,1638,0,both model reviews,supplementary sample,
+1184,2157,1,both model reviews,supplementary sample,
+1184,5196,0,both model reviews,hand-labeled pair,0
+1185,9603,0,both model reviews,hand-labeled pair,0
+1186,4374,0,both model reviews,hand-labeled pair,0
+1187,4371,0,authors,hand-labeled pair,0
+1188,2103,0,both model reviews,hand-labeled pair,0
+1188,5261,0,both model reviews,hand-labeled pair,0
+1188,9605,0,both model reviews,hand-labeled pair,0
+1190,4292,0,both model reviews,hand-labeled pair,0
+1190,5197,1,both model reviews,hand-labeled pair,1
+1192,4290,0,authors,hand-labeled pair,0
+1192,5197,0,both model reviews,hand-labeled pair,0
+1192,5309,0,both model reviews,hand-labeled pair,0
+1193,9464,0,both model reviews,hand-labeled pair,0
+1193,9605,1,authors,hand-labeled pair,0
+1194,5258,0,both model reviews,hand-labeled pair,0
+1194,9605,0,both model reviews,hand-labeled pair,0
+1195,4288,0,both model reviews,hand-labeled pair,0
+1195,5223,0,both model reviews,hand-labeled pair,0
+1195,9478,0,both model reviews,hand-labeled pair,0
+1195,9536,0,both model reviews,hand-labeled pair,0
+1196,4288,0,both model reviews,hand-labeled pair,0
+1200,5239,0,both model reviews,hand-labeled pair,0
+1207,1699,0,both model reviews,hand-labeled pair,0
+1208,2174,1,authors,hand-labeled pair,0
+1212,9219,1,both model reviews,supplementary sample,
+1213,8510,0,both model reviews,hand-labeled pair,0
+1213,8625,0,both model reviews,hand-labeled pair,0
+1215,8510,0,both model reviews,hand-labeled pair,0
+1215,8516,0,both model reviews,hand-labeled pair,0
+1216,8508,0,both model reviews,hand-labeled pair,0
+1216,8532,0,both model reviews,hand-labeled pair,0
+1217,9455,0,both model reviews,hand-labeled pair,0
+1219,3949,1,both model reviews,hand-labeled pair,1

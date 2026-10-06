@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "576|129",
+  "verdict": "REJECT",
+  "reason": "The census head is named Wynand, not David Jacobus. His wife Jansen van Rensburg contradicts the 1820 marriage to Pietersen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "580|9294",
+  "verdict": "REJECT",
+  "reason": "Different surname and given names (Maré, Johannes Stephanus vs Meyer, Isaac Johannes). The genealogy man was also only about 18 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "587|3859",
+  "verdict": "REJECT",
+  "reason": "Census wife Otto, E. E. contradicts the 1813 marriage to Catherina Aletta Nortier. The other Johan Coenraad Marneweck, whose wife is Nortje, C. A., fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Marneweck, Johan Coenraad"
+ },
+ {
+  "pair_id": "587|3860",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Marneweck has wife Scheepers, which contradicts the 1813 marriage to Nortier. Another Johan Coenraad Marneweck has wife Nortje, C. A.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Marneweck, Johan Coenraad"
+ },
+ {
+  "pair_id": "590|5435",
+  "verdict": "REJECT",
+  "reason": "Middle name differs (Petrus vs Jacobus). He was about 16 in 1825, yet the census head is married, and his first marriage was in 1831.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "593|5435",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census wife Storkenstrom matches none of his three listed spouses. His first known marriage (Struwig) was only in 1826.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "591|4167",
+  "verdict": "ACCEPT",
+  "reason": "Name matches (Willem J. Albertus). Census wife Viljoen, Anna Francina Johanna matches the 1822 spouse Anna Fransina Johanna Viljoen.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "592|4252",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match. Census wife Klaassen, Cornelia matches the 1823 spouse Cornelia ... Claas(s).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "595|4824",
+  "verdict": "REJECT",
+  "reason": "Census head Hendrik Adriaan with wife Joubert contradicts both the name and the 1823 marriage to de Meyer. Pieter Jacobus Meintjes with wife de Meyer, Susanna Jacoba is a clear match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Meintjes, Pieter Jacobus"
+ },
+ {
+  "pair_id": "597|3467",
+  "verdict": "REJECT",
+  "reason": "Census wife Smit, H. H. contradicts the 1819 marriage to Johanna Elisabeth van Rooyen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "597|3471",
+  "verdict": "REJECT",
+  "reason": "The name fits partially, but census wife Barnard, H. contradicts the 1819 marriage to van Rooyen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "602|9654",
+  "verdict": "REJECT",
+  "reason": "The genealogy person is a woman (Elsie Meyer, widow of P. H. Fick). The census head is a male, Coenraad Fredrik Meyer, with a wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "605|4395",
+  "verdict": "REJECT",
+  "reason": "Census wife v. Heerden contradicts Sr's 1798 marriage to Jansen. That wife belongs to Philip Carel Jr; the Sr. entry has wife Janzen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Minnaar, Philip Carel Sr."
+ },
+ {
+  "pair_id": "606|4395",
+  "verdict": "ACCEPT",
+  "reason": "Name matches. Census wife v. Heerden, Jac. Johanna matches the 1820 spouse Jacoba Johanna van Heerden.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "605|4396",
+  "verdict": "ACCEPT",
+  "reason": "Name matches, including Sr. Census wife Janzen, Maria Jac. matches the 1798 spouse Maria Jacoba Jansen.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "606|4396",
+  "verdict": "REJECT",
+  "reason": "The census head is marked Sr., and his wife Janzen contradicts Jr's 1820 marriage to van Heerden. The other Philip Carel entry has wife van Heerden.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Minnaar, Philip Carel"
+ },
+ {
+  "pair_id": "613|838",
+  "verdict": "ACCEPT",
+  "reason": "Exact match on a distinctive full name, in the same district (Beaufort), with no competing candidates. No census wife is named, which is not a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "620|1542",
+  "verdict": "REJECT",
+  "reason": "Census head Johan Carel has wife Janze, which contradicts the 1821 marriage to de Beer. A Johannes Christiaan Muller head exists in Cradock.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Muller, Johannes Christiaan"
+ },
+ {
+  "pair_id": "628|5500",
+  "verdict": "REJECT",
+  "reason": "Census head S. D. Naude does not match Philip Jacob, who was about 17 in 1825 and married in 1831.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Naude, Philip Jacob"
+ },
+ {
+  "pair_id": "630|4823",
+  "verdict": "UNCERTAIN",
+  "reason": "Name is compatible (Francois P. L. vs Francois Paulus) and in the same district. However, no census wife is recorded despite his 1821 marriage to Bruwer, so there is no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "633|9336",
+  "verdict": "REJECT",
+  "reason": "Census head Hendrik Johannes does not match Pieter Johannes Lodewyk. Census wife Bekker contradicts the 1815 marriage to Calitz.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "633|9658",
+  "verdict": "REJECT",
+  "reason": "Middle names differ (Willem vs Johannes Lodewyk). Census wife Van der Merwe contradicts the 1815 marriage to Calitz.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "639|9658",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but census wife Van der Merwe, Jacoba differs from his only listed spouse, Anna Helena Martha Nel. That marriage is undated, so it cannot be ruled in or out, and Pieter Willem Nel is a common name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "635|92",
+  "verdict": "REJECT",
+  "reason": "Census head Stephanus Nel does not match Pieter Schalk Johannes. He was about 17 in 1825 and married only in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "635|4315",
+  "verdict": "REJECT",
+  "reason": "Middle names differ (Willem vs Schalk Johannes). He was about 17 and unmarried until 1829, yet the census head has a wife (Fouchee).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "635|9556",
+  "verdict": "REJECT",
+  "reason": "Middle names differ (Willem Adriaan vs Schalk Johannes). He was about 17 and unmarried until 1829, yet the census head has a wife (Coetzer).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "638|9359",
+  "verdict": "REJECT",
+  "reason": "Census head Adriaan Nel with wife Van Eeden contradicts the name and the 1785 marriage to van der Merwe. Johannes Hendrik Nel with wife Van der Merwe, Johanna fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Nel, Johannes Hendrik"
+ },
+ {
+  "pair_id": "640|13",
+  "verdict": "REJECT",
+  "reason": "Jan can equal Johannes, but census wife Lombaard contradicts the 1797 marriage to Maria du Preez.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "644|4312",
+  "verdict": "UNCERTAIN",
+  "reason": "Name is compatible (an added middle name), but the census head was married to Koen in 1825, while this Willem (about 20) first married in 1828. The name is common, and the district is only approximate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "654|3643",
+  "verdict": "REJECT",
+  "reason": "The census head is marked Senior and has wife Gosen. Another head, Pieter Willem Andries Nel, has wife Bekker, H. D., matching spouse Hester Dorothea Bekker.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Nel, Pieter Willem Andries"
+ },
+ {
+  "pair_id": "655|4604",
+  "verdict": "REJECT",
+  "reason": "Census head Jacob Josias does not match Izak Johannes. Isaac Johannes Niemand with wife Strydom, Catharina Geertruida matches the 1811 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Niemand, Isaac Johannes"
+ },
+ {
+  "pair_id": "671|1909",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Jacobus does not match Gerhardus Jacobus. The head is married to Opperman in 1823, while this man married Geere only in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "673|471",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name, but census wife Bezuidenhout differs from his listed spouse Jansen, whose marriage is undated. A second Johannes Jacobus Oosthuizen (wife Erasmus) is in the same district, so identity is unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "675|471",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Jacobus does not match Ockert Jacobus. He was about 16 in 1825 and married in 1834.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "673|833",
+  "verdict": "REJECT",
+  "reason": "Census head Johan Hendrik Christoffel (Senior, son of Marthinus) does not match Johannes Jacobus. Census wife Oosthuizen differs from spouse Jansen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "675|684",
+  "verdict": "REJECT",
+  "reason": "Census head Cornelis Andries does not match Ockert Jacobus. He was about 16 in 1825 and married in 1834.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "680|1561",
+  "verdict": "REJECT",
+  "reason": "Census wife Pienaar contradicts the 1820 marriage to Greyling. Another Godlieb Rudolph Opperman head has wife Greyling, Anna Maria Elizabeth.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Opperman, Godlieb Rudolph"
+ },
+ {
+  "pair_id": "683|246",
+  "verdict": "REJECT",
+  "reason": "Census head Johan Philip Matthys does not match Johan Frederik. A Johan Fredrik Otto head with no wife exists in the same district, consistent with his 1828 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Otto, Johan Fredrik"
+ },
+ {
+  "pair_id": "686|4992",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Nicolaas does not match Johannes Jacobus. Census wife Jacobsz matches neither Beukes spouse.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "687|1605",
+  "verdict": "REJECT",
+  "reason": "Census head Carel Johannes (de Oude) with wife Bezuidenhout contradicts the name and the 1817 marriage to van Aswegen. Abraham Johannes Pelzer with wife van Aswegen, Hendrina Jacoba Maria fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pelzer, Abraham Johannes"
+ }
+]

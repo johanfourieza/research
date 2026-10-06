@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "223|8121",
+  "verdict": "REJECT",
+  "reason": "Cornelius Janse does not match Lourens, and Jacoba Elisabeth Christina de Jager contradicts the documented 1821 spouse, Margaretha Alida Jacobs.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "223|8277",
+  "verdict": "ACCEPT",
+  "reason": "Laurens is a plausible spelling of Lourens, and Margaretha Alida Jacobs exactly matches the spouse married in 1821. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "225|8118",
+  "verdict": "ACCEPT",
+  "reason": "Louis de Jager and Francina Steyn match the genealogical couple married in 1795. Swellendam and the man's age are consistent with this identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "232|2234",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches and Cradock is compatible with Somerset, but he was only about 15 in 1823. The undated Mynhardt marriage cannot establish a contradiction with Petronella Prinsloo, and the father's name in the census annotation cannot be verified from the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "236|2234",
+  "verdict": "REJECT",
+  "reason": "Adriaan does not match Barend Jacobus, and Petronella Prinsloo matches neither Maria Susanna Venter nor Gesina Nel. Both listed marriages predate 1823 according to their marriage dates.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "236|11",
+  "verdict": "REJECT",
+  "reason": "Barend Jacobus does not match Adriaan, and Johanna Styn matches neither of his spouses married in 1790 and 1795.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "237|11",
+  "verdict": "REJECT",
+  "reason": "Barend Jacobus differs from Adriaan Jacobus, and Johanna Styn contradicts Elisabeth Johanna Engelbrecht, married in 1820. The other listed spouse, Anna Sophia van der Merwe, does not explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "238|9283",
+  "verdict": "REJECT",
+  "reason": "Cornelis Rademeyer and Adriana Jusina Meyer contradict both the man's name and his documented 1812 spouse. The Cradock candidate Jacobus William de Meyer has the matching wife, Jacoba Elizabeth Meintjes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "de Meyer, Jacobus William"
+ },
+ {
+  "pair_id": "242|8342",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Daniel is compatible with Johannes Daniel Jacobus, and the district and age fit. However, there is no independent identifying corroboration; the 1827 marriage cannot confirm the 1825 head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|5799",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacob Daniel is compatible with omission of Pieter, but the name alone does not establish identity. The marriage to Magdalena Elizabeth de Villiers in 1830 cannot confirm or contradict Martha Helena du Toit in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|6058",
+  "verdict": "REJECT",
+  "reason": "Jan George is a materially different given name from Jacob Pieter Daniel. The 1830 marriage supplies no comparable wife evidence for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|6179",
+  "verdict": "REJECT",
+  "reason": "Jacob Hendrik substitutes a different given name for Pieter Daniel; this is not merely an omission or reordering. The absent census wife and the 1830 marriage provide no comparable spouse evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|6182",
+  "verdict": "REJECT",
+  "reason": "Jacob Stephanus conflicts with Jacob Pieter Daniel because Stephanus is a different given name. The documented 1830 spouse cannot be compared with the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|6267",
+  "verdict": "REJECT",
+  "reason": "Abraham Isaack does not match Jacob Pieter Daniel. The later marriage in 1830 cannot establish a wife contradiction for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|6403",
+  "verdict": "REJECT",
+  "reason": "Jacob Nicolaas conflicts with Jacob Pieter Daniel through the different given name Nicolaas. The 1830 marriage neither confirms nor contradicts the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "244|6550",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacob could represent omission of Pieter Daniel, and the lack of a named wife is compatible with the later documented marriage. This abbreviated name lacks sufficient corroboration to establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "246|67",
+  "verdict": "ACCEPT",
+  "reason": "Both Pieter de Wet and Maria Susanna Botha match exactly, and Albany agrees with the declared district. Although the marriage date is missing, the matching couple provides strong corroboration without a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "247|120",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Rudolph and Martha Catharina Woest match exactly, with their marriage date explicitly placing the marriage in December 1824. The district difference does not outweigh this matching couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "250|2381",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, adult age and Cradock/Somerset geography are compatible, but the father's name in the annotation cannot be checked against the supplied genealogy. The 1831 marriage provides no confirmation, and another census entry has the same full name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "250|4248",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but there is no comparable wife evidence or other independent identification. Another same-name head appears in Cradock, while Graaff-Reinet differs from the declared district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "253|9425",
+  "verdict": "REJECT",
+  "reason": "Petrus Johannes differs from Volckert Johannes, and Johanna Susanna van der Westhuysen contradicts Anna Barbara Botha, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "258|4084",
+  "verdict": "REJECT",
+  "reason": "Daniel does not match Andries Stephanus, and Geesje Cornelia Smit matches none of the listed spouses. In particular, she is not Johanna Christina Smit, whose marriage date is January 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "260|7268",
+  "verdict": "ACCEPT",
+  "reason": "Willem du Plessis and Elisabeth Helena Appel exactly match the couple married in 1801, with the same district. The Olivier marriage in 1833 is later than the census and creates no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "263|7981",
+  "verdict": "REJECT",
+  "reason": "Daniel does not match Andries Stephanus, and Anna Sophia Oosthuyzen contradicts Johanna Christina Smith, married in 1824. The alternative Andries Stephanus head in Swellendam fits the man's name clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Du Plessis, Andries Stephanus"
+ },
+ {
+  "pair_id": "264|4066",
+  "verdict": "REJECT",
+  "reason": "Although Jan could omit an additional given name, Maria Jac. Sophia Venter contradicts Susanna Geertruida Jordaan, married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "270|4066",
+  "verdict": "REJECT",
+  "reason": "Maria Jac. Sophia Venter contradicts Petronella Margaretha Potgieter, married in 1810. The later De Beer marriage in 1852 cannot explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "264|4479",
+  "verdict": "REJECT",
+  "reason": "Andries does not match Jan, and Elisabeth Marg. Peyper contradicts Susanna Geertruida Jordaan, married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "265|4479",
+  "verdict": "REJECT",
+  "reason": "Andries does not match Barend Christoffel, and Elisabeth Marg. Peyper contradicts Elisabeth Johanna de Klerk, married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "266|4479",
+  "verdict": "REJECT",
+  "reason": "Andries is a different name from Jan Adriaan, providing an affirmative name contradiction. The April 1825 marriage cannot be securely compared with the census wife without knowing the census date within that year.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "265|1615",
+  "verdict": "REJECT",
+  "reason": "David Christoffel conflicts with Barend Christoffel through the different first name. The documented 1824 marriage is after the 1823 census and cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "269|1615",
+  "verdict": "REJECT",
+  "reason": "David Christoffel does not match Pieter, and Levina Catharina Magdalena Vorster contradicts Maria Elisabeth Klopper, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "266|5066",
+  "verdict": "REJECT",
+  "reason": "Jan Gabriel conflicts with Jan Adriaan through a different second given name. The April 1825 marriage provides no secure wife comparison because the census date within 1825 is unspecified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "270|5066",
+  "verdict": "REJECT",
+  "reason": "Elsje Susanna du Preez contradicts Petronella Margaretha Potgieter, married in 1810. Neither the shared name Jan nor the later 1852 marriage resolves this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "269|4496",
+  "verdict": "REJECT",
+  "reason": "The man's name matches, but Saartje Jac. van der Linde contradicts Maria Elisabeth Klopper, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "272|4496",
+  "verdict": "REJECT",
+  "reason": "Pieter is compatible with omission of Ignatius, but Saartje Jac. van der Linde contradicts Engela Petronella du Plessis, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "270|2430",
+  "verdict": "REJECT",
+  "reason": "Even allowing Pieter/Petrus and Jan/Johannes variation and reordered names, Martha Maria Griesel contradicts Petronella Margaretha Potgieter, married in 1810. The De Beer marriage in 1852 is not relevant to the 1823 wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "272|4568",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly female: Susanna Maria Fourie, widow of Pieter du Plessis. The male genealogy person cannot be this household head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "273|4041",
+  "verdict": "REJECT",
+  "reason": "Charl Johannes is a materially different name from Casper Jeremias. The April 1825 marriage has uncertain timing relative to the census, and the 1828 marriage cannot be compared with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "273|4547",
+  "verdict": "REJECT",
+  "reason": "Charl Jacob is a materially different name from Casper Jeremias. The April 1825 marriage has uncertain timing relative to the census, while the Aucamp marriage in 1828 supplies no comparable wife evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

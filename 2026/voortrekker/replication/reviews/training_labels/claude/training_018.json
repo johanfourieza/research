@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "865|5495",
+  "verdict": "UNCERTAIN",
+  "reason": "Name (Andries Godlieb/Gotlieb Schoombee/Schombe) and district match and no wife is consistent with a man first dated married in 1827, but he was only about 16 in 1825 and a same-named head with wife Viljoen exists (likely an older namesake), so name alone is not decisive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "871|4507",
+  "verdict": "UNCERTAIN",
+  "reason": "Only 'Erasmus' overlaps with census head Petrus Erasmus Johannes; census wife v. d. Merwe differs from genealogy wife Maritz, but the Maritz marriage is undated so this is not a firm contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "872|4669",
+  "verdict": "REJECT",
+  "reason": "Middle name differs (Johannes Petrus vs Johannes Leonardus) and census wife v. d. Heever does not match genealogy wife Potgieter (undated).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "873|248",
+  "verdict": "REJECT",
+  "reason": "Given names differ entirely (Carel/Sarel Gerhardus vs Samuel Jacobus, son of Willem Jacobus); the genealogy man married De Villiers in 1821 yet the census head has no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "874|1010",
+  "verdict": "REJECT",
+  "reason": "Census head is Gerrit Erasmus 'Senior' with wife Visagie, whereas the genealogy man is Gerrit Willem (b. 1799) who married Mouton in 1823, before the 1824 census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "877|852",
+  "verdict": "ACCEPT",
+  "reason": "Johan/Johannes Hendrik Smit in Beaufort with census wife Korf, Maria Jacoba matching the genealogy spouse married 1820.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "878|476",
+  "verdict": "REJECT",
+  "reason": "Census head is Willem Hendrik with wife Jacobs; genealogy Willem Jacobus married Brits, Catharina Maria in 1823, and a Beaufort Willem Jacobus with wife Brits exists.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "878|5113",
+  "verdict": "REJECT",
+  "reason": "Census head Willem Cornelis with wife Smit, Maria Magdalena contradicts genealogy Willem Jacobus married to Brits in 1823; a Willem Jacobus with wife Brits exists.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "878|5288",
+  "verdict": "REJECT",
+  "reason": "Census head Paul Jacobus with wife Jacobse does not match Willem Jacobus married to Brits in 1823; the Beaufort Willem Jacobus with wife Brits fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "879|5288",
+  "verdict": "REJECT",
+  "reason": "First name differs (Samuel vs Paul Jacobus), and the census head is married to Jacobse while the genealogy man (b. 1807) first married in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "879|1890",
+  "verdict": "REJECT",
+  "reason": "Names differ entirely (Samuel Jacobus vs Laurens Erasmus), and the genealogy man was about 16 and unmarried in 1823 while the census head has wife Pretorius.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "879|5158",
+  "verdict": "REJECT",
+  "reason": "Names differ (Samuel Jacobus vs Hendrik), and the census head is married to v. d. Merwe while the genealogy man first married in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|4508",
+  "verdict": "REJECT",
+  "reason": "Census head is female (v. Heerden, Dorothea Maria, widow of Erasmus Johannes Smit); a male genealogy person cannot be this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|9363",
+  "verdict": "REJECT",
+  "reason": "Names differ (Abraham Johannes vs Hermanus Wilhelmus) and census wife Crouse matches neither Coetzee (married 1809) nor Vorster.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "882|4896",
+  "verdict": "REJECT",
+  "reason": "Names differ (Burgert Godlieb vs Jurgen) and census wife v. Eeden contradicts genealogy wife De Beer married 1813.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|4275",
+  "verdict": "REJECT",
+  "reason": "Names differ (Christiaan Hendrik Stephanus vs Nicolaas Jacobus) and census wife v. Heerden contradicts Claasens married 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|4711",
+  "verdict": "REJECT",
+  "reason": "First name differs (Christiaan vs Johannes Hendrik) and census wife Naude contradicts Claasens married 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|4711",
+  "verdict": "REJECT",
+  "reason": "Names differ (Andries Adriaan vs Johannes Hendrik) and census wife Naude contradicts Olivier married 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|4783",
+  "verdict": "REJECT",
+  "reason": "Names differ (Christiaan Hendrik Stephanus vs Francois H.) and census wife Martens contradicts Claasens married 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|4739",
+  "verdict": "REJECT",
+  "reason": "First name differs (Andries vs Hendrik Adriaan) and census wife Nienaber contradicts Olivier married 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "887|651",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match Gerrit Christoffel Snyders in Beaufort with census wife Janze van Rensburg, Aletta Sophia matching the 1816 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "889|4840",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match David Benjamin Snyman with census wife v. Eeden, Anna Francina matching the 1817 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "891|9737",
+  "verdict": "ACCEPT",
+  "reason": "Theunis Snyman in Uitenhage with census wife Marx, Sara Jacoba matching the 1820 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "892|9481",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Snyman 'Junior' (consistent with b. 1800) in Uitenhage with census wife Moolman; 'Sanna Maria' is a plausible variant of Johanna Susanna Moolman, married 1822.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "899|8212",
+  "verdict": "REJECT",
+  "reason": "Census head Barend Christoffel Jr. with wife Horn contradicts Andries Theodorus married to Fourie in 1821; a Spies, Andries Theodorus with wife Fourie, M. M. exists.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Spies, Andries Theodorus"
+ },
+ {
+  "pair_id": "909|400",
+  "verdict": "REJECT",
+  "reason": "Census head Hermanus with wife Kuun contradicts Hans Jurgen married to Koorts, Francina Christina in 1811; Johannes Jurgen Steyn with wife Koortze, Sina Christina fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Steyn, Johannes Jurgen"
+ },
+ {
+  "pair_id": "920|400",
+  "verdict": "REJECT",
+  "reason": "Census head Hermanus with wife Kuun contradicts Johannes married to Oosthuizen, Machteld Susara in 1822; Johannes Steyn with wife Oosthuizen, Magtel fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Steyn, Johannes"
+ },
+ {
+  "pair_id": "910|7377",
+  "verdict": "REJECT",
+  "reason": "Middle name differs (Johannes Christoffel vs Johannes Jacobus); the 1825 marriage to Schoeman cannot help either way.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "911|7334",
+  "verdict": "REJECT",
+  "reason": "Names differ (Petrus Paulus vs Hermanus) and census wife Vogel contradicts Roos married 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "912|8198",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus vs Hermanus Jacobus in Swellendam is compatible, but there is no birth year or spouse to corroborate and several Hermanus Steyn heads exist in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "913|759",
+  "verdict": "REJECT",
+  "reason": "Middle names differ (Douw Petrus Jacobus vs Douw Gerbrand), and the census head has no wife although the genealogy man married Esterhuyse in January 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "913|761",
+  "verdict": "REJECT",
+  "reason": "Census head Jacobus 'Senior' with wife Vivier contradicts Douw Petrus Jacobus married to Esterhuyse in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "913|912",
+  "verdict": "REJECT",
+  "reason": "Middle name differs (Douw Petrus Jacobus vs Douw Johannes, son of Johannes), and no wife is recorded despite the 1824 Esterhuyse marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "924|7326",
+  "verdict": "REJECT",
+  "reason": "Middle name differs (Pieter Wouter vs Pieter Gerbrand) and no wife despite the 1810 Du Preez marriage; Pieter Wouter Steyn with wife Du Preez, J. S. exists in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Steyn, Pieter Wouter"
+ },
+ {
+  "pair_id": "924|8148",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Pieter Wouter Steyn in Swellendam with census wife Du Preez, J. S. matching Johanna Susanna du Preez, married 1810.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "925|8195",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus Sr. is name-compatible with Hermanus Jacobus, but no wife is recorded despite his 1815 marriage to Steyn, Susanna Maria, and multiple Hermanus Steyn heads exist in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "928|5028",
+  "verdict": "REJECT",
+  "reason": "Census head Andries Jacobus with wife Viljoen contradicts David Jacobus married to Liebenberg in 1802; Straus, David Jacobus with wife Liebenberg, Elisabeth Louisa matches exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Straus, David Jacobus"
+ },
+ {
+  "pair_id": "930|5028",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches, but the census head has wife Viljoen while the genealogy man (b. 1806) first married Lubbe in 1830; the unmarried Straus, Andries Jacobus head fits a 19-year-old better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Straus, Andries Jacobus"
+ },
+ {
+  "pair_id": "934|338",
+  "verdict": "REJECT",
+  "reason": "Census head David Jan Jacobus with wife Oosthuizen contradicts Johannes Matthys married to Bekker in 1816; Strydom, Johannes Matthys with wife Becker, Anna Dorothea matches.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Strydom, Johannes Matthys"
+ },
+ {
+  "pair_id": "935|338",
+  "verdict": "ACCEPT",
+  "reason": "Exact name David Jan Jacobus Strydom in Beaufort with census wife Oosthuizen, Susara Maria matching the 1820 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

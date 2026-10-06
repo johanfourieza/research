@@ -1,0 +1,163 @@
+[
+ {
+  "pair_id": "1190|4292",
+  "verdict": "REJECT",
+  "reason": "Census head is Christoffel, not Christiaan Rudolph, and his wife is Aletta Booyzen, whereas this man married Johanna Susanna Viljoen in 1821. Another census record matches both his name and his wife exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Viljoen, Christiaan Rudolph"
+ },
+ {
+  "pair_id": "1190|5197",
+  "verdict": "ACCEPT",
+  "reason": "Full name Christiaan Rudolph matches exactly, and the census wife Johanna Susanna Viljoen matches his 1821 spouse. Graaff-Reinet fits a declared Colesberg origin. The competing claimant (Christoffel Sr.) has a different wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1192|5197",
+  "verdict": "REJECT",
+  "reason": "Census head is Christiaan Rudolph with wife Johanna Susanna Viljoen, whereas this man is Christoffel, married to Elizabeth Maria Janse van Vuuren since 1810. An Uitenhage head, Christoffel Viljoen, has wife Elisabeth Maria Janze van Vuuren, an exact wife match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Viljoen, Christoffel"
+ },
+ {
+  "pair_id": "1192|4290",
+  "verdict": "REJECT",
+  "reason": "Christoffel Jacobus has no wife recorded, although this man married in 1810. An Uitenhage head, Christoffel Viljoen, is recorded with wife Elisabeth Maria Janze van Vuuren, which matches his spouse exactly and fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Viljoen, Christoffel"
+ },
+ {
+  "pair_id": "1193|9464",
+  "verdict": "REJECT",
+  "reason": "Census head is Gerhardus Stephanus, not Stephanus Petrus. His wife is Sara Aletta van Staden, not Hendrina Maria van Staden (married 1814): same surname, but entirely different given names.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1194|5258",
+  "verdict": "REJECT",
+  "reason": "The census wife is Aletta Elisabeth Booyzen, but this man married Cecilia Johanna Botha in 1823, before the census. A bare 'Gerhardus' does not offset this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|4288",
+  "verdict": "REJECT",
+  "reason": "Census head Hendrik D. Jacobus shares no given name with Carel Marthinus. The wife Joubert does not match Botha, his wife from a 1825 marriage. Uitenhage has a head named exactly Carel Marthinus Viljoen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Viljoen, Carel Marthinus"
+ },
+ {
+  "pair_id": "1196|4288",
+  "verdict": "REJECT",
+  "reason": "Census head Hendrik D. Jacobus shares no given name with Gideon Petrus. The census wife Marg. Louisa Joubert contradicts his 1823 marriage to Susara Maria Bekker.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|9478",
+  "verdict": "REJECT",
+  "reason": "Census head Cornelis Hendrik shares no given name with Carel Marthinus. His wife is Strydom, not Botha. An exact-name head, Carel Marthinus Viljoen, exists in Uitenhage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Viljoen, Carel Marthinus"
+ },
+ {
+  "pair_id": "1195|9536",
+  "verdict": "REJECT",
+  "reason": "Census head Christiaan Gerhardus, annotated as Heremias' son, has different given names, and his wife Bondhuys is not Botha. An exact-name head, Carel Marthinus Viljoen, exists in Uitenhage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Viljoen, Carel Marthinus"
+ },
+ {
+  "pair_id": "1200|5239",
+  "verdict": "REJECT",
+  "reason": "Census head is Isaac Gerhardus, not Rudolphus Gerhardus, and his wife Hester Maria Aucamp contradicts this man's 1816 marriage to Martha Johanna Susanna van der Heyden. Roelof Gerhardus Visagie fits better: Roelof is a form of Rudolph and his wife is a v. d. Heeden, although her given names differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Visagie, Roelof Gerhardus"
+ },
+ {
+  "pair_id": "1207|1699",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Lodewyk is annotated 'Gert's zoon', so he is the son of Gerrit (Gert), not Gerrit himself. Another head, Gert Vosloo, has wife Cornelia Johanna de Beer, which matches exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Vosloo, Gert"
+ },
+ {
+  "pair_id": "1208|2174",
+  "verdict": "ACCEPT",
+  "reason": "Full name Gerhardus Johannes matches exactly. The census wife Anna Botha matches his 1821 spouse Anna Barbara Botha. He was alive in 1823 (died 1826), and Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1212|9219",
+  "verdict": "ACCEPT",
+  "reason": "Full name Wessel Hendrik matches exactly, and the census wife Elisabeth Catharina Kemp matches his April 1825 marriage. Same district (Uitenhage).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1213|8510",
+  "verdict": "REJECT",
+  "reason": "Census head is Wessel, not Johannes Bernardus. The census wife Gildenhuis contradicts this man's 1817 marriage to Elizabeth Susanna Botha.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1215|8510",
+  "verdict": "REJECT",
+  "reason": "The given name Wessel is compatible, but the census wife Elisabeth Johanna Gildenhuis contradicts this man's 1820 marriage to Elizabeth Carolina Swart.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1213|8625",
+  "verdict": "REJECT",
+  "reason": "Census head Wynand shares no given name with Johannes Bernardus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1215|8516",
+  "verdict": "REJECT",
+  "reason": "Census head is Wessel Johannes, not Wessel Jacobus. The census wife Anna Johanna Wessels contradicts this man's 1820 marriage to Elizabeth Carolina Swart.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1216|8508",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Albertus shares no given name with Hermanus Wilhelmus, and his wife Moolman is not Marais. A Swellendam head named exactly Hermanus Wilhelmus Wessels exists.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Wessels, Hermanus Wilhelmus"
+ },
+ {
+  "pair_id": "1216|8532",
+  "verdict": "REJECT",
+  "reason": "The household is headed by a woman (widow of Zacharias), so a male genealogy person cannot be its head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Wessels, Hermanus Wilhelmus"
+ },
+ {
+  "pair_id": "1216|8850",
+  "verdict": "UNCERTAIN",
+  "reason": "Full name and district (Swellendam) match exactly, but no census wife is recorded. His February 1825 marriage can neither confirm nor contradict, and a same-named father cannot be excluded without corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1217|9455",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Willem, annotated as a son of Johan Adriaan, does not share the given names of Johannes Adam. Another Uitenhage head is named Johan Adam Wilken, an exact name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Wilken, Johan Adam"
+ },
+ {
+  "pair_id": "1219|3949",
+  "verdict": "ACCEPT",
+  "reason": "Full name matches (Fredrik/Frederik Gerhardus). The census wife C. M. Le Roux matches his 1810 spouse Catharina Maria le Roux. Same district (George).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

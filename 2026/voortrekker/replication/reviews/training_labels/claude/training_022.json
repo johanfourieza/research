@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "998|4430",
+  "verdict": "REJECT",
+  "reason": "Given names Willem Carel and Paul Jacobus are entirely different. The census wife (Isabella Elisabeth v. d. Merwe) does not match the genealogy spouse Combrink.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|4759",
+  "verdict": "REJECT",
+  "reason": "Willem Carel conflicts with Willem Jacobus because the middle names differ. The census wife Duwenagee does not match spouse Combrink, and the man was only about 17 in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|4759",
+  "verdict": "REJECT",
+  "reason": "Diedelof Jacobus is not Willem Jacobus because the first given names differ. The census wife Duwenagee does not match spouse Robberts.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4759",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus and Willem Jacobus are different given names. The census wife Duwenagee does not match spouse Griesel.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|5157",
+  "verdict": "REJECT",
+  "reason": "Willem Carel and Frederik Stephanus are entirely different given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|5207",
+  "verdict": "REJECT",
+  "reason": "Willem Carel conflicts with Willem Johannes because the middle names differ. The census wife Scholtz does not match spouse Combrink, and the man was about 17 in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|41",
+  "verdict": "REJECT",
+  "reason": "Pieter Willem conflicts with Pieter Schalk. The census wife Magdalena De Wet clearly differs from Hendrina Margaretha Dorothea van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1011|41",
+  "verdict": "REJECT",
+  "reason": "Marthinus Stephanus and Pieter Schalk are different given names. Census wife De Wet matches neither listed spouse (Jordaan married 1838; Vosloo undated).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|41",
+  "verdict": "REJECT",
+  "reason": "David Schalk is not Pieter Schalk because the first names differ. The census wife Magdalena De Wet differs from Neeltjie Christina van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|43",
+  "verdict": "REJECT",
+  "reason": "Pieter Willem conflicts with Pieter Hendrik Schalk. The census wife Christina Hendrina van der Westhuisen differs from Hendrina Margaretha Dorothea van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|2123",
+  "verdict": "REJECT",
+  "reason": "The census head is a Venter (Andries Johannes), which does not match the surname or given names of Pieter Willem van der Merwe.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|4408",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus is compatible with Pieter Willem. However, the census wife Geertruida v. d. Merwe differs from Hendrina Margaretha Dorothea, and the marriage date is missing, so an unrecorded earlier wife cannot be excluded. The district also differs (Graaff-Reinet vs Somerset).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|9486",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter is compatible with Pieter Willem. However, the census wife Sara Johanna Janze van Vuuren differs from the genealogy spouse (marriage undated), and the Uitenhage district does not match Somerset.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|4434",
+  "verdict": "REJECT",
+  "reason": "Diedelof Jacobus vs Roelof Petrus: at best only the first name is similar, and the middle names conflict. The census wife Anna Sophia v. d. Merwe differs from spouse Robberts.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|1613",
+  "verdict": "REJECT",
+  "reason": "The census head Jacob Venter has a different surname, and his wife Meyburg differs from spouse Elsie van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|1674",
+  "verdict": "REJECT",
+  "reason": "Jacobus Johannes Rudolph and Pieter Willem are different given names. The census wife Hendrina Margaretha differs from Elsie Maria Aletta Magdalena.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|1674",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus and Pieter Willem are different given names. He was about 15 in 1823, and his marriage to Eloff was in 1836, so it cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4209",
+  "verdict": "REJECT",
+  "reason": "The census head Jacob Venter has a different surname, and his wife Adriana Elisabeth Venter differs from spouse Elsie van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4542",
+  "verdict": "REJECT",
+  "reason": "Jan corresponds only to the second name of Jacobus Johannes Rudolph. The census wife Johanna Catharina Venter differs from Elsie Maria Aletta Magdalena van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4542",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Jan (Johannes) Lodewyk. However, the census wife Johanna Catharina Venter matches none of his spouses (Pretorius married Dec 1825, the others later or undated), so the link is unsupported and doubtful.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4542",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Johannes Stephanus. However, the census wife Johanna Catharina Venter differs from spouse Griesel, whose marriage is undated, so the evidence is weak and somewhat negative.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|5336",
+  "verdict": "REJECT",
+  "reason": "The census head v. d. Berg, Jacobus Petrus has a different surname, and his wife v. d. Linde differs from Elsie van der Merwe.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|5336",
+  "verdict": "REJECT",
+  "reason": "The census head v. d. Berg, Jacobus Petrus has a different surname. His wife Cecilia Johanna v. d. Linde contradicts Wilhelmina Catharina Francina Venter, who married this man in 1812.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|1963",
+  "verdict": "REJECT",
+  "reason": "Cornelis Johannes and Willem are different given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|4109",
+  "verdict": "REJECT",
+  "reason": "The census head Tjaard Adriaan Nicolaas Venter has a different surname and given names, and his wife Venter differs from spouse Pretorius.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4109",
+  "verdict": "REJECT",
+  "reason": "Jan Adriaan conflicts with Tjaard Adriaan Nicolaas. The census wife Adriana Mar. Hendrina Venter differs from Lasya Sophia Petronella Venter, who married him in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1005|866",
+  "verdict": "REJECT",
+  "reason": "David Schalk van der Merwe is not Nicolaas Hendrik van der Westhuizen; both the surname and the given names differ.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1026|866",
+  "verdict": "UNCERTAIN",
+  "reason": "Nicolaas is compatible with Nicolaas Hendrik, and the district (Beaufort) matches. However, no census wife is named although he married van Wyk in 1814, so nothing corroborates the link, and an equally plausible 'Van der Westhuizen, Nicolaas' exists.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|1880",
+  "verdict": "REJECT",
+  "reason": "The census head Gerrit Venter has a different surname and given name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|2279",
+  "verdict": "REJECT",
+  "reason": "The census head Jan Hendrik Venter has a different surname, and his wife du Plessies matches none of the spouses.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4493",
+  "verdict": "ACCEPT",
+  "reason": "The name v. d. Merwe, Jan Lodewyk matches exactly. The census wife Martha Magdalena Pretorius matches his first spouse, married in 1825, and Graaff-Reinet is consistent with Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4540",
+  "verdict": "REJECT",
+  "reason": "The census head v. d. Walt, Tjaard Andries has a different surname and given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4689",
+  "verdict": "REJECT",
+  "reason": "The census head is a woman (Anna Susanna, widow of Isaac v. d. Merwe), and a male genealogy person cannot be that head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1009|9525",
+  "verdict": "ACCEPT",
+  "reason": "Lucas Johannes van der Merwe matches exactly in Uitenhage. The census wife Maria Elisabeth Viljoen matches his spouse, who married him in 1818.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4124",
+  "verdict": "REJECT",
+  "reason": "The census head v. d. Walt, Johannes Lodewyk has a different surname and given name. His wife Vorster differs from van Rooyen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4516",
+  "verdict": "REJECT",
+  "reason": "Marthinus and Jacobus Schalk are different given names. The census wife Smit differs from spouse van Rooyen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1011|5283",
+  "verdict": "REJECT",
+  "reason": "Marthinus Stephanus and Willem Petrus are different given names. The census wife v. Nieuwkerk matches neither spouse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1013|4043",
+  "verdict": "REJECT",
+  "reason": "Jacobus Francois van der Merwe is not Petrus Jacobus Venter; both the surname and the given names differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4043",
+  "verdict": "REJECT",
+  "reason": "Petrus Jan Hendrik conflicts with Petrus Jacobus. The census wife Sophia Adriana differs from Hester Sophia van der Walt, who married him in Sept 1824, and from his earlier wife Hester Venter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4043",
+  "verdict": "REJECT",
+  "reason": "Albertus Johannes and Petrus Jacobus are different given names. He was about 18 in 1825, and his marriage to Hugo was in 1827, so it cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

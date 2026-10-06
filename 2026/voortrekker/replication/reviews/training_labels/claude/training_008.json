@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "322|2233",
+  "verdict": "REJECT",
+  "reason": "The middle names differ explicitly (Daniel Elardus vs Daniel Jacobus). The census head was married to Jacomina Elizabeth Bothma in 1823, but this man's first recorded marriage was to Goud in 1824, and Bothma is not among his spouses.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|2233",
+  "verdict": "REJECT",
+  "reason": "The given names are entirely different (Antonie Philippus vs Daniel Jacobus). His marriage to Botha was in 1826, after the census, so the wives cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "333|2233",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Pieter Rasmus vs Daniel Jacobus). He was born in 1809, so he was about 14 in 1823 and unlikely to head a household with a wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|2437",
+  "verdict": "REJECT",
+  "reason": "The middle names differ explicitly (Elardus vs Johannes). The census head had a wife, Pretorius, in 1823, while this man first married Goud in 1824, and no Pretorius spouse is listed.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|2437",
+  "verdict": "REJECT",
+  "reason": "The first names differ (Lourens Johannes vs Daniel Johannes). The census wife Pretorius also differs from his only listed spouse, Van Straten, although that marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|2437",
+  "verdict": "REJECT",
+  "reason": "The first names differ (Pieter Johannes vs Daniel Johannes). The census wife Pretorius differs from his undated spouse, Elisabeth Erasmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "344|2437",
+  "verdict": "REJECT",
+  "reason": "The first names differ (Pieter Johannes vs Daniel Johannes). He married Maria Magdalena Erasmus in 1817, but the 1823 census wife is Catharina Geertruida Pretorius.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|4207",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Daniel Elardus vs Gerhardus). He married Goud in 1824, but the 1825 census wife is Maria Claudina Venter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|9513",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Daniel Elardus vs Abel Hermanus). He married Goud in 1824, but the 1825 census wife is Cornelia Elisabeth Bezuidenhout.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "324|1768",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Daniel Jacobus vs Carel Stephanus). He married Cornelia Jacoba Susanna Kruger in 1807, but the 1823 census wife is Sara Johanna du Plessies.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "325|5293",
+  "verdict": "REJECT",
+  "reason": "The names differ (Stephanus Petrus vs Petrus Rasmus). He married Martha Kruger in 1812, but the 1825 census wife is Anna Maria Klopper.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|5293",
+  "verdict": "REJECT",
+  "reason": "The given names are entirely different (Antonie Philippus vs Petrus Rasmus). His marriage to Botha was in 1826, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|5293",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Jacob vs Petrus Rasmus). His marriage to Greyling was in 1828, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "333|5293",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches (Pieter = Petrus Rasmus), but he was only about 16 in 1825. The census head had a wife, Anna Maria Klopper, while this man's only recorded marriage was to Meyer in 1829, so the match is weak.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|5293",
+  "verdict": "REJECT",
+  "reason": "The middle names differ explicitly (Pieter Johannes vs Petrus Rasmus). The census wife Klopper also differs from his undated spouse, Elisabeth Erasmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|9362",
+  "verdict": "REJECT",
+  "reason": "The given names are entirely different (Antonie Philippus vs Daniel Jacobus). His marriage to Botha was in 1826, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|9362",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Balthasar Johannes vs Daniel Jacobus). The census wife, Cornelia Susanna Kruger, differs from his wife Enslin, whom he married in April 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|2224",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Balthasar Johannes vs Jacob). Having no wife in 1823 fits his 1825 marriage, but that does not offset the name difference.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|2224",
+  "verdict": "UNCERTAIN",
+  "reason": "The name Jacob matches, he was about 20 in 1823, and Cradock fits his declared Somerset. Having no census wife fits his 1828 marriage. However, the single common name is the only positive identifier.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|4213",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Balthasar Johannes vs Carel Jacobus Johannes). There is no census wife to compare.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|4213",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Lourens Johannes vs Carel Jacobus Johannes). There is no census wife to compare.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4239",
+  "verdict": "UNCERTAIN",
+  "reason": "Laurens/Lourens matches, the district matches, and the census wife Helena Bekker matches his 1818 spouse Helena Dorothea Bekker on surname and first name. However, both second names differ (Marthinus vs Abram; Dorothea vs Geertruida).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|4239",
+  "verdict": "REJECT",
+  "reason": "The middle names differ (Lourens Johannes vs Laurens Abram). The census wife, Bekker, also differs from his only spouse, Van Straten (undated).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4240",
+  "verdict": "REJECT",
+  "reason": "The names differ (Lourens Marthinus vs Marthinus Stephanus). Candidate Laurens Abram, whose wife is Helena Bekker, fits better because she matches his spouse Helena Dorothea Bekker.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Laurens Abram"
+ },
+ {
+  "pair_id": "330|1769",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Barend Christoffel vs Laurens Johannes). The census head has a wife, Grobbelaar, but no spouse is recorded for this man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "330|2221",
+  "verdict": "ACCEPT",
+  "reason": "The full given names match exactly (Barend Christoffel), he was about 22 in 1823, and Cradock fits his declared Somerset. The census head has no wife, which is consistent with no recorded spouse.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "330|5304",
+  "verdict": "REJECT",
+  "reason": "The given names differ entirely (Barend Christoffel vs Willem Jacob Rudolph).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "330|9335",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Barend Christoffel vs Jacob Jacobus). The census head has a wife, Coetzee, but no spouse is recorded for this man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "342|9335",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Coert vs Jacob Jacobus). He was about 18 in 1825 and did not marry Steenkamp until 1827, yet the census head is married to Coetzee.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|2218",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Jacob vs Petrus Rasmus). The census head was married to Prinsloo in 1823, while this man married Greyling in 1828.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|2218",
+  "verdict": "REJECT",
+  "reason": "The middle names differ (Pieter Johannes vs Petrus Rasmus). The census wife Prinsloo also differs from his undated spouse, Elisabeth Erasmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "334|4074",
+  "verdict": "REJECT",
+  "reason": "The middle names differ explicitly (Johannes Jacobus vs Johannes Hendrik). The census head has no wife, which neither confirms nor refutes his 1811 marriage to Botha.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "340|4852",
+  "verdict": "REJECT",
+  "reason": "The names differ (Philippus Johannes Lodewicus vs Jacobus Petrus). He married Greyling in 1823, but the 1825 census wife is Anna Sophia Grobler.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "341|4852",
+  "verdict": "REJECT",
+  "reason": "Jacob/Jacobus matches, but Petrus is not among his names. He married Susanna Sophia Erasmus in 1821, but the 1825 census wife is Anna Sophia Grobler.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "342|4243",
+  "verdict": "REJECT",
+  "reason": "The names differ (Coert vs Daniel E.). He was about 18 in 1825 and did not marry Steenkamp until 1827, yet the census head is married to Gausch.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|451",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Hendrik Johannes vs Abel Jacobus). His marriage to Liebenberg was in 1827, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|1737",
+  "verdict": "REJECT",
+  "reason": "The first names differ (Hendrik Johannes vs Pieter Johannes). The census head was married to Botha in 1823, while this man first married Liebenberg in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|1761",
+  "verdict": "REJECT",
+  "reason": "The middle names differ (Hendrik Johannes vs Hendrik Stephanus). The census head was married to Smit in 1823, while this man, then about 19, first married Liebenberg in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "347|296",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches exactly and the district (Beaufort) matches. However, the census wife, Elizabeth Koortze, differs from his only listed spouse, Buitendach, and that marriage is undated, so an earlier marriage cannot be ruled out.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "348|9083",
+  "verdict": "REJECT",
+  "reason": "The given names differ entirely (Marthinus Gerrit Thomas vs Jan Theodoris). The census head has no wife, although this man married Marx in 1821.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

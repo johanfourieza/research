@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "2|4594",
+  "verdict": "UNCERTAIN",
+  "reason": "Census name 'Gert Andries Jacobus' matches Gerrit Andries (Jacobus), and no census wife is consistent with his marriage in October 1825. However, an identically named head with no wife appears in Cradock, which matches his declared Somerset district, so the identity is ambiguous.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "6|4112",
+  "verdict": "REJECT",
+  "reason": "Census Jan Christoffel has a different middle name from Johan Diederik, and the census wife Visagie is not among his spouses. Another candidate, Johannes Dirk Aucamp, has wife Naude, Geertruida Maria, which matches his 1825 wife Geertruida Martha Naude.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Aucamp, Johannes Dirk"
+ },
+ {
+  "pair_id": "13|5244",
+  "verdict": "REJECT",
+  "reason": "The census head is married to Marta Elisabeth Coetzee, but this man's first marriage was to Nagel in 1827, so he was unmarried in 1825. An unmarried Hendrik Johannes Badenhorst also appears in Graaff-Reinet.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Badenhorst, Hendrik Johannes"
+ },
+ {
+  "pair_id": "20|9438",
+  "verdict": "ACCEPT",
+  "reason": "Full name Willem Johannes Basson matches exactly, and the census wife Johanna Cornelia Basson matches his 1820 marriage. The district (Uitenhage) also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|4909",
+  "verdict": "REJECT",
+  "reason": "The census head is female (Anna Marg. Erasmus, widow of Matthys Michiel Basson), and a male genealogy person cannot be this head. Her surname also differs from his wife Maria Salome Basson.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "22|9436",
+  "verdict": "REJECT",
+  "reason": "The census wife Maria Salomina Meyer contradicts his December 1824 marriage to Magdalena Johanna Jacoba Gouws. Another census head with his full name has wife Gous, Maria Johanna Jacoba.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Basson, Nicolaas Johannes Salomon"
+ },
+ {
+  "pair_id": "22|9439",
+  "verdict": "ACCEPT",
+  "reason": "Full name Nicolaas Johannes Salomon Basson matches exactly, in the same district. The census wife Gous, (Maria) Johanna Jacoba corresponds to his December 1824 wife Gouws, Magdalena Johanna Jacoba; the surname and two given names agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "24|9561",
+  "verdict": "REJECT",
+  "reason": "The census wife Josina Smit matches neither of his spouses (Johanna Bekker, Martha Magdalena Viljoen). Another census entry for Johannes Jurie Bekker has wife Bekker, Johanna, which matches his recorded spouse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Bekker, Johannes Jurie"
+ },
+ {
+  "pair_id": "32|8483",
+  "verdict": "REJECT",
+  "reason": "The census head Petrus Jacobus has a different first name from Hermanus Jacobus. An exact-name Hermanus Jacobus Bester with no wife (consistent with his 1828 marriage) exists in Swellendam.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Bester, Hermanus Jacobus"
+ },
+ {
+  "pair_id": "33|7858",
+  "verdict": "REJECT",
+  "reason": "He was married to Vosloo from 1814, yet this 'Andries' household has no wife. Another census head, Andries Nicolaas Bester, has wife Voslo, Aplona Catharina, which clearly matches him.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Bester, Andries Nicolaas"
+ },
+ {
+  "pair_id": "35|1854",
+  "verdict": "REJECT",
+  "reason": "The census head Paul Michiel is a different person from Andries. The census wife Cornelia Maria Jordaan contradicts his 1811 marriage to Margaretha Louisa Erasmus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "36|1843",
+  "verdict": "REJECT",
+  "reason": "The name Barend/Barnard Jacobus Senior matches, but the census wife Engela Helena de Klerk contradicts his 1813 marriage to Anna Susanna Erasmus. No second spouse is recorded that could explain the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "41|8552",
+  "verdict": "REJECT",
+  "reason": "The census head Barend Adriaan Jr. has a different name from Mattheus Gerhardus. He was also only about 16 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "42|716",
+  "verdict": "REJECT",
+  "reason": "The census wife Maria Catharina differs in given names from his only recorded wife Magdalena Geertruida (married 1801), and no remarriage is recorded. The census annotation 'Wynand's son' cannot be verified from the genealogy record.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "44|422",
+  "verdict": "REJECT",
+  "reason": "The census head Cornelis has a different name from Wynand Carel. The census wife Maria Helena Schoeman conflicts with his first recorded marriage to Booysens in 1829.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "45|4231",
+  "verdict": "REJECT",
+  "reason": "The census wife Anna Sophia Erasmus matches neither of his wives (Venter, Liebenberg). Another census head, Wynand Fr. Bezuidenhout, has wife Elisabeth Johanna Liebenberg, which exactly matches his 1807 wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Bezuidenhout, Wynand Fr."
+ },
+ {
+  "pair_id": "45|4447",
+  "verdict": "ACCEPT",
+  "reason": "Wynand Fr(ederik) Bezuidenhout matches in name and district. The census wife Elisabeth Johanna Liebenberg exactly matches his 1807 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "47|700",
+  "verdict": "REJECT",
+  "reason": "The census head Jeremias Jesaias has a different name from Cornelis Johannes. The household also has no wife, although he married Viviers in January 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "48|316",
+  "verdict": "REJECT",
+  "reason": "The census head Cornelis Johannes has a different first name from Coenraad. The given names are distinct, not spelling variants.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "54|5305",
+  "verdict": "ACCEPT",
+  "reason": "Johan/Johannes Christiaan Bornman matches in name and district. The census wife Du Preez, Cornelia C. matches his 1809 wife Cornelia Carolina du Preez.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "57|5552",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and no census wife is consistent with his 1827 marriage. However, he was only about 17 in 1825 and is recorded as 'Jr', so the census head could be his father of the same name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "58|5542",
+  "verdict": "ACCEPT",
+  "reason": "Willem Hendrik Boshof matches exactly, in the same district. The census wife v. d. Berg, Aletta Sophia matches his spouse married in 1811.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "59|5615",
+  "verdict": "REJECT",
+  "reason": "The census head Abraham Daniel has a different name from Hermanus Stephanus. The census wife Sara Maria van der Spuy contradicts his 1817 marriage to Sara Susanna Hauman.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "59|6391",
+  "verdict": "REJECT",
+  "reason": "The census head Hermanus Lambertus Sr. has a different middle name from Hermanus Stephanus, and 'Sr.' implies an older man. The household also lacks the wife he had married in 1817.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "61|371",
+  "verdict": "UNCERTAIN",
+  "reason": "Anthonie Johannes (Lourens) Botes matches in name and Beaufort district, and no census wife is plausible around his April 1825 marriage. However, a second genealogy person with the same name and birth year (63|371) competes for this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|371",
+  "verdict": "UNCERTAIN",
+  "reason": "The name Anthonie Johannes matches and he was unmarried until 1827, consistent with no census wife. However, his declared district is Colesberg rather than Beaufort, and 61|371, a man of the same name and birth year declared in Beaufort, competes for this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|303",
+  "verdict": "ACCEPT",
+  "reason": "Andries Stephanus Botes matches exactly in full name and Beaufort district, and he would be about 22 in 1825. No census wife is consistent with his 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|303",
+  "verdict": "REJECT",
+  "reason": "The census head Andries Stephanus has a different name from Anthonie Johannes.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|304",
+  "verdict": "REJECT",
+  "reason": "The census head Anthonie Abraham Adriaan has different middle names from Anthonie Johannes. The names are distinct, not omitted or reordered.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|306",
+  "verdict": "REJECT",
+  "reason": "The census head Anthonie Lourens, son of Andries Stephanus, has a different middle name from Anthonie Johannes.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "64|365",
+  "verdict": "REJECT",
+  "reason": "The census head Matthys Wietsche has a different name from Frederik Johannes Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "65|367",
+  "verdict": "REJECT",
+  "reason": "The census head Nicolaas Lourens has a different first name from Wietse Lourens. The census wife Johanna Martha Raath conflicts with his first marriage to Johanna Petronella Botes in 1827.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "68|1548",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Fredrik Senior has a different name from Andries Hendrik. His 1825 marriage postdates this 1823 census, so the wife cannot be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "71|1548",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Fredrik 'Senior' has a different middle name from Johannes Jurgen, who was about 18 in 1823. The census wife Cecilia Johanna Stein conflicts with his first recorded marriage in 1832.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "85|1548",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Fredrik differs from Johannes Christiaan. The census wife Cecilia Johanna Stein contradicts his 1819 marriage to Catharina Maria Janse van Vuuren.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|1548",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Fredrik has a different name from Theunis Louis. The census wife Stein differs from his recorded wife Elisabeth Johanna Erasmus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "101|1548",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Fredrik 'Senior' differs from Jacobus Frederik, who was about 14 in 1823. The census head is married to Stein, while this man first married Potgieter in 1830.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "68|5206",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Lodewicus Petrus has a different name from Andries Hendrik. The census wife Anna Dorothea Scholtz contradicts his April 1825 marriage to Eva Maria Engelbrecht.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "85|5206",
+  "verdict": "REJECT",
+  "reason": "The census head Johannes Lodewicus Petrus has different middle names from Johannes Christiaan. The census wife Anna Dorothea Scholtz contradicts his 1819 marriage to Catharina Maria Janse van Vuuren.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

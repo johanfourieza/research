@@ -1,0 +1,2366 @@
+[
+ {
+  "pair_id": "855|9400",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1569",
+  "genealogy_id": "SCHEEPERSa1b5c1d4e3",
+  "surname": "SCHEEPERS",
+  "given_names": "PETRUS JOHANNES CHRISTOFFEL",
+  "birth_year": "1799.0",
+  "death_year": "1847",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARIA SOPHIA",
+    "surname": "GOEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|575",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Scheepers, Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Slabbert, Petronella Aletta Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Gerrit's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Scheepers, Gerhardus",
+    "census_spouse": "Steyn, Anna Christina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Gerhardus Stephanus",
+    "census_spouse": "Scheepers, Anna Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Johannes Henricus",
+    "census_spouse": "Minne, Christiana Susanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Scheepers, Cornelis Coenraad",
+    "census_spouse": "Bronkorst, Hester Magdalena",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "855|9400"
+  ]
+ },
+ {
+  "pair_id": "856|3865",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1570",
+  "genealogy_id": "SCHOEMANa1b1c11",
+  "surname": "SCHOEMAN",
+  "given_names": "HENDRIK NICOLAAS",
+  "birth_year": "1780.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "BEKKER",
+    "marriage_date": "27/12/1801",
+    "marriage_year": "1801"
+   },
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "JANZE VAN VUUREN",
+    "marriage_date": "05/02/1832",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|594",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Hendrik Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "J. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Johannes Arnoldus",
+    "census_spouse": "Hatting, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhelmus",
+    "census_spouse": "Hatting, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Coetzer, Anna Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Gerrit",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhemus",
+    "census_spouse": "Jordaan, Anna Johanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Carolus Gustaph",
+    "census_spouse": "Hatting, Geertruida Jacoba",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "856|3865"
+  ]
+ },
+ {
+  "pair_id": "856|3895",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1570",
+  "genealogy_id": "SCHOEMANa1b1c11",
+  "surname": "SCHOEMAN",
+  "given_names": "HENDRIK NICOLAAS",
+  "birth_year": "1780.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "BEKKER",
+    "marriage_date": "27/12/1801",
+    "marriage_year": "1801"
+   },
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "JANZE VAN VUUREN",
+    "marriage_date": "05/02/1832",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|627",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Hendrik Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "S. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Johannes Arnoldus",
+    "census_spouse": "Hatting, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhelmus",
+    "census_spouse": "Hatting, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Coetzer, Anna Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Gerrit",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhemus",
+    "census_spouse": "Jordaan, Anna Johanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Carolus Gustaph",
+    "census_spouse": "Hatting, Geertruida Jacoba",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "856|3895"
+  ]
+ },
+ {
+  "pair_id": "857|9562",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1573",
+  "genealogy_id": "SCHOEMANa1b1c3d1",
+  "surname": "SCHOEMAN",
+  "given_names": "MARTHINUS JOHANNES SR.",
+  "birth_year": "1789.0",
+  "death_year": "1848",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "SCHEEPERS",
+    "marriage_date": "04/11/1810",
+    "marriage_year": "1810"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|749",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Marthinus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Scheepers, Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Petrus Albertus",
+    "census_spouse": "Bekker, Catharina Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "857|9562"
+  ]
+ },
+ {
+  "pair_id": "858|9592",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1576",
+  "genealogy_id": "SCHOEMANa1b1c3d4",
+  "surname": "SCHOEMAN",
+  "given_names": "PETRUS ALBERTUS",
+  "birth_year": "1796.0",
+  "death_year": "1886",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "CATHARINA ELIZABETH",
+    "surname": "BEKKER",
+    "marriage_date": "28/12/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|781",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Petrus Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Bekker, Catharina Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Marthinus Johannes",
+    "census_spouse": "Scheepers, Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "858|9592"
+  ]
+ },
+ {
+  "pair_id": "859|3873",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1581",
+  "genealogy_id": "SCHOEMANa1b1c5d3",
+  "surname": "SCHOEMAN",
+  "given_names": "FREDERIK STEPHANUS",
+  "birth_year": "1793.0",
+  "death_year": "1864",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "ANNA CATHARINA",
+    "surname": "NEL",
+    "marriage_date": "02/11/1817",
+    "marriage_year": "1817"
+   },
+   {
+    "name": "ALETTA SOPHIA",
+    "surname": "BEZUIDENHOUT",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIA",
+    "surname": "BOTHA",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|603",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Fredrik Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Nel, A. C.",
+  "census_widow_of": null,
+  "census_annotation": "J. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Scheepers, R. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Snyman, H. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jacobus Johannes",
+    "census_spouse": "Botha, E. F.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Van der Merwe, M. A.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "859|3873"
+  ]
+ },
+ {
+  "pair_id": "860|3874",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1582",
+  "genealogy_id": "SCHOEMANa1b1c5d5",
+  "surname": "SCHOEMAN",
+  "given_names": "JOHANNES",
+  "birth_year": "1797.0",
+  "death_year": "1890",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "MARTHA MAGDALENA",
+    "surname": "SCHOEMAN",
+    "marriage_date": "04/05/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|604",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Botha, M.",
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Scheepers, R. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Snyman, H. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jacobus Johannes",
+    "census_spouse": "Botha, E. F.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Van der Merwe, M. A.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "860|3874"
+  ]
+ },
+ {
+  "pair_id": "860|3927",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1582",
+  "genealogy_id": "SCHOEMANa1b1c5d5",
+  "surname": "SCHOEMAN",
+  "given_names": "JOHANNES",
+  "birth_year": "1797.0",
+  "death_year": "1890",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "MARTHA MAGDALENA",
+    "surname": "SCHOEMAN",
+    "marriage_date": "04/05/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|661",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Schoeman, M. M.",
+  "census_widow_of": null,
+  "census_annotation": "J. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Scheepers, R. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Snyman, H. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jacobus Johannes",
+    "census_spouse": "Botha, E. F.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Van der Merwe, M. A.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "860|3927"
+  ]
+ },
+ {
+  "pair_id": "861|3875",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1583",
+  "genealogy_id": "SCHOEMANa1b1c5d6",
+  "surname": "SCHOEMAN",
+  "given_names": "STEPHANUS JOHANNES",
+  "birth_year": "1800.0",
+  "death_year": "1872",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "ALETTA SOPHIA",
+    "surname": "BEZUIDENHOUT",
+    "marriage_date": "20/01/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "HELENA PETRONELLA CORNELIA",
+    "surname": "OLIVIER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "SUSANNA SOPHIA",
+    "surname": "DORPHLING",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|605",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Stephanus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "J. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Scheepers, R. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Snyman, H. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jacobus Johannes",
+    "census_spouse": "Botha, E. F.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Van der Merwe, M. A.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "861|3875",
+   "863|3875"
+  ]
+ },
+ {
+  "pair_id": "863|3875",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1587",
+  "genealogy_id": "SCHOEMANa1b1c11d4",
+  "surname": "SCHOEMAN",
+  "given_names": "STEPHANUS JOHANNES",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTINA BARBARA MARIA MARGARETHA CHRISTOFFELINA",
+    "surname": "LE ROUX",
+    "marriage_date": "30/11/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|605",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Stephanus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "J. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Johannes Arnoldus",
+    "census_spouse": "Hatting, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhelmus",
+    "census_spouse": "Hatting, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Coetzer, Anna Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Gerrit",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhemus",
+    "census_spouse": "Jordaan, Anna Johanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Carolus Gustaph",
+    "census_spouse": "Hatting, Geertruida Jacoba",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "861|3875",
+   "863|3875"
+  ]
+ },
+ {
+  "pair_id": "861|3892",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1583",
+  "genealogy_id": "SCHOEMANa1b1c5d6",
+  "surname": "SCHOEMAN",
+  "given_names": "STEPHANUS JOHANNES",
+  "birth_year": "1800.0",
+  "death_year": "1872",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "ALETTA SOPHIA",
+    "surname": "BEZUIDENHOUT",
+    "marriage_date": "20/01/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "HELENA PETRONELLA CORNELIA",
+    "surname": "OLIVIER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "SUSANNA SOPHIA",
+    "surname": "DORPHLING",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|624",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Stephanus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "S. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Scheepers, R. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Hendrik",
+    "census_spouse": "Snyman, H. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jacobus Johannes",
+    "census_spouse": "Botha, E. F.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Van der Merwe, M. A.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Schoeman, Jurgen",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "861|3892",
+   "863|3892"
+  ]
+ },
+ {
+  "pair_id": "863|3892",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1587",
+  "genealogy_id": "SCHOEMANa1b1c11d4",
+  "surname": "SCHOEMAN",
+  "given_names": "STEPHANUS JOHANNES",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTINA BARBARA MARIA MARGARETHA CHRISTOFFELINA",
+    "surname": "LE ROUX",
+    "marriage_date": "30/11/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|624",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Stephanus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "S. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Johannes Arnoldus",
+    "census_spouse": "Hatting, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhelmus",
+    "census_spouse": "Hatting, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Coetzer, Anna Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Gerrit",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhemus",
+    "census_spouse": "Jordaan, Anna Johanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Carolus Gustaph",
+    "census_spouse": "Hatting, Geertruida Jacoba",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "861|3892",
+   "863|3892"
+  ]
+ },
+ {
+  "pair_id": "862|2029",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1586",
+  "genealogy_id": "SCHOEMANa2b1c5",
+  "surname": "SCHOEMAN",
+  "given_names": "CAROLUS GUSTAAF",
+  "birth_year": "1800.0",
+  "death_year": "1881",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "GEERTRUIDA JACOBA",
+    "surname": "HATTINGH",
+    "marriage_date": "07/10/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "MARTHA MARIA",
+    "surname": "GROBLER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|602",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Schoeman, Carolus Gustaph",
+  "census_head_role": "male",
+  "census_spouse": "Hatting, Geertruida Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Johannes Arnoldus",
+    "census_spouse": "Hatting, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhelmus",
+    "census_spouse": "Hatting, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Coetzer, Anna Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Gerrit",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhemus",
+    "census_spouse": "Jordaan, Anna Johanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Marthinus Johannes",
+    "census_spouse": "Scheepers, Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "862|2029"
+  ]
+ },
+ {
+  "pair_id": "863|3890",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1587",
+  "genealogy_id": "SCHOEMANa1b1c11d4",
+  "surname": "SCHOEMAN",
+  "given_names": "STEPHANUS JOHANNES",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTINA BARBARA MARIA MARGARETHA CHRISTOFFELINA",
+    "surname": "LE ROUX",
+    "marriage_date": "30/11/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|622",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Schoeman, Stephanus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Bekker, C. E.",
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schoeman, Johannes Arnoldus",
+    "census_spouse": "Hatting, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhelmus",
+    "census_spouse": "Hatting, Anna Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Johannes Hendrik",
+    "census_spouse": "Coetzer, Anna Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Gerrit",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Daniel Wilhemus",
+    "census_spouse": "Jordaan, Anna Johanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schoeman, Carolus Gustaph",
+    "census_spouse": "Hatting, Geertruida Jacoba",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "863|3890"
+  ]
+ },
+ {
+  "pair_id": "864|5205",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1590",
+  "genealogy_id": "SCHOLTZa1b2c7d1",
+  "surname": "SCHOLTZ",
+  "given_names": "JOACHIM HERMANUS",
+  "birth_year": "1783.0",
+  "death_year": "1834",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ANNA JACOBA",
+    "surname": "KRUGER",
+    "marriage_date": "23/08/1801",
+    "marriage_year": "1801"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1175",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Scholtz, Joachim",
+  "census_head_role": "male",
+  "census_spouse": "Kruger, Anna Jacomina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [],
+  "competing_pair_ids_same_census_head": [
+   "864|5205"
+  ]
+ },
+ {
+  "pair_id": "865|5495",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1591",
+  "genealogy_id": "SCHOOMBEEa1b1c2",
+  "surname": "SCHOOMBEE",
+  "given_names": "ANDRIES GODLIEB",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MARTH MARIA",
+    "surname": "ROOS",
+    "marriage_date": "04/02/1827",
+    "marriage_year": "1827"
+   },
+   {
+    "name": "SARA ALETTA ROETS",
+    "surname": null,
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1468",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Schombe, Andries Gotlieb",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Schombe, Guilliam Andries",
+    "census_spouse": "Pretorius, Magdalena Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Schombe, Andries Gotlieb",
+    "census_spouse": "Viljoen, Johanna Sophia",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "865|5495"
+  ]
+ },
+ {
+  "pair_id": "866|9339",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1593",
+  "genealogy_id": "SCHUTTEa1b1c2d4",
+  "surname": "SCHUTTE",
+  "given_names": "STEPHANUS PHILIPPUS",
+  "birth_year": "1798.0",
+  "death_year": "1843",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HESTER ALETTA",
+    "surname": "VILJOEN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|509",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Schutte, Stephanus Philippus",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Hester Aletta",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Southey, George",
+    "census_spouse": "Baker, Jane",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Scott, George",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Schutte, Philip",
+    "census_spouse": "Engelbrecht, Aletta Catharina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schutte, Cornelis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schutte, Philip",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Schutte, Christiaan Ernst Gerhardus",
+    "census_spouse": "Opperman, Anna Barbara",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "866|9339"
+  ]
+ },
+ {
+  "pair_id": "868|9530",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1603",
+  "genealogy_id": "SEVENSTERa1b1",
+  "surname": "SEVENSTER",
+  "given_names": "WESSEL LOURENS JOHANNES ANTOON",
+  "birth_year": "1780.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ANNA CORNELIA",
+    "surname": "BOTHA",
+    "marriage_date": "27/08/1809",
+    "marriage_year": "1809"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|715",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Sevensterren, Wessel Laurens",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Anna Cornelia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [],
+  "competing_pair_ids_same_census_head": [
+   "868|9530"
+  ]
+ },
+ {
+  "pair_id": "870|9459",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1608",
+  "genealogy_id": "SLABBERTa1b10c4d6e2",
+  "surname": "SLABBERT",
+  "given_names": "JASPER JOHANNES",
+  "birth_year": "1804.0",
+  "death_year": "1854",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "RACHEL JOHANNA",
+    "surname": "CLASSEN",
+    "marriage_date": "20/03/1831",
+    "marriage_year": "1831"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|638",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Slabbert, Jasper Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Junior",
+  "other_census_candidates_for_this_person": [],
+  "competing_pair_ids_same_census_head": [
+   "870|9459"
+  ]
+ },
+ {
+  "pair_id": "870|9461",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1608",
+  "genealogy_id": "SLABBERTa1b10c4d6e2",
+  "surname": "SLABBERT",
+  "given_names": "JASPER JOHANNES",
+  "birth_year": "1804.0",
+  "death_year": "1854",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "RACHEL JOHANNA",
+    "surname": "CLASSEN",
+    "marriage_date": "20/03/1831",
+    "marriage_year": "1831"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|640",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Slabbert, Jasper Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Janze van Rensburg, Hendrina Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [],
+  "competing_pair_ids_same_census_head": [
+   "870|9461"
+  ]
+ },
+ {
+  "pair_id": "872|2044",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1611",
+  "genealogy_id": "SMITa1b4c10d1e2f2",
+  "surname": "SMIT",
+  "given_names": "JOHANNES PETRUS",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SALOMINA BARENDINA (OF SARA BARENDINA SALOMINA)",
+    "surname": "POTGIETER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|619",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Smit, Johannes Petrus",
+  "census_head_role": "male",
+  "census_spouse": "van Zetten, Christina",
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "872|2044"
+  ]
+ },
+ {
+  "pair_id": "874|1069",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1615",
+  "genealogy_id": "SMITa2b9c13",
+  "surname": "SMIT",
+  "given_names": "GERRIT WILLEM",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "CLANWILLIAM",
+  "spouses": [
+   {
+    "name": "ANNA MARGARETHA",
+    "surname": "MOUTON",
+    "marriage_date": "12/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Clanwilliam 1824|165",
+  "census_district": "Clanwilliam",
+  "census_year": 1824,
+  "census_head_name": "Smit, Gert Willem",
+  "census_head_role": "male",
+  "census_spouse": "Mouton, Anna Margaretha",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Synnot, Walter",
+    "census_spouse": "Houston, Elisabeth",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Synnot, Walter",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Smit, Albert Daniel",
+    "census_spouse": "Botha, Martha Elisabeth",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Smit, Daniel Erasmus",
+    "census_spouse": "Kotze, Martha Maria",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Smit, Gerrit Erasmus",
+    "census_spouse": "Visagie, Maria Barbara",
+    "census_district": "Clanwilliam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "874|1069"
+  ]
+ },
+ {
+  "pair_id": "875|9953",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1616",
+  "genealogy_id": "SMITa2b9c15",
+  "surname": "SMIT",
+  "given_names": "NICOLAAS WILHELMUS",
+  "birth_year": "1804.0",
+  "death_year": "1872",
+  "declared_district": "TULBAGH",
+  "spouses": [
+   {
+    "name": "ELSIE JOSINA",
+    "surname": "DU PLESSIS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ALETTA CATHARINA",
+    "surname": "ROETS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "JOHANNA CHRISTINA",
+    "surname": "HANEKOM",
+    "marriage_date": "20/05/1838",
+    "marriage_year": null
+   },
+   {
+    "name": "04/05/1840",
+    "surname": "JOHANNA HENDRINA",
+    "marriage_date": "POTCHEFSTROOM",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Worcester 1824|231",
+  "census_district": "Worcester",
+  "census_year": 1824,
+  "census_head_name": "Smit, Nicolaas Wilhelmus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "P. zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Dirk Albert",
+    "census_spouse": "Visage, Hester Helena",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Everhardus",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Smit, Johannes Petrus",
+    "census_spouse": "Liebenberg, Anna Sophia",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Smit, Pieter Carel",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Smit, Matthys Hendrik",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Smit, Alewyn Petrus",
+    "census_spouse": "Marais, Anna Elisabeth",
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "875|9953"
+  ]
+ },
+ {
+  "pair_id": "877|852",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1618",
+  "genealogy_id": "SMITa2b9c7",
+  "surname": "SMIT",
+  "given_names": "JOHANNES HENDRIK",
+  "birth_year": "1789.0",
+  "death_year": null,
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "ANNA ELIZABETH",
+    "surname": "OLIVIER",
+    "marriage_date": "04/07/1812",
+    "marriage_year": "1812"
+   },
+   {
+    "name": "MARIA JACOBA",
+    "surname": "KORF",
+    "marriage_date": "08/10/1820",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|741",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Johan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Korf, Maria Jacoba",
+  "census_widow_of": null,
+  "census_annotation": "Piet's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "De Beer, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Brits, Catharina Maria",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Samuel Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Roets, Maria Christina Geertruida",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Alewyn",
+    "census_spouse": "Breitenbagh, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem",
+    "census_spouse": "De Beer, Hermina Christina",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "877|852"
+  ]
+ },
+ {
+  "pair_id": "878|241",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1623",
+  "genealogy_id": "SMITa4b2c4d3e2f2",
+  "surname": "SMIT",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "BRITS",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|52",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "De Beer, Maria Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "Willem's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Brits, Catharina Maria",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Samuel Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Roets, Maria Christina Geertruida",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Alewyn",
+    "census_spouse": "Breitenbagh, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem",
+    "census_spouse": "De Beer, Hermina Christina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Andries Adriaan",
+    "census_spouse": "Nortier, Cornelia Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "878|241"
+  ]
+ },
+ {
+  "pair_id": "878|242",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1623",
+  "genealogy_id": "SMITa4b2c4d3e2f2",
+  "surname": "SMIT",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "BRITS",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|53",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Brits, Catharina Maria",
+  "census_widow_of": null,
+  "census_annotation": "Willem Jacobus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "De Beer, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Samuel Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Roets, Maria Christina Geertruida",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Alewyn",
+    "census_spouse": "Breitenbagh, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem",
+    "census_spouse": "De Beer, Hermina Christina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Andries Adriaan",
+    "census_spouse": "Nortier, Cornelia Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "878|242"
+  ]
+ },
+ {
+  "pair_id": "878|264",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1623",
+  "genealogy_id": "SMITa4b2c4d3e2f2",
+  "surname": "SMIT",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "BRITS",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|77",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Roets, Maria Christina Geertruida",
+  "census_widow_of": null,
+  "census_annotation": "Cornelis' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "De Beer, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Brits, Catharina Maria",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Samuel Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Alewyn",
+    "census_spouse": "Breitenbagh, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem",
+    "census_spouse": "De Beer, Hermina Christina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Andries Adriaan",
+    "census_spouse": "Nortier, Cornelia Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "878|264"
+  ]
+ },
+ {
+  "pair_id": "879|248",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1624",
+  "genealogy_id": "SMITa4b2c4d3e2f3",
+  "surname": "SMIT",
+  "given_names": "SAMUEL JACOBUS",
+  "birth_year": "1807.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA",
+    "surname": "VAN RENSBURG",
+    "marriage_date": "13/09/1829",
+    "marriage_year": "1829"
+   },
+   {
+    "name": "ANNA SUSANNA",
+    "surname": "BRITS",
+    "marriage_date": "06/11/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|59",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Samuel Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Willem Jacobus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "879|248"
+  ]
+ },
+ {
+  "pair_id": "879|814",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1624",
+  "genealogy_id": "SMITa4b2c4d3e2f3",
+  "surname": "SMIT",
+  "given_names": "SAMUEL JACOBUS",
+  "birth_year": "1807.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA",
+    "surname": "VAN RENSBURG",
+    "marriage_date": "13/09/1829",
+    "marriage_year": "1829"
+   },
+   {
+    "name": "ANNA SUSANNA",
+    "surname": "BRITS",
+    "marriage_date": "06/11/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|699",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Samuel Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Du Plooy, Johanna Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Willem's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "879|814"
+  ]
+ },
+ {
+  "pair_id": "880|443",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1625",
+  "genealogy_id": "SMITa4b2c4d3e7",
+  "surname": "SMIT",
+  "given_names": "FRANCOIS PETRUS",
+  "birth_year": "1792.0",
+  "death_year": "1863",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "SUSANNA ISABELLA",
+    "surname": "BREYTENBACH",
+    "marriage_date": "05/06/1814",
+    "marriage_year": "1814"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|281",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Smit, Francois Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Breitenbagh, Susara Isabella",
+  "census_widow_of": null,
+  "census_annotation": "Willem's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "De Beer, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Brits, Catharina Maria",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Samuel Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem Jacobus",
+    "census_spouse": "Roets, Maria Christina Geertruida",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Alewyn",
+    "census_spouse": "Breitenbagh, Anna Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Smit, Willem",
+    "census_spouse": "De Beer, Hermina Christina",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "880|443"
+  ]
+ },
+ {
+  "pair_id": "881|1721",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1635",
+  "genealogy_id": "SMITa4b3c5d10e2",
+  "surname": "SMIT",
+  "given_names": "ABRAHAM JOHANNES",
+  "birth_year": "1785.0",
+  "death_year": "1855",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA ELIZABETH",
+    "surname": "VORSTER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ELIZABETH JOHANNA SUSANNA",
+    "surname": "COETZEE",
+    "marriage_date": "14/05/1809",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|261",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Smit, Abraham Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Coetzee, Elizabeth Johanna Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Fran's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "881|1721"
+  ]
+ },
+ {
+  "pair_id": "881|4775",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1635",
+  "genealogy_id": "SMITa4b3c5d10e2",
+  "surname": "SMIT",
+  "given_names": "ABRAHAM JOHANNES",
+  "birth_year": "1785.0",
+  "death_year": "1855",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA ELIZABETH",
+    "surname": "VORSTER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ELIZABETH JOHANNA SUSANNA",
+    "surname": "COETZEE",
+    "marriage_date": "14/05/1809",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|744",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Smit, Abram Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Vorster, Anna Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "881|4775"
+  ]
+ },
+ {
+  "pair_id": "882|2015",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1639",
+  "genealogy_id": "SMITa4b3c5d10e7",
+  "surname": "SMIT",
+  "given_names": "BURGERT GODLIEB",
+  "birth_year": "1794.0",
+  "death_year": "1866",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "FREDERIKA ELISABETH (JACOBA)",
+    "surname": "DE BEER",
+    "marriage_date": "07/11/1813",
+    "marriage_year": "1813"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|586",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Smit, Burgert Godlieb",
+  "census_head_role": "male",
+  "census_spouse": "de Beer, Fredrika Elizabeth Jacoba",
+  "census_widow_of": null,
+  "census_annotation": "Frans' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "882|2015"
+  ]
+ },
+ {
+  "pair_id": "883|5111",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1641",
+  "genealogy_id": "SMITa4b3c5d11e3",
+  "surname": "SMIT",
+  "given_names": "CHRISTIAAN HENDRIK STEPHANUS SR.",
+  "birth_year": "1793.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "DOROTHEA WILHELMINA",
+    "surname": "CLAASENS",
+    "marriage_date": "19/01/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1081",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Smit, Christiaan Hendrik S.",
+  "census_head_role": "male",
+  "census_spouse": "Klaassen, Dorothea Wilhelmina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smit, Nicolaas Jacobus",
+    "census_spouse": "v. Heerden, Alletta Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Smit, Casper F. Alewyn",
+    "census_spouse": "v. Aswegen, Cornelia Maria Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Smit, Petrus Erasmus Johannes",
+    "census_spouse": "v. d. Merwe, Anna Dorothea Wilhelmina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Smit, Johannes Leonardus",
+    "census_spouse": "v. d. Heever, Sara Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Francois",
+    "census_spouse": "Potgieter, G. Fr.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Smit, Johannes Anthonie",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "883|5111"
+  ]
+ },
+ {
+  "pair_id": "885|2125",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1645",
+  "genealogy_id": "SMITa4b6c10d1e2",
+  "surname": "SMIT",
+  "given_names": "ANDRIES ADRIAAN",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ALETTA CATHARINA MAGDALENA",
+    "surname": "OLIVIER",
+    "marriage_date": "04/02/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "MAGDALENA MARIA ADRIANA",
+    "surname": "KLOPPER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|710",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Smit, Andries Adriaan",
+  "census_head_role": "male",
+  "census_spouse": "Olivier, Aletta Catharina Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Johannes Petrus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "885|2125"
+  ]
+ },
+ {
+  "pair_id": "885|5474",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1645",
+  "genealogy_id": "SMITa4b6c10d1e2",
+  "surname": "SMIT",
+  "given_names": "ANDRIES ADRIAAN",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ALETTA CATHARINA MAGDALENA",
+    "surname": "OLIVIER",
+    "marriage_date": "04/02/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "MAGDALENA MARIA ADRIANA",
+    "surname": "KLOPPER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1447",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Smit, Andries Adriaan",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Smith, Johan Frederick",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, William Edward",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smith, Leopold",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Smit, Jacobus Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Daniel Michaelus Christoffel",
+    "census_spouse": "Bester, Maria Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Smit, Johannes Erasmus",
+    "census_spouse": "Bester, Jacoba Willemina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "885|5474"
+  ]
+ },
+ {
+  "pair_id": "886|653",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1650",
+  "genealogy_id": "SNYDERSa1b8c2",
+  "surname": "SNYDERS",
+  "given_names": "JOHANNES HENDRIK",
+  "birth_year": "1788.0",
+  "death_year": "1852",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "HENDRINA MARIA",
+    "surname": "JANSE VAN RENSBURG",
+    "marriage_date": "03/06/1813 OF 1815",
+    "marriage_year": "1815"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|517",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Snyders, Johannes Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Janze van Rensburg, Hendrina Maria",
+  "census_widow_of": null,
+  "census_annotation": "Petrus Casparus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Snyders, Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Snyders, Gerrit Christoffel",
+    "census_spouse": "Janze van Rensburg, Aletta Sophia",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Snyders, Philippus",
+    "census_spouse": "Bronkhorst, Margaretha Sophia Johanna",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "886|653"
+  ]
+ },
+ {
+  "pair_id": "887|651",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1651",
+  "genealogy_id": "SNYDERSa1b8c3",
+  "surname": "SNYDERS",
+  "given_names": "GERRIT CHRISTOFFEL",
+  "birth_year": "1791.0",
+  "death_year": "1855",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "ALETTA SOPHIA",
+    "surname": "JANSE VAN RENSBURG",
+    "marriage_date": "06/01/1816",
+    "marriage_year": "1816"
+   },
+   {
+    "name": "JOHANNA ADRIANA",
+    "surname": "BRONKHORST",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|515",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Snyders, Gerrit Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Janze van Rensburg, Aletta Sophia",
+  "census_widow_of": null,
+  "census_annotation": "Petrus Casparus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Snyders, Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Snyders, Philippus",
+    "census_spouse": "Bronkhorst, Margaretha Sophia Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Snyders, Johannes Hendrik",
+    "census_spouse": "Janze van Rensburg, Hendrina Maria",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "887|651"
+  ]
+ },
+ {
+  "pair_id": "888|635",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1652",
+  "genealogy_id": "SNYDERSa1b8c4",
+  "surname": "SNYDERS",
+  "given_names": "PETRUS JACOBUS",
+  "birth_year": "1796.0",
+  "death_year": null,
+  "declared_district": "BEAUFORT",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|497",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Snyders, Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Petrus Casparus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Snyders, Gerrit Christoffel",
+    "census_spouse": "Janze van Rensburg, Aletta Sophia",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Snyders, Philippus",
+    "census_spouse": "Bronkhorst, Margaretha Sophia Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Snyders, Johannes Hendrik",
+    "census_spouse": "Janze van Rensburg, Hendrina Maria",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "888|635"
+  ]
+ },
+ {
+  "pair_id": "889|4840",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1654",
+  "genealogy_id": "SNYMANa1b7c1d4e6",
+  "surname": "SNYMAN",
+  "given_names": "DAVID BENJAMIN",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA FRANCINA",
+    "surname": "VAN EEDEN",
+    "marriage_date": "08/06/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|809",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Snyman, David Benjamin",
+  "census_head_role": "male",
+  "census_spouse": "v. Eeden, Anna Francina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Snyman, Frederik Johannes",
+    "census_spouse": "Bouwer, Maria Catharina Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Snyman, Jacobus Johannes",
+    "census_spouse": "du Plessies, Maria Jacoba",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Snyman, Christoffel",
+    "census_spouse": "Janze, Aletta Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Snyman, Philippus Marthinus",
+    "census_spouse": "Kales, Anna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Snyman, Nicolaas",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Snyman, Philippus Stephanus",
+    "census_spouse": "Venter, Anna Hendrina Francina Dorothea",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "889|4840"
+  ]
+ }
+]

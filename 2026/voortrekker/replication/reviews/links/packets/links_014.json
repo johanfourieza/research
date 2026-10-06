@@ -1,0 +1,2600 @@
+[
+ {
+  "pair_id": "711|9629",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1296",
+  "genealogy_id": "POTGIETERa1b1c7d7e5",
+  "surname": "POTGIETER",
+  "given_names": "EVERT FREDERIK SR.",
+  "birth_year": "1799.0",
+  "death_year": "1863",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ELSJE JOHANNA MARTHINA",
+    "surname": "SCHEEPERS",
+    "marriage_date": "09/01/1820",
+    "marriage_year": "1820"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|822",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Evert Fredrik",
+  "census_head_role": "male",
+  "census_spouse": "Scheepers, Elsie Johanna Marthina",
+  "census_widow_of": null,
+  "census_annotation": "Evert's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "711|9629"
+  ]
+ },
+ {
+  "pair_id": "712|9167",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1298",
+  "genealogy_id": "POTGIETERa1b1c8d1e2f3",
+  "surname": "POTGIETER",
+  "given_names": "THEODORUS",
+  "birth_year": "1805.0",
+  "death_year": "1892",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MAGDALENA SOPHIA JACOMINA",
+    "surname": "MEYER",
+    "marriage_date": "06/06/1833",
+    "marriage_year": "1833"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|323",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Theodoris",
+  "census_head_role": "male",
+  "census_spouse": "Van Niekerk, Maria Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "712|9167"
+  ]
+ },
+ {
+  "pair_id": "712|9169",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1298",
+  "genealogy_id": "POTGIETERa1b1c8d1e2f3",
+  "surname": "POTGIETER",
+  "given_names": "THEODORUS",
+  "birth_year": "1805.0",
+  "death_year": "1892",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MAGDALENA SOPHIA JACOMINA",
+    "surname": "MEYER",
+    "marriage_date": "06/06/1833",
+    "marriage_year": "1833"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|325",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Theodorus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Theodoris' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "712|9169"
+  ]
+ },
+ {
+  "pair_id": "715|9745",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1305",
+  "genealogy_id": "POTGIETERa1b1c8d1e5",
+  "surname": "POTGIETER",
+  "given_names": "JOHANNES (THEODORUS)",
+  "birth_year": "1785.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JOHANNA ELISABETH",
+    "surname": "STROEBEL",
+    "marriage_date": "02/05/1807",
+    "marriage_year": "1807"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|946",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Muller, Johanna Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "715|9745"
+  ]
+ },
+ {
+  "pair_id": "716|9118",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1309",
+  "genealogy_id": "POTGIETERa1b1c8d3e2",
+  "surname": "POTGIETER",
+  "given_names": "PETRUS HENDRIK THEUNIS",
+  "birth_year": "1783.0",
+  "death_year": "1860",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ADRIANA ANGENETHA",
+    "surname": "MULLER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "SARA JOHANNA",
+    "surname": "JANSE(N) VAN VUUREN",
+    "marriage_date": "12/07/1823",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|272",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Petrus Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Muller, Adriana Angenesse",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Theodoris",
+    "census_spouse": "Van Niekerk, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "716|9118"
+  ]
+ },
+ {
+  "pair_id": "716|9598",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1309",
+  "genealogy_id": "POTGIETERa1b1c8d3e2",
+  "surname": "POTGIETER",
+  "given_names": "PETRUS HENDRIK THEUNIS",
+  "birth_year": "1783.0",
+  "death_year": "1860",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ADRIANA ANGENETHA",
+    "surname": "MULLER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "SARA JOHANNA",
+    "surname": "JANSE(N) VAN VUUREN",
+    "marriage_date": "12/07/1823",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|787",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Petrus Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Janze van Vuuren, Sarra Johanna",
+  "census_widow_of": null,
+  "census_annotation": "Hermanus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "716|9598"
+  ]
+ },
+ {
+  "pair_id": "717|77",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1310",
+  "genealogy_id": "POTGIETERa1b7c8d5e9",
+  "surname": "POTGIETER",
+  "given_names": "WILLEM FREDERIK",
+  "birth_year": "1802.0",
+  "death_year": "1886",
+  "declared_district": "SOMERSET/ CRADOCK",
+  "spouses": [
+   {
+    "name": "GEERTRUYDA MARGARETHA",
+    "surname": "ERASMUS",
+    "marriage_date": "03/02/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Albany 1825|86",
+  "census_district": "Albany",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Willem Frederick",
+  "census_head_role": "male",
+  "census_spouse": "Erasmus, Gertruyda Margaretha",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Cornelis Jacobus",
+    "census_spouse": "Bouwer, Hester Magdalena",
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "717|77"
+  ]
+ },
+ {
+  "pair_id": "718|1813",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1311",
+  "genealogy_id": "POTGIETERa1b7c8d6e3",
+  "surname": "POTGIETER",
+  "given_names": "PIETER JACOBUS",
+  "birth_year": "1797.0",
+  "death_year": "1839",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ALETTA MAGDALENA",
+    "surname": "JORDAAN",
+    "marriage_date": "04/08/1816",
+    "marriage_year": "1816"
+   },
+   {
+    "name": "ALETTA SUSANNA",
+    "surname": "KOEKEMOER",
+    "marriage_date": "29/01/1837",
+    "marriage_year": null
+   },
+   {
+    "name": "ELISABETH HELENA",
+    "surname": "GROBBELAAR",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|364",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Pieter Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Jordaan, Aletta Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "718|1813"
+  ]
+ },
+ {
+  "pair_id": "719|1836",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1313",
+  "genealogy_id": "POTGIETERa1b7c8d6e4",
+  "surname": "POTGIETER",
+  "given_names": "JACOBUS CHRISTOFFEL (KOOS GROOTVOET)",
+  "birth_year": "1801.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "GEERTRUIDA MARIA",
+    "surname": "STEENKAMP",
+    "marriage_date": "01/12/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|389",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Jacobus Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Steenkamp, Geertruida Maria",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "719|1836"
+  ]
+ },
+ {
+  "pair_id": "720|1823",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1315",
+  "genealogy_id": "POTGIETERa1b7c8d6e6",
+  "surname": "POTGIETER",
+  "given_names": "HANS JURGEN",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA PETRONELLA",
+    "surname": "STEENKAMP",
+    "marriage_date": "05/07/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|374",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Hans Jurgen",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "720|1823",
+   "730|1823"
+  ]
+ },
+ {
+  "pair_id": "730|1823",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1333",
+  "genealogy_id": "POTGIETERa1b7c9d8e5",
+  "surname": "POTGIETER",
+  "given_names": "HANS JURGEN",
+  "birth_year": "1803.0",
+  "death_year": "1874",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "CATHARINA ELISABETH",
+    "surname": "UYS",
+    "marriage_date": "03/07/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|374",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Hans Jurgen",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "720|1823",
+   "730|1823"
+  ]
+ },
+ {
+  "pair_id": "720|9209",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1315",
+  "genealogy_id": "POTGIETERa1b7c8d6e6",
+  "surname": "POTGIETER",
+  "given_names": "HANS JURGEN",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA PETRONELLA",
+    "surname": "STEENKAMP",
+    "marriage_date": "05/07/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|369",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Hans Jurie",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacob's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "720|9209",
+   "730|9209"
+  ]
+ },
+ {
+  "pair_id": "730|9209",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1333",
+  "genealogy_id": "POTGIETERa1b7c9d8e5",
+  "surname": "POTGIETER",
+  "given_names": "HANS JURGEN",
+  "birth_year": "1803.0",
+  "death_year": "1874",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "CATHARINA ELISABETH",
+    "surname": "UYS",
+    "marriage_date": "03/07/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|369",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Hans Jurie",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacob's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Marthinus Jacobus",
+    "census_spouse": "Vermaak, Hester Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Petrus Hendrik",
+    "census_spouse": "Muller, Adriana Angenesse",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Fredrik Evert",
+    "census_spouse": "Landman, Jacomina Christiana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Jacobus Laurens",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Potgieter, Salomon Theodoris",
+    "census_spouse": "Barkhuysen, Sara Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "720|9209",
+   "730|9209"
+  ]
+ },
+ {
+  "pair_id": "722|1862",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1318",
+  "genealogy_id": "POTGIETERa1b7c8d7",
+  "surname": "POTGIETER",
+  "given_names": "HERMANUS SR.",
+  "birth_year": "1765.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA MARGARETHA",
+    "surname": "KRUGEL",
+    "marriage_date": "02/05/1790",
+    "marriage_year": "1790"
+   },
+   {
+    "name": "JOHANNA MAGDALENA",
+    "surname": "NIEMAND",
+    "marriage_date": "16/02/1803",
+    "marriage_year": null
+   },
+   {
+    "name": "GEERTRUYDA",
+    "surname": "KLOPPER",
+    "marriage_date": "16/08/1807",
+    "marriage_year": null
+   },
+   {
+    "name": "MARGARETHA JOHANNA",
+    "surname": "COETZEE",
+    "marriage_date": "18/12/1814",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|417",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Hermanus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "722|1862"
+  ]
+ },
+ {
+  "pair_id": "723|1831",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1319",
+  "genealogy_id": "POTGIETERa1b7c8d7e2",
+  "surname": "POTGIETER",
+  "given_names": "ANDRIES HENDRIK",
+  "birth_year": "1792.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELISABETH HELENA",
+    "surname": "BOTHA",
+    "marriage_date": "12/07/1812",
+    "marriage_year": "1812"
+   },
+   {
+    "name": null,
+    "surname": "BRONKHORST",
+    "marriage_date": "CA 1841",
+    "marriage_year": null
+   },
+   {
+    "name": "CATHARINA ELISABETH",
+    "surname": "ERASMUS",
+    "marriage_date": "CA 1843",
+    "marriage_year": null
+   },
+   {
+    "name": "SUSANNA MARIA",
+    "surname": "LA GRANGE",
+    "marriage_date": "07/07/1852",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|384",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Andries Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Elizabeth Helena",
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "723|1831"
+  ]
+ },
+ {
+  "pair_id": "724|1830",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1322",
+  "genealogy_id": "POTGIETERa1b7c8d7e5",
+  "surname": "POTGIETER",
+  "given_names": "HERMANUS PHILIPPUS SR.",
+  "birth_year": "1797.0",
+  "death_year": "1854",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CORNELIA (NEELTJE) ELISABETH",
+    "surname": "BOTHA",
+    "marriage_date": "04/03/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|383",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Hermanus Philippus",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Neeltje Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "Hermanus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "724|1830"
+  ]
+ },
+ {
+  "pair_id": "726|1832",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1326",
+  "genealogy_id": "POTGIETERa1b7c8d7e8",
+  "surname": "POTGIETER",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1802.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA PETRONELLA",
+    "surname": "BOTHA",
+    "marriage_date": "05/05/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "FRANCINA LOUISA",
+    "surname": "DE JAGER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|385",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Maria Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Hermanus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "726|1832"
+  ]
+ },
+ {
+  "pair_id": "727|1833",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1327",
+  "genealogy_id": "POTGIETERa1b7c8d7e9",
+  "surname": "POTGIETER",
+  "given_names": "NICOLAAS JOHANNES",
+  "birth_year": "1804.0",
+  "death_year": "1836",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JACOBA MARIA",
+    "surname": "LUBBE",
+    "marriage_date": "07/05/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "HESTER JACOBA",
+    "surname": "ROETS",
+    "marriage_date": "26/12/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|386",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Potgieter, Nicolaas Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Hermanus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "727|1833"
+  ]
+ },
+ {
+  "pair_id": "728|146",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1328",
+  "genealogy_id": "POTGIETERa1b7c9d3e6",
+  "surname": "POTGIETER",
+  "given_names": "MARTHINUS JACOBUS",
+  "birth_year": "1793.0",
+  "death_year": "1875",
+  "declared_district": "ALBANY",
+  "spouses": [
+   {
+    "name": "ANNA ELISABETH",
+    "surname": "POTGIETER",
+    "marriage_date": "CA 1813",
+    "marriage_year": "1813"
+   },
+   {
+    "name": "MARIA ELISABETH BARBARA",
+    "surname": "NELSON",
+    "marriage_date": "30/01/1865",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Albany 1825|165",
+  "census_district": "Albany",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Marthinus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Anna Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "728|146"
+  ]
+ },
+ {
+  "pair_id": "729|9616",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1332",
+  "genealogy_id": "POTGIETERa1b7c9d4e1",
+  "surname": "POTGIETER",
+  "given_names": "MARTHINUS JOHANNES",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA",
+    "surname": "DU PREEZ",
+    "marriage_date": "03/05/1823",
+    "marriage_year": "1823"
+   },
+   {
+    "name": "GEERTRUIDA MARIA MAGDALENA",
+    "surname": "BADENHORST",
+    "marriage_date": "06/08/1842",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|809",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Potgieter, Marthinus Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jurie's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Potgieter, Christoffel Alewyn",
+    "census_spouse": "Van Tonder, Susara Jacomina",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Isaac",
+    "census_spouse": "Nel, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Willem Frederick",
+    "census_spouse": "Erasmus, Gertruyda Margaretha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Jeremeas Iesaias",
+    "census_spouse": "Potgieter, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": "Snyman, Emerentia Hester",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Potgieter, Johannes Hermanus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "729|9616"
+  ]
+ },
+ {
+  "pair_id": "733|1781",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1336",
+  "genealogy_id": "PRETORIUSa1b3c1d1e6f6",
+  "surname": "PRETORIUS",
+  "given_names": "ZACHARIAS ARNOLDUS STEPHANUS",
+  "birth_year": "1808.0",
+  "death_year": "1870",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELISABETH",
+    "surname": "KLOPPER",
+    "marriage_date": "04/03/1832",
+    "marriage_year": "1832"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|328",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Pretorius, Zacharias",
+  "census_head_role": "male",
+  "census_spouse": "de Beer, Maria Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Johannes Lodewyk's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "733|1781"
+  ]
+ },
+ {
+  "pair_id": "735|5006",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1338",
+  "genealogy_id": "PRETORIUSa1b3c1d2e5f2",
+  "surname": "PRETORIUS",
+  "given_names": "WYNAND JOHANNES",
+  "birth_year": "1806.0",
+  "death_year": "1880",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SUSANNA FRANCINA JOHANNA",
+    "surname": "AUCAMP",
+    "marriage_date": "08/10/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|975",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Wynand Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "735|5006"
+  ]
+ },
+ {
+  "pair_id": "735|5078",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1338",
+  "genealogy_id": "PRETORIUSa1b3c1d2e5f2",
+  "surname": "PRETORIUS",
+  "given_names": "WYNAND JOHANNES",
+  "birth_year": "1806.0",
+  "death_year": "1880",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SUSANNA FRANCINA JOHANNA",
+    "surname": "AUCAMP",
+    "marriage_date": "08/10/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1048",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Wynand Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "735|5078"
+  ]
+ },
+ {
+  "pair_id": "735|5144",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1338",
+  "genealogy_id": "PRETORIUSa1b3c1d2e5f2",
+  "surname": "PRETORIUS",
+  "given_names": "WYNAND JOHANNES",
+  "birth_year": "1806.0",
+  "death_year": "1880",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SUSANNA FRANCINA JOHANNA",
+    "surname": "AUCAMP",
+    "marriage_date": "08/10/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1114",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Wynand Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "735|5144"
+  ]
+ },
+ {
+  "pair_id": "737|620",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1342",
+  "genealogy_id": "PRETORIUSa1b3c1d3e1f14",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM STERRENBERG",
+  "birth_year": "1807.0",
+  "death_year": "1807",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "HUIBRECHT SUSANNA CORNELIA",
+    "surname": "PRETORIUS",
+    "marriage_date": "06/01/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|480",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes Lodewicus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Gerhardus",
+    "census_spouse": "Coetzee, Margaretha Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Samuel Zacharias",
+    "census_spouse": "De Beer, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Barend Daniel",
+    "census_spouse": "Pretorius, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Wynand Arnoldus",
+    "census_spouse": "Esterhuizen, Anna Francina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Joannes Lodewicus",
+    "census_spouse": "Marais, Anna Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "737|620",
+   "761|620"
+  ]
+ },
+ {
+  "pair_id": "761|620",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1396",
+  "genealogy_id": "PRETORIUSa1b3c9d7e1",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM STERRENBERG",
+  "birth_year": "1802.0",
+  "death_year": "1878",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JACOBA JOHANNA",
+    "surname": "PIETERSE(N)",
+    "marriage_date": "03/06/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "MARTHA MARIA",
+    "surname": "MARITZ",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ANNA ALETTA",
+    "surname": "COMBRINK",
+    "marriage_date": "17/01/1859",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|480",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes Lodewicus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "737|620",
+   "761|620"
+  ]
+ },
+ {
+  "pair_id": "737|4107",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1342",
+  "genealogy_id": "PRETORIUSa1b3c1d3e1f14",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM STERRENBERG",
+  "birth_year": "1807.0",
+  "death_year": "1807",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "HUIBRECHT SUSANNA CORNELIA",
+    "surname": "PRETORIUS",
+    "marriage_date": "06/01/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|73",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Anna Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Gerhardus",
+    "census_spouse": "Coetzee, Margaretha Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Samuel Zacharias",
+    "census_spouse": "De Beer, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Barend Daniel",
+    "census_spouse": "Pretorius, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Wynand Arnoldus",
+    "census_spouse": "Esterhuizen, Anna Francina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Joannes Lodewicus",
+    "census_spouse": "Marais, Anna Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "737|4107",
+   "761|4107"
+  ]
+ },
+ {
+  "pair_id": "761|4107",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1396",
+  "genealogy_id": "PRETORIUSa1b3c9d7e1",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM STERRENBERG",
+  "birth_year": "1802.0",
+  "death_year": "1878",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JACOBA JOHANNA",
+    "surname": "PIETERSE(N)",
+    "marriage_date": "03/06/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "MARTHA MARIA",
+    "surname": "MARITZ",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ANNA ALETTA",
+    "surname": "COMBRINK",
+    "marriage_date": "17/01/1859",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|73",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Anna Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Lodewicus",
+    "census_spouse": "Pienaar, Wilhelmina Christina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "737|4107",
+   "761|4107"
+  ]
+ },
+ {
+  "pair_id": "737|7162",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1342",
+  "genealogy_id": "PRETORIUSa1b3c1d3e1f14",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM STERRENBERG",
+  "birth_year": "1807.0",
+  "death_year": "1807",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "HUIBRECHT SUSANNA CORNELIA",
+    "surname": "PRETORIUS",
+    "marriage_date": "06/01/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Stellenbosch 1825|2061",
+  "census_district": "Stellenbosch",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": "Smith, Elsje Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Gerhardus",
+    "census_spouse": "Coetzee, Margaretha Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Samuel Zacharias",
+    "census_spouse": "De Beer, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Barend Daniel",
+    "census_spouse": "Pretorius, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Wynand Arnoldus",
+    "census_spouse": "Esterhuizen, Anna Francina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Joannes Lodewicus",
+    "census_spouse": "Marais, Anna Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "737|7162"
+  ]
+ },
+ {
+  "pair_id": "740|618",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1346",
+  "genealogy_id": "PRETORIUSa1b3c1d3e1f7",
+  "surname": "PRETORIUS",
+  "given_names": "C(H)AREL (SAREL) JOHANNES",
+  "birth_year": "1800.0",
+  "death_year": "1878",
+  "declared_district": "BEAUFORT THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA CHRISTINA",
+    "surname": "PRETORIUS",
+    "marriage_date": "07/09/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|478",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Charel Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes Lodewicus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Gerhardus",
+    "census_spouse": "Coetzee, Margaretha Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Samuel Zacharias",
+    "census_spouse": "De Beer, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Barend Daniel",
+    "census_spouse": "Pretorius, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Wynand Arnoldus",
+    "census_spouse": "Esterhuizen, Anna Francina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Joannes Lodewicus",
+    "census_spouse": "Marais, Anna Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "740|618"
+  ]
+ },
+ {
+  "pair_id": "742|619",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1349",
+  "genealogy_id": "PRETORIUSa1b3c1d3e8f3",
+  "surname": "PRETORIUS",
+  "given_names": "GERHARDUS PETRUS",
+  "birth_year": "1806.0",
+  "death_year": "1869",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "CATHARINA ELISABETH JACOBA",
+    "surname": "DE BEER",
+    "marriage_date": "06/06/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|479",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Gerhardus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "De Beer, Catharina Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "Johannes Lodewicus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Gerhardus",
+    "census_spouse": "Coetzee, Margaretha Catharina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Samuel Zacharias",
+    "census_spouse": "De Beer, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Barend Daniel",
+    "census_spouse": "Pretorius, Elizabeth Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Wynand Arnoldus",
+    "census_spouse": "Esterhuizen, Anna Francina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Pretorius, Joannes Lodewicus",
+    "census_spouse": "Marais, Anna Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "742|619"
+  ]
+ },
+ {
+  "pair_id": "743|5167",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1351",
+  "genealogy_id": "PRETORIUSa1b3c1d3e9",
+  "surname": "PRETORIUS",
+  "given_names": "MATTHYS WYNAND SR.",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MAGDALENA GERBRECHT",
+    "surname": "PRETORIUS",
+    "marriage_date": "09/08/1807",
+    "marriage_year": "1807"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1137",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Matthys Wynand",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Magdalena G.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "743|5167"
+  ]
+ },
+ {
+  "pair_id": "744|5168",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1352",
+  "genealogy_id": "PRETORIUSa1b3c1d3e9f1",
+  "surname": "PRETORIUS",
+  "given_names": "GERHARDUS PETRUS JACOBUS",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET UNTIL CA 1833",
+  "spouses": [
+   {
+    "name": "MAGDALENA ANNA",
+    "surname": "BLOM",
+    "marriage_date": "06/01/1827",
+    "marriage_year": "1827"
+   },
+   {
+    "name": "ALETTA SOPHIA",
+    "surname": "PRETORIUS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1138",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Gerhardus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Bester, Anna Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "744|5168",
+   "750|5168"
+  ]
+ },
+ {
+  "pair_id": "750|5168",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1368",
+  "genealogy_id": "PRETORIUSa1b3c1d5e1f1",
+  "surname": "PRETORIUS",
+  "given_names": "GERHARDUS PETRUS",
+  "birth_year": "1792.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MAGRIETHA",
+    "surname": "BESTER",
+    "marriage_date": "30/04/1815",
+    "marriage_year": "1815"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1138",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Gerhardus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Bester, Anna Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "744|5168",
+   "750|5168"
+  ]
+ },
+ {
+  "pair_id": "745|1651",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1358",
+  "genealogy_id": "PRETORIUSa1b3c1d5e1",
+  "surname": "PRETORIUS",
+  "given_names": "MARTHINUS WESSEL",
+  "birth_year": "1775.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARIA CHRISTINA",
+    "surname": "PRETORIUS",
+    "marriage_date": "30/09/1792",
+    "marriage_year": "1792"
+   },
+   {
+    "name": "ELIZABETH",
+    "surname": "PRETORIUS",
+    "marriage_date": "05/06/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|182",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Pretorius, Marthinnus Wessel",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Maria Christina",
+  "census_widow_of": null,
+  "census_annotation": "Marthinus Wessel's zoon. De oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Porter, John",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "745|1651"
+  ]
+ },
+ {
+  "pair_id": "746|5146",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1359",
+  "genealogy_id": "PRETORIUSa1b3c1d5e12",
+  "surname": "PRETORIUS",
+  "given_names": "ANDRIES WILHELMUS JACOBUS SR.",
+  "birth_year": "1798.0",
+  "death_year": "1853",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CHRISTINA PETRONELLA",
+    "surname": "DE WIT",
+    "marriage_date": "08/11/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1116",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Andries Wilhelm Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "De Wit, Christina Petronella",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "746|5146"
+  ]
+ },
+ {
+  "pair_id": "748|5073",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1365",
+  "genealogy_id": "PRETORIUSa1b3c1d5e14",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES LODEWYK WYNAND",
+  "birth_year": "1802.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1043",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewyk Wynand",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|5073"
+  ]
+ },
+ {
+  "pair_id": "749|5079",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1366",
+  "genealogy_id": "PRETORIUSa1b3c1d5e15",
+  "surname": "PRETORIUS",
+  "given_names": "HERCULES ALBERTUS (BART)",
+  "birth_year": "1803.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ANNA ELISABETH",
+    "surname": "SCHOOMBEE",
+    "marriage_date": "08/12/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "CHRISTINA CATHARINA",
+    "surname": "BODENSTEIN",
+    "marriage_date": "26/08/1844",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1049",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Hercules Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Schombe (?), Anna Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "749|5079"
+  ]
+ },
+ {
+  "pair_id": "751|5029",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1375",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN SR.)",
+  "birth_year": "1782.0",
+  "death_year": "1861",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA SUSANNA",
+    "surname": "KOTZE",
+    "marriage_date": "18/03/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ELIZABETH BEATRIX",
+    "surname": "GRUNDLINGH",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|998",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jan Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "751|5029",
+   "752|5029"
+  ]
+ },
+ {
+  "pair_id": "752|5029",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|998",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jan Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "751|5029",
+   "752|5029"
+  ]
+ }
+]

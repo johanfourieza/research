@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "1033|7631",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Adriaan is a weaker name match than the alternative Willem Andries in Cradock, which also fits the declared Somerset district better. The genealogy marriage in 1832 cannot establish or contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "van Deventer, Willem Andries"
+ },
+ {
+  "pair_id": "1034|7744",
+  "verdict": "UNCERTAIN",
+  "reason": "Gideon van Deventer and the Swellendam district agree, but the census provides no wife to corroborate the 1819 marriage to Johanna Wilhelmina Steenberg. The abbreviated name and district alone do not establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1034|10413",
+  "verdict": "ACCEPT",
+  "reason": "The head's name is compatible with Gideon Gerhardus, and Johanna Wilhelmina Steenberg exactly matches his wife married in 1819. The district difference does not outweigh this strong corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1036|80",
+  "verdict": "ACCEPT",
+  "reason": "Sybrand van Dyk and the Albany district match, and Helena Susanna van der Merwe matches the wife married in 1805. Susaana versus Susanna is a minor spelling variation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1037|5618",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches and an age of about 18 is possible, but Stellenbosch differs from the declared Albany district. Neither undated genealogy marriage can be compared with an unnamed census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1038|102",
+  "verdict": "ACCEPT",
+  "reason": "Frans is compatible with Frans Johannes, and the census wife Anna Catharina de Lange exactly matches the spouse married in 1807. Albany and the supplied lifespan also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1040|1",
+  "verdict": "REJECT",
+  "reason": "Sagareia Krieger contradicts the recorded 1813 wife Sophia Elizabeth Potgieter. Another Joseph van Dyk in Albany has the matching Potgieter wife and is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Dyk, Joseph"
+ },
+ {
+  "pair_id": "1040|63",
+  "verdict": "ACCEPT",
+  "reason": "Joseph van Dyk, Albany, and Sophia Elizabeth Potgieter all match, with the marriage dating to 1813. The other Joseph has a different wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1042|7",
+  "verdict": "ACCEPT",
+  "reason": "The full head name and Albany district match exactly, as does Francina Petronella de Lange, married in 1814. The census falls within the supplied lifespan.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1043|4482",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Nicolaas van Dyk and Jacoba Hendrina de Beer exactly match the genealogy couple married in 1819. The district difference is insufficient to undermine this corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1045|282",
+  "verdict": "REJECT",
+  "reason": "The census wife Susanna Elizabeth Rossouw differs materially from Susanna Maria la Grange, married in 1820. No supplied remarriage or spelling variation explains the different maiden surname.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1046|5497",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend Johannes matches and Greuning could be a variant of van Greunen, but the district differs and there is no independent corroboration. The 1831 marriage cannot confirm identity in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1049|4353",
+  "verdict": "ACCEPT",
+  "reason": "Johannes is among the genealogy given names, and the district matches. Aletta Helena van der Merwe exactly matches the spouse married in September 1825, the census year, with no supplied enumeration date creating a conflict.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1050|3928",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Petrus is compatible with Adriaan Pieter, and Anna Bekker matches the abbreviated name of Anna Dorothea Margaretha Bekker, married in 1821. These combined matches outweigh the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1052|9242",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Josephus matches Hendrik Joseph, and Johanna Minie is a plausible abbreviated spelling of Johanna Maria Minnie, married in 1822. Uitenhage also agrees; the second marriage dates to 1840.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1055|5057",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Johannes and Graaff-Reinet agree, with Nieukerk a plausible surname variant. The unnamed census wife supplies no corroboration of the 1818 marriage, leaving the name and district insufficient for a strong identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1055|5190",
+  "verdict": "ACCEPT",
+  "reason": "The head's given names and district match, while Nieuwkerk is a plausible surname variant. Heilje Magdalena v. d. Berg plausibly matches Hilletje Magdalena Petronella van den Berg, married in 1818, through spelling variation and omitted names.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1057|2531",
+  "verdict": "ACCEPT",
+  "reason": "Lucas C. matches Lucas Cornelis, and M. J. Louw matches the initials and maiden surname of Margaretha Johanna Louw, married in 1820. The combined husband-and-wife match outweighs the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1063|1967",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan van Niekerk and Engela Dorothea Maria Pretorius match exactly, and her supplied marriage date establishes marriage in 1815 despite the null marriage_year field. Cradock in 1823 is compatible with the declared Somerset district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1064|1538",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Gustaphus is compatible with Jacobus Gustavus, the district is compatible, and he would be about 18. However, the record does not independently verify the annotation identifying Christiaan as his father, and the 1825 marriage cannot corroborate the 1823 entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1081|9176",
+  "verdict": "REJECT",
+  "reason": "Maria Fredrika Meyer differs materially from Maria Elizabeth van Rooyen, whose listed marriage date is 1809; the second marriage in 1827 cannot explain the census wife. The genealogy's birth and first marriage falling in the same year is an additional internal inconsistency, not evidence supporting this link.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1084|122",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive three given names Andries Ignatius Marthinus match exactly, with only the normal Royen/Rooyen spelling difference, and Albany agrees. His age of about 21 is compatible with headship, and there is no material contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1086|9729",
+  "verdict": "ACCEPT",
+  "reason": "Gerret matches Gerrit, and Maria van Rooyen exactly matches his wife married in 1803 in the matching district. The competing Gerrit Reynier instead has a pre-census wife named Adriana Maria Kock.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9729",
+  "verdict": "REJECT",
+  "reason": "Maria van Rooyen contradicts Adriana Maria Kock, married in 1807; the second Kock marriage dates to 1826 and cannot resolve this mismatch. The alternative Gerret Rynier matches the man's fuller name without this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Rooyen, Gerret Rynier"
+ },
+ {
+  "pair_id": "1089|9716",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Thomas and the district match, and Susanna Elisabeth Minie matches Susanna Elizabeth Minnie, married in 1804. This identifies the older man much more strongly than the competing namesake born in 1809.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1090|9716",
+  "verdict": "REJECT",
+  "reason": "The census couple matches the competing Gerrit Thomas born in 1782 and his wife Susanna Elizabeth Minnie, married in 1804, establishing a distinct older identity. This man's 1834 marriage supplies no comparable wife evidence for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1090|3508",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but he would be about 16 and the district differs. His 1834 marriage cannot confirm or contradict M. C. van Rooyen in 1825, and the supplied genealogy does not establish the father named by the census annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1091|9288",
+  "verdict": "UNCERTAIN",
+  "reason": "Gerret Rynier is compatible with Gerrit Reynier, and Uitenhage agrees. No census wife is named, and the genealogy does not independently confirm the annotation 'Piet's son,' leaving insufficient corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1093|9142",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan Stephanus and Uitenhage match exactly, and Hester Germina Routenbach matches the wife married in 1811. Her surname is included in the genealogy name field as Rautenbach, a plausible spelling variation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1094|8127",
+  "verdict": "UNCERTAIN",
+  "reason": "Tobias Gerhardus and Swellendam agree, and omission of van is not a contradiction. However, there is no spouse or other independent identifying evidence to establish that the matching name denotes this particular man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1096|9630",
+  "verdict": "ACCEPT",
+  "reason": "Johan Christiaan and Uitenhage match, with only omission of the surname particle. Elsie Magdalena Johanna Scheepers matches the wife married in 1818 through reordered middle names.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1098|9477",
+  "verdict": "REJECT",
+  "reason": "The census couple matches the competing Philippus Theunis born in 1778 and Sara Johanna Scheepers, married in 1804, establishing a distinct older identity. The younger man's marriage in 1833 cannot itself confirm or contradict the 1825 wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1109|9477",
+  "verdict": "ACCEPT",
+  "reason": "Pillippus Theunis is a minor spelling variant of Philippus Theunis, and Sara Johanna Scheepers exactly matches the wife married in 1804. The district agrees, and this couple fits the older man rather than the competing namesake born in 1809.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1099|485",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Hendrik and Beaufort match, with Stade/Staden a plausible surname variation. Johanna Magdalena de Clercq matches Magdalena Johanna de Klerk, married in 1819, through reordered given names and surname spelling variation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1100|9361",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Fredrik and Martha Magdalena Janze van Rensburg match the genealogy couple married in 1824, allowing minor spelling differences. Uitenhage also agrees, and the additional undated spouse does not negate the matching marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1101|9341",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Johannes and Anna Maria Smit exactly match the genealogy couple married in 1822. The district agrees, and his age of about 21 is compatible with headship.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1102|9473",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Fredrik and Johanna Catharina van Staden match the genealogy couple, and Uitenhage agrees. Their marriage in May 1825 is compatible with the census year, with no supplied enumeration date creating a conflict.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1105|727",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Fredrik is compatible with Jacobus Frederik van Staden, and Margaretha Elizabeth Bezuidenhout exactly matches the wife married in 1816. Beaufort agrees, while the alternative namesake has a different wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1107|9463",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jurie is compatible with Johannes Jurgen, but the district differs and there is no corroborating spouse evidence. The marriage to Anna Catharina van der Linde occurred in 1826 and cannot contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1108|9463",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jurie and Uitenhage match, and an age of about 19 does not rule out headship. The 1826 marriage to Susanna Josina Viljoen cannot confirm or contradict the census wife, and the competing proposed identity remains unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "55|3370",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches, but George has three Willem Hendrik Boshoff heads and this one has no wife to compare with Barnard, whose marriage date is unknown. A Field Cornet at about 24 is possible but would be more typical of an older man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "55|3394",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches and an unmarried 'A. son' (possibly Adam's son) fits a 24-year-old, but George has several namesakes and no wife is recorded to compare with Barnard (marriage date unknown).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "56|7341",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district match, and the census wife Aletta Helena Joubert is the spouse he married in 1807.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "57|5552",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Graaff-Reinet district match and he is the only such head there, but he was about 17 in 1825 and his only marriage was in 1827, so no wife corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "58|5542",
+  "verdict": "ACCEPT",
+  "reason": "The name and district match, and the census wife Aletta Sophia v. d. Berg is his spouse married in 1811.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "59|6761",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district match, and the census wife Sara Susanna Hausman is his 1817 spouse Hauman, a spelling variant.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "60|203",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches and the census wife Magdalena Adriana Francina Cornelia Beukes is clearly his March 1825 spouse, differing only in the last given name. The Beaufort district differs from his declared Cradock, but the wife match is strong.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "61|397",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name and district match, and the census wife Maria Elizabeth Pieterse is his April 1825 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|303",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches and an unmarried head fits a man first married in 1826, but Beaufort has four Andries Stephanus Botes heads with different fathers and nothing identifies which is him.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|307",
+  "verdict": "REJECT",
+  "reason": "This head already had a wife, Van Emmenes, in 1825, while the genealogy man's first and only recorded marriage was to Lombard in 1826. This is most likely a namesake (Anthonie's son).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|366",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches and an unmarried head fits a man first married in 1826, but Beaufort has four Andries Stephanus Botes heads with different fathers and nothing identifies which is him.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "62|398",
+  "verdict": "REJECT",
+  "reason": "This head had a wife, Anna Magdalena Pietersen, in 1825, while the genealogy man's first recorded marriage was to Lombard in 1826. This is most likely a namesake (Jacobus' son).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|371",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches and an unmarried head fits a man first married in 1827, but nothing else corroborates it, the Beaufort district differs from his declared Colesberg, and there is a competing Worcester 1824 namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "63|10417",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches (Anthony/Anthonie) and an unmarried head fits a man first married in 1827, but the Worcester district is far from his declared Colesberg and there is a competing Beaufort namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "65|200",
+  "verdict": "REJECT",
+  "reason": "This head is annotated 'Senior' and married to Anna Maria Olivier, while the genealogy man was about 18 in 1825 and first married Johanna Petronella Botes in 1827.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "66|403",
+  "verdict": "ACCEPT",
+  "reason": "Charel Fredrik is a variant of Carel Frederik, the district matches, and the census wife Aletta Johanna Potgieter is his 1804 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "67|5311",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district match, and the census wife Anna Christina Viljoen matches his spouse Anna Christina Cornelia Viljoen. Her recorded marriage date (Dec 1826) postdates the census, which is likely a date or census-timing discrepancy rather than a different couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "70|1689",
+  "verdict": "REJECT",
+  "reason": "The census wife Jacomina Oberholster differs from his 1818 spouse Janse van Vuuren. The head is also 'de Oude' and named only Christoffel, which suggests an older man.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "89|1689",
+  "verdict": "REJECT",
+  "reason": "The census wife Jacomina Oberholster differs from his 1817 spouse Maria Dorothea Terblanche. The head is also 'de Oude', which suggests an older man.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "71|1949",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive name Johannes Jurgen matches in Cradock (Somerset's predecessor), and an unmarried 18-year-old fits a man first married in 1832. His apparent sibling Theunis Gerhardus is also listed in Cradock 1823 as 'Fredrik's zoon'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "73|4671",
+  "verdict": "REJECT",
+  "reason": "The census wife A. M. A. Snyman differs from Anna Maria Geere, whom he married in January 1825. The head is listed only as 'Petrus', in Graaff-Reinet rather than Somerset.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|1856",
+  "verdict": "REJECT",
+  "reason": "The census wife Maria Petronella Venter differs from his only recorded spouse, Johanna Cornelia van der Merwe, married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "76|9472",
+  "verdict": "ACCEPT",
+  "reason": "Rynier is a variant of Reynier, the Uitenhage district matches, and the census wife Isabella Elisabeth Van Staden is his 1817 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|5270",
+  "verdict": "ACCEPT",
+  "reason": "The name matches and the census wife Geertruida Maria Bronkhorst is his 1822 spouse. Graaff-Reinet versus Somerset is a plausible district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|2420",
+  "verdict": "ACCEPT",
+  "reason": "The name and district (Cradock/Somerset) match, and the census wife Anna Christina Magdalena Pietersen is his 1817 spouse Pieterse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3887",
+  "verdict": "ACCEPT",
+  "reason": "The full name and George district match, and the census wife H. D. Carelse matches his 1821 spouse Helena Dorothea Carelse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "80|3904",
+  "verdict": "ACCEPT",
+  "reason": "The full name and George district match, and the census wife M. Schoeman matches his spouse Maria Schoeman (marriage date unknown). His apparent brother is also listed in George as 'J. son'.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "81|3884",
+  "verdict": "ACCEPT",
+  "reason": "The name matches and the census wife M. D. Carelse matches his 1824 spouse Margaretha Dorothea Carelse. George is listed alongside his apparent brothers, although Uitenhage was declared.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "82|5206",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name and district match, and the census wife Anna Dorothea Scholtz is his second spouse, married in 1819.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|5241",
+  "verdict": "ACCEPT",
+  "reason": "The name matches and the census wife Hester Fredrika Jac. Hennop corresponds to his 1823 spouse Ester Francina Jacoba Hennop, with minor variation. Graaff-Reinet included Colesberg at the time.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "84|4387",
+  "verdict": "ACCEPT",
+  "reason": "Alewijn Petrus is a variant of Alwyn Petrus, the district matches, and the census wife Anna Marg. Smit is his 1823 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "85|2016",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Christoffel 'de Oude' with wife Johanna Helena du Plessis, which conflicts with Johannes Christiaan's 1819 spouse Catharina Maria Janse van Vuuren.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|2006",
+  "verdict": "ACCEPT",
+  "reason": "The name and district (Cradock/Somerset) match, and the census wife Anna Maria Els corresponds to his 1821 spouse Anna Cornelia Maria Els.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|1954",
+  "verdict": "UNCERTAIN",
+  "reason": "The common name matches in Cradock and an unmarried 17-year-old fits a man first married in 1827, but no wife or other evidence corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "92|9514",
+  "verdict": "REJECT",
+  "reason": "This head had a wife, Martha Catharina Crouse, in 1825, while the genealogy man was about 20 and first married Susara Willemse in 1829. This is most likely a namesake.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|1952",
+  "verdict": "REJECT",
+  "reason": "The census head is Pieter 'de Oude' with wife Elizabeth Botha, which conflicts with Pieter Hendrik's 1821 spouse Anna Catharina Susanna Goosen.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4670",
+  "verdict": "ACCEPT",
+  "reason": "The name matches and the census wife Maria Susanna v. Zyl is his third spouse, married in December 1822. Graaff-Reinet included Colesberg at the time.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|1691",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census wife Geertruide Petronella Prinsloo differs from his spouse Anna Johanna Nel, married in 1822, and no intervening marriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|2243",
+  "verdict": "UNCERTAIN",
+  "reason": "The census wife Catharina Geertruida Botha shares the surname Botha with his 1822 spouse Helena Catharina Botha, but the given names differ. The head is listed only as 'Willem', so identity is unclear.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "104|2259",
+  "verdict": "ACCEPT",
+  "reason": "The name and district (Cradock/Somerset) match, and the census wife Geertruida Maria Bothma corresponds to his 1822 spouse Geertruida Maria Barbara Botma.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

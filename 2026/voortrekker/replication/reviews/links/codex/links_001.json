@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "2|4594",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name closely matches and an age of about 21 is plausible, but no wife corroborates the identity. An equally named head in Cradock and the district difference leave the link unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "3|7849",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Alberts and the district match, and Anna Helena Legrange agrees with Anna Helena La Grange, married in 1806. The 1832 marriage does not affect this comparison.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "4|7850",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and an age of about 18 is possible for a head. The 1826 marriage cannot corroborate the 1825 identity, leaving insufficient independent evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "6|5130",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's names are compatible and the district matches, but the census wife is Geertruida Maria Naude rather than Geertruida Martha Naude. This could be a recording variation, but the discrepancy and unspecified census date relative to the December 1825 marriage prevent a firm identification.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "7|8308",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Sr. matches Lourens Sr., and Catharina E. Moolman agrees with Catharina Elizabeth Moolman, whose supplied marriage date is in 1801. The district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "8|8528",
+  "verdict": "ACCEPT",
+  "reason": "The head's name and junior designation match, and Maria Catharina Kleinsmit exactly matches the wife married in 1818. The district is also consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "13|5245",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, an age of about 20 is plausible, and Colesberg is compatible with Graaff-Reinet. Neither later marriage corroborates the census identity, and no wife is named.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "16|1622",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and district match, and Anna Alida Petronella Aucamp agrees with Anna Petronella Aucamp, married in 1815, allowing an omitted middle name.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "17|554",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and district match, and Susanna Terblans is a plausible spelling variant of Susanna Terblanche, married in 1811.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "20|9438",
+  "verdict": "ACCEPT",
+  "reason": "Willem Johannes Basson and his wife Johanna Cornelia Basson both match exactly, with the marriage dated 1820. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|1144",
+  "verdict": "UNCERTAIN",
+  "reason": "Matthys Michielse resembles Matthys Michiel, but Clanwilliam differs from the declared Graaff-Reinet district. No comparable wife or supplied paternal name verifies the link; the marriage occurred after this census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|4910",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and the man's age is plausible. No census wife is named, so the July 1825 marriage supplies no independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|7034",
+  "verdict": "UNCERTAIN",
+  "reason": "The names are similar, but Stellenbosch differs from the declared Graaff-Reinet district. With no census wife or other independent corroboration, the evidence does not establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "21|9882",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but Worcester differs from the declared Graaff-Reinet district. The 1825 marriage cannot confirm this 1824 entry, and no supplied paternal name verifies the 'Jan zoon' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "22|9439",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's three given names and district match, and Gous plausibly corresponds to Gouws. However, Maria Johanna Jacoba differs from the recorded Magdalena Johanna Jacoba married in 1824; the shared names suggest a possible match but do not resolve that discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "24|9561",
+  "verdict": "REJECT",
+  "reason": "Josina Smit differs from both listed spouses, while another Johannes Jurie Bekker has the matching wife Johanna Bekker. The undated Viljoen marriage does not explain a wife named Smit.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Bekker, Johannes Jurie"
+ },
+ {
+  "pair_id": "24|9591",
+  "verdict": "UNCERTAIN",
+  "reason": "The compatible head's name, senior designation, district and wife Johanna Bekker strongly support the link. However, the supplied 1798 marriage predates the man's stated 1799 birth, leaving a material internal chronology problem unresolved.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "30|9582",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Sara Maria Snyman plausibly corresponds to Susara Maria Snyman, married in 1822. This spouse evidence outweighs the district difference; the 1828 marriage is later than the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "31|9581",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Johannes Bekker and Hester Maria Swiegers both match exactly, with the marriage dated 1823. The district difference alone does not contradict this strong identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "32|7502",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and the man's age is plausible. No wife is named, and the 1828 marriage cannot corroborate the 1825 identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "33|7938",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and district match, while Aplona Catharina Voslo plausibly corresponds to Appolonia Catharina Vosloo, married in 1814.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "36|57",
+  "verdict": "ACCEPT",
+  "reason": "Barend Jacobus is compatible with Barnard Jacobus, and Anna Susanna Erasmus exactly matches the wife married in 1813. The spouse match outweighs the district difference and distinguishes this entry from the listed alternatives.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "36|1843",
+  "verdict": "REJECT",
+  "reason": "The census wife Engela Helena de Klerk clearly differs from Anna Susanna Erasmus, married in 1813. No listed remarriage or undated spouse explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "38|1885",
+  "verdict": "UNCERTAIN",
+  "reason": "The head and Maria Dorothea Botha match the 1798 marriage, but the genealogy also records a subsequent marriage to Dorothea Maria van Heerden in 1822. The alternative head with the van Heerden wife fits the chronology better, leaving this earlier-wife match unresolved.",
+  "wife_evidence": "agrees",
+  "better_candidate": "Beukes, Johannes Andreas"
+ },
+ {
+  "pair_id": "38|1886",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and district match, and Maria Dorothea van Heerden agrees with Dorothea Maria van Heerden with reordered given names. The supplied marriage date is in 1822, before this census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "39|1889",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and an age of about 18 is possible. The later 1825 marriage cannot corroborate this 1823 entry, and the record supplies no explicit paternal name against which to verify the annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "40|201",
+  "verdict": "ACCEPT",
+  "reason": "Cornelis Johannes matches Cornelius Johannes, and Anna Margaretha van der Merwe exactly matches the wife married in 1806. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "41|7454",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but the man was only about 16 and the census uses a senior designation. Neither establishes a contradiction, but the absent wife and later 1836 marriage leave the identity unconfirmed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "41|10721",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but the man was only about 16 and no supplied marriage connects him to Susanna Hermiena Linde. His 1836 marriage to Hendrika Elsabe Swart can neither confirm nor contradict a wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "42|716",
+  "verdict": "REJECT",
+  "reason": "The census wife's given names, Maria Catharina, clearly differ from Magdalena Geertruida, the spouse married in 1801. Although the genealogy spouse's surname field is unusable, the conflicting given names remain, with no listed remarriage to explain them.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "43|776",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but the district differs and no census wife corroborates the link. The stated 1807 marriage at about age one makes the supplied genealogy chronology internally inconsistent.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "45|4447",
+  "verdict": "ACCEPT",
+  "reason": "Wynand Fr. matches Wynand Frederik, and Elisabeth Johanna Liebenberg exactly matches the spouse whose supplied marriage date is in 1807. The district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "46|281",
+  "verdict": "ACCEPT",
+  "reason": "The head's name matches with minor spelling variation, and Martha Elizabeth Engelbregt agrees with Martha Elisabeth Engelbrecht, married in 1819. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "47|316",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but Beaufort differs from the declared Colesberg district and no wife is named to corroborate either listed marriage. The supplied record gives no explicit paternal name to verify the 'Gerrit's son' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "47|775",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Susanna Petronella Vivier agrees with Susanna Petronella Viviers, married in 1824. This strong spouse evidence outweighs the district difference, and no supplied paternal name contradicts the annotation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "49|500",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Badenstein plausibly matches Johannes Bodenstein, and Hendrina Johanna Brits exactly matches the wife married in 1817. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "50|9655",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Booyse is compatible with Johannes Booysen, and Anna Elisabeth Las exactly matches the wife married in 1815. The district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "51|9656",
+  "verdict": "ACCEPT",
+  "reason": "Dirk Booyse is compatible with Dirk Booysen, and Hester S. Oosthuysen agrees with Hester Susanna Oosthuizen, married in 1823. The district also matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "52|9657",
+  "verdict": "ACCEPT",
+  "reason": "Frans Abraham Booyse matches Frans Abraham Booysen, and Petronella A. Nel is compatible with Petronella Catharina Aletta Nel, married in 1821. The district matches, and the 1846 marriage is irrelevant to the census comparison.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "54|5305",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Christiaan matches Johan Christiaan, and Cornelia C. du Preez agrees with Cornelia Carolina du Preez, married in 1809. The district and lifespan are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

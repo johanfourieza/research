@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "890|2245",
+  "verdict": "UNCERTAIN",
+  "reason": "Nicolaas Snyman's name, approximate age of 19 and Somerset/Cradock location are compatible, but the genealogy does not corroborate 'Christoffel's zoon'. His 1825 marriage cannot establish identity in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "891|9737",
+  "verdict": "ACCEPT",
+  "reason": "Theunis Snyman and Sara Jacoba Marx match the couple married in 1820, and Uitenhage agrees with the declared district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "892|9481",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's name and district match, but Sanna Maria Moolman only partially matches Johanna Susanna Moolman, married in 1822. Sanna could represent Susanna, but the remaining given-name difference prevents confident identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "893|3844",
+  "verdict": "ACCEPT",
+  "reason": "Gert Christoffel is compatible with Gerrit Christoffel, and Bekker, M. M. matches Martha Magdalena Bekker, married in 1820. The George district also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "895|9577",
+  "verdict": "ACCEPT",
+  "reason": "The head and his wife match Jacobus Philippus Snyman and Johanna Marthina Bekker, married in 1818, with minor spelling variations. The district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "897|8274",
+  "verdict": "ACCEPT",
+  "reason": "Lodewyk Petrus Spies matches exactly, and Sara J. Cronjee matches Sara Johanna Cronje, married in 1820. Both records place him in Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "898|10760",
+  "verdict": "ACCEPT",
+  "reason": "Barend Jacobus Spies and Hendrina Elisabeth Swart match the genealogical couple married in 1823. The district and age are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "899|8253",
+  "verdict": "ACCEPT",
+  "reason": "Andries Theodorus Spies matches exactly, and Fourie, M. M. matches Maria Magdalena Fourie, married in 1821. The shared Swellendam district adds support.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "900|5208",
+  "verdict": "ACCEPT",
+  "reason": "Spruit is a compatible spelling of Spruyt, and both Jacobus Willem and Maria Magdalena Slier match the couple married in 1809. The district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "901|5408",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's name and district are compatible, but the only genealogy marriage is in 1829 and cannot be compared with Anna Maria Prinslo in 1825. Another same-named census head leaves the identification unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "901|5409",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and approximate age of 21 are compatible, but there is no spouse corroboration or other distinguishing evidence. The other Willem Frederik Steenberg cannot be excluded using the later 1829 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "902|10302",
+  "verdict": "REJECT",
+  "reason": "Margaretha Maria Steenkamp matches the wife married in 1824, but the man's patronymic Dirkse conflicts with the census annotation identifying him as Floris's son.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "903|1131",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem is compatible with Willem Johannes Paulus, and the district and approximate age of 18 fit. Neither the additional names nor 'J. zoon' is corroborated, and the 1829 marriage cannot confirm the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "904|1599",
+  "verdict": "REJECT",
+  "reason": "Catharina Maria Stein differs from both listed wives, whose marriage dates precede 1823. The alternative Jan Harmse Steenkamp with Johanna Helena du Plessies matches the wife married in 1788 and is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Steenkamp, Jan Harmse"
+ },
+ {
+  "pair_id": "904|1834",
+  "verdict": "ACCEPT",
+  "reason": "The head's name and Johanna Helena du Plessies match Jan Harmse Steenkamp and his wife married on 03/02/1788. 'Senior' is compatible with his 1761 birth, and Somerset/Cradock is consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "905|1838",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend Willem is compatible with Barend Willem Jacobus, and Somerset/Cradock agrees. The marriage to Johanna Dorothea Aletta Labuschagne occurred in 1824, so her appearance cannot confirm or contradict this 1823 link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "906|1837",
+  "verdict": "REJECT",
+  "reason": "The census wife's maiden surname is Steenkamp, whereas Clara Isabella, married in 1813, is recorded as Potgieter. The later Retief marriage in 1838 does not explain this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "907|1972",
+  "verdict": "ACCEPT",
+  "reason": "Philip Laurens is compatible with Philippus Lourens, and Johanna Dorothea Geertruida du Plessies matches the wife married in 1816. Somerset/Cradock is consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "910|7339",
+  "verdict": "REJECT",
+  "reason": "The census explicitly names Johannes Christiaan, whereas the genealogical man is Johannes Christoffel; these are different middle names rather than an omission or reordering. No census wife supplies corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "911|7376",
+  "verdict": "REJECT",
+  "reason": "Pieter and Petrus are compatible, but Susanna Grobbelaar clearly differs from Jacoba Hendrina Roos, married in 1820. No listed remarriage explains the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "912|7334",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus Steyn and the district match, but no birth year or genealogy spouse is supplied to distinguish this head from the other Hermanus Steyn married to Joubert. The genealogy's 'P. SEUN' has no census corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "917|2344",
+  "verdict": "ACCEPT",
+  "reason": "Hermanus Stein is compatible with Hermanus Steyn, and Johanna Hendrina Fourie exactly matches the wife married in 1808. His 1789 birth fits an adult household head and distinguishes him from the competing man born in 1809.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "918|2344",
+  "verdict": "REJECT",
+  "reason": "This head's wife matches the competing Hermanus Steyn born in 1789, married to Johanna Hendrina Fourie in 1808, identifying the older man. The proposed man born in 1809 was only about 14 in 1823, and his 1829 marriage cannot corroborate this link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "919|746",
+  "verdict": "ACCEPT",
+  "reason": "Anna Catharina Halting plausibly matches Anna Catharina Hattingh, married in 1815, and the head's name and Beaufort district agree. 'Marthinus' son' also agrees with the genealogy's 'M. SEUN'.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "920|745",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Steyn matches exactly, and Magtel Oosthuizen is a compatible shortened spelling of Machteld Susara Oosthuizen, married in 1822. The Beaufort district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "921|7209",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but 'Sr.' does not establish the identity of this approximately 19-year-old man, especially with a Marthinus Jr. also listed. His 1830 marriage cannot confirm or contradict the census wife Maria Elisabeth Du Preez.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "922|762",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Marthinus Steyn matches exactly, and Anna Eleonora De Beer is compatible with Anna Leonora de Beer, married in 1820. The district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "923|760",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Hermanus Steyn and Jacoba Elizabeth de Beer match the genealogical couple married in 1815. The Beaufort district and his adult age in 1825 are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "924|8148",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Wouter Steyn matches exactly, and Du Preez, J. S. matches Johanna Susanna du Preez, married in 1810. The Swellendam district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "925|8198",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus Jacobus Steyn and the district match, but the unnamed census wife provides no comparison with Susanna Maria Steyn, married in 1815. The census also does not corroborate 'DOUW SEUN'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "928|4509",
+  "verdict": "ACCEPT",
+  "reason": "David Jacobus Straus matches David Jacobus Strauss, and Elisabeth Louisa Liebenberg exactly matches the wife married in 1802. The district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "930|4510",
+  "verdict": "UNCERTAIN",
+  "reason": "Andries Jacobus Straus is compatible with Adries Jacobus Strauss, and Colesberg/Graaff-Reinet is geographically consistent. His approximate age of 19 is plausible, but the absent census wife and later 1830 marriage provide no distinguishing corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "930|5028",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and approximate district are compatible, but the 1830 Lubbe marriage cannot confirm or contradict Johanna Cornelia Viljoen in 1825. Another same-named head leaves the identity unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "932|9512",
+  "verdict": "ACCEPT",
+  "reason": "Gideon Laurence is compatible with Gideon Lourens, and Cornelia Susanna Bezuidenhoud matches Cornelia Susanna Bezuidenhout, married in 1815. The district agrees, and the Prinsloo marriage occurred later, in 1832.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "933|693",
+  "verdict": "UNCERTAIN",
+  "reason": "Daniel Jacobus is compatible with the genealogical man's longer name, and Beaufort agrees. The only listed marriage occurred in 1840, so Anna Magdalena Calets in 1825 cannot be compared, and 'Senior' supplies no decisive identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "934|691",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Matthys Strydom matches exactly, and Anna Dorothea Becker matches Anna Dorothea Bekker, married in 1816. The Beaufort district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "935|338",
+  "verdict": "ACCEPT",
+  "reason": "David Jan Jacobus Strydom matches exactly, and Susara Maria Oosthuizen matches the listed spouse married on 02/04/1820. The district agrees, and the undated Klassen marriage introduces no demonstrated contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "936|694",
+  "verdict": "ACCEPT",
+  "reason": "Stydom, Pieter Fredrik is compatible with Strydom, Pieter Frederik, and Cornelia Maria Lindeque exactly matches the wife married in 1821. The district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "937|695",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Hendrik Strydom's name, district and approximate age of 21 are compatible, but 'Daniel's son' lacks direct genealogy corroboration. No census wife is named, and neither the 1831 marriage nor the undated marriage establishes identity in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "940|4234",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Strydom is compatible with Johannes Petrus Strydom, but the census omits a wife and offers no distinguishing annotation. The different declared district further weakens this otherwise uncorroborated name match without proving a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

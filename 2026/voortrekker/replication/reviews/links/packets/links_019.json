@@ -1,0 +1,2384 @@
+[
+ {
+  "pair_id": "942|9482",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1759",
+  "genealogy_id": "STRYDOMa1b4c3d2e2f2",
+  "surname": "STRYDOM",
+  "given_names": "JOHANNES",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "COMBRINK",
+    "marriage_date": "01/09/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|663",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Strydom, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Combrink, Maria Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Strydom, Petrus Johannes",
+    "census_spouse": "Lambert, Johanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Andris Stephanus",
+    "census_spouse": "Dupree, Johanna Dorothea",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Wessel Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Matthys",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Hercules",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Matthys",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "942|9482"
+  ]
+ },
+ {
+  "pair_id": "944|4149",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1763",
+  "genealogy_id": "STRYDOMa1b4c6d3e5",
+  "surname": "STRYDOM",
+  "given_names": "BAREND HENDRIK JOSEPHUS",
+  "birth_year": "1797.0",
+  "death_year": "1882",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ZACHARIA GEERTUIDA",
+    "surname": "VAN WYK",
+    "marriage_date": "04/08/1818",
+    "marriage_year": "1818"
+   },
+   {
+    "name": "SUSANNA CHRISTINA ELIZABETH BARENDINA",
+    "surname": "DURAND",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|115",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Strydom, Hendrik Barend Josephus",
+  "census_head_role": "male",
+  "census_spouse": "Van Wyk, Geertruy",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Strydom, Johannes",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Strydom, Frederik Jacobus",
+    "census_spouse": "Labuschagne, Johanna Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Strydom, Petrus Johannes",
+    "census_spouse": "Lambert, Johanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Andris Stephanus",
+    "census_spouse": "Dupree, Johanna Dorothea",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Wessel Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Matthys",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "944|4149"
+  ]
+ },
+ {
+  "pair_id": "945|9385",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1766",
+  "genealogy_id": "STRYDOMa1b4c6d3e6",
+  "surname": "STRYDOM",
+  "given_names": "COENRAAD JACOBUS STEPHANUS",
+  "birth_year": "1797.0",
+  "death_year": "1879",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JOHANNA WILHELMINA",
+    "surname": "SLABBERT",
+    "marriage_date": "23/03/1834",
+    "marriage_year": "1834"
+   },
+   {
+    "name": "WILHELMINA HENDRINA",
+    "surname": "WILLEMSE",
+    "marriage_date": "11/12/1840",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|560",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Strydom, Coenraad Jacobus Stephanus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Strydom, Petrus Johannes",
+    "census_spouse": "Lambert, Johanna",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Andris Stephanus",
+    "census_spouse": "Dupree, Johanna Dorothea",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Wessel Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Matthys",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Hercules",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Strydom, Matthys",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "945|9385"
+  ]
+ },
+ {
+  "pair_id": "946|373",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1769",
+  "genealogy_id": "SWANEPOELa1b3c3d2",
+  "surname": "SWANEPOEL",
+  "given_names": "PIETER ANDRIES",
+  "birth_year": "1776.0",
+  "death_year": null,
+  "declared_district": "WORCESTER",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "MALAN",
+    "marriage_date": "15/02/1801",
+    "marriage_year": "1801"
+   },
+   {
+    "name": "CORNELIA ZACHARIA",
+    "surname": "VAN EMMENIS",
+    "marriage_date": "03/09/1814",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|201",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Pieter Andries",
+  "census_head_role": "male",
+  "census_spouse": "Van Emmenes, Cornelia Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Jan's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Rudolph",
+    "census_spouse": "Van Eck, Johanna Adriana",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Johannes Henricus",
+    "census_spouse": "Brand, Anna Maria Elsje",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Hans Jacob Rudolph",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Petrus Jacobus",
+    "census_spouse": "Van Heerden, Louisa Johanna",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Daniel Johannes",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Daniel Johannes",
+    "census_spouse": "Buitendag, Johanna Wilhelmina",
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "946|373"
+  ]
+ },
+ {
+  "pair_id": "946|7607",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1769",
+  "genealogy_id": "SWANEPOELa1b3c3d2",
+  "surname": "SWANEPOEL",
+  "given_names": "PIETER ANDRIES",
+  "birth_year": "1776.0",
+  "death_year": null,
+  "declared_district": "WORCESTER",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "MALAN",
+    "marriage_date": "15/02/1801",
+    "marriage_year": "1801"
+   },
+   {
+    "name": "CORNELIA ZACHARIA",
+    "surname": "VAN EMMENIS",
+    "marriage_date": "03/09/1814",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|761",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Pieter Andries",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Rudolph",
+    "census_spouse": "Van Eck, Johanna Adriana",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Johannes Henricus",
+    "census_spouse": "Brand, Anna Maria Elsje",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Hans Jacob Rudolph",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Petrus Jacobus",
+    "census_spouse": "Van Heerden, Louisa Johanna",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Daniel Johannes",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Daniel Johannes",
+    "census_spouse": "Buitendag, Johanna Wilhelmina",
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "946|7607"
+  ]
+ },
+ {
+  "pair_id": "946|9586",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1769",
+  "genealogy_id": "SWANEPOELa1b3c3d2",
+  "surname": "SWANEPOEL",
+  "given_names": "PIETER ANDRIES",
+  "birth_year": "1776.0",
+  "death_year": null,
+  "declared_district": "WORCESTER",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "MALAN",
+    "marriage_date": "15/02/1801",
+    "marriage_year": "1801"
+   },
+   {
+    "name": "CORNELIA ZACHARIA",
+    "surname": "VAN EMMENIS",
+    "marriage_date": "03/09/1814",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|775",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Pieter Andries",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Rudolph",
+    "census_spouse": "Van Eck, Johanna Adriana",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Johannes Henricus",
+    "census_spouse": "Brand, Anna Maria Elsje",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Hans Jacob Rudolph",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Petrus Jacobus",
+    "census_spouse": "Van Heerden, Louisa Johanna",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Daniel Johannes",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Swanepoel, Daniel Johannes",
+    "census_spouse": "Buitendag, Johanna Wilhelmina",
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "946|9586"
+  ]
+ },
+ {
+  "pair_id": "947|4749",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1774",
+  "genealogy_id": "SWANEPOELa1b3c6d12",
+  "surname": "SWANEPOEL",
+  "given_names": "WILLEM ABRAHAM",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HESTER CATHARINA",
+    "surname": "VENTER",
+    "marriage_date": "02/06/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|717",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Willem Adriaan",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Hester Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Christiaan",
+    "census_spouse": "Swanepoel, Maria Isabella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Dirk Jacobus",
+    "census_spouse": "Swanepoel, Susanna Catharina Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Christiaan Hendrik",
+    "census_spouse": "Van Tonder, Hester Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Hendrik Frederik",
+    "census_spouse": "v. Tonder, Hendrina Petronella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Abraham Christiaan",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Jacobus",
+    "census_spouse": "v. Tonder, Johanna Catharina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "947|4749"
+  ]
+ },
+ {
+  "pair_id": "948|4902",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1776",
+  "genealogy_id": "SWANEPOELa1b3c7",
+  "surname": "SWANEPOEL",
+  "given_names": "WILLEM BAREND",
+  "birth_year": "1758.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ANNA",
+    "surname": "FOURIE",
+    "marriage_date": "19/12/1790",
+    "marriage_year": "1790"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|871",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Willem Barend",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Christiaan",
+    "census_spouse": "Swanepoel, Maria Isabella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Dirk Jacobus",
+    "census_spouse": "Swanepoel, Susanna Catharina Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Christiaan Hendrik",
+    "census_spouse": "Van Tonder, Hester Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Hendrik Frederik",
+    "census_spouse": "v. Tonder, Hendrina Petronella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Abraham Christiaan",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Jacobus",
+    "census_spouse": "v. Tonder, Johanna Catharina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "948|4902"
+  ]
+ },
+ {
+  "pair_id": "949|624",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1777",
+  "genealogy_id": "SWANEPOELa1b3c8d6",
+  "surname": "SWANEPOEL",
+  "given_names": "ABRAHAM CHRISTOFFEL JOHANNES",
+  "birth_year": "1804.0",
+  "death_year": "1894",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "SARA JOHANNA SUSANNA",
+    "surname": "JANSEN VAN VUUREN",
+    "marriage_date": "07/01/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|484",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Abraham Christoffel",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Pieter Andries",
+    "census_spouse": "Van Emmenes, Cornelia Susanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Swanepoel, Jan",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Swanepoel, Johannes Jacobus",
+    "census_spouse": "Loots, Elizabeth Maria Susanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Swanepoel, Fredrik Hendrik",
+    "census_spouse": "Lien, Johanna Adriana",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Swanepoel, Fredrik Hendrik",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Swanepoel, Pieter Andries",
+    "census_spouse": "Erasmus, Catharina Magdalena",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "949|624"
+  ]
+ },
+ {
+  "pair_id": "950|4341",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1778",
+  "genealogy_id": "SWANEPOELa1b6c5d2",
+  "surname": "SWANEPOEL",
+  "given_names": "JACOBUS (ROOI KOOS)",
+  "birth_year": "1786.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "VAN TONDER",
+    "marriage_date": "27/12/1807",
+    "marriage_year": "1807"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|308",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "v. Tonder, Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Christiaan",
+    "census_spouse": "Swanepoel, Maria Isabella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Dirk Jacobus",
+    "census_spouse": "Swanepoel, Susanna Catharina Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Christiaan Hendrik",
+    "census_spouse": "Van Tonder, Hester Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Hendrik Frederik",
+    "census_spouse": "v. Tonder, Hendrina Petronella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Abraham Christiaan",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Andries Johannes",
+    "census_spouse": "Venter, Heiltje Johanna",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "950|4341"
+  ]
+ },
+ {
+  "pair_id": "951|808",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1779",
+  "genealogy_id": "SWANEPOELa1b6c5d2e2",
+  "surname": "SWANEPOEL",
+  "given_names": "CHRISTIAAN HENDERIK",
+  "birth_year": "1808.0",
+  "death_year": "1880",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA",
+    "surname": "SWANEPOEL",
+    "marriage_date": "16/07/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|691",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Christiaan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Jacobus",
+    "census_spouse": "De Koker, Martha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Swanepoel, Andries Johannes",
+    "census_spouse": "Venter, Heilletje Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swanepoel, Christiaan",
+    "census_spouse": "Swanepoel, Maria Isabella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Dirk Jacobus",
+    "census_spouse": "Swanepoel, Susanna Catharina Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Christiaan Hendrik",
+    "census_spouse": "Van Tonder, Hester Maria",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Hendrik Frederik",
+    "census_spouse": "v. Tonder, Hendrina Petronella",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "951|808"
+  ]
+ },
+ {
+  "pair_id": "951|4337",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1779",
+  "genealogy_id": "SWANEPOELa1b6c5d2e2",
+  "surname": "SWANEPOEL",
+  "given_names": "CHRISTIAAN HENDERIK",
+  "birth_year": "1808.0",
+  "death_year": "1880",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA",
+    "surname": "SWANEPOEL",
+    "marriage_date": "16/07/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|304",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Christiaan Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Van Tonder, Hester Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Jacobus",
+    "census_spouse": "De Koker, Martha",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Swanepoel, Andries Johannes",
+    "census_spouse": "Venter, Heilletje Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swanepoel, Christiaan",
+    "census_spouse": "Swanepoel, Maria Isabella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Dirk Jacobus",
+    "census_spouse": "Swanepoel, Susanna Catharina Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Hendrik Frederik",
+    "census_spouse": "v. Tonder, Hendrina Petronella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swanepoel, Abraham Christiaan",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "951|4337"
+  ]
+ },
+ {
+  "pair_id": "954|4338",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1794",
+  "genealogy_id": "SWANEPOELa1b7c7d1",
+  "surname": "SWANEPOEL",
+  "given_names": "HENDRIK FREDERIK",
+  "birth_year": "1794.0",
+  "death_year": "1851",
+  "declared_district": "CRADOCK",
+  "spouses": [
+   {
+    "name": "HENDRINA PETRONELLA",
+    "surname": "VAN TONDER",
+    "marriage_date": "20/10/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|305",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Swanepoel, Hendrik Frederik",
+  "census_head_role": "male",
+  "census_spouse": "v. Tonder, Hendrina Petronella",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swanepoel, Andries Johannes",
+    "census_spouse": "Venter, Heilletje Johanna",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "954|4338"
+  ]
+ },
+ {
+  "pair_id": "955|2347",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1795",
+  "genealogy_id": "SWARTa1b2c3d5e13",
+  "surname": "SWART",
+  "given_names": "GERHARDUS JACOBUS",
+  "birth_year": "1804.0",
+  "death_year": "1880",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SUSANNA PETRONELLA",
+    "surname": "BREEDT",
+    "marriage_date": "05/12/1825",
+    "marriage_year": "1825"
+   },
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "KLOPPER",
+    "marriage_date": "05/12/1827",
+    "marriage_year": null
+   },
+   {
+    "name": null,
+    "surname": "LUBBE",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "12/07/1840",
+    "surname": "JOHANNA MAGDALENA",
+    "marriage_date": "PIETERMARITZBURG",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|959",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Swart, Gerhardus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacobus Nicolaas' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swart, Johannes Paulus",
+    "census_spouse": "Nel, Aletta Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swart, Jacobus Nicolaas",
+    "census_spouse": "Botha, Maria Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swart, Andries Johannes",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swart, Pieter",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swart, Johannes",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swarts, Johannes Carel Christiaan",
+    "census_spouse": "Minnaar, Elisabeth Wilhelmina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "955|2347"
+  ]
+ },
+ {
+  "pair_id": "955|8860",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1795",
+  "genealogy_id": "SWARTa1b2c3d5e13",
+  "surname": "SWART",
+  "given_names": "GERHARDUS JACOBUS",
+  "birth_year": "1804.0",
+  "death_year": "1880",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SUSANNA PETRONELLA",
+    "surname": "BREEDT",
+    "marriage_date": "05/12/1825",
+    "marriage_year": "1825"
+   },
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "KLOPPER",
+    "marriage_date": "05/12/1827",
+    "marriage_year": null
+   },
+   {
+    "name": null,
+    "surname": "LUBBE",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "12/07/1840",
+    "surname": "JOHANNA MAGDALENA",
+    "marriage_date": "PIETERMARITZBURG",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|3058",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Swart, Gerhardus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swart, Johannes Paulus",
+    "census_spouse": "Nel, Aletta Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swart, Jacobus Nicolaas",
+    "census_spouse": "Botha, Maria Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swart, Gerhardus Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Swart, Andries Johannes",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swart, Pieter",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Swart, Johannes",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "955|8860"
+  ]
+ },
+ {
+  "pair_id": "958|8351",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1799",
+  "genealogy_id": "SWARTa1b3c3d3e3",
+  "surname": "SWART",
+  "given_names": "JACOBUS NICOLAAS",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "SWART",
+    "marriage_date": "04/09/1808",
+    "marriage_year": "1808"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2097",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Swart, Jacobus Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": "Swart, Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Cilliers, Martha Magdalena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Petrus Gerhardus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Johannes Bernardus",
+    "census_spouse": "Matthee, Lovina Catharina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Matthee, Sara Johanna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Kleinsmith, Susanna Hermiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Swart, Maria",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "958|8351"
+  ]
+ },
+ {
+  "pair_id": "958|8379",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1799",
+  "genealogy_id": "SWARTa1b3c3d3e3",
+  "surname": "SWART",
+  "given_names": "JACOBUS NICOLAAS",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "SWART",
+    "marriage_date": "04/09/1808",
+    "marriage_year": "1808"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2155",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Swart, Jacobus Nicolaas Sr.",
+  "census_head_role": "male",
+  "census_spouse": "Moolman, Johanna Wilhelmina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Cilliers, Martha Magdalena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Petrus Gerhardus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Johannes Bernardus",
+    "census_spouse": "Matthee, Lovina Catharina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Matthee, Sara Johanna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Kleinsmith, Susanna Hermiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Swart, Maria",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "958|8379"
+  ]
+ },
+ {
+  "pair_id": "958|8456",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1799",
+  "genealogy_id": "SWARTa1b3c3d3e3",
+  "surname": "SWART",
+  "given_names": "JACOBUS NICOLAAS",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "SWART",
+    "marriage_date": "04/09/1808",
+    "marriage_year": "1808"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2302",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Swart, Jacobus Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Cilliers, Martha Magdalena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Petrus Gerhardus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Johannes Bernardus",
+    "census_spouse": "Matthee, Lovina Catharina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Matthee, Sara Johanna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Kleinsmith, Susanna Hermiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Swart, Maria",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "958|8456"
+  ]
+ },
+ {
+  "pair_id": "958|8593",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1799",
+  "genealogy_id": "SWARTa1b3c3d3e3",
+  "surname": "SWART",
+  "given_names": "JACOBUS NICOLAAS",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "SWART",
+    "marriage_date": "04/09/1808",
+    "marriage_year": "1808"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2557",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Swart, Jacobus Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Cilliers, Martha Magdalena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Petrus Gerhardus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Johannes Bernardus",
+    "census_spouse": "Matthee, Lovina Catharina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Matthee, Sara Johanna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Hendrik Albertus",
+    "census_spouse": "Kleinsmith, Susanna Hermiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Swart, Jacobus Johannes",
+    "census_spouse": "Swart, Maria",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "958|8593"
+  ]
+ },
+ {
+  "pair_id": "959|4456",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1806",
+  "genealogy_id": "THERONa1b4c7d1e4",
+  "surname": "THERON",
+  "given_names": "THOMAS FRANCOIS",
+  "birth_year": "1797.0",
+  "death_year": "1856",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MARTHA MAGDALENA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": "04/10/1819",
+    "marriage_year": "1819"
+   },
+   {
+    "name": "SUSANNA CATHARINA SOPHIA",
+    "surname": "LACOCK",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|423",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Theron, Thomas Francois",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Theron, Gabriel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Thomas Arnoldus",
+    "census_spouse": "Meyer, Louisa Jac.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, David Carel",
+    "census_spouse": "v. Heerden, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Petrus Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Jacobus Arnoldus",
+    "census_spouse": "Liebenberg, Elsje Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Petrus Carel",
+    "census_spouse": "Steenberg, Aletta Catharina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "959|4456"
+  ]
+ },
+ {
+  "pair_id": "960|4457",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1809",
+  "genealogy_id": "THERONa1b4c7d1e7",
+  "surname": "THERON",
+  "given_names": "JACOBUS ARNOLDUS",
+  "birth_year": "1802.0",
+  "death_year": "1873",
+  "declared_district": "COLEBERG",
+  "spouses": [
+   {
+    "name": "JACOBA WILHELMINA",
+    "surname": "PRETORIUS",
+    "marriage_date": "26/12/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "ELSABE MAGDALENA",
+    "surname": "LIEBENBERG",
+    "marriage_date": "07/08/1825",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|424",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Theron, Jacobus Arnoldus",
+  "census_head_role": "male",
+  "census_spouse": "Liebenberg, Elsje Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Theron, Gabriel Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Thomas Arnoldus",
+    "census_spouse": "Meyer, Louisa Jac.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, David Carel",
+    "census_spouse": "v. Heerden, Martha Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Petrus Lodewyk",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Thomas Francois",
+    "census_spouse": "v. d. Merwe, Martha Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Theron, Petrus Carel",
+    "census_spouse": "Steenberg, Aletta Catharina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "960|4457"
+  ]
+ },
+ {
+  "pair_id": "961|1982",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1810",
+  "genealogy_id": "THEUNISSENa1b1",
+  "surname": "THEUNISSEN",
+  "given_names": "NICOLAAS JACOBUS",
+  "birth_year": "1796.0",
+  "death_year": "1851",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA HELENA",
+    "surname": "DU PLESSIS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ALETTA",
+    "surname": "RIEKERT",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "CATHARINA SUSANNA",
+    "surname": "HATTINGH",
+    "marriage_date": "04/08/1816",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|551",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Theunis, Nicolaas Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Hatting, Catharina Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Jan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Theunis, Theunis Godlieb",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Theunis, Jasper Johannes",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "961|1982"
+  ]
+ },
+ {
+  "pair_id": "964|9232",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1820",
+  "genealogy_id": "UYSa1B1C5D2",
+  "surname": "UYS",
+  "given_names": "JACOBUS JOHANNES",
+  "birth_year": "1770.0",
+  "death_year": "1838",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "SUSANNA MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "10/03/1793",
+    "marriage_year": "1793"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|394",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Uys, Jacobus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Moolman, Susanna Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "964|9232"
+  ]
+ },
+ {
+  "pair_id": "965|8103",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1824",
+  "genealogy_id": "UYSa1B1C5D2E2",
+  "surname": "UYS",
+  "given_names": "CORNELIS JANSE",
+  "birth_year": "1796.0",
+  "death_year": "1872",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JUDITH MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "04/10/1834",
+    "marriage_year": "1834"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|1670",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Cornelius Janse",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "965|8103"
+  ]
+ },
+ {
+  "pair_id": "965|8322",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1824",
+  "genealogy_id": "UYSa1B1C5D2E2",
+  "surname": "UYS",
+  "given_names": "CORNELIS JANSE",
+  "birth_year": "1796.0",
+  "death_year": "1872",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JUDITH MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "04/10/1834",
+    "marriage_year": "1834"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2043",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Cornelius Janse",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "965|8322"
+  ]
+ },
+ {
+  "pair_id": "965|8365",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1824",
+  "genealogy_id": "UYSa1B1C5D2E2",
+  "surname": "UYS",
+  "given_names": "CORNELIS JANSE",
+  "birth_year": "1796.0",
+  "death_year": "1872",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JUDITH MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "04/10/1834",
+    "marriage_year": "1834"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2124",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Cornelius Janse",
+  "census_head_role": "male",
+  "census_spouse": "Gildenhuis, Sara Johanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "965|8365"
+  ]
+ },
+ {
+  "pair_id": "965|8367",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1824",
+  "genealogy_id": "UYSa1B1C5D2E2",
+  "surname": "UYS",
+  "given_names": "CORNELIS JANSE",
+  "birth_year": "1796.0",
+  "death_year": "1872",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JUDITH MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "04/10/1834",
+    "marriage_year": "1834"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2128",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Cornelius Janse",
+  "census_head_role": "male",
+  "census_spouse": "Laurens, Diena Louisa",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "965|8367"
+  ]
+ },
+ {
+  "pair_id": "965|8459",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1824",
+  "genealogy_id": "UYSa1B1C5D2E2",
+  "surname": "UYS",
+  "given_names": "CORNELIS JANSE",
+  "birth_year": "1796.0",
+  "death_year": "1872",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JUDITH MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "04/10/1834",
+    "marriage_year": "1834"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2309",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Cornelius Janse",
+  "census_head_role": "male",
+  "census_spouse": "Human, Cornelia Geertruyda",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "965|8459"
+  ]
+ },
+ {
+  "pair_id": "965|9233",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1824",
+  "genealogy_id": "UYSa1B1C5D2E2",
+  "surname": "UYS",
+  "given_names": "CORNELIS JANSE",
+  "birth_year": "1796.0",
+  "death_year": "1872",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "JUDITH MARGARETHA",
+    "surname": "MOOLMAN",
+    "marriage_date": "04/10/1834",
+    "marriage_year": "1834"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|395",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Uys, Cornelis Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Jacob's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "965|9233"
+  ]
+ },
+ {
+  "pair_id": "966|8371",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1825",
+  "genealogy_id": "UYSa1B1C5D2E3",
+  "surname": "UYS",
+  "given_names": "PERTUS LAFRAS",
+  "birth_year": "1797.0",
+  "death_year": "1838",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ALIDA MARIA",
+    "surname": "UYS",
+    "marriage_date": "10/09/1815",
+    "marriage_year": "1815"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2135",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Petrus Lafras",
+  "census_head_role": "male",
+  "census_spouse": "Uys, Alida Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Human, Geertruyda",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "966|8371"
+  ]
+ },
+ {
+  "pair_id": "967|9234",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1828",
+  "genealogy_id": "UYSa1B1C5D2E4",
+  "surname": "UYS",
+  "given_names": "JACOBUS JOHANNES",
+  "birth_year": "1800.0",
+  "death_year": "1871",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "GEERTRUIDA JOHANNA",
+    "surname": "HUMAN",
+    "marriage_date": "29/03/1823",
+    "marriage_year": "1823"
+   },
+   {
+    "name": "MARIA MAGRIETHA ELIZABETH",
+    "surname": "PRINSLOO",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|396",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Uys, Jacobus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Human, Geertruyda",
+  "census_widow_of": null,
+  "census_annotation": "Junior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Jacobus Johannes",
+    "census_spouse": "Moolman, Susanna Margaretha",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Uys, Cornelis Johannes",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "967|9234"
+  ]
+ },
+ {
+  "pair_id": "968|5612",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1829",
+  "genealogy_id": "UYSa1B1C5D6",
+  "surname": "UYS",
+  "given_names": "JOHANNES GERHARDUS",
+  "birth_year": "1779.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Stellenbosch 1825|71",
+  "census_district": "Stellenbosch",
+  "census_year": 1825,
+  "census_head_name": "Uys, Johannes Gerhardus",
+  "census_head_role": "male",
+  "census_spouse": "Fick, Elisabeth Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Petrus Johannes",
+    "census_spouse": "Van Eeden, Cornelia Margrietha",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Dirk Cornelius",
+    "census_spouse": "Crous, Barbera Johanna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Matthys Johannes",
+    "census_spouse": "Moolman, Judith Magdalena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Cornelius Janse",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Barend Petrus",
+    "census_spouse": "Laurens, Margaretha Elisabeth",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Johannes Gerhardus Sr.",
+    "census_spouse": "Swart, Elsabe Hendrina",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "968|5612"
+  ]
+ },
+ {
+  "pair_id": "968|8321",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1829",
+  "genealogy_id": "UYSa1B1C5D6",
+  "surname": "UYS",
+  "given_names": "JOHANNES GERHARDUS",
+  "birth_year": "1779.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|2041",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Uys, Johannes Gerhardus Sr.",
+  "census_head_role": "male",
+  "census_spouse": "Swart, Elsabe Hendrina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Uys, Petrus Johannes",
+    "census_spouse": "Van Eeden, Cornelia Margrietha",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Dirk Cornelius",
+    "census_spouse": "Crous, Barbera Johanna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Matthys Johannes",
+    "census_spouse": "Moolman, Judith Magdalena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Cornelius Janse",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Barend Petrus",
+    "census_spouse": "Laurens, Margaretha Elisabeth",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Uys, Cornelius Janse",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "968|8321"
+  ]
+ },
+ {
+  "pair_id": "971|6892",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1833",
+  "genealogy_id": "VAN AARDEA2B1C15D3",
+  "surname": "VAN AARDE",
+  "given_names": "ABRAHAM MATTHYS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "WORCESTER",
+  "spouses": [
+   {
+    "name": "SUSANNA M",
+    "surname": "LE ROUX",
+    "marriage_date": "06/05/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "MARGARETHA ALETTA",
+    "surname": "OLIVIER",
+    "marriage_date": "25/04/1830",
+    "marriage_year": null
+   },
+   {
+    "name": "JOHANNA MARIA",
+    "surname": "HARMSE",
+    "marriage_date": "13/05/1853",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Stellenbosch 1825|1752",
+  "census_district": "Stellenbosch",
+  "census_year": 1825,
+  "census_head_name": "Van Aarde, Abraham Matthys",
+  "census_head_role": "male",
+  "census_spouse": "Le Roux, Susanna Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van Heerden, Roelof",
+    "census_spouse": "Janse van Rensburg, Susanna Sophia",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Van Heerden, Isaak",
+    "census_spouse": "Hugo, Aletta Elsje",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Van Heerden, Lambertus Albertus",
+    "census_spouse": "De Bruin, Hermina Johanna",
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "971|6892"
+  ]
+ },
+ {
+  "pair_id": "972|4630",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1836",
+  "genealogy_id": "VAN ASWEGENa1B1C5D7",
+  "surname": "VAN ASWEGEN",
+  "given_names": "IZAK GERRIT",
+  "birth_year": "1803.0",
+  "death_year": "1859",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ANTJIE CHRISTINA",
+    "surname": "DU TOIT",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "HENDRINA CHRISTINA",
+    "surname": "BESTER",
+    "marriage_date": "04/05/1823",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|598",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. Aswegen, Isaac Gerhardus",
+  "census_head_role": "male",
+  "census_spouse": "Bester, Hendrina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "van Aswegen, Hendrik Abraham",
+    "census_spouse": "Fourie, Aletta Cornelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Van Asweegen, Johannes",
+    "census_spouse": "Bisschoff, Christina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Asweegen, Carel Hendrik",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Asweegen, Hendrik Jonathan",
+    "census_spouse": "Viljoen, Cornelia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Aswegen, Johannes Gerhardus",
+    "census_spouse": "Burger, Hester Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Aswegen, Willem",
+    "census_spouse": "Du Toit, Magdalena Maryna",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "972|4630"
+  ]
+ },
+ {
+  "pair_id": "973|2425",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1837",
+  "genealogy_id": "VAN ASWEGENa1B2C4",
+  "surname": "VAN ASWEGEN",
+  "given_names": "HENDRIK ABRAHAM",
+  "birth_year": "1805.0",
+  "death_year": "1855",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ALETTA CATHARINA",
+    "surname": "FOURIE",
+    "marriage_date": "06/01/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "ERASMUS",
+    "marriage_date": "04/04/1830",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|1045",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "van Aswegen, Hendrik Abraham",
+  "census_head_role": "male",
+  "census_spouse": "Fourie, Aletta Cornelia",
+  "census_widow_of": null,
+  "census_annotation": "Hendrik's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van Asweegen, Johannes",
+    "census_spouse": "Bisschoff, Christina Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Asweegen, Carel Hendrik",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Asweegen, Hendrik Jonathan",
+    "census_spouse": "Viljoen, Cornelia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Aswegen, Isaac Gerhardus",
+    "census_spouse": "Bester, Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Aswegen, Johannes Gerhardus",
+    "census_spouse": "Burger, Hester Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "v. Aswegen, Willem",
+    "census_spouse": "Du Toit, Magdalena Maryna",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "973|2425"
+  ]
+ },
+ {
+  "pair_id": "975|4629",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1840",
+  "genealogy_id": "VAN BILJONa1b2c6d7",
+  "surname": "VAN BILJON",
+  "given_names": "FREDERIK JOHANNES",
+  "birth_year": "1802.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARTHA JACOMINA",
+    "surname": "VISAGIE",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARTHA SUSANNA",
+    "surname": "LIEBENBERG",
+    "marriage_date": "28/01/1838",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|597",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. Biljoen, Fredrik Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Visagie, Martha Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van Biljoen, Willem Johannes",
+    "census_spouse": "Botha, Johanna Willemina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Biljoen, Petrus",
+    "census_spouse": "Vorster, Maartje Jac. Alletta",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Biljoen, Bernardus Jacobus",
+    "census_spouse": "Grobler, Magtel Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Biljoen, Petrus",
+    "census_spouse": "v. d. Vyver, Christina Geertruida",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Byljon, Ernst Hendrik",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Van Blerck, Petrus Jacobus",
+    "census_spouse": "Joubert, Maria Susanna",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "975|4629"
+  ]
+ },
+ {
+  "pair_id": "977|7686",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1843",
+  "genealogy_id": "VAN COLLERa1b2c1d1",
+  "surname": "VAN COLLER",
+  "given_names": "JOHANNES DANIëL",
+  "birth_year": "1800.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "MARIA MARTHINA",
+    "surname": "DE LA REY",
+    "marriage_date": "06/09/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|914",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Van Coller, Jan Daniel",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van Zyl, Frederik Jacobus",
+    "census_spouse": "Steyn, Johanna Wilhelmina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Jacobus Albertus",
+    "census_spouse": "Human, Johanna S.",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Johannes Wilhelmus",
+    "census_spouse": "Van Eeden, Hester S.",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Petrus Arnoldus",
+    "census_spouse": "Neethling, Johanna Christiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Jacobus Albertus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Gideon",
+    "census_spouse": "Wolfaart, Regiena Barbera",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "977|7686"
+  ]
+ },
+ {
+  "pair_id": "978|7685",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1844",
+  "genealogy_id": "VAN COLLERa1b2c2d?",
+  "surname": "VAN COLLER",
+  "given_names": "ADOLPH JOHANNES",
+  "birth_year": null,
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "MARGARETHA",
+    "surname": "VAN COLLER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|912",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Van Coller, Adolph Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Slabbert, M. S.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van Zyl, Frederik Jacobus",
+    "census_spouse": "Steyn, Johanna Wilhelmina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Jacobus Albertus",
+    "census_spouse": "Human, Johanna S.",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Johannes Wilhelmus",
+    "census_spouse": "Van Eeden, Hester S.",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Petrus Arnoldus",
+    "census_spouse": "Neethling, Johanna Christiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Jacobus Albertus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Gideon",
+    "census_spouse": "Wolfaart, Regiena Barbera",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "978|7685"
+  ]
+ },
+ {
+  "pair_id": "980|8275",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1847",
+  "genealogy_id": "VAN COLLERa1b2c4",
+  "surname": "VAN COLLER",
+  "given_names": "JOHANNES DANIëL SR.",
+  "birth_year": "1783.0",
+  "death_year": "1863",
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "SUSANNA MARIA",
+    "surname": "SPIES",
+    "marriage_date": "10/1812",
+    "marriage_year": "1812"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|1963",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Van Coller, Jan Daniel",
+  "census_head_role": "male",
+  "census_spouse": "Spies, Susanna M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van Zyl, Frederik Jacobus",
+    "census_spouse": "Steyn, Johanna Wilhelmina",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Jacobus Albertus",
+    "census_spouse": "Human, Johanna S.",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Johannes Wilhelmus",
+    "census_spouse": "Van Eeden, Hester S.",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Petrus Arnoldus",
+    "census_spouse": "Neethling, Johanna Christiena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Jacobus Albertus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Van Zyl, Gideon",
+    "census_spouse": "Wolfaart, Regiena Barbera",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "980|8275"
+  ]
+ }
+]

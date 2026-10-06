@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "993|4342",
+  "verdict": "REJECT",
+  "reason": "Name matches exactly (Johannes Lodevicus/Lodewicus), but the census wife Martha Sophia v. d. Merwe clearly differs from Aletta Cornelia Viljoen, married 1816, and no remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|4342",
+  "verdict": "REJECT",
+  "reason": "Given names Pieter Willem are incompatible with census head Johannes Lodewicus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|4342",
+  "verdict": "REJECT",
+  "reason": "Given names Cornelis Johannes are incompatible with Johannes Lodewicus, and he was only about 17 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4342",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan (Johannes) Lodewyk matches Johannes Lodewicus and is about 21 in 1825. His first marriage (Martha Magdalena Pretorius, Dec 1825) likely postdates the census, so the census wife Martha Sophia v. d. Merwe cannot confirm or contradict; namesake 993 is a competitor.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4342",
+  "verdict": "REJECT",
+  "reason": "Francois Arnoldus is incompatible with Johannes Lodewicus. The census wife v. d. Merwe also differs from Christina Cornelia Koch, married 1819.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4342",
+  "verdict": "REJECT",
+  "reason": "Middle name Petrus conflicts with census Lodewicus. His wife Martha Sophia Eloff married in 1836, so the matching forenames cannot corroborate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4342",
+  "verdict": "REJECT",
+  "reason": "Middle name Stephanus conflicts with census Lodewicus. Marriage to Griesel is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4352",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus is incompatible with Andries Petrus. The census wife v. Heerden also differs from Viljoen, married 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4352",
+  "verdict": "REJECT",
+  "reason": "David Schalk is incompatible with Andries Petrus. The census head v. d. Merwe, David Schalk with wife Weideman fits him exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "1014|4352",
+  "verdict": "REJECT",
+  "reason": "Francois Arnoldus is incompatible with Andries Petrus. The census wife v. Heerden also differs from Koch, married 1819.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4352",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus is incompatible with Andries Petrus. His marriage in 1836 is after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4352",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus is incompatible with Andries Petrus. Marriage to Griesel is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4402",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus is incompatible with David Schalk. The census wife Weideman also differs from Viljoen, married 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4402",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match (David Schalk), age about 26, same district, and census wife Johanna Catharina Weideman matches his first spouse exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|4402",
+  "verdict": "REJECT",
+  "reason": "Willem Carel is incompatible with David Schalk. The census head v. d. Merwe, Willem Carel with wife Combrink fits him exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "v. d. Merwe, Willem Carel"
+ },
+ {
+  "pair_id": "1001|4402",
+  "verdict": "REJECT",
+  "reason": "Diedelof Jacobus is incompatible with David Schalk. Marriage to Robberts is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4787",
+  "verdict": "REJECT",
+  "reason": "Middle name Lodevicus conflicts with census Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4787",
+  "verdict": "REJECT",
+  "reason": "David Schalk is incompatible with Johannes Jacobus. The census head v. d. Merwe, David Schalk with wife Weideman fits him exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "999|4787",
+  "verdict": "REJECT",
+  "reason": "Theunis Jacobus is incompatible with Johannes Jacobus (different first name).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4787",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Johannes Rudolph could be a reordering of Johannes Jacobus. He was about 18, his marriage is undated, and he is declared for Somerset, so the evidence is weak.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|4787",
+  "verdict": "REJECT",
+  "reason": "Cornelis Johannes is incompatible with Johannes Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4787",
+  "verdict": "REJECT",
+  "reason": "Francois Arnoldus is incompatible with Johannes Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4787",
+  "verdict": "REJECT",
+  "reason": "Middle name Petrus conflicts with census Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4787",
+  "verdict": "REJECT",
+  "reason": "Middle name Stephanus conflicts with census Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|5002",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus is incompatible with Barend Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|5002",
+  "verdict": "REJECT",
+  "reason": "David Schalk is incompatible with Barend Jacobus. The census head v. d. Merwe, David Schalk with wife Weideman fits him exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "997|5002",
+  "verdict": "REJECT",
+  "reason": "The name is compatible, but this head has no wife, whereas the census head v. d. Merwe, Barend with wife Elsje Pienaar matches his 1823 marriage exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "994|4101",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match (Schalk Willem), age about 29, same district. The census wife Liebenberg differs from Hendrina Johanna v. d. Merwe, but that marriage is undated and could be a later or earlier marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "994|4584",
+  "verdict": "REJECT",
+  "reason": "Schalk Willem is incompatible with Carel Erasmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4584",
+  "verdict": "REJECT",
+  "reason": "Barend is incompatible with Carel Erasmus. The census wife Meyburg also differs from Pienaar, married 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "996|4407",
+  "verdict": "REJECT",
+  "reason": "David Schalk is incompatible with Barend Johannes Lodewicus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "997|4407",
+  "verdict": "REJECT",
+  "reason": "The name is compatible, but this head has no wife, whereas the census head v. d. Merwe, Barend with wife Elsje Pienaar matches his 1823 marriage exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "996|4995",
+  "verdict": "REJECT",
+  "reason": "David Schalk is incompatible with Willem Paulus Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "997|4365",
+  "verdict": "ACCEPT",
+  "reason": "Name Barend matches, and census wife Elsje Pienaar is Elsie Louisa Pienaar, married 1823, before the census; same district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4366",
+  "verdict": "REJECT",
+  "reason": "The census wife Anna Elisabeth De Clercq clearly differs from Elsie Louisa Pienaar, married 1823. The Barend/Pienaar household fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "997|4405",
+  "verdict": "REJECT",
+  "reason": "Barend is incompatible with Daniel Pieter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "1017|4405",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus is incompatible with Daniel Pieter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4803",
+  "verdict": "REJECT",
+  "reason": "Barend is incompatible with Pieter. The census wife Du Toit also differs from Pienaar, married 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "997|4993",
+  "verdict": "REJECT",
+  "reason": "The census wife Wilhelmina Petronella v. Nieukerk clearly differs from Elsie Louisa Pienaar, married 1823. The Barend/Pienaar household fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "998|4358",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match (Willem Carel), same district, and census wife Combrink, D. M. M. matches Dorothea Martha Maria Combrink by surname and initials.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "1163|9150",
+  "verdict": "REJECT",
+  "reason": "Census wife Potgieter, Jacomina Alletta clearly differs from his only listed spouse, Johanna Salomina Pienaar, whom he married in 1822, before the census year. No remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1167|9150",
+  "verdict": "UNCERTAIN",
+  "reason": "His only marriage (van Rooyen) was in 1826, so it cannot be compared, but this head already had a wife (Potgieter) in 1825. The 'Salomon's son' Jacobus Stephanus Vermaak (no wife) fits better, because the genealogy places this man as a son of Salomon Vermaak.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Vermaak, Jacobus Stephanus"
+ },
+ {
+  "pair_id": "1163|9310",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but this head is annotated 'Senior', which is unlikely for a man aged about 22. No wife is recorded although he had married Pienaar in 1822.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1167|9310",
+  "verdict": "UNCERTAIN",
+  "reason": "A 'Senior' head is unlikely for a man aged about 20. The 'Salomon's son' Jacobus Stephanus Vermaak matches his genealogical parentage better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Vermaak, Jacobus Stephanus"
+ },
+ {
+  "pair_id": "1163|9753",
+  "verdict": "REJECT",
+  "reason": "The annotation 'Salomon's son' conflicts with this man's genealogical line, which descends from a different parent than Salomon. The competing man 1167, a son of Salomon, fits this head. This head also has no wife although 1163 married in 1822.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1167|9753",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the annotation 'Salomon's son' agrees with the genealogy, which places him as a son of Salomon Vermaak (b.1782, Uitenhage). Having no wife in 1825 is consistent with his first marriage in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1166|9733",
+  "verdict": "ACCEPT",
+  "reason": "The name matches and the census wife Janze van Vuuren, Anna Jacoba matches his spouse married in 1804. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1167|9309",
+  "verdict": "REJECT",
+  "reason": "The annotation 'Jacobus' son' conflicts with the genealogy, which makes him a son of Salomon. This head also had a wife (Potgieter) in 1825 although his only marriage was in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Vermaak, Jacobus Stephanus"
+ },
+ {
+  "pair_id": "1168|9754",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly in the same district, and no competing pair exists. He would be about 18 and unmarried, which is plausible for an enrolled young head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1170|9311",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife Strydom, Magdalena Josina matches his second spouse married in 1822.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1171|9650",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name matches exactly in the same district. Having no wife in 1825 is consistent with widowhood between his 1808 marriage and his 1826 remarriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1172|9622",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife Dekker, Maria Francina matches his spouse married in 1821.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1173|9652",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name matches exactly in the same district. No wife is named, which is plausible given his several marriages and possible widowhood. There is no contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1174|7358",
+  "verdict": "UNCERTAIN",
+  "reason": "'Vermaas, Hendrik' is only a partial name. Another Swellendam head carries his full name, Hendrik Cornelius Wilhelm Vermaas, and fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Vermaas, Hendrik Cornelius Wilhelm"
+ },
+ {
+  "pair_id": "1174|8347",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches (Cornelis/Cornelius, Whilhelmus/Wilhelm) in the same district. Having no wife is consistent with his 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1175|5284",
+  "verdict": "ACCEPT",
+  "reason": "Sarel (Carel) Johannes matches Carel Johannes, and Colesberg was then part of Graaff-Reinet. Having no wife is consistent with his 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1176|5179",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife Pretorius, Catharina Geertruida M. matches his spouse married in 1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1179|4665",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but no wife is listed although he married Kruger in 1818. Another head, Johannes Hercules Viljoen with wife Kruger, Johanna Elisabeth, fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Viljoen, Johannes Hercules"
+ },
+ {
+  "pair_id": "1179|5259",
+  "verdict": "REJECT",
+  "reason": "The census given name Hermanus differs from Hercules. Another head with the correct name and his wife Kruger exists.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Viljoen, Johannes Hercules"
+ },
+ {
+  "pair_id": "1179|5326",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife Kruger, Johanna Elisabeth matches his spouse married in 1818.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1180|5223",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but 1181, another Albertus Johannes Viljoen born in 1805, is equally plausible for this head. Both married after 1825, so there is no wife evidence to separate them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|5223",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but 1180, another Albertus Johannes Viljoen born in 1806, is equally plausible for this head. Both married after 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1182|1644",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name matches in Cradock, the predecessor of Somerset. He would be about 18 and unmarried, and there is no contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1183|2156",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife Greyling, Jacomina Hendrina matches his first spouse. The genealogy's 1797 marriage date is evidently erroneous, but the wife match is strong.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1184|2157",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife van Deventer, Catharina matches his spouse Elizabeth Catharina van Deventer married in 1820. The annotation 'Willem Wouter's zoon' agrees with his genealogical line.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1187|5310",
+  "verdict": "UNCERTAIN",
+  "reason": "'Viljoen, Jan' is a very common name with no middle name or wife to corroborate. His marriage in 1826 can neither confirm nor contradict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1190|5197",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife Viljoen, Johanna Susanna matches his spouse married in 1821.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1191|9478",
+  "verdict": "ACCEPT",
+  "reason": "Hendricus/Hendrik is a normal variant, and the census wife Strydom, Maria Elisabeth matches his spouse exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1192|4292",
+  "verdict": "REJECT",
+  "reason": "The census wife Booyzen, Aletta clearly differs from his spouse Elizabeth Maria Janse van Vuuren, married in 1810. Another Christoffel Viljoen has the matching wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Viljoen, Christoffel"
+ },
+ {
+  "pair_id": "1192|9600",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Janze van Vuuren, Elisabeth Maria matches his spouse married in 1810. The 'Jan's son' annotation is consistent with his siblings' entries, and the Uitenhage/Graaff-Reinet district difference is minor.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1193|9605",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife's given names Hendrina Maria match his spouse. Her surname appears as Viljoen, probably a recording under her married name. 'Jan's son' is consistent with his siblings.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|9603",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and 'Jan's son; enrolled' is consistent with his siblings' entries. His marriage in May 1825 falls in the census year, so having no wife listed is not a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1199|1306",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus D. matches Marthinus David, and the census wife Ras, Christina matches his spouse married in 1821. The Clanwilliam/Worcester difference is minor.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1202|4489",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly in the same district. He would be about 18 and unmarried, which is consistent with his 1827 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1205|4779",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name matches exactly in the same district, and his age is plausible. No spouse is known.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1207|1695",
+  "verdict": "ACCEPT",
+  "reason": "Gert is a form of Gerrit, and the census wife de Beer, Cornelia Johanna matches his spouse. 'Senior' fits his age, about 55.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1208|2174",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and the wife (Botha, Anna / Anna Barbara Botha, married 1821) match strongly. However, the annotation 'Piet's zoon' conflicts with the genealogy, which makes him a son of Gerrit Vosloo.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1209|567",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife Jacobs, Magtel Susanna matches his spouse married in 1821. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1210|8544",
+  "verdict": "ACCEPT",
+  "reason": "Jan/Johan David is a normal variant, and the census wife Hamman, Elisabeth Johanna matches his spouse married in 1817. The district difference does not outweigh the wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1211|9192",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and the census wife Human, Catharina Elisabeth matches his spouse married in 1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

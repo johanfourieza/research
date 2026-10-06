@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "196|1757",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Carel/Charel is a compatible name variation, and Aletta Catharina Botha matches the wife married in 1810. Somerset and Cradock are geographically consistent for 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1782",
+  "verdict": "REJECT",
+  "reason": "Anna Hatting differs from both listed wives, including Johanna Petronella Prinsloo, whose marriage_date establishes marriage in 1821. The matching first name and older-generation annotation do not resolve this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "198|1782",
+  "verdict": "UNCERTAIN",
+  "reason": "The man was about 16 in 1823, making the annotation 'de Oude' a poor fit, although it does not establish the head's age. The malformed De Klerk marriage date prevents a reliable chronological comparison with Anna Hatting.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1991",
+  "verdict": "ACCEPT",
+  "reason": "The head's name is compatible with Zacharias Christiaan, and Johanna Petronella Prinsloo exactly matches the spouse married on 09/09/1821. The age and Somerset/Cradock geography are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "200|1779",
+  "verdict": "REJECT",
+  "reason": "The census wife Martha Cornelia Badenhorst has a different maiden surname from Martha Cornelia Bezuidenhout, married in 1803. The Benade marriage in 1838 cannot explain the 1823 discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "201|1799",
+  "verdict": "UNCERTAIN",
+  "reason": "The man's full name matches, but Elizabeth Catharina Mulder only partially matches Elisabeth Maria Muller, married in 1810. Possible surname variation does not resolve the differing middle name, leaving the wife's identity uncertain.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "202|590",
+  "verdict": "ACCEPT",
+  "reason": "The head's name is compatible with omission of Petrus, and Hendrica Jacoba Swanepoel matches Hendrika Jacoba Swanepoel, married in 1814. Beaufort and the man's dates are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "203|4384",
+  "verdict": "UNCERTAIN",
+  "reason": "Samuel Jacobus and the district match, while the wife shares the surname Fourie and the names Anna and Johanna. Gabriela versus Isabella remains unexplained, preventing a secure identification without clearly establishing a different wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "204|465",
+  "verdict": "ACCEPT",
+  "reason": "Samuel Jacobus and Anna Susanna Van den Berg exactly match the man and his wife married in 1816. The Beaufort/Graaff-Reinet district difference does not outweigh this corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "205|464",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Frederik/Fredrik is a normal spelling variation, and Christina Helena Botes exactly matches the wife married in 1823. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "206|592",
+  "verdict": "UNCERTAIN",
+  "reason": "Zacharias/Sacharias Joseph and Beaufort match, but no census wife is named to corroborate the 1823 marriage. The genealogy supplies no father's name with which to verify 'Sacharias Joseph's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "206|593",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but the 'Senior' annotation is not independently supported for this man, aged about 24. No census wife is named, so the marriage supplies no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "208|154",
+  "verdict": "REJECT",
+  "reason": "Johannes Hermanus Bouwer has a materially different surname from Johannes Hendrik de Beer, with an additional given-name difference. No supplied evidence explains these differences.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "208|1788",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes/Jan Hendrik and Somerset/Cradock are compatible, and the man was about 21. However, the 1824 marriage cannot corroborate the 1823 head, and the father's name in the annotation is unverified.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "209|5325",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend Petrus and the district match, but Susanna Gausch is not a secure match to Gesina Johanna Helena Gous. The undated additional marriages and possible surname variation prevent treating the wife difference as a definitive contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "210|1998",
+  "verdict": "UNCERTAIN",
+  "reason": "Johanna Jacoba Coetzer exactly matches the wife married in 1814, strongly supporting the link. However, Hendrik Johannes differs from Hendrik Jacobus, and a separate Hendrik Jacobus head is supplied, leaving the identity unresolved.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "210|2161",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Jacobus matches the man's name, but the unnamed census wife supplies no corroboration. The alternative Hendrik Johannes head has the exact wife Johanna Jacoba Coetzer and therefore provides stronger evidence, although this pair has no affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "de Bruin, Hendrik Johannes"
+ },
+ {
+  "pair_id": "211|2001",
+  "verdict": "ACCEPT",
+  "reason": "Petrus/Pieter and Frederik/Fredrik are compatible forms, with Barendse omitted. Philippina Maria Charlotte Schutte matches the wife married in 1818, and Somerset/Cradock is consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "213|9261",
+  "verdict": "ACCEPT",
+  "reason": "Lodewyk, the Senior designation and Uitenhage agree. Engela Adriana Van Niekerk exactly matches the wife married in 1803.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "217|9263",
+  "verdict": "ACCEPT",
+  "reason": "Andries/Andris Petrus is a compatible spelling variation, and Cornelia Geertruyda Brits matches the wife married in 1817. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "218|9264",
+  "verdict": "ACCEPT",
+  "reason": "Frederik/Fredrik Johannes matches, and Susanna Catharina Meyer exactly matches the wife married in 1815. Uitenhage and the man's dates are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "219|8119",
+  "verdict": "UNCERTAIN",
+  "reason": "Andreas/Andries Johannes and Swellendam are compatible, but no census wife is named to corroborate the 1801 marriage. The 1827 marriage does not establish his marital status or identity in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "219|8388",
+  "verdict": "UNCERTAIN",
+  "reason": "Andries is compatible with Andreas, with Johannes omitted, and the district matches. The abbreviated name and absence of a named census wife provide insufficient corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "220|10750",
+  "verdict": "UNCERTAIN",
+  "reason": "Christiaan Lodewikus/Lodewyk and Swellendam are compatible, and an age of about 18 is possible for a head. The 1831 marriage cannot corroborate the 1825 entry, leaving only the name and approximate location.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "223|8110",
+  "verdict": "UNCERTAIN",
+  "reason": "Lourens/Laurens is compatible, and the additional Johannes is not itself a contradiction. No census wife is named to corroborate Margaretha Alida Jacobs, married in 1821, so the name and district alone are insufficient.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "223|8277",
+  "verdict": "ACCEPT",
+  "reason": "Lourens/Laurens is a compatible name variation, and Margaretha Alida Jacobs exactly matches the wife married in 1821. Swellendam and the man's age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "225|8118",
+  "verdict": "ACCEPT",
+  "reason": "Louis de Jager and Francina Steyn match the man and his wife married in 1795. Swellendam and the Senior designation are consistent with his birth in 1775.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "233|2234",
+  "verdict": "ACCEPT",
+  "reason": "Barend Jacobus and Petronella Prinsloo exactly match the man and his wife married in 1817. Somerset/Cradock is consistent, while the alternative namesake has a different wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "234|2444",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan and Hester Elizabeth Erasmus match the man and his wife married in 1815, with Loret omitted. The competing Adriaan born in 1800 has only a post-census marriage and lacks this wife corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "235|2444",
+  "verdict": "UNCERTAIN",
+  "reason": "The 1824 marriage to Elizabeth Magdalena Joubert can neither confirm nor contradict the wife recorded in 1823. The competing Adriaan born in 1794 has a matching pre-census wife, Hester Elizabeth Erasmus, making that identification substantially stronger without an affirmative contradiction for this man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "238|2440",
+  "verdict": "ACCEPT",
+  "reason": "Willem/William and Elisabeth/Elizabeth are compatible forms. Jacoba Elizabeth Meintjes matches the wife married in 1812, and Somerset/Cradock is consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "240|8341",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Hendrikus/Hendrik and Elisabeth/Elsabe Maria are compatible name forms. The wife's Van Coller surname, the 1799 marriage and the matching district strongly corroborate the link.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "241|8112",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Francois and Martha Hermina De Jager exactly match the man and his wife married in 1824. The district and age are consistent with the 1825 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "242|8342",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Daniel matches with Jacobus omitted, and Swellendam and an age of about 22 are compatible. The 1827 marriage cannot corroborate the 1825 entry, so there is insufficient independent identity evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "246|67",
+  "verdict": "ACCEPT",
+  "reason": "Pieter de Wet and Maria Susanna Botha exactly match the recorded couple, and Albany agrees. Although the marriage date is missing, the complete wife match supplies strong corroboration with no supplied chronological contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "247|120",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Rudolph and Martha Catharina Woest exactly match, and marriage_date establishes their marriage on 15/12/1824, before the census. The Somerset/Albany district difference does not outweigh the matching couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "248|68",
+  "verdict": "UNCERTAIN",
+  "reason": "Christoffel Johannes and Albany match, and an age of about 19 is possible for a household head. The 1829 marriage cannot corroborate the 1825 entry, leaving insufficient evidence beyond the name and location.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "249|2388",
+  "verdict": "ACCEPT",
+  "reason": "Jan Hendrik and Philippina Susanna Kotze/Kotzé match the man and his wife married in 1822. Cradock and the man's dates are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "250|2381",
+  "verdict": "UNCERTAIN",
+  "reason": "Carel Stephanus and Somerset/Cradock are compatible, but the genealogy does not verify the father's name in the annotation. The 1831 marriage cannot corroborate this entry, and another identically named census candidate is supplied.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "250|4248",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but Graaff-Reinet differs from the declared Somerset district and an identically named Cradock candidate also exists. Neither entry has a named wife, and the 1831 marriage cannot distinguish them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

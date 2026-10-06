@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "664|7787",
+  "verdict": "ACCEPT",
+  "reason": "Full name Ockert Andries matches and census wife Van den Berg, Maria M. matches spouse Maria Magdelena van den Berg married 1821; the Swellendam vs Beaufort district difference does not outweigh the wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "665|1951",
+  "verdict": "ACCEPT",
+  "reason": "Exact full-name match and census wife Botha, Anna Catharina matches the 1816 spouse; Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "667|9700",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match (Oosthuysen variant) in Uitenhage, and census wife Scheepers, Jacoba Susanna matches the spouse he married in March 1825, the census year.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9638",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches (Henricus/Hendricus), but he was about 18 in 1825 and his only recorded marriage was to Knoetzen in 1828, while this head already had a wife, Dupree, Hester Susanna. That makes the link doubtful, but it is not a formal contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9640",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches, but he was about 18 in 1825 with a first recorded marriage to Knoetzen in 1828, while this head had a wife, Vermaak, Maria Jacomina. The fit is doubtful but not formally contradicted.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9641",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches and the head has no wife, which fits an 18-year-old who married only in 1828. However, there is no corroborating evidence and several namesakes exist in Uitenhage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9712",
+  "verdict": "UNCERTAIN",
+  "reason": "The census middle name Hermanus differs from Hendricus, which weakens the match. No wife is recorded for comparison, and the annotation 'Gerrit's son' cannot be checked against the record.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9719",
+  "verdict": "UNCERTAIN",
+  "reason": "The census middle name Hermanus differs from Hendricus, and no wife is recorded for comparison. The annotation 'Piet Wilhelmus' son' cannot be checked against the record.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "673|471",
+  "verdict": "UNCERTAIN",
+  "reason": "Census wife Bezuidenhout, Catharina differs from his only listed spouse Johanna Maria Jansen. Because the marriage date is missing, an earlier or later marriage could explain the difference, so this is not decisive.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "676|684",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Beaufort, and census wife Strydom, Johanna Maggel Petronella matches the 1813 spouse Johanna Machteld Petronella Strydom (Maggel is a variant of Machteld).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "679|2166",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife Erasmus, Johanna Petronella matches the 1798 spouse; Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "680|2167",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife Greyling, Anna Maria Elizabeth matches the 1820 spouse; the annotation 'Philip's zoon' is consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "681|2172",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match, an unmarried head at about age 19, and 'Philip's zoon' are all consistent, since he married only in 1826. Still, there is no wife to corroborate the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "682|246",
+  "verdict": "UNCERTAIN",
+  "reason": "Johan Philip matches Johan Philip Matthys (an extra middle name) in Beaufort, with no spouses on either side. There is no contradiction but also no corroborating evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "683|441",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches and the head has no wife, which fits a 19-year-old who married in 1828. Nothing corroborates the link, and a namesake Johan Fredrik also appears in Beaufort.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "683|890",
+  "verdict": "UNCERTAIN",
+  "reason": "This head already had a wife, Parzoons, Johanna Catharina, in 1825, while he was 19 and first married Pretorius in 1828; the annotation 'Samuel Fredrik's son' points to a namesake. The unmarried Johan Fredrik head fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Otto, Johan Fredrik"
+ },
+ {
+  "pair_id": "685|1605",
+  "verdict": "REJECT",
+  "reason": "Census wife Bezuidenhout, Johanna differs from his 1822 spouse Beukes, and the annotation 'de Oude' indicates an older namesake. Another Carel Johannes head has wife Beukes, Magdalena Adriana.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pelzer, Carel Johannes"
+ },
+ {
+  "pair_id": "685|1888",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife Beukes, Magdalena Adriana matches the 1822 spouse, in Cradock.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "687|2429",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife van Aswegen, Hendrina Jacoba Maria matches the 1817 spouse; Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "688|78",
+  "verdict": "ACCEPT",
+  "reason": "Name matches (Pieck/Piek) in Albany, and census wife Gere, Carolina Frederika matches the 1804 spouse Geere.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "689|78",
+  "verdict": "REJECT",
+  "reason": "This head's wife Gere is the wife of the competing Sr. (688), while the Jr. married Prinsloo only in 1832, so the head is his father.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "689|4934",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches an unmarried head, which is consistent with his 1832 marriage. However, his birth year is unknown and the Graaff-Reinet district differs from Albany, leaving the link weak.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4681",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife Visagie, Anna Elisabeth matches the 1806 spouse; Colesberg was part of Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|2105",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife van Heerden, Aletta Petronella matches the 1822 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4140",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife v. Heerden, Alletta Petronella matches the 1822 spouse; Colesberg was part of Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "694|7488",
+  "verdict": "ACCEPT",
+  "reason": "Name matches (Pieterse/Pieters, Bernardus/Bernhardus) and census wife Groenewald, Susanna Maria matches the 1799 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "697|7488",
+  "verdict": "REJECT",
+  "reason": "He was about 16 in 1825 and married only in 1838, while the head's wife Groenewald, Susanna Maria is the wife of the competing Sr. (694).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "695|7489",
+  "verdict": "UNCERTAIN",
+  "reason": "Bernardus Hermanus matches exactly, and an unmarried head is consistent with no recorded spouse. Nothing beyond the name corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "696|7490",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match, and an unmarried head is consistent with his 1828 marriage. There is no wife to corroborate the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "698|9501",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife Pieterse, Anna Christina matches the 1819 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "699|9503",
+  "verdict": "ACCEPT",
+  "reason": "Name matches (Theodoris/Theodorus) and census wife Wilken, Susanna Julianna matches the listed spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "700|9368",
+  "verdict": "REJECT",
+  "reason": "Census wife Smit, Elisabeth differs from Van Staden, whom he married in April 1825, and the annotation 'Senior' does not fit a 21-year-old.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "700|9534",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Van Staden, Martha Catharina matches the spouse he married in 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "701|9602",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Josephus matches one of the recorded name forms, and an unmarried head fits his 1829 marriage. There is no wife to corroborate the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "702|9410",
+  "verdict": "UNCERTAIN",
+  "reason": "Ferdinand Albertus matches, but no census wife is recorded although he married Meyer in 1798. Widowhood is possible, so this is not a contradiction, but nothing corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "705|9739",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match in Uitenhage, and an unmarried head is consistent with his 1832 marriage. There is no wife to corroborate the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "706|9775",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match, and census wife Maretz, Martha Maria matches the 1813 spouse Maritz; Uitenhage matches his declared residence.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "708|114",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match and census wife Snyman, Emerentia Hester matches the 1803 spouse; the Albany vs Uitenhage(?) district difference is minor.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "708|115",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but the annotation 'Junior' and the absence of a wife do not fit a 46-year-old married since 1803, suggesting a younger namesake. This is not a definitive contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "710|9639",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Breedenbach, Elsie Magdalena matches the 1814 spouse Elsje Magdalena Adriana Breytenbach, and Gerhardus matches. Marthinus vs Mattys is likely a transcription difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

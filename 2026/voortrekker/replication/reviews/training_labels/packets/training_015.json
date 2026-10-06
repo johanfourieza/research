@@ -1,0 +1,2633 @@
+[
+ {
+  "pair_id": "747|5180",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1363",
+  "genealogy_id": "PRETORIUSa1b3c1d5e13",
+  "surname": "PRETORIUS",
+  "given_names": "HENNING PETRUS NICOLAAS (PIET)",
+  "birth_year": "1800.0",
+  "death_year": "1865",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CHRISTINA",
+    "surname": "VORSTER",
+    "marriage_date": "06/05/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "MARTHA JOHANNA",
+    "surname": "MULLER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1150",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Jacobus Cornelis",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "747|5180"
+  ]
+ },
+ {
+  "pair_id": "748|4108",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1365",
+  "genealogy_id": "PRETORIUSa1b3c1d5e14",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES LODEWYK WYNAND",
+  "birth_year": "1802.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|74",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Wilhelmina Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|4108",
+   "752|4108",
+   "753|4108",
+   "757|4108",
+   "758|4108",
+   "763|4108"
+  ]
+ },
+ {
+  "pair_id": "752|4108",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|74",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Wilhelmina Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|4108",
+   "752|4108",
+   "753|4108",
+   "757|4108",
+   "758|4108",
+   "763|4108"
+  ]
+ },
+ {
+  "pair_id": "753|4108",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|74",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Wilhelmina Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|4108",
+   "752|4108",
+   "753|4108",
+   "757|4108",
+   "758|4108",
+   "763|4108"
+  ]
+ },
+ {
+  "pair_id": "757|4108",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1388",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES ANDRIES",
+  "birth_year": "1783.0",
+  "death_year": "1856",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DAVEL",
+    "marriage_date": "23/10/1803",
+    "marriage_year": "1803"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|74",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Wilhelmina Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|4108",
+   "752|4108",
+   "753|4108",
+   "757|4108",
+   "758|4108",
+   "763|4108"
+  ]
+ },
+ {
+  "pair_id": "758|4108",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1389",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS CORNELIS",
+  "birth_year": "1807.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA JACOBA",
+    "surname": "VILJOEN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|74",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Wilhelmina Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|4108",
+   "752|4108",
+   "753|4108",
+   "757|4108",
+   "758|4108",
+   "763|4108"
+  ]
+ },
+ {
+  "pair_id": "763|4108",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1399",
+  "genealogy_id": "PRETORIUSa1b3cc7d4e8",
+  "surname": "PRETORIUS",
+  "given_names": "DANIEL PETRUS",
+  "birth_year": "1803.0",
+  "death_year": "1878",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HENDRINA MAGDALENA ELISABETH",
+    "surname": "VAN DER MERWE",
+    "marriage_date": "05/03/1837",
+    "marriage_year": "1837"
+   },
+   {
+    "name": "ALETTA JOHANNA PETRONELLA",
+    "surname": "PRETORIUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|74",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Wilhelmina Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "748|4108",
+   "752|4108",
+   "753|4108",
+   "757|4108",
+   "758|4108",
+   "763|4108"
+  ]
+ },
+ {
+  "pair_id": "749|5114",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1366",
+  "genealogy_id": "PRETORIUSa1b3c1d5e15",
+  "surname": "PRETORIUS",
+  "given_names": "HERCULES ALBERTUS (BART)",
+  "birth_year": "1803.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ANNA ELISABETH",
+    "surname": "SCHOOMBEE",
+    "marriage_date": "08/12/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "CHRISTINA CATHARINA",
+    "surname": "BODENSTEIN",
+    "marriage_date": "26/08/1844",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1084",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Fouchee, Cornelia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "749|5114",
+   "752|5114",
+   "753|5114",
+   "757|5114"
+  ]
+ },
+ {
+  "pair_id": "752|5114",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1084",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Fouchee, Cornelia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "749|5114",
+   "752|5114",
+   "753|5114",
+   "757|5114"
+  ]
+ },
+ {
+  "pair_id": "753|5114",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1084",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Fouchee, Cornelia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "749|5114",
+   "752|5114",
+   "753|5114",
+   "757|5114"
+  ]
+ },
+ {
+  "pair_id": "757|5114",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1388",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES ANDRIES",
+  "birth_year": "1783.0",
+  "death_year": "1856",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DAVEL",
+    "marriage_date": "23/10/1803",
+    "marriage_year": "1803"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1084",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Fouchee, Cornelia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "749|5114",
+   "752|5114",
+   "753|5114",
+   "757|5114"
+  ]
+ },
+ {
+  "pair_id": "751|1523",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1375",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN SR.)",
+  "birth_year": "1782.0",
+  "death_year": "1861",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA SUSANNA",
+    "surname": "KOTZE",
+    "marriage_date": "18/03/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ELIZABETH BEATRIX",
+    "surname": "GRUNDLINGH",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|38",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Pretorius, Johannes Ludovicus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes Lodovicus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Marthinnus Wessel",
+    "census_spouse": "Pretorius, Maria Christina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "751|1523"
+  ]
+ },
+ {
+  "pair_id": "752|1495",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|8",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Pretorius, Johannes Ludovicus",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Johanna",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Marthinnus Wessel",
+    "census_spouse": "Pretorius, Maria Christina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|1495"
+  ]
+ },
+ {
+  "pair_id": "752|1497",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|10",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Pretorius, Johannes Diederik",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes Ludovicus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Marthinnus Wessel",
+    "census_spouse": "Pretorius, Maria Christina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|1497"
+  ]
+ },
+ {
+  "pair_id": "752|4104",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|70",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jan Christoffel",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4104"
+  ]
+ },
+ {
+  "pair_id": "752|4598",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|566",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Daniel Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4598"
+  ]
+ },
+ {
+  "pair_id": "752|4709",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|677",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Lodewyk",
+  "census_head_role": "male",
+  "census_spouse": "Du Preez, Francina Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4709",
+   "755|4709",
+   "759|4709",
+   "760|4709",
+   "761|4709",
+   "765|4709"
+  ]
+ },
+ {
+  "pair_id": "755|4709",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1386",
+  "genealogy_id": "PRETORIUSa1b3c7d1e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM LODEWYK",
+  "birth_year": "1804.0",
+  "death_year": "1879",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "FRANCINA JACOBA",
+    "surname": "DU PREEZ",
+    "marriage_date": "04/07/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|677",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Lodewyk",
+  "census_head_role": "male",
+  "census_spouse": "Du Preez, Francina Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4709",
+   "755|4709",
+   "759|4709",
+   "760|4709",
+   "761|4709",
+   "765|4709"
+  ]
+ },
+ {
+  "pair_id": "759|4709",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1390",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM JURGEN",
+  "birth_year": "1808.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DE BEER",
+    "marriage_date": "07/04/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "HEYLA MAGDALENA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "30/12/1882",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|677",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Lodewyk",
+  "census_head_role": "male",
+  "census_spouse": "Du Preez, Francina Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4709",
+   "755|4709",
+   "759|4709",
+   "760|4709",
+   "761|4709",
+   "765|4709"
+  ]
+ },
+ {
+  "pair_id": "760|4709",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1395",
+  "genealogy_id": "PRETORIUSa1b3c9d7",
+  "surname": "PRETORIUS",
+  "given_names": "PETRUS GERHARDUS ( SWART PIET)",
+  "birth_year": "1772.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SOPHIA JOACHIMINA",
+    "surname": "SCHOLTZ",
+    "marriage_date": "19/04/1801",
+    "marriage_year": "1801"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|677",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Lodewyk",
+  "census_head_role": "male",
+  "census_spouse": "Du Preez, Francina Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4709",
+   "755|4709",
+   "759|4709",
+   "760|4709",
+   "761|4709",
+   "765|4709"
+  ]
+ },
+ {
+  "pair_id": "761|4709",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1396",
+  "genealogy_id": "PRETORIUSa1b3c9d7e1",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM STERRENBERG",
+  "birth_year": "1802.0",
+  "death_year": "1878",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JACOBA JOHANNA",
+    "surname": "PIETERSE(N)",
+    "marriage_date": "03/06/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "MARTHA MARIA",
+    "surname": "MARITZ",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ANNA ALETTA",
+    "surname": "COMBRINK",
+    "marriage_date": "17/01/1859",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|677",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Lodewyk",
+  "census_head_role": "male",
+  "census_spouse": "Du Preez, Francina Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4709",
+   "755|4709",
+   "759|4709",
+   "760|4709",
+   "761|4709",
+   "765|4709"
+  ]
+ },
+ {
+  "pair_id": "765|4709",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1406",
+  "genealogy_id": "PRETORIUSa1b5c3d7e3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SOMERSET (AREA CRADOCK)",
+  "spouses": [
+   {
+    "name": "PETRONELLA CHRISTINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/04/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ANNA ADRIANA",
+    "surname": "DU PLOOY",
+    "marriage_date": "14/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|677",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Lodewyk",
+  "census_head_role": "male",
+  "census_spouse": "Du Preez, Francina Jac.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4709",
+   "755|4709",
+   "759|4709",
+   "760|4709",
+   "761|4709",
+   "765|4709"
+  ]
+ },
+ {
+  "pair_id": "752|4814",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|783",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Hendrina Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4814",
+   "753|4814",
+   "757|4814",
+   "758|4814"
+  ]
+ },
+ {
+  "pair_id": "753|4814",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|783",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Hendrina Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4814",
+   "753|4814",
+   "757|4814",
+   "758|4814"
+  ]
+ },
+ {
+  "pair_id": "757|4814",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1388",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES ANDRIES",
+  "birth_year": "1783.0",
+  "death_year": "1856",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DAVEL",
+    "marriage_date": "23/10/1803",
+    "marriage_year": "1803"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|783",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Hendrina Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4814",
+   "753|4814",
+   "757|4814",
+   "758|4814"
+  ]
+ },
+ {
+  "pair_id": "758|4814",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1389",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS CORNELIS",
+  "birth_year": "1807.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA JACOBA",
+    "surname": "VILJOEN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|783",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Hendrina Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|4814",
+   "753|4814",
+   "757|4814",
+   "758|4814"
+  ]
+ },
+ {
+  "pair_id": "752|5007",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|976",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Wynand Johannes Adriaan",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5007"
+  ]
+ },
+ {
+  "pair_id": "752|5029",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|998",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jan Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5029",
+   "753|5029",
+   "763|5029"
+  ]
+ },
+ {
+  "pair_id": "753|5029",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|998",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jan Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5029",
+   "753|5029",
+   "763|5029"
+  ]
+ },
+ {
+  "pair_id": "763|5029",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1399",
+  "genealogy_id": "PRETORIUSa1b3cc7d4e8",
+  "surname": "PRETORIUS",
+  "given_names": "DANIEL PETRUS",
+  "birth_year": "1803.0",
+  "death_year": "1878",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HENDRINA MAGDALENA ELISABETH",
+    "surname": "VAN DER MERWE",
+    "marriage_date": "05/03/1837",
+    "marriage_year": "1837"
+   },
+   {
+    "name": "ALETTA JOHANNA PETRONELLA",
+    "surname": "PRETORIUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|998",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jan Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5029",
+   "753|5029",
+   "763|5029"
+  ]
+ },
+ {
+  "pair_id": "752|5148",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1376",
+  "genealogy_id": "PRETORIUSa1b3c1d9e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES PETRUS (JAN JR.)",
+  "birth_year": "1809.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "STRAUSS",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "GERBRECHT ELIZABETH MARIA (BREGGIE)",
+    "surname": "ALBERTS",
+    "marriage_date": "07/06/1829",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1118",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5148",
+   "757|5148",
+   "758|5148"
+  ]
+ },
+ {
+  "pair_id": "757|5148",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1388",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES ANDRIES",
+  "birth_year": "1783.0",
+  "death_year": "1856",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DAVEL",
+    "marriage_date": "23/10/1803",
+    "marriage_year": "1803"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1118",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5148",
+   "757|5148",
+   "758|5148"
+  ]
+ },
+ {
+  "pair_id": "758|5148",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1389",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS CORNELIS",
+  "birth_year": "1807.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA JACOBA",
+    "surname": "VILJOEN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1118",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Anna Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "752|5148",
+   "757|5148",
+   "758|5148"
+  ]
+ },
+ {
+  "pair_id": "753|4103",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|69",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius , Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Lodewicus",
+    "census_spouse": "Pienaar, Wilhelmina Christina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "753|4103",
+   "757|4103"
+  ]
+ },
+ {
+  "pair_id": "757|4103",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1388",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES ANDRIES",
+  "birth_year": "1783.0",
+  "death_year": "1856",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DAVEL",
+    "marriage_date": "23/10/1803",
+    "marriage_year": "1803"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|69",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius , Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Lodewicus",
+    "census_spouse": "Pienaar, Wilhelmina Christina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "753|4103",
+   "757|4103"
+  ]
+ },
+ {
+  "pair_id": "753|4702",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|670",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Alletta Jac.",
+  "census_head_role": "female",
+  "census_spouse": null,
+  "census_widow_of": "Pretorius, Johannes Lodewicus (widow of)",
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "753|4702",
+   "758|4702"
+  ]
+ },
+ {
+  "pair_id": "758|4702",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1389",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS CORNELIS",
+  "birth_year": "1807.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA JACOBA",
+    "surname": "VILJOEN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|670",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Alletta Jac.",
+  "census_head_role": "female",
+  "census_spouse": null,
+  "census_widow_of": "Pretorius, Johannes Lodewicus (widow of)",
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "753|4702",
+   "758|4702"
+  ]
+ },
+ {
+  "pair_id": "753|5152",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1122",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Wessel Christiaan",
+  "census_head_role": "male",
+  "census_spouse": "Loots, Catharina Petronella",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "753|5152"
+  ]
+ },
+ {
+  "pair_id": "753|5178",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1378",
+  "genealogy_id": "PRETORIUSa1b3c7d1e1f3",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1890",
+  "declared_district": "GRAAFF-REINET THEN COLESBERG",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA (OR MARIA ?)",
+    "surname": "VAN VREEDE(N)",
+    "marriage_date": "04/12/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1148",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Johannes Andries",
+  "census_head_role": "male",
+  "census_spouse": "Davel, Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "753|5178"
+  ]
+ }
+]

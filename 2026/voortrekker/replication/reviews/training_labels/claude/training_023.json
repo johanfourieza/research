@@ -1,0 +1,268 @@
+[
+ {
+  "pair_id": "1013|4490",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Jacobus' is compatible with Jacobus Francois, but the census wife Maria Bezuidenhout matches neither listed spouse (Scheepers, Kok/Koch). Both marriages are undated, so an earlier unrecorded marriage cannot be ruled out.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1013|4804",
+  "verdict": "REJECT",
+  "reason": "The census head is Francois Arnoldus, which conflicts with Jacobus Francois. His wife Christina Kotze fits competing pair 1014 (Francois Arnoldus, m. Christina Cornelia Koch 1819), not this man's spouses.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4804",
+  "verdict": "ACCEPT",
+  "reason": "Full name matches ('Anroldus' is a transposition of Arnoldus) and the district matches. The census wife Christina Kotze plausibly corresponds to Christina Cornelia Koch, married 1819, before the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|1574",
+  "verdict": "UNCERTAIN",
+  "reason": "Full name David Schalk matches exactly, and Cradock 1823 corresponds to Somerset. The census wife Anna Susanna Eelhof differs from the only listed spouse (Neeltjie Christina van der Merwe), but that marriage is undated, so an earlier first marriage is possible.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|2312",
+  "verdict": "REJECT",
+  "reason": "The census head's middle name Fredrik conflicts with Schalk, and he is recorded as Johannes Petrus' son. Census head 1574, David Schalk, matches the full name exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "van der Merwe, David Schalk"
+ },
+ {
+  "pair_id": "1017|81",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Frederick conflicts with Johannes Petrus. He is married in 1825, whereas this man was 17 and first married in 1836.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|2310",
+  "verdict": "REJECT",
+  "reason": "Born 1808, he was about 15 in 1823, yet this head already has a wife (Neeltje Christina de Wit). His only recorded marriage is in 1836, so the census head is probably an older namesake ('David's zoon').",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4117",
+  "verdict": "REJECT",
+  "reason": "The census head's surname is Venter, not van der Merwe.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|9346",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Marthinus conflicts with Johannes Petrus. That head is married (Schoeman) in Uitenhage in 1825, whereas this man was 17 and first married in 1836.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4060",
+  "verdict": "REJECT",
+  "reason": "The census head is a v. d. Walt (Johannes Hendrik), a different surname and middle name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4406",
+  "verdict": "UNCERTAIN",
+  "reason": "Census head Nicolaas Johannes Stephanus contains Johannes Stephanus (an extra leading name is plausible), and the district matches. He has no wife recorded and the Griesel marriage is undated, so there is no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4829",
+  "verdict": "REJECT",
+  "reason": "The census head is v. d. Berg, Pieter Jacobus, a different surname and given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|702",
+  "verdict": "REJECT",
+  "reason": "The census head's surname is Van der Westhuizen, not Van der Schyff, and his middle name Johannes differs from Marthinus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|2409",
+  "verdict": "REJECT",
+  "reason": "The census head is Venter, Petrus Jan Hendrik, a different surname and middle names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|4110",
+  "verdict": "REJECT",
+  "reason": "The census head's surname is Venter, not Van der Schyff.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4110",
+  "verdict": "REJECT",
+  "reason": "The census wife Hester Potgieter clearly differs from Wilhelmina Catharina Francina Venter, married 1812, before the census, and no remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4110",
+  "verdict": "REJECT",
+  "reason": "Census head Petrus conflicts with Albertus Johannes. This man was 18 in 1825 and first married in 1827, while this head has a wife (Potgieter).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1019|4539",
+  "verdict": "REJECT",
+  "reason": "The census head's surname is v. d. Walt, not Van der Schyff.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1022|2151",
+  "verdict": "REJECT",
+  "reason": "The census head is van der Merwe, Gert, a different surname and given name from Willem Bartholomeus van der Vyver.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1022|5015",
+  "verdict": "REJECT",
+  "reason": "The census head is v. d. Berg, Barend Jacobus, a different surname and given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|330",
+  "verdict": "REJECT",
+  "reason": "Census given name Isaac conflicts with Nicolaas Georg. Isaac is married in 1825, whereas this man's only recorded marriage is in 1846.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1028|330",
+  "verdict": "REJECT",
+  "reason": "Census given name Isaac conflicts with Johannes. Isaac has a wife (Janze van Veuren) in 1825, whereas this man first married Naude in 1828.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|656",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Nicolaas' (Senior) with no wife is consistent with Nicolaas Georg, b. 1792, who did not marry until 1846, and the district matches. However, the name alone is common and there is no corroborating detail.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|730",
+  "verdict": "REJECT",
+  "reason": "The census head is Venter, Jan Adriaan, a different surname and given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1152|730",
+  "verdict": "REJECT",
+  "reason": "Census middle name Adriaan conflicts with Louis. This head has a wife (Maria Venter) in 1825, whereas this man was 16 and first married in 1831.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1023|867",
+  "verdict": "REJECT",
+  "reason": "Census middle name Hendrik conflicts with Georg, and the head is recorded as Wietsche's son. The unmarried 'Van der Westhuizen, Nicolaas' has no conflicting middle name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Westhuizen, Nicolaas"
+ },
+ {
+  "pair_id": "1024|660",
+  "verdict": "REJECT",
+  "reason": "The census wife Martha Maria Elizabeth Smit clearly differs from Sara Magdalena Kock, married 1806, before the census, and no remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1024|674",
+  "verdict": "UNCERTAIN",
+  "reason": "Census Jacobus Andries is compatible with Jacob (an added middle name), and the district matches. He has no wife although this man married in 1806, which is possible only if he was widowed, so there is no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1027|301",
+  "verdict": "REJECT",
+  "reason": "Census given name Wietsche conflicts with Jasper. Wietsche is married in 1825, whereas this man married Louw in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1032|1516",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name Jan Gerritse/Gerritze van Deventer matches, and Cradock 1823 corresponds to Somerset. No wife is recorded, consistent with his first marriage in 1832.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1036|102",
+  "verdict": "REJECT",
+  "reason": "The census head is Frans, not Sybrand. Another Albany head, Sybrand Van Dyk, has wife Helena Susanna Van der Merwe, matching his 1805 marriage.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Dyk, Sybrand"
+ },
+ {
+  "pair_id": "1039|1",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was 16 in 1825, yet this head has a wife (Sagareia Krieger). His first recorded marriage is in 1832, so the head is probably an older namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1040|1",
+  "verdict": "REJECT",
+  "reason": "The census wife Krieger contradicts Sophia Elizabeth Potgieter, married 1813. Another Albany head, Joseph Van Dyk, has wife Sophia Elizabeth Potgieter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Van Dyk, Joseph"
+ },
+ {
+  "pair_id": "1040|63",
+  "verdict": "ACCEPT",
+  "reason": "Name and district match, and the census wife Sophia Elizabeth Potgieter exactly matches his 1813 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1043|4482",
+  "verdict": "ACCEPT",
+  "reason": "Full name Jacobus Nicolaas Van Dyk matches exactly. The census wife Jacoba Hendrina De Beer matches his 1819 spouse, so the Graaff-Reinet/Somerset difference is immaterial.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1045|282",
+  "verdict": "REJECT",
+  "reason": "The census wife Susanna Elizabeth Rossouw clearly differs from Susanna Maria La Grange, married 1820, before the census, and no remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1055|5190",
+  "verdict": "ACCEPT",
+  "reason": "Van Nieuwkerk is a spelling variant of Van Niekerk, the given names Pieter Johannes match, and the district matches. The census wife Heilje Magdalena v. d. Berg matches Hilletje Magdalena Petronella van den Berg, married 1818.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1059|9162",
+  "verdict": "REJECT",
+  "reason": "Census head Pieter Cornelis ('Johannes' son') conflicts with Johannes Wilhelmus. His wife Ferreira matches neither of this man's spouses (Spies 1805, Van Wyk 1822).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

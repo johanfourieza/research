@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "981|7783",
+  "verdict": "ACCEPT",
+  "reason": "Full name Johannes Jacobus van den Berg matches, and census wife Anna Johanna Olivier matches the 1822 marriage. The Swellendam district differs from declared Beaufort, but the wife match outweighs that.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "982|467",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik van den Berg (b.1785) in Beaufort, and census wife Maria Magdalena Gousch is a spelling variant of genealogy spouse Maria Magdalena Gous.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "984|5252",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Nicolaas v. d. Berg in Graaff-Reinet, and census wife Heiltje Magdalena Pretorius matches Hilletje Magdalena Pretorius (m.1800).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "985|5053",
+  "verdict": "UNCERTAIN",
+  "reason": "The wife Hendrina Johanna Marrais/Marais matches, but the same couple also appears at census row 1256 as 'Barend Petrus' with the full name. This entry may be a duplicate, and the fuller entry is the better link.",
+  "wife_evidence": "agrees",
+  "better_candidate": "v. d. Berg, Barend Petrus"
+ },
+ {
+  "pair_id": "985|5285",
+  "verdict": "ACCEPT",
+  "reason": "Exact name Barend Petrus v. d. Berg, and wife Hendrina Johanna Marais matches the 1821 marriage. A second entry (row 1022, 'Barend') with the same wife looks like a duplicate.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "986|4721",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Paulus/Paules v. d. Berg, with census wife Cornelia Johanna Fouchee matching first spouse Cornelia Johanna Fouche. The second marriage (1852) is irrelevant.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "987|4465",
+  "verdict": "ACCEPT",
+  "reason": "Izak/Isaac Johannes Matthys/Mattheus v. d. Berg, with wife Johanna Sophia Adriana v. d. Berg matching the 1819 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "988|5255",
+  "verdict": "ACCEPT",
+  "reason": "Census 'Barend J. P.' matches Barend Jacobus Petrus, and census wife Dorothea Magdalena Fourie matches Maria Dorothea Magdalena Fourie, whom he married in Dec 1825, the census year itself. He was aged about 18.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "989|4188",
+  "verdict": "UNCERTAIN",
+  "reason": "Lucas Adriaan v. d. Heever matches the first two given names and Graaff-Reinet covered Colesberg. However, no census wife is given and the first marriage is undated, so there is no corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "990|4522",
+  "verdict": "ACCEPT",
+  "reason": "Jan Hendrik Gerhardus = Johannes Hendrik Gerhardus v. d. Linde, and census wife Judith Aucamp matches Magdalena Judith Aucamp. The district difference is minor.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|1723",
+  "verdict": "ACCEPT",
+  "reason": "Gert Jacobus = Gerrit Jacobus van der Merwe in Cradock (Somerset), with wife Maria Elizabeth van Tonder matching the 1805 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4342",
+  "verdict": "REJECT",
+  "reason": "The names match, but the census wife Martha Sophia v. d. Merwe clearly differs from Aletta Cornelia Viljoen, married 1816. No remarriage is recorded to explain it.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "994|4307",
+  "verdict": "UNCERTAIN",
+  "reason": "Schalk Willem v. d. Merwe matches, and the census wife has the same given names, Hendrina Johanna. But her surname is v. Heerden rather than v. d. Merwe, and the marriage date is missing, so this may be a recording error or a different man.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4402",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk v. d. Merwe, with census wife Johanna Catharina Weideman matching his first spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4743",
+  "verdict": "REJECT",
+  "reason": "This man is clearly matched to census row 369, where his wife Weideman is named. This wifeless David Schalk entry (row 711) is a different head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "1005|4743",
+  "verdict": "REJECT",
+  "reason": "This David Schalk (b.1801) is clearly matched to census row 459, where his wife Henop/Hennop (m. Apr 1825) is named. The wifeless row 711 is another man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, David Schalk"
+ },
+ {
+  "pair_id": "997|4365",
+  "verdict": "ACCEPT",
+  "reason": "Barend v. d. Merwe, with census wife Elsje Pienaar matching Elsie Louisa Pienaar, married 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|5002",
+  "verdict": "REJECT",
+  "reason": "He married Elsie Pienaar in 1823 and is matched to row 332 with that wife. This wifeless 'Barend Jacobus' entry adds a middle name he lacks.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "v. d. Merwe, Barend"
+ },
+ {
+  "pair_id": "998|4358",
+  "verdict": "ACCEPT",
+  "reason": "Willem Carel v. d. Merwe, with census wife 'D. M. M. Combrink' matching Dorothea Martha Maria Combrink. He was young (about 17) but this is plausible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|1748",
+  "verdict": "ACCEPT",
+  "reason": "Theunis (Jacobus) van der Merwe in Cradock, with wife Cornelia Catharina de Beer matching.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|1674",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Willem van der Merwe, with wife Hendrina Margaretha van der Merwe matching Hendrina Margaretha Dorothea van der Merwe.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|1777",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Diedelof Jacobus van der Merwe, with wife Geertruida Jacoba Robbertse matching Robberts. He was about 17 but married.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4787",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Johannes Jacobus' reverses his given names and omits Rudolph. No wife is listed, the marriage date is unknown, and the district differs, so only common-name evidence supports the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1005|4492",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk v. d. Merwe, with census wife Anna Maria Susanna Henop matching Hennop (m. Apr 1825).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4493",
+  "verdict": "ACCEPT",
+  "reason": "Jan Lodewyk v. d. Merwe, with census wife Martha Magdalena Pretorius matching the 1825 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1007|9346",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Marthinus van der Merwe in Uitenhage, with wife Helena Dorothea Schoeman matching the 1816 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1009|9525",
+  "verdict": "ACCEPT",
+  "reason": "Lucas Johannes van der Merwe in Uitenhage, with wife Maria Elisabeth Viljoen matching the 1818 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1013|4950",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Maria Elisabeth Scheepers exactly matches his first spouse. 'Jacob Fredrik' versus Jacobus Francois is a likely transcription variant of the F-name.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4804",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Francois Arnoldus v. d. Merwe. Census wife Christina 'Kotze' plausibly corresponds to Christina Cornelia Koch (m.1819) as a spelling variant.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1015|5147",
+  "verdict": "ACCEPT",
+  "reason": "Willem Carel v. d. Merwe (b.1785), with wife Margaretha Johanna De Wit matching.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|1566",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk van der Merwe in Cradock, with wife Neeltje van der Merwe matching Neeltjie Christina van der Merwe.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|2310",
+  "verdict": "REJECT",
+  "reason": "He was born 1808, so he was about 15 in 1823, yet the census head is married to Neeltje Christina de Wit. He first married Eloff in 1836, so the head is evidently an older namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1024|674",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Jacobus Andries' adds a middle name not in 'Jacob Sr.', and no wife is listed despite his 1806 marriage to Kock. Neither point is decisive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1026|656",
+  "verdict": "UNCERTAIN",
+  "reason": "Nicolaas van der Westhuizen in Beaufort matches by name only. No wife is listed despite his 1814 marriage to Van Wyk, and 'Senior' cannot be checked.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1028|655",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but the census head has a wife, Martha Magdalena Van Wyk, who appears nowhere in his spouse list; his only recorded marriage is 1828 to Naude. The fieldcornet head is likely an older namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1029|1514",
+  "verdict": "REJECT",
+  "reason": "Census 'Gert, Senior' has wife Anna Wilhelmina Bantjies, which contradicts his 1821 marriage to Johanna Elizabeth de Lange. 'Senior' also suggests an older man.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1031|1870",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit van Deventer in Cradock, with wife Aletta Catharina van Zyl matching his July 1823 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1032|1516",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Jan Gerritze/Gerritse van Deventer in Cradock (Somerset). He was unmarried in 1823, consistent with his 1832 marriage, and he sits in the same 'Gert's zoon' sibling cluster as the confirmed Gerrit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1033|52",
+  "verdict": "REJECT",
+  "reason": "'Willem Adriaan' differs from Willem Andreas, and this head in Albany already has a wife, Delport, although he did not marry until 1832. The Cradock entry 'Willem Andries, Gert's zoon' fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "van Deventer, Willem Andries"
+ },
+ {
+  "pair_id": "1033|1517",
+  "verdict": "ACCEPT",
+  "reason": "Willem Andries = Willem Andreas van Deventer in Cradock (Somerset). He was unmarried in 1823, consistent with his 1832 marriage, and appears as 'Gert's zoon' alongside his likely brothers Gerrit and Jan Gerritze.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

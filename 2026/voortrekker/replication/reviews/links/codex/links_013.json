@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "664|7787",
+  "verdict": "ACCEPT",
+  "reason": "The full head name matches, and Maria M. van den Berg agrees with Maria Magdelena van den Berg, married in 1821. The district difference does not outweigh this corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "665|1951",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Anna Catharina Botha, married in 1816, match exactly. Somerset is compatible with Cradock in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "667|9700",
+  "verdict": "ACCEPT",
+  "reason": "The head name matches with normal surname variation, and the census wife matches Jacoba Susanna Scheepers, married in March 1825. The district and age are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9638",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Henricus is compatible with Johannes Hendricus, and the district agrees, but there is no independent corroboration. The 1828 Knoetzen marriage cannot confirm or contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9640",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district are compatible, but they do not distinguish this head from other similarly named men. The 1828 Knoetzen marriage cannot be compared with Maria Jacomina Vermaak in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9641",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and approximate age of 18 are compatible, and the absent census wife creates no contradiction. The later marriage supplies no identifying corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9712",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the surname agree, but Hermanus differs from Hendricus and is not an established equivalent in the supplied evidence. Neither a comparable wife nor genealogical parent information resolves the discrepancy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "668|9719",
+  "verdict": "UNCERTAIN",
+  "reason": "The shared surname, first name and district provide limited support, but Hermanus differs from Hendricus. The supplied genealogy does not establish whether the annotation identifying Piet Wilhelmus as the father agrees.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "673|471",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name and district match, but Catharina Bezuidenhout differs from the listed Johanna Maria Jansen. Because the Jansen marriage is undated, this difference does not establish a contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "676|684",
+  "verdict": "ACCEPT",
+  "reason": "The full head name and district match, and Johanna Maggel Petronella Strydom plausibly represents Johanna Matchteld Petronella Strydom, married in 1813. The remaining wife names and surname provide strong corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "679|2166",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Johanna Petronella Erasmus, married in 1798, match exactly. Somerset is compatible with Cradock in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "680|2167",
+  "verdict": "ACCEPT",
+  "reason": "The head name and Anna Maria Elisabeth Greyling, married in 1820, match with minor spelling variation. The age and Somerset–Cradock geography are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "681|2172",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, approximate age of 19 and Somerset–Cradock geography are compatible. No comparable wife or independently established paternal name corroborates the identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "682|246",
+  "verdict": "UNCERTAIN",
+  "reason": "Johan Philip matches the first two given names, and the additional Matthys is not itself a contradiction. The district agrees, but no spouse or confirmed paternal information establishes identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "683|441",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and approximate age of 19 are compatible, but another Johan Fredrik Otto is also listed. The absent census wife and 1828 marriage do not independently identify this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "683|890",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district agree, but the 1828 marriage to Anna Pretorious cannot confirm or contradict Johanna Catharina Parzoons in 1825. The genealogy supplies no paternal name to test the Samuel Fredrik annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "685|1605",
+  "verdict": "REJECT",
+  "reason": "Johanna Bezuidenhout contradicts Magdalena Adriana Beukes, married in 1822. Another Carel Johannes Pelzer has the matching Beukes wife and is clearly the better candidate.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pelzer, Carel Johannes"
+ },
+ {
+  "pair_id": "685|1888",
+  "verdict": "ACCEPT",
+  "reason": "The full head name, district and Magdalena Adriana Beukes, married in 1822, match exactly. The wife distinguishes this head from the older namesake married to Johanna Bezuidenhout.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "687|2429",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Hendrina Jacoba Maria van Aswegen, married in 1817, match exactly. Somerset is compatible with Cradock in 1823, and the other listed marriage occurred in 1839.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "688|78",
+  "verdict": "ACCEPT",
+  "reason": "The head name and Carolina Frederica Geere, married in 1804, match with ordinary spelling variations. This matching couple strongly identifies the senior man rather than the competing junior.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "689|78",
+  "verdict": "UNCERTAIN",
+  "reason": "The census couple strongly matches the competing senior man in pair 688|78, making the junior identification unlikely. However, the junior's unknown birth year and post-census marriage provide no direct contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "689|4934",
+  "verdict": "UNCERTAIN",
+  "reason": "The head name matches, but the birth year is missing and Graaff-Reinet differs from the declared Albany district. No census wife is named, and the 1832 marriage supplies no corroboration for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "691|4681",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Anna Elisabeth Visagie, married in 1806, match exactly. Colesberg is compatible with the Graaff-Reinet district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|2105",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Aletta Petronella van Heerden, married in 1822, match exactly. The district difference does not outweigh the matching couple, and the matching 1825 candidate need not represent a different man.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "692|4140",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Alletta Petronella van Heerden agree with the genealogy and its 1822 marriage. Colesberg is compatible with Graaff-Reinet, and the 1823 matching couple does not create a contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "694|7488",
+  "verdict": "ACCEPT",
+  "reason": "The head name and Susanna Maria Groenewald, married in 1799, match with normal surname and given-name spelling variations. The district and age support the senior man's identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "697|7488",
+  "verdict": "UNCERTAIN",
+  "reason": "The head and wife strongly match the competing elder man in pair 694|7488, whereas this man was only about 16 in 1825. His 1838 marriage cannot itself contradict the census wife, so the evidence makes this link unlikely without establishing a direct contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "695|7489",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches with ordinary spelling variations, and the district and approximate age of 23 are compatible. Neither record supplies a wife or another independent identifying detail.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "696|7490",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and an age of about 21 is compatible with heading a household. The absent census wife and later 1828 marriage provide no independent confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "698|9501",
+  "verdict": "ACCEPT",
+  "reason": "The full head name, district and Anna Christina Pieterse, married in 1819, match exactly. The dates provide no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "699|9503",
+  "verdict": "ACCEPT",
+  "reason": "Both Nicolaas Theodorus and Susanna Juliana Wilken match with minor spelling variations, and the district agrees. Although the marriage date is missing, the matching couple provides strong identification without a supplied chronological contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "700|9368",
+  "verdict": "UNCERTAIN",
+  "reason": "Elisabeth Smit differs from Martha Catharina van Staden, whom the genealogy man married in April 1825, and the Senior annotation adds doubt. Without the census date within 1825, the supplied marriage does not establish which wife must have been recorded.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "700|9534",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik is a normal spelling variant of Frederik, and Martha Catharina van Staden matches the wife married in April 1825. The district and approximate age of 21 are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "701|9602",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Josephus matches an explicitly listed genealogy name, and the district and approximate age of 19 are compatible. The 1829 marriage and unverified paternal annotation do not independently confirm identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "702|9410",
+  "verdict": "UNCERTAIN",
+  "reason": "Ferdinand Albertus is compatible with Ferdinandus Albertus, and Uitenhage agrees with the declared location. The census supplies no wife to compare with Johanna Josina Meyer, leaving the name match uncorroborated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "705|9739",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, and the declared Uitenhage connection supports the location. No wife or other independent identifying detail confirms the link, and the 1832 marriage cannot corroborate the 1825 head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "706|9775",
+  "verdict": "ACCEPT",
+  "reason": "The full head name matches, and Martha Maria Maretz is a plausible spelling variant of Martha Maria Maritz, married in 1813. Uitenhage agrees with the declared geographic history.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "708|114",
+  "verdict": "ACCEPT",
+  "reason": "The full head name and Emerentia Hester Snyman, married in 1803, match exactly. This strong couple match outweighs the uncertain declared Uitenhage location versus Albany.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "708|115",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but the Junior annotation is uncorroborated and the district differs from the tentative declared location. No census wife is named, which supplies neither confirmation nor an affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "710|9639",
+  "verdict": "UNCERTAIN",
+  "reason": "Elsie Magdalena Breedenbach plausibly matches Elsje Magdalena Adriana Breytenbach, married in 1814, and the district agrees. However, Marthinus differs materially from Mattys, and the supplied evidence does not resolve that first-name discrepancy.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,2555 @@
+[
+ {
+  "pair_id": "77|9549",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|139",
+  "genealogy_id": "BOTHAa1b2c9d7e6",
+  "surname": "BOTHA",
+  "given_names": "THEUNIS JOHANNES",
+  "birth_year": "1800.0",
+  "death_year": "1885",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "GEERTRUY MARIA",
+    "surname": "BRONKHORST",
+    "marriage_date": "06/10/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "ADRIANA JACOBA MARIA",
+    "surname": "DU PLESSIS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|736",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Botha, Jacobus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Nel, Geertruyda Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": "Fredrik's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "77|9549",
+   "101|9549"
+  ]
+ },
+ {
+  "pair_id": "101|9549",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|174",
+  "genealogy_id": "BOTHAa1b2c4d1e2f10",
+  "surname": "BOTHA",
+  "given_names": "JACOBUS FREDERIK",
+  "birth_year": "1809.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HESTER JOHANNA CORNELIA",
+    "surname": "POTGIETER",
+    "marriage_date": "08/08/1830",
+    "marriage_year": "1830"
+   }
+  ],
+  "genealogy_notes": "SUSTER A.H. POTGIETER",
+  "census_source": "1825 series.xlsx|Uitenhage 1825|736",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Botha, Jacobus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Nel, Geertruyda Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": "Fredrik's son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "77|9549",
+   "101|9549"
+  ]
+ },
+ {
+  "pair_id": "78|103",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|140",
+  "genealogy_id": "BOTHAa1b2c9d8e1",
+  "surname": "BOTHA",
+  "given_names": "WILLEM",
+  "birth_year": "1790.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CHRISTINA MAGDALENA",
+    "surname": "PIETERSE",
+    "marriage_date": "26/05/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Albany 1825|116",
+  "census_district": "Albany",
+  "census_year": 1825,
+  "census_head_name": "Botha, Theunis Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Goosen, Dorothea Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "78|103",
+   "90|103"
+  ]
+ },
+ {
+  "pair_id": "90|103",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|156",
+  "genealogy_id": "BOTHAa1b1c7d8e6",
+  "surname": "BOTHA",
+  "given_names": "THEUNIS GERHARDUS",
+  "birth_year": "1804.0",
+  "death_year": "1867",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CORNELIA MARIA",
+    "surname": "ELS",
+    "marriage_date": "05/08/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Albany 1825|116",
+  "census_district": "Albany",
+  "census_year": 1825,
+  "census_head_name": "Botha, Theunis Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Goosen, Dorothea Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "78|103",
+   "90|103"
+  ]
+ },
+ {
+  "pair_id": "78|163",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|140",
+  "genealogy_id": "BOTHAa1b2c9d8e1",
+  "surname": "BOTHA",
+  "given_names": "WILLEM",
+  "birth_year": "1790.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CHRISTINA MAGDALENA",
+    "surname": "PIETERSE",
+    "marriage_date": "26/05/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Albany 1825|185",
+  "census_district": "Albany",
+  "census_year": 1825,
+  "census_head_name": "Botha, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Hester Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "78|163",
+   "100|163"
+  ]
+ },
+ {
+  "pair_id": "100|163",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|173",
+  "genealogy_id": "BOTHAa1b2c4d1e1f2",
+  "surname": "BOTHA",
+  "given_names": "WILLEM FREDERIK",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA CATHARINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/09/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Albany 1825|185",
+  "census_district": "Albany",
+  "census_year": 1825,
+  "census_head_name": "Botha, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Hester Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "78|163",
+   "100|163"
+  ]
+ },
+ {
+  "pair_id": "78|4985",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|140",
+  "genealogy_id": "BOTHAa1b2c9d8e1",
+  "surname": "BOTHA",
+  "given_names": "WILLEM",
+  "birth_year": "1790.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CHRISTINA MAGDALENA",
+    "surname": "PIETERSE",
+    "marriage_date": "26/05/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|954",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Willem",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Anna Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "78|4985",
+   "83|4985"
+  ]
+ },
+ {
+  "pair_id": "83|4985",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|145",
+  "genealogy_id": "BOTHAa1b5c9d1e6",
+  "surname": "BOTHA",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ESTER FRANCINA JACOBA",
+    "surname": "HENNOP",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|954",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Willem",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Berg, Anna Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jan Hendrik",
+    "census_spouse": "Oosthuizen, Susanna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "78|4985",
+   "83|4985"
+  ]
+ },
+ {
+  "pair_id": "79|3388",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|141",
+  "genealogy_id": "BOTHAa1b4c10d10e1",
+  "surname": "BOTHA",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "CARELSE",
+    "marriage_date": "07/01/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|82",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Botha, Marthinus Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Koen, E. M.",
+  "census_widow_of": null,
+  "census_annotation": "M. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jacobus Johannes",
+    "census_spouse": "Barnard, Aletta Catharina",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus C.",
+    "census_spouse": "Barnard, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Koen, M. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Johannes Casparus",
+    "census_spouse": "Barnard, M. E.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Barnard, L.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Daniel Laurens",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "79|3388"
+  ]
+ },
+ {
+  "pair_id": "79|3910",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|141",
+  "genealogy_id": "BOTHAa1b4c10d10e1",
+  "surname": "BOTHA",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "CARELSE",
+    "marriage_date": "07/01/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|642",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Botha, Johan Adriaan",
+  "census_head_role": "male",
+  "census_spouse": "Schoeman, J. H. P.",
+  "census_widow_of": null,
+  "census_annotation": "F. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jacobus Johannes",
+    "census_spouse": "Barnard, Aletta Catharina",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus C.",
+    "census_spouse": "Barnard, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Koen, M. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus Christoffel",
+    "census_spouse": "Koen, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Johannes Casparus",
+    "census_spouse": "Barnard, M. E.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Barnard, L.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "79|3910"
+  ]
+ },
+ {
+  "pair_id": "79|3931",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|141",
+  "genealogy_id": "BOTHAa1b4c10d10e1",
+  "surname": "BOTHA",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "CARELSE",
+    "marriage_date": "07/01/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|666",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Botha, Louis Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Strydom, E. J.",
+  "census_widow_of": null,
+  "census_annotation": "Field Cornet",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jacobus Johannes",
+    "census_spouse": "Barnard, Aletta Catharina",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus C.",
+    "census_spouse": "Barnard, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Koen, M. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus Christoffel",
+    "census_spouse": "Koen, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Johannes Casparus",
+    "census_spouse": "Barnard, M. E.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Barnard, L.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "79|3931",
+   "80|3931"
+  ]
+ },
+ {
+  "pair_id": "80|3931",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|142",
+  "genealogy_id": "BOTHAa1b4c10d10e2",
+  "surname": "BOTHA",
+  "given_names": "WILLEM ADRIAAN",
+  "birth_year": "1800.0",
+  "death_year": null,
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "MARIA",
+    "surname": "SCHOEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|666",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Botha, Louis Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Strydom, E. J.",
+  "census_widow_of": null,
+  "census_annotation": "Field Cornet",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jacobus Johannes",
+    "census_spouse": "Barnard, Aletta Catharina",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus C.",
+    "census_spouse": "Barnard, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Koen, M. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus Christoffel",
+    "census_spouse": "Koen, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Johannes Casparus",
+    "census_spouse": "Barnard, M. E.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Barnard, L.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "79|3931",
+   "80|3931"
+  ]
+ },
+ {
+  "pair_id": "79|3935",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|141",
+  "genealogy_id": "BOTHAa1b4c10d10e1",
+  "surname": "BOTHA",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1799.0",
+  "death_year": null,
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "CARELSE",
+    "marriage_date": "07/01/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|670",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Botha, Johannes Christoffel",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "D. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jacobus Johannes",
+    "census_spouse": "Barnard, Aletta Catharina",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus C.",
+    "census_spouse": "Barnard, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Koen, M. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus Christoffel",
+    "census_spouse": "Koen, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Johannes Casparus",
+    "census_spouse": "Barnard, M. E.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Barnard, L.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "79|3935"
+  ]
+ },
+ {
+  "pair_id": "82|4436",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|144",
+  "genealogy_id": "BOTHAa1b5c9d1e2",
+  "surname": "BOTHA",
+  "given_names": "JOHANNES LODEWICUS PETRUS",
+  "birth_year": "1789.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CHRISTINA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "26/12/1809",
+    "marriage_year": "1809"
+   },
+   {
+    "name": "ANNA DOROTHEA",
+    "surname": "SCHOLTZ",
+    "marriage_date": "07/02/1819",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": "VEGKOP",
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|403",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Hendrik Johannes",
+    "census_spouse": "Van Wyk, Hester",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Botha, Alewijn Petrus",
+    "census_spouse": "Smit, Anna Marg.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Botha, Johannes",
+    "census_spouse": "Jordaan, Petronella",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Botha, Theunis Johannes",
+    "census_spouse": "Theron, Anna Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Botha, Gideon Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Botha, Willem Albertus",
+    "census_spouse": "Venter, Maria Elisabeth",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "82|4436"
+  ]
+ },
+ {
+  "pair_id": "83|2016",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|145",
+  "genealogy_id": "BOTHAa1b5c9d1e6",
+  "surname": "BOTHA",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ESTER FRANCINA JACOBA",
+    "surname": "HENNOP",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|587",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Johannes Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "du Plessies, Johanna Helena",
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jan Hendrik",
+    "census_spouse": "Oosthuizen, Susanna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "83|2016"
+  ]
+ },
+ {
+  "pair_id": "83|2243",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|145",
+  "genealogy_id": "BOTHAa1b5c9d1e6",
+  "surname": "BOTHA",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ESTER FRANCINA JACOBA",
+    "surname": "HENNOP",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|842",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Catharina Geertruida",
+  "census_widow_of": null,
+  "census_annotation": "Gerrit's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jan Hendrik",
+    "census_spouse": "Oosthuizen, Susanna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "83|2243",
+   "100|2243"
+  ]
+ },
+ {
+  "pair_id": "100|2243",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|173",
+  "genealogy_id": "BOTHAa1b2c4d1e1f2",
+  "surname": "BOTHA",
+  "given_names": "WILLEM FREDERIK",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA CATHARINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/09/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|842",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Catharina Geertruida",
+  "census_widow_of": null,
+  "census_annotation": "Gerrit's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "83|2243",
+   "100|2243"
+  ]
+ },
+ {
+  "pair_id": "83|4541",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|145",
+  "genealogy_id": "BOTHAa1b5c9d1e6",
+  "surname": "BOTHA",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ESTER FRANCINA JACOBA",
+    "surname": "HENNOP",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|509",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Willem Albertus",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Maria Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jan Hendrik",
+    "census_spouse": "Oosthuizen, Susanna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "83|4541"
+  ]
+ },
+ {
+  "pair_id": "83|5311",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|145",
+  "genealogy_id": "BOTHAa1b5c9d1e6",
+  "surname": "BOTHA",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ESTER FRANCINA JACOBA",
+    "surname": "HENNOP",
+    "marriage_date": "05/01/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1282",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Christoffel Francois",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Anna Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jan Hendrik",
+    "census_spouse": "Oosthuizen, Susanna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "83|5311",
+   "89|5311"
+  ]
+ },
+ {
+  "pair_id": "89|5311",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|154",
+  "genealogy_id": "BOTHAa1b1c7d2e9",
+  "surname": "BOTHA",
+  "given_names": "CHRISTOFFEL JACOBUS THEUNIS",
+  "birth_year": "1790.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA DOROTHEA",
+    "surname": "TERBLANCHE",
+    "marriage_date": "05/01/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1282",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Christoffel Francois",
+  "census_head_role": "male",
+  "census_spouse": "Viljoen, Anna Christina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "83|5311",
+   "89|5311"
+  ]
+ },
+ {
+  "pair_id": "85|1690",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|149",
+  "genealogy_id": "BOTHAa1b1c7d1e10",
+  "surname": "BOTHA",
+  "given_names": "JOHANNES CHRISTIAAN",
+  "birth_year": "1794.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "JANSE VAN VUUREN",
+    "marriage_date": "05/10/1819",
+    "marriage_year": "1819"
+   }
+  ],
+  "genealogy_notes": "BEREDDER EERSTE",
+  "census_source": "1825 series.xlsx|Cradock 1823|226",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Johannes Francois",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Christoffel's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "85|1690"
+  ]
+ },
+ {
+  "pair_id": "88|5269",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|152",
+  "genealogy_id": "BOTHAa1b1c7d1e4",
+  "surname": "BOTHA",
+  "given_names": "THEUNIS LOUIS",
+  "birth_year": "1775.0",
+  "death_year": "1865",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA",
+    "surname": "ERASMUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1240",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Theunis",
+  "census_head_role": "male",
+  "census_spouse": "Roos, Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "88|5269",
+   "90|5269"
+  ]
+ },
+ {
+  "pair_id": "90|5269",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|156",
+  "genealogy_id": "BOTHAa1b1c7d8e6",
+  "surname": "BOTHA",
+  "given_names": "THEUNIS GERHARDUS",
+  "birth_year": "1804.0",
+  "death_year": "1867",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CORNELIA MARIA",
+    "surname": "ELS",
+    "marriage_date": "05/08/1821",
+    "marriage_year": "1821"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1240",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Botha, Theunis",
+  "census_head_role": "male",
+  "census_spouse": "Roos, Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "88|5269",
+   "90|5269"
+  ]
+ },
+ {
+  "pair_id": "91|1950",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|158",
+  "genealogy_id": "BOTHAa1b2c4d1e2f9",
+  "surname": "BOTHA",
+  "given_names": "PIETER JOHANNES",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CHRISTINA",
+    "surname": "PUTTER",
+    "marriage_date": "02/12/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|515",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Fredrik Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "91|1950",
+   "94|1950"
+  ]
+ },
+ {
+  "pair_id": "94|1950",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|163",
+  "genealogy_id": "BOTHAa1b2c9d8e4",
+  "surname": "BOTHA",
+  "given_names": "FREDERIK CHRISTOFFEL",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA CATHARINA",
+    "surname": "NEL",
+    "marriage_date": "05/07/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|515",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Fredrik Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "91|1950",
+   "94|1950"
+  ]
+ },
+ {
+  "pair_id": "91|1954",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|158",
+  "genealogy_id": "BOTHAa1b2c4d1e2f9",
+  "surname": "BOTHA",
+  "given_names": "PIETER JOHANNES",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA CHRISTINA",
+    "surname": "PUTTER",
+    "marriage_date": "02/12/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|519",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Pieter Johannes",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Piet's zoon. Ingeschreven",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "91|1954"
+  ]
+ },
+ {
+  "pair_id": "92|9008",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|160",
+  "genealogy_id": "BOTHAa1b2c9d3e10",
+  "surname": "BOTHA",
+  "given_names": "JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": "1880",
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "SUSARA JACOBA MARGARETHA",
+    "surname": "WILLEMSE",
+    "marriage_date": "26/12/1829",
+    "marriage_year": "1829"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|154",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Botha, Jacobus Theodoris",
+  "census_head_role": "male",
+  "census_spouse": "Van Rooyen, Martha Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bode, Thomas",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Botha, Gerrit",
+    "census_spouse": "Lombard, Aletta Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Botha, Rynier",
+    "census_spouse": "Van Staden, Isabella Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Crouse, Martha Catharina",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Botha, Barend Johannes",
+    "census_spouse": "Janze van Vuuren, Alletta Cornelia",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Botha, Gerrit",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "92|9008"
+  ]
+ },
+ {
+  "pair_id": "94|1856",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|163",
+  "genealogy_id": "BOTHAa1b2c9d8e4",
+  "surname": "BOTHA",
+  "given_names": "FREDERIK CHRISTOFFEL",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA CATHARINA",
+    "surname": "NEL",
+    "marriage_date": "05/07/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|411",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Fredrik Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Maria Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Fredrik's zoon. Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "94|1856"
+  ]
+ },
+ {
+  "pair_id": "96|3932",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|165",
+  "genealogy_id": "BOTHAa1b410d10e5",
+  "surname": "BOTHA",
+  "given_names": "DAVID ADOLPH MICHIEL",
+  "birth_year": "1806.0",
+  "death_year": "1879",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "MARIA ELISABETH",
+    "surname": "CARELSE",
+    "marriage_date": "09/10/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|George 1825|667",
+  "census_district": "George",
+  "census_year": 1825,
+  "census_head_name": "Botha, David Herculis",
+  "census_head_role": "male",
+  "census_spouse": "Botha, L. J.",
+  "census_widow_of": null,
+  "census_annotation": "D. son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jacobus Johannes",
+    "census_spouse": "Barnard, Aletta Catharina",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus C.",
+    "census_spouse": "Barnard, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Koen, M. C.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Marthinus Christoffel",
+    "census_spouse": "Koen, E. M.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Johannes Casparus",
+    "census_spouse": "Barnard, M. E.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Botha, Jacobus",
+    "census_spouse": "Barnard, L.",
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "96|3932"
+  ]
+ },
+ {
+  "pair_id": "97|2259",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|166",
+  "genealogy_id": "BOTHAa1b4c10d11e1",
+  "surname": "BOTHA",
+  "given_names": "PETRUS JOHANNES",
+  "birth_year": "1797.0",
+  "death_year": "1852",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "GEERTRUY MARGARETHA ELISABETH",
+    "surname": "VAN SCHALKWYK",
+    "marriage_date": "08/06/1816",
+    "marriage_year": "1816"
+   },
+   {
+    "name": "HESTER ALETTA",
+    "surname": "VAN ZYL",
+    "marriage_date": "07/12/1817",
+    "marriage_year": null
+   },
+   {
+    "name": "MARIA SUSANNA",
+    "surname": "VAN ZYL",
+    "marriage_date": "26/12/1822",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|858",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Bothma, Abraham Carel",
+  "census_head_role": "male",
+  "census_spouse": "Bothma, Geertruida Maria",
+  "census_widow_of": null,
+  "census_annotation": "Johannes' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botha, Jan Hendrik",
+    "census_spouse": "Oosthuizen, Susanna Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Fredrik Johannes",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Theunis Jacobus",
+    "census_spouse": "van der Nest, Maria Elizabeth Hendrina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "97|2259"
+  ]
+ },
+ {
+  "pair_id": "99|1688",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|172",
+  "genealogy_id": "BOTHAa1b1c7d2e3f1",
+  "surname": "BOTHA",
+  "given_names": "PHILIP RUDOLPH",
+  "birth_year": "1800.0",
+  "death_year": "1875",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA JOHANNA",
+    "surname": "NEL",
+    "marriage_date": "06/01/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "ELISABETH CORNELIA",
+    "surname": "MAREE",
+    "marriage_date": "25/03/1860",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": "MZILIKAZI",
+  "census_source": "1825 series.xlsx|Cradock 1823|224",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Abraham Lodovicus",
+  "census_head_role": "male",
+  "census_spouse": "van der Nest, Helena Claudina",
+  "census_widow_of": null,
+  "census_annotation": "Christiaan's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "99|1688"
+  ]
+ },
+ {
+  "pair_id": "99|1691",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|172",
+  "genealogy_id": "BOTHAa1b1c7d2e3f1",
+  "surname": "BOTHA",
+  "given_names": "PHILIP RUDOLPH",
+  "birth_year": "1800.0",
+  "death_year": "1875",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA JOHANNA",
+    "surname": "NEL",
+    "marriage_date": "06/01/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "ELISABETH CORNELIA",
+    "surname": "MAREE",
+    "marriage_date": "25/03/1860",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": "MZILIKAZI",
+  "census_source": "1825 series.xlsx|Cradock 1823|227",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Philip Rudolph",
+  "census_head_role": "male",
+  "census_spouse": "Prinsloo, Geertruide Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Christoffel's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "99|1691",
+   "108|1691"
+  ]
+ },
+ {
+  "pair_id": "108|1691",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|186",
+  "genealogy_id": "BOTHMAa1b5c3d10e7f1",
+  "surname": "BOTHMA",
+  "given_names": "CORNELIS ARNOLDUS",
+  "birth_year": "1802.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA WILHELMINA LEVINA",
+    "surname": "BESTER",
+    "marriage_date": "08/08/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|227",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Philip Rudolph",
+  "census_head_role": "male",
+  "census_spouse": "Prinsloo, Geertruide Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Christoffel's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "99|1691",
+   "108|1691"
+  ]
+ },
+ {
+  "pair_id": "99|4696",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|172",
+  "genealogy_id": "BOTHAa1b1c7d2e3f1",
+  "surname": "BOTHA",
+  "given_names": "PHILIP RUDOLPH",
+  "birth_year": "1800.0",
+  "death_year": "1875",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA JOHANNA",
+    "surname": "NEL",
+    "marriage_date": "06/01/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "ELISABETH CORNELIA",
+    "surname": "MAREE",
+    "marriage_date": "25/03/1860",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": "MZILIKAZI",
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|664",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Oberholzer, Anna Sophia",
+  "census_head_role": "female",
+  "census_spouse": null,
+  "census_widow_of": "Botha, Philip Rudolph (widow of)",
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "99|4696"
+  ]
+ },
+ {
+  "pair_id": "100|9514",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|173",
+  "genealogy_id": "BOTHAa1b2c4d1e1f2",
+  "surname": "BOTHA",
+  "given_names": "WILLEM FREDERIK",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA CATHARINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/09/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|697",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Botha, Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Crouse, Martha Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "100|9514"
+  ]
+ },
+ {
+  "pair_id": "105|1901",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|183",
+  "genealogy_id": "BOTHMAa1b5c3d10e2f8",
+  "surname": "BOTHMA",
+  "given_names": "JAN DANIEL",
+  "birth_year": "1807.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MAGDADLENA ELISABETH ANNA MARIA",
+    "surname": "BOTES",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "CATHARINA SOPHIA",
+    "surname": "ERASMUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|460",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Joseph Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Martha Louisa",
+  "census_widow_of": null,
+  "census_annotation": "Hercules' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "105|1901"
+  ]
+ },
+ {
+  "pair_id": "105|1952",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|183",
+  "genealogy_id": "BOTHMAa1b5c3d10e2f8",
+  "surname": "BOTHMA",
+  "given_names": "JAN DANIEL",
+  "birth_year": "1807.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MAGDADLENA ELISABETH ANNA MARIA",
+    "surname": "BOTES",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "CATHARINA SOPHIA",
+    "surname": "ERASMUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|517",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Botha, Pieter",
+  "census_head_role": "male",
+  "census_spouse": "Botha, Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "105|1952"
+  ]
+ },
+ {
+  "pair_id": "106|2261",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|184",
+  "genealogy_id": "BOTHMAa1b5c3d10e4f2",
+  "surname": "BOTHMA",
+  "given_names": "GERHARDUS CORNELIS",
+  "birth_year": "1801.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|860",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Bothma, Johannes Arnoldus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Bothma, Johannes",
+    "census_spouse": "Greyling, Anna Maria",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Theunis Christoffel",
+    "census_spouse": "Goosen, Dorothea Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Willem",
+    "census_spouse": "Venter, Hester Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Botha, Johannes Fredrik",
+    "census_spouse": "Stein, Cecilia Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Philippus Stephanus",
+    "census_spouse": "Steenberg, Aletta Johanna Magdelena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Botha, Paul Stephanus",
+    "census_spouse": "Botha, Anna Jacomina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "106|2261"
+  ]
+ },
+ {
+  "pair_id": "112|9859",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|190",
+  "genealogy_id": "BOTHMAa1b5c3d4e4f11",
+  "surname": "BOTHMA",
+  "given_names": "LODEWYK",
+  "birth_year": "1802.0",
+  "death_year": null,
+  "declared_district": "WORCESTER",
+  "spouses": [
+   {
+    "name": "CORNELIA JOSINA",
+    "surname": "STEENBERG",
+    "marriage_date": "03/04/1821",
+    "marriage_year": "1821"
+   },
+   {
+    "name": "ELSIE JACOBA",
+    "surname": "MARITZ",
+    "marriage_date": "26/01/1834",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Worcester 1824|99",
+  "census_district": "Worcester",
+  "census_year": 1824,
+  "census_head_name": "Bothma, Lodewyk Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "Jacobs, Elisabeth Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Lodewyk zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Botma, Lodewyk",
+    "census_spouse": "Liebenberg, Anna B.",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Botma, Stephanus Johannes",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Botma, Stephanus Jacobus",
+    "census_spouse": "Esterhuyzen, Engela Elisabeth",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Botma, Jacob",
+    "census_spouse": "Ferreyn, Christina Johanna",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Botma, Gert Lodewyk",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Botma, Jasper",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "112|9859"
+  ]
+ },
+ {
+  "pair_id": "119|4210",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|202",
+  "genealogy_id": "BREEDa1b2c5",
+  "surname": "BREED",
+  "given_names": "GERHARDUS CHRISTIAAN",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "GESINA WILHELMINA",
+    "surname": "VENTER",
+    "marriage_date": "07/03/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|176",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Breed, Gerhardus Chistiaan",
+  "census_head_role": "male",
+  "census_spouse": "Venter, Gegina Wilhelmina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Breed, Jacob",
+    "census_spouse": "de Beer, Maria Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Breed?, Petrus",
+    "census_spouse": "Fourie, Susanna Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Breed, David",
+    "census_spouse": "Vosloo, Anna Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Breedt, Johannes Augustus",
+    "census_spouse": "Venter, Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Breedt, Willem",
+    "census_spouse": "Visagie, Maria Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Breedt, Gerhardus Christiaan",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "119|4210"
+  ]
+ }
+]

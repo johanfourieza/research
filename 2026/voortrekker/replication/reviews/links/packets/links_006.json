@@ -1,0 +1,2587 @@
+[
+ {
+  "pair_id": "254|2130",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|436",
+  "genealogy_id": "DELPORTa1b6c2d1e1",
+  "surname": "DELPORT",
+  "given_names": "JACOBUS PETRUS",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELIZABETH JACOBA",
+    "surname": "SMIT",
+    "marriage_date": "07/04/1817",
+    "marriage_year": "1817"
+   },
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "HATTINGH",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|715",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Delport, Jacobus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Smit, Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "Jacobus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Delport, Jan Hendrik",
+    "census_spouse": "Labuscagne, Dorothea Johanna Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Delport, Mechiel Daniel",
+    "census_spouse": "De Lange, Aletta Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Delport, Isaac",
+    "census_spouse": "Bezuidenhout, Sophia Aletta",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Delport, Isaac Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Delport, Isac Ziske",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Delport, Daniel",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "254|2130"
+  ]
+ },
+ {
+  "pair_id": "255|9345",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|441",
+  "genealogy_id": "DORFLINGa1b4",
+  "surname": "DORFLING",
+  "given_names": "JACOB BERNARD",
+  "birth_year": "1790.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ISABELLA CATHARINA MARIA",
+    "surname": "VAN STADEN",
+    "marriage_date": "26/05/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|515",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Dorfling, Jacob Barnard",
+  "census_head_role": "male",
+  "census_spouse": "Van Staden, Sabella Catharina Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Dorfling, Johan Michiel",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Dorfling, Christiaan Jacobus",
+    "census_spouse": "Loggerenberg, Geerbrecht Maria Adriana",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Dorfling, Johan Fredrik",
+    "census_spouse": null,
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Dorfling, Philip Carel",
+    "census_spouse": "Pietersen, A. M. W.",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Dorfling, Johan Theodoris",
+    "census_spouse": "Keyzer, Susanna Johanna",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "255|9345"
+  ]
+ },
+ {
+  "pair_id": "256|2168",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|444",
+  "genealogy_id": "DREYERa1b4c1d3",
+  "surname": "DREYER",
+  "given_names": "CHRISTIAAN LOURENS SR",
+  "birth_year": "1787.0",
+  "death_year": null,
+  "declared_district": "ALBANY",
+  "spouses": [
+   {
+    "name": "CHRISTINA",
+    "surname": "STEYN",
+    "marriage_date": "16/08/1807",
+    "marriage_year": "1807"
+   },
+   {
+    "name": "SUSANNA CATHARINA",
+    "surname": "SCHUTTE",
+    "marriage_date": "04/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|759",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Dreyer, Christiaan Lourens",
+  "census_head_role": "male",
+  "census_spouse": "Stein, Christina",
+  "census_widow_of": null,
+  "census_annotation": "Thomas' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Dreyer, Johannes Philip",
+    "census_spouse": "Heyer, Jacomina Frederica",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Lucas Ignatius",
+    "census_spouse": "Van der Merwe, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Andries Frederik",
+    "census_spouse": "Geyer, Anna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Casparus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "256|2168"
+  ]
+ },
+ {
+  "pair_id": "257|2242",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|447",
+  "genealogy_id": "DREYERa1b4c1d5",
+  "surname": "DREYER",
+  "given_names": "ROELOF PETRUS GERHARDUS",
+  "birth_year": "1793.0",
+  "death_year": "1874",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HESTER MARTHA ALETTA",
+    "surname": "JANSE VAN VUUREN",
+    "marriage_date": "18/07/1814",
+    "marriage_year": "1814"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|839",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Dreyer, Roelof Petrus Gerhardus",
+  "census_head_role": "male",
+  "census_spouse": "Janze, Elsje Martha Aletta",
+  "census_widow_of": null,
+  "census_annotation": "Thomas' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Dreyer, Johannes Philip",
+    "census_spouse": "Heyer, Jacomina Frederica",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Lucas Ignatius",
+    "census_spouse": "Van der Merwe, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Andries Frederik",
+    "census_spouse": "Geyer, Anna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Casparus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Dreyer, Thomas",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Dreyer, Christiaan Lourens",
+    "census_spouse": "Stein, Christina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "257|2242"
+  ]
+ },
+ {
+  "pair_id": "258|7513",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|451",
+  "genealogy_id": "DU PLESSISa1b1c5c12e3",
+  "surname": "DU PLESSIS",
+  "given_names": "ANDRIES STEPHANUS",
+  "birth_year": "1791.0",
+  "death_year": "1860",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA ELIZABETH",
+    "surname": "BOTHA",
+    "marriage_date": "11/05/1812",
+    "marriage_year": "1812"
+   },
+   {
+    "name": "JOHANNA CHRISTINA",
+    "surname": "SMIT",
+    "marriage_date": "05/01/1824",
+    "marriage_year": null
+   },
+   {
+    "name": "CORNELIA CATHARINA",
+    "surname": "ROBBERTSE",
+    "marriage_date": "05/06/1825",
+    "marriage_year": null
+   },
+   {
+    "name": "ANNA SOPHIA",
+    "surname": "GROBLER",
+    "marriage_date": "03/06/1838",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|585",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Du Plessis, Andries Stephanus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "258|7513",
+   "263|7513"
+  ]
+ },
+ {
+  "pair_id": "263|7513",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|457",
+  "genealogy_id": "DU PLESSISa1b1c7d5e6f2",
+  "surname": "DU PLESSIS",
+  "given_names": "ANDRIES STEPHANUS",
+  "birth_year": "1804.0",
+  "death_year": "1895",
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "JOHANNA CHRISTINA",
+    "surname": "SMITH",
+    "marriage_date": "05/01/1824",
+    "marriage_year": "1824"
+   },
+   {
+    "name": "MARIA HENDRIKA",
+    "surname": "BEYERS",
+    "marriage_date": "06/11/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|585",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Du Plessis, Andries Stephanus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plessis, Philip",
+    "census_spouse": "Steyn, Franciena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Willem",
+    "census_spouse": "Appel, Elisabeth Helena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Johannes Hendrik",
+    "census_spouse": "Leroux, Rachel Elisabeth",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Charl",
+    "census_spouse": "Nortje, Maria",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Daniel Petrus",
+    "census_spouse": "Van Wyk, Anna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Daniel Sr.",
+    "census_spouse": "Van der Schyf, Elsje Catharina",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "258|7513",
+   "263|7513"
+  ]
+ },
+ {
+  "pair_id": "259|9941",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|452",
+  "genealogy_id": "DU PLESSISa1b1c5d16e4",
+  "surname": "DU PLESSIS",
+  "given_names": "WYNAND LOUW",
+  "birth_year": "1803.0",
+  "death_year": "1865",
+  "declared_district": "WORCESTER",
+  "spouses": [
+   {
+    "name": "MARIA JACOBA",
+    "surname": "MOUTON",
+    "marriage_date": "03/03/1833",
+    "marriage_year": "1833"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Worcester 1824|218",
+  "census_district": "Worcester",
+  "census_year": 1824,
+  "census_head_name": "Du Plessis, Wynand Louw",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Charl zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plessis, Philippus",
+    "census_spouse": "Rademan, Hester M.",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Du Plessis, Pieter",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Du Plessis, Philippus Jacobus",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Du Plessis, Jan Abraham",
+    "census_spouse": "Van Wyk, Anna",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Du Plessis, Charl Petrus",
+    "census_spouse": "Du Toit, Gesina Maria",
+    "census_district": "Worcester"
+   },
+   {
+    "census_head_name": "Du Plessis, Johannes Petrus",
+    "census_spouse": null,
+    "census_district": "Worcester"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "259|9941"
+  ]
+ },
+ {
+  "pair_id": "260|7268",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|453",
+  "genealogy_id": "DU PLESSISa1b1c7d4e6",
+  "surname": "DU PLESSIS",
+  "given_names": "WILLEM",
+  "birth_year": "1783.0",
+  "death_year": null,
+  "declared_district": "SWELLENDAM",
+  "spouses": [
+   {
+    "name": "ELISABETH HELENA",
+    "surname": "APPEL",
+    "marriage_date": "22/03/1801",
+    "marriage_year": "1801"
+   },
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "OLIVIER",
+    "marriage_date": "18/12/1833",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|137",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Du Plessis, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Appel, Elisabeth Helena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plessis, Philip",
+    "census_spouse": "Steyn, Franciena",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Johannes Hendrik",
+    "census_spouse": "Leroux, Rachel Elisabeth",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Charl",
+    "census_spouse": "Nortje, Maria",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Daniel Petrus",
+    "census_spouse": "Van Wyk, Anna",
+    "census_district": "Swellendam"
+   },
+   {
+    "census_head_name": "Du Plessis, Daniel Sr.",
+    "census_spouse": "Van der Schyf, Elsje Catharina",
+    "census_district": "Swellendam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "260|7268"
+  ]
+ },
+ {
+  "pair_id": "264|1922",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|458",
+  "genealogy_id": "DU PLESSISa1b6c1d10e1",
+  "surname": "DU PLESSIS",
+  "given_names": "JAN",
+  "birth_year": "1804.0",
+  "death_year": "1877",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SUSANNA GEERTRUIDA",
+    "surname": "JORDAAN",
+    "marriage_date": "03/03/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|485",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Jan",
+  "census_head_role": "male",
+  "census_spouse": "Jordaan, Susanna Geertruida",
+  "census_widow_of": null,
+  "census_annotation": "Barend's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "264|1922"
+  ]
+ },
+ {
+  "pair_id": "265|1921",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|461",
+  "genealogy_id": "DU PLESSISa1b6c1d10e2",
+  "surname": "DU PLESSIS",
+  "given_names": "BAREND CHRISTOFFEL",
+  "birth_year": "1805.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA",
+    "surname": "DE KLERK",
+    "marriage_date": "05/01/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": "BROER, JAN DU PLESSIS",
+  "census_source": "1825 series.xlsx|Cradock 1823|482",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Barend Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "Steenkamp, Anna Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "Senior",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "265|1921"
+  ]
+ },
+ {
+  "pair_id": "265|1923",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|461",
+  "genealogy_id": "DU PLESSISa1b6c1d10e2",
+  "surname": "DU PLESSIS",
+  "given_names": "BAREND CHRISTOFFEL",
+  "birth_year": "1805.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELISABETH JOHANNA",
+    "surname": "DE KLERK",
+    "marriage_date": "05/01/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": "BROER, JAN DU PLESSIS",
+  "census_source": "1825 series.xlsx|Cradock 1823|486",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Barend Christoffel",
+  "census_head_role": "male",
+  "census_spouse": "de Klerk, Elizabeth Johanna",
+  "census_widow_of": null,
+  "census_annotation": "Barend's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "265|1923"
+  ]
+ },
+ {
+  "pair_id": "266|1935",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|462",
+  "genealogy_id": "DU PLESSISa1b6c1d1e10",
+  "surname": "DU PLESSIS",
+  "given_names": "JAN ADRIAAN",
+  "birth_year": "1804.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA HELENA",
+    "surname": "DU PLESSIS",
+    "marriage_date": "04/04/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|498",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Jan Adriaan",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Piet's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "266|1935"
+  ]
+ },
+ {
+  "pair_id": "267|1936",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|463",
+  "genealogy_id": "DU PLESSISa1b6c1d1e11",
+  "surname": "DU PLESSIS",
+  "given_names": "LOURENS MARTHINUS",
+  "birth_year": "1806.0",
+  "death_year": "1870",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MAGDALENA SOPHIA FRANCINA",
+    "surname": "KRUGER",
+    "marriage_date": "03/08/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "SUSANNA CATHARINA PETRONELLA",
+    "surname": "LABUSCHAGNE",
+    "marriage_date": "06/02/1831",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|499",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Laurens Marthinus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Piet's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "267|1936"
+  ]
+ },
+ {
+  "pair_id": "268|1934",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|465",
+  "genealogy_id": "DU PLESSISa1b6c1d1e3",
+  "surname": "DU PLESSIS",
+  "given_names": "WILLEM ABRAHAM",
+  "birth_year": "1804.0",
+  "death_year": "1876",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA ELISABETH",
+    "surname": "KLOPPERS",
+    "marriage_date": "04/10/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|497",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Willem Abraham",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Piet's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "268|1934"
+  ]
+ },
+ {
+  "pair_id": "269|1933",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|466",
+  "genealogy_id": "DU PLESSISa1b6c1d1e7",
+  "surname": "DU PLESSIS",
+  "given_names": "PIETER",
+  "birth_year": "1798.0",
+  "death_year": "/877",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA ELISABETH",
+    "surname": "KLOPPER",
+    "marriage_date": "11/03/1820",
+    "marriage_year": "1820"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|496",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Pieter",
+  "census_head_role": "male",
+  "census_spouse": "Klopper, Maria Elizabeth",
+  "census_widow_of": null,
+  "census_annotation": "Piet's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "269|1933"
+  ]
+ },
+ {
+  "pair_id": "270|1964",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|468",
+  "genealogy_id": "DU PLESSISa1b6c1d4e1",
+  "surname": "DU PLESSIS",
+  "given_names": "JAN HARM PIETER IGNATIUS MICHAEL",
+  "birth_year": "1792.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "PETRONELLA MARGARETHA",
+    "surname": "POTGIETER",
+    "marriage_date": "02/12/1810",
+    "marriage_year": "1810"
+   },
+   {
+    "name": "ANNA FRANCINA",
+    "surname": "DE BEER",
+    "marriage_date": "05/05/1852",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|531",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plesies, Jan Harmse",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Petronella Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Louw's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "270|1964"
+  ]
+ },
+ {
+  "pair_id": "271|1975",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|472",
+  "genealogy_id": "DU PLESSISa1b6c1d4e2",
+  "surname": "DU PLESSIS",
+  "given_names": "LOURENS STEPHANUS SR",
+  "birth_year": "1794.0",
+  "death_year": "1850",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA LEVINA",
+    "surname": "DU PLESSIS",
+    "marriage_date": "04/10/1813",
+    "marriage_year": "1813"
+   },
+   {
+    "name": "SUSANNA MARIA",
+    "surname": "FOURIE",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|542",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Laurens Stephanus",
+  "census_head_role": "male",
+  "census_spouse": "du Plessies, Catharina Levina",
+  "census_widow_of": null,
+  "census_annotation": "Louw's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "271|1975"
+  ]
+ },
+ {
+  "pair_id": "272|1974",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|474",
+  "genealogy_id": "DU PLESSISa1b6c1d4e3",
+  "surname": "DU PLESSIS",
+  "given_names": "PIETER IGNATIUS",
+  "birth_year": "1796.0",
+  "death_year": "1879",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ENGELA PETRONELLA",
+    "surname": "DU PLESSIS",
+    "marriage_date": "02/02/1817",
+    "marriage_year": "1817"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|541",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Pieter Ignatius",
+  "census_head_role": "male",
+  "census_spouse": "du Plessies, Engela Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Louw's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "272|1974"
+  ]
+ },
+ {
+  "pair_id": "273|1973",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|475",
+  "genealogy_id": "DU PLESSISa1b6c1d4e8",
+  "surname": "DU PLESSIS",
+  "given_names": "CASPER JEREMIAS",
+  "birth_year": "1805.0",
+  "death_year": "1889",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA ETRESIA",
+    "surname": "DU PLESSIS",
+    "marriage_date": "04/04/1825",
+    "marriage_year": "1825"
+   },
+   {
+    "name": "JOHANNA HELENA",
+    "surname": "AUCAMP",
+    "marriage_date": "03/08/1828",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|540",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Caspar Jeremais",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Louw's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "273|1973"
+  ]
+ },
+ {
+  "pair_id": "274|1965",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|476",
+  "genealogy_id": "DU PLESSISa1b6c1d4e9",
+  "surname": "DU PLESSIS",
+  "given_names": "FREDERIK WILLEM JACOBUS",
+  "birth_year": "1806.0",
+  "death_year": "1881",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "SUSANNA CATHARINA",
+    "surname": "POTGIETER",
+    "marriage_date": "05/01/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|532",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plessies, Fredrick Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Susanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": "Louw's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plessies, Pieter",
+    "census_spouse": "du Plooy, Helena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Jan Louis",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Charle Petrus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Francois",
+    "census_spouse": "du Plessies, Anna Cecelia",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Philippus Jacobus",
+    "census_spouse": "de Bruin, Hester",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plessies, Hendrik Francois",
+    "census_spouse": "Prinsloo, Catharina Margaretha",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "274|1965"
+  ]
+ },
+ {
+  "pair_id": "276|2118",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|479",
+  "genealogy_id": "DU PLOOYa1b3c5d1",
+  "surname": "DU PLOOY",
+  "given_names": "JACOBUS",
+  "birth_year": "1795.0",
+  "death_year": "1845",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "ANNA MARIA MARGRITHA",
+    "surname": "PELSER",
+    "marriage_date": "08/07/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|701",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Plooy, Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Pelzer, Anna Maria Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Roelof's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plooy, Abraham Johannes",
+    "census_spouse": "Nel, Johanna Petronella",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Leendert Hendrik",
+    "census_spouse": "Vivier, Maria Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Pieter Simon",
+    "census_spouse": "Roux, Petronella Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Roelof Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": "De Clercq, Hendrina Cicilia",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "276|2118"
+  ]
+ },
+ {
+  "pair_id": "278|921",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|481",
+  "genealogy_id": "DU PLOOYa2b10",
+  "surname": "DU PLOOY",
+  "given_names": "DIRK WOUTER SR",
+  "birth_year": "1789.0",
+  "death_year": "1868",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "CORNELIA SUSANNA",
+    "surname": "ROUX",
+    "marriage_date": "09/10/1811",
+    "marriage_year": "1811"
+   }
+  ],
+  "genealogy_notes": "BLOED RIVER, KEER TERUG KOLONIE TOE",
+  "census_source": "1825 series.xlsx|Beaufort 1825|818",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Plooy, Dirk Wouter",
+  "census_head_role": "male",
+  "census_spouse": "Roux, Catharina Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Cornelis' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plooy, Abraham Johannes",
+    "census_spouse": "Nel, Johanna Petronella",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Leendert Hendrik",
+    "census_spouse": "Vivier, Maria Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Pieter Simon",
+    "census_spouse": "Roux, Petronella Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Roelof Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": "De Clercq, Hendrina Cicilia",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "278|921"
+  ]
+ },
+ {
+  "pair_id": "279|919",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|485",
+  "genealogy_id": "DU PLOOYa2b17",
+  "surname": "DU PLOOY",
+  "given_names": "GERHARDUS ANDRIES",
+  "birth_year": "1802.0",
+  "death_year": null,
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "ELSJE JOHANNA MAGDALENA",
+    "surname": "GOUS",
+    "marriage_date": "06/07/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|816",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Plooy, Gerrit Andries",
+  "census_head_role": "male",
+  "census_spouse": "Gousch, Elsje Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Cornelis' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plooy, Abraham Johannes",
+    "census_spouse": "Nel, Johanna Petronella",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Leendert Hendrik",
+    "census_spouse": "Vivier, Maria Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Pieter Simon",
+    "census_spouse": "Roux, Petronella Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Roelof Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": "De Clercq, Hendrina Cicilia",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "279|919"
+  ]
+ },
+ {
+  "pair_id": "280|812",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|486",
+  "genealogy_id": "DU PLOOYa2b6",
+  "surname": "DU PLOOY",
+  "given_names": "CORNELIS MICHIEL SR",
+  "birth_year": "1777.0",
+  "death_year": "1853",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "HENDRINA CECILIA",
+    "surname": "DE KLERK",
+    "marriage_date": "14/11/1802",
+    "marriage_year": "1802"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|697",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Plooy, Cornelis Michiel",
+  "census_head_role": "male",
+  "census_spouse": "De Clercq, Hendrina Cicilia",
+  "census_widow_of": null,
+  "census_annotation": "Overseer of the public roads; Snr.",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plooy, Abraham Johannes",
+    "census_spouse": "Nel, Johanna Petronella",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Leendert Hendrik",
+    "census_spouse": "Vivier, Maria Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Pieter Simon",
+    "census_spouse": "Roux, Petronella Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Roelof Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Gerrit Andries",
+    "census_spouse": "Gousch, Elsje Magdalena",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "280|812"
+  ]
+ },
+ {
+  "pair_id": "282|929",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|489",
+  "genealogy_id": "DU PLOOYa2b8c2",
+  "surname": "DU PLOOY",
+  "given_names": "CORNELIS JOHANNES FREDERIK",
+  "birth_year": "1809.0",
+  "death_year": "1871",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA JACOBA",
+    "surname": "POTGIETER",
+    "marriage_date": "08/07/1837",
+    "marriage_year": "1837"
+   },
+   {
+    "name": "ELISABETH HELENA",
+    "surname": "UYS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|826",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Plooy, Cornelis Johannes Fredrik",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Johannes' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "du Plooy, Jacobus",
+    "census_spouse": "Pelzer, Anna Maria Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plooy, Roelof",
+    "census_spouse": "van den Berg, Susanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plooy, Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "du Plooy, Roelof Michiel",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Dafel, Cornelis Hendrik",
+    "census_spouse": "Aucamp, Maria Catharina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Dafel, Hendrik Jacobus",
+    "census_spouse": "Pelzer, Johanna Hermina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "282|929"
+  ]
+ },
+ {
+  "pair_id": "283|780",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|490",
+  "genealogy_id": "DU PLOOYa2b9",
+  "surname": "DU PLOOY",
+  "given_names": "LEENDERT HENDRIK",
+  "birth_year": "1786.0",
+  "death_year": "1862",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "ANNA FRANCINA",
+    "surname": "ESTERHUIZEN",
+    "marriage_date": "05/06/1808",
+    "marriage_year": "1808"
+   },
+   {
+    "name": "MARIA JOHANNA",
+    "surname": "VIVIERS",
+    "marriage_date": "06/03/1819",
+    "marriage_year": null
+   },
+   {
+    "name": "CHRISTINA JOHANNA",
+    "surname": "HOUGH",
+    "marriage_date": "15/06/1840",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|661",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Plooy, Leendert Hendrik",
+  "census_head_role": "male",
+  "census_spouse": "Vivier, Maria Johanna",
+  "census_widow_of": null,
+  "census_annotation": "Cornelis' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Plooy, Abraham Johannes",
+    "census_spouse": "Nel, Johanna Petronella",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Pieter Simon",
+    "census_spouse": "Roux, Petronella Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Roelof Arnoldus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": "De Clercq, Hendrina Cicilia",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Cornelis Michiel",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Plooy, Gerrit Andries",
+    "census_spouse": "Gousch, Elsje Magdalena",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "283|780"
+  ]
+ },
+ {
+  "pair_id": "285|343",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|492",
+  "genealogy_id": "DU PREEZa1b2c1d2e2f3",
+  "surname": "DU PREEZ",
+  "given_names": "JACOBUS HERCULAS",
+  "birth_year": "1807.0",
+  "death_year": "1874",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "DOROTHEA ELISABETH MARIA",
+    "surname": "GEYER",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "SUSANNA CATHARINA JOHANNA MAGDALENA",
+    "surname": "DREYER",
+    "marriage_date": "16/03/1840",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|168",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Preez, Jacobus Hercules",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Hermanus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "de Vries, Pieter",
+    "census_spouse": "Oosthuizen, Johanna Dorothea",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Du Preez, Philip Jacobus",
+    "census_spouse": "Brits, Helena Cornelia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Paulus Philippus",
+    "census_spouse": "Van Zyl, Jainett (?)",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Francois Johannes",
+    "census_spouse": "Naude, Johanna Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "285|343"
+  ]
+ },
+ {
+  "pair_id": "289|4778",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|497",
+  "genealogy_id": "DU PREEZa1b4c2d1e3",
+  "surname": "DU PREEZ",
+  "given_names": "JOHANNES PETRUS",
+  "birth_year": "1772.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ANNA MARTHA ELISABETH",
+    "surname": "HERBST",
+    "marriage_date": "28/02/1802",
+    "marriage_year": "1802"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|747",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Preez, Johannes Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Herbst, Anna Maria Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Preez, Philip Jacobus",
+    "census_spouse": "Brits, Helena Cornelia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Paulus Philippus",
+    "census_spouse": "Van Zyl, Jainett (?)",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Francois Johannes",
+    "census_spouse": "Naude, Johanna Elisabeth",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Johannes Francois",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Preez, Petrus Daniel",
+    "census_spouse": "Grobler, Johanna Hendrina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "289|4778"
+  ]
+ },
+ {
+  "pair_id": "292|5315",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|501",
+  "genealogy_id": "DU PREEZa1b6c4d2e10f1",
+  "surname": "DU PREEZ",
+  "given_names": "JOHANNES LODEWICUS",
+  "birth_year": "1803.0",
+  "death_year": "1849",
+  "declared_district": "GEORGE",
+  "spouses": [
+   {
+    "name": "HESTER CATHARINA",
+    "surname": "GROBLER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1286",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Preez, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Dupreez, Hercules Salomon",
+    "census_spouse": "Van den Bergh, M. G.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Dupreez, Ockert",
+    "census_spouse": "Wasserman, H. D.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Dupreez, Ignatius Petrus",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Dupreez, Michiel",
+    "census_spouse": null,
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Dupreez, Andries Stephanus",
+    "census_spouse": "Strydom, M. J.",
+    "census_district": "George"
+   },
+   {
+    "census_head_name": "Dupreez, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "George"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "292|5315"
+  ]
+ },
+ {
+  "pair_id": "295|914",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|507",
+  "genealogy_id": "DU TOITa1b1c6d10e2",
+  "surname": "DU TOIT",
+  "given_names": "ROELOF PETRUS",
+  "birth_year": "1796.0",
+  "death_year": "1880",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "SARA JOHANNA DOROTHEA",
+    "surname": "GOUS",
+    "marriage_date": "05/07/1818",
+    "marriage_year": "1818"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|811",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Roelof Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Gousch, Susara Johanna Dorothea",
+  "census_widow_of": null,
+  "census_annotation": "Fieldcornet",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "295|914"
+  ]
+ },
+ {
+  "pair_id": "296|926",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|509",
+  "genealogy_id": "DU TOITa1b1c6d10e5",
+  "surname": "DU TOIT",
+  "given_names": "ANDRIES STEPHANUS",
+  "birth_year": "1806.0",
+  "death_year": "1889",
+  "declared_district": "BEAUFORT",
+  "spouses": [
+   {
+    "name": "HERMINA CHRISTINA",
+    "surname": "SWANEPOEL",
+    "marriage_date": "03/09/1827",
+    "marriage_year": "1827"
+   },
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "JANSEN",
+    "marriage_date": "01/02/1864",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Beaufort 1825|823",
+  "census_district": "Beaufort",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Andries Stephanus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Gerhardus' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "296|926"
+  ]
+ },
+ {
+  "pair_id": "297|2048",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|512",
+  "genealogy_id": "DU TOITa1b6c7d1e1",
+  "surname": "DU TOIT",
+  "given_names": "FRANCOIS JACOBUS",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ELSIE SUSANNA",
+    "surname": "GROBBELAAR",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|625",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "du Toit, Francois Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Grobbelaar, Elsje Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Frans' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "297|2048"
+  ]
+ },
+ {
+  "pair_id": "297|4529",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|512",
+  "genealogy_id": "DU TOITa1b6c7d1e1",
+  "surname": "DU TOIT",
+  "given_names": "FRANCOIS JACOBUS",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ELSIE SUSANNA",
+    "surname": "GROBBELAAR",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|497",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Francois Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Grobler, Elsje Susanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "297|4529",
+   "299|4529"
+  ]
+ },
+ {
+  "pair_id": "299|4529",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|514",
+  "genealogy_id": "DU TOITa1b6c7d1e1f3",
+  "surname": "DU TOIT",
+  "given_names": "FRANCOIS JACOBUS",
+  "birth_year": "1808.0",
+  "death_year": "1881",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "GEERTRUYDA MARGARETHA ELIZABETH BOTHA",
+    "surname": null,
+    "marriage_date": "31/01/1832",
+    "marriage_year": "1832"
+   },
+   {
+    "name": "MARIA CATHARINA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": "16/01/1854",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|497",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Francois Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Grobler, Elsje Susanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "297|4529",
+   "299|4529"
+  ]
+ },
+ {
+  "pair_id": "298|4530",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|513",
+  "genealogy_id": "DU TOITa1b6c7d1e1f2",
+  "surname": "DU TOIT",
+  "given_names": "JOHANNES HERMANUS (JAN)",
+  "birth_year": "1807.0",
+  "death_year": "1836",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA",
+    "surname": "LIEBENBERG",
+    "marriage_date": "05/03/1826",
+    "marriage_year": "1826"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|498",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Johannes Hermanus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Charl Francois",
+    "census_spouse": "v. d. Merwe, Elsje Jac.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Toit, Francois Jacobus",
+    "census_spouse": "Grobler, Elsje Susanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Toit, Jacobus Francois",
+    "census_spouse": "v. d. Vyver, Maria Magdalena",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Toit, Petrus Stephanus",
+    "census_spouse": "Burger, Maria Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": "v. d. Merwe, Sophia",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Du Toit, Johannes Francois",
+    "census_spouse": "De Wit, Anna Catharina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "298|4530"
+  ]
+ },
+ {
+  "pair_id": "300|7416",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|515",
+  "genealogy_id": "DU TOITa1b6c7d2e3",
+  "surname": "DU TOIT",
+  "given_names": "FRANCOIS ARNOLDUS",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "ANNA CHRISTINA",
+    "surname": "DE JAGER",
+    "marriage_date": "02/03/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Swellendam 1825|388",
+  "census_district": "Swellendam",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Francois Arnoldus",
+  "census_head_role": "male",
+  "census_spouse": "De Jager, Anna Christiena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "300|7416"
+  ]
+ },
+ {
+  "pair_id": "302|5218",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|520",
+  "genealogy_id": "DU TOITa1b6c7d3e4",
+  "surname": "DU TOIT",
+  "given_names": "THOMAS ARNOLDUS",
+  "birth_year": "1800.0",
+  "death_year": "1875",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA",
+    "surname": "LUBBE",
+    "marriage_date": "08/10/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "ELIZABETH GEERTRUYDA PETRONELLA",
+    "surname": "BEZUIDENHOUT",
+    "marriage_date": "01/08/1866",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1188",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Thomas Arnoldus",
+  "census_head_role": "male",
+  "census_spouse": "Lubbe, Maria Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "302|5218"
+  ]
+ },
+ {
+  "pair_id": "302|5219",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|520",
+  "genealogy_id": "DU TOITa1b6c7d3e4",
+  "surname": "DU TOIT",
+  "given_names": "THOMAS ARNOLDUS",
+  "birth_year": "1800.0",
+  "death_year": "1875",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARIA MAGDALENA",
+    "surname": "LUBBE",
+    "marriage_date": "08/10/1820",
+    "marriage_year": "1820"
+   },
+   {
+    "name": "ELIZABETH GEERTRUYDA PETRONELLA",
+    "surname": "BEZUIDENHOUT",
+    "marriage_date": "01/08/1866",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1189",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Lubbe, Maria Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "302|5219"
+  ]
+ },
+ {
+  "pair_id": "303|5216",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|521",
+  "genealogy_id": "DU TOITa1b6c7d3e6",
+  "surname": "DU TOIT",
+  "given_names": "CHRISTIAAN PETRUS",
+  "birth_year": "1804.0",
+  "death_year": "1873",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "JACOMINA JACOBA",
+    "surname": "CVILJOEN",
+    "marriage_date": "03/12/1826",
+    "marriage_year": "1826"
+   },
+   {
+    "name": "07/10/1845",
+    "surname": "SUSANNA SOPHIA",
+    "marriage_date": "07/10/1845",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1186",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Christiaan Petrus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "303|5216"
+  ]
+ },
+ {
+  "pair_id": "304|5215",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|523",
+  "genealogy_id": "DU TOITa1b6d7d3",
+  "surname": "DU TOIT",
+  "given_names": "THOMAS ARNOLDUS",
+  "birth_year": "1767.0",
+  "death_year": "1850",
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARGARETHA CAROLINA",
+    "surname": "KLOPPER",
+    "marriage_date": "14/10/1792",
+    "marriage_year": "1792"
+   },
+   {
+    "name": "RACHEL GEERTRUY",
+    "surname": "MOMBERG",
+    "marriage_date": "11/02/1810",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1185",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Du Toit, Thomas Arnoldus",
+  "census_head_role": "male",
+  "census_spouse": "Momberg, Rachel Geertruida",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Du Toit, Gabriel",
+    "census_spouse": "Fourie, Anna Hendrina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Guilliam",
+    "census_spouse": "Marais, Hester Margaretha",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Roelof Petrus",
+    "census_spouse": "Gousch, Susara Johanna Dorothea",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Josias Hendrik",
+    "census_spouse": "De Manillie, Jacoba Charlotta Lamoer",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Gerhardus Johannes",
+    "census_spouse": "Lombard, Maria Elizabeth",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Du Toit, Andries Stephanus",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "304|5215"
+  ]
+ }
+]

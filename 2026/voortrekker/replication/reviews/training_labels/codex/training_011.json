@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "504|2131",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, and Maria Dorothea Kruger matches the wife married in 1813. His age is compatible, and the district difference is not a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "504|4249",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Maria Dorothea Kruger, married in 1813, both match. Colesberg is compatible with the Graaff-Reinet district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "511|4136",
+  "verdict": "REJECT",
+  "reason": "Barend Johannes is materially different from Frans Johannes Christiaan; the shared Johannes and surname do not explain the different first name. The undated genealogy marriage cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "512|1577",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacob differs from Daniel Frederik, and Maria Margaretha Vorster contradicts Johanna Alida Jooste, married in 1809. The marriage to Anna Maria Venter was in 1831 and cannot explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "512|2132",
+  "verdict": "ACCEPT",
+  "reason": "Daniel Fredrik matches Daniel Frederik, and Johanna Alida Joosten is a plausible spelling variant of Johanna Alida Jooste, married in 1809. Somerset and Cradock are compatible for 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "512|4201",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus differs from Daniel Frederik, and Anna Sophia Pretorius contradicts Johanna Alida Jooste, married in 1809. The other listed marriage occurred in 1831.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "512|4887",
+  "verdict": "REJECT",
+  "reason": "Pieter Ernst differs from Daniel Frederik, and Adriana Catharina Erasmus contradicts Johanna Alida Jooste, married in 1809. The 1831 marriage cannot explain this discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "512|5211",
+  "verdict": "REJECT",
+  "reason": "David is not a spelling variant of Daniel Frederik, and Neeltje Brits contradicts Johanna Alida Jooste, married in 1809. The other listed marriage is after the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "513|1584",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes and the district agree, but Petrus does not match Christiaan, and a man born in 1809 would be only about 14 in 1823. Both listed marriages occurred later, so they cannot establish a wife contradiction or confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "513|2357",
+  "verdict": "UNCERTAIN",
+  "reason": "The shared Johannes and district provide limited support, while Abraham differs from Christiaan and an age of about 14 makes household headship unlikely. Neither later marriage is comparable to the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "515|4205",
+  "verdict": "ACCEPT",
+  "reason": "Stephanus Johannes matches exactly, and Sophia Marg. Steenkamp matches Sophia Margaretha Steenkamp, married in 1798. The district and age are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "516|4203",
+  "verdict": "ACCEPT",
+  "reason": "Gert Johannes is a compatible form of Gerrit Johannes, and Elisabeth Johanna Catharina Pelzer matches Elizabeth Johanna Pelser with spelling variation and an additional middle name. Their 1820 marriage predates the census, and the district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "518|4189",
+  "verdict": "REJECT",
+  "reason": "Although Gert is compatible with the shortened genealogy name, Johanna Marg. Lessing contradicts Heyltje Maria Margaretha Pelser, married in 1824. No listed remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "519|4230",
+  "verdict": "REJECT",
+  "reason": "Hendrik Bernardus and Theunis Johannes are different given names, not spelling variants or reordered names. The genealogy supplies no spouse evidence to compare.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "520|1705",
+  "verdict": "REJECT",
+  "reason": "Geetruida Maria Bothman contradicts Anna Maria Jacoba Griesel, married in 1822; the Vorster marriage occurred in 1837. The alternative Johannes Lodewikus with no wife named is a better name match without this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Kruger, Johannes Lodewikus"
+ },
+ {
+  "pair_id": "520|2066",
+  "verdict": "REJECT",
+  "reason": "Johanna Alida Coetzee contradicts Anna Maria Jacoba Griesel, married in 1822, and Gideon differs from Lodewyk. The alternative Johannes Lodewikus with no wife named fits the man's name better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Kruger, Johannes Lodewikus"
+ },
+ {
+  "pair_id": "520|4144",
+  "verdict": "REJECT",
+  "reason": "Marg. Jacoba Coetzee contradicts Anna Maria Jacoba Griesel, married in 1822, and Hendrik differs from Lodewyk. The alternative Johannes Lodewikus with no wife named is a better candidate.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Kruger, Johannes Lodewikus"
+ },
+ {
+  "pair_id": "520|4146",
+  "verdict": "REJECT",
+  "reason": "Johanna Catharina Marg. Aucamp contradicts Anna Maria Jacoba Griesel, married in 1822; the 1837 marriage cannot explain this wife. The alternative Johannes Lodewikus with no wife named offers a closer name match without that contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Kruger, Johannes Lodewikus"
+ },
+ {
+  "pair_id": "520|5213",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Lodewicus is compatible with Johannes Lodewyk, and Anna Maria Jac. Griesel matches the wife married in 1822. The tentative Colesberg district is compatible with Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "523|2020",
+  "verdict": "REJECT",
+  "reason": "Frans Jacob differs from Casper Jeremias, and Clara Isabella La Buscagne contradicts Petronella Catharina Nel, married in 1795.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "529|9548",
+  "verdict": "REJECT",
+  "reason": "Jan is not a variant of Frans Jacobus, giving a material name contradiction. The marriage to Catharina Susanna Hattingh occurred within 1825, so its timing relative to the census is unknown.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "536|9179",
+  "verdict": "UNCERTAIN",
+  "reason": "Johan is compatible with Johannes, but Christiaan differs from Abraham and there is no wife corroboration. The listed Johan Abraham is a clearly closer name match in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Landman, Johan Abraham"
+ },
+ {
+  "pair_id": "536|9271",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age are compatible, but no wife is named and the genealogy supplies no father to verify the Christoffel's son annotation. Another Johan Abraham is listed, leaving the identity unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "536|9272",
+  "verdict": "UNCERTAIN",
+  "reason": "Christoffel differs from Abraham, but the undated Le Roux marriage prevents a firm contradiction from the different census wife. The listed Johan Abraham is a closer name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Landman, Johan Abraham"
+ },
+ {
+  "pair_id": "537|9632",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem is compatible with an omitted Adolph, but the man would be only about 16 and there is no independent corroboration. Both genealogy marriages postdate 1825 and cannot contradict Catharina Scheepers.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "544|4412",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus and the district agree, but Philippus differs from Christiaan and the census wife does not match Anna Johanna Petronella Cilliers. Because the Cilliers marriage occurred during 1825 and the census date is unspecified, the wife discrepancy cannot securely establish a chronological contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "544|4552",
+  "verdict": "REJECT",
+  "reason": "Albertus Johannes and Christiaan Jacobus are materially different given names. The Cilliers marriage occurred within the census year, so the different wife is not independently decisive without the census date.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "545|4552",
+  "verdict": "REJECT",
+  "reason": "Jacomina Elisabeth Adriana Viljoen contradicts Hester Magdalena van den Berg, married in 1806. The alternative Barend Johannes matches both the man's name and his wife's name.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Liebenberg, Barend Johannes"
+ },
+ {
+  "pair_id": "544|4614",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan Jacobus matches exactly, and Anna Petronella Cilliers is compatible with Anna Johanna Petronella Cilliers, married in February 1825. The district agrees, and his age of about 16 is compatible with the recorded marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "545|5345",
+  "verdict": "REJECT",
+  "reason": "H. J. C. Koekemoer contradicts Hester Magdalena van den Berg, married in 1806, and Jacobus differs from Johannes. The alternative Barend Johannes has the matching wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Liebenberg, Barend Johannes"
+ },
+ {
+  "pair_id": "546|5345",
+  "verdict": "REJECT",
+  "reason": "H. J. C. Koekemoer contradicts Maria Petronella van Jaarsveld, married in 1787, and Jacobus differs from Godlieb. The alternative Barend Godlieb also has a conflicting wife, so it does not provide a clearly supported identification.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "546|4411",
+  "verdict": "REJECT",
+  "reason": "Despite the exact name and matching district, Alletta Catharina Pienaar contradicts Maria Petronella van Jaarsveld, married in 1787. No supplied remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "552|9485",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus Lindeque and the district match, but the Senior annotation cannot be checked without birth or family information. The alternative Petrus with Martha Maria Dupree matches the listed spouse's name and is a better candidate, although her marriage date is missing.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Lindeque, Petrus"
+ },
+ {
+  "pair_id": "553|541",
+  "verdict": "ACCEPT",
+  "reason": "Andries Louis Lombart matches Andries Louis Lombard, including the Senior designation. Cornelia de Wege matches the wife married in 1798, and the district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "563|1192",
+  "verdict": "REJECT",
+  "reason": "Sara Johanna van Wyk contradicts Johanna Maria Mouton, married in 1813, and Schalk differs from Paulus. The alternative Paul Willem matches both the man's name forms and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Lubbe, Paul Willem"
+ },
+ {
+  "pair_id": "564|4464",
+  "verdict": "REJECT",
+  "reason": "Marg. Joubert contradicts Margaretha Magdalena Elizabeth de Koker, married in 1816, and does not match the other listed spouse, Martha Elizabeth de Koker. Johannes is compatible with Jan, but Hendrik also differs from Lodewyk.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "567|5118",
+  "verdict": "REJECT",
+  "reason": "Jos. Francois is materially different from Hendrik Jacobus, while an alternative head matches Hendrik Jacobus exactly. The 1832 marriage cannot confirm or contradict the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Maartens, Hendrik Jacobus"
+ },
+ {
+  "pair_id": "572|9668",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and a man born in 1791 could be a household head in 1825. However, there is no spouse corroboration or supplied father information to verify Jan's son, so the identity rests on the name and district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "573|663",
+  "verdict": "REJECT",
+  "reason": "The genealogy explicitly identifies Maria Petronella as the widow of Jesias Esterhuizen, whereas the census head is the male Gabriel Stephanus Marais. These are different identities and head roles.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "575|488",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Petrus matches exactly, and Maria Adriana Vermeulen matches the wife married in 1800. The district and age are compatible, with no material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "747|5180",
+  "verdict": "REJECT",
+  "reason": "Given names Henning Petrus Nicolaas (Piet) are wholly different from census head Johannes Jacobus Cornelis; no name element links them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "748|4108",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Lodewyk Wynand (b.1802) matches Johannes Lodewicus well and the district agrees, but no genealogy spouse is recorded to check against the census wife Pienaar, and another same-named Johannes Lodewicus head exists.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4108",
+  "verdict": "REJECT",
+  "reason": "Middle name Petrus conflicts with Lodewicus, and at about 16 in 1825 he is unlikely to head a married household (census wife Pienaar matches neither known spouse).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4108",
+  "verdict": "REJECT",
+  "reason": "Middle name Jacobus conflicts with Lodewicus; his only known marriage (van Vreede) was in December 1825, so a census wife Pienaar is unexplained.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|4108",
+  "verdict": "REJECT",
+  "reason": "Johannes Andries vs Johannes Lodewicus is a name conflict, and census wife Pienaar differs from his wife Davel married 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|4108",
+  "verdict": "REJECT",
+  "reason": "Middle names Jacobus Cornelis conflict with Lodewicus; census wife Pienaar differs from his undated spouse Viljoen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "763|4108",
+  "verdict": "REJECT",
+  "reason": "First name Daniel Petrus conflicts with Johannes Lodewicus; his spouses (Van der Merwe 1837, Pretorius undated) cannot corroborate the Pienaar wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5114",
+  "verdict": "REJECT",
+  "reason": "Hercules Albertus is not Johannes Albertus, and census wife Fouchee contradicts his wife Schoombee married 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5114",
+  "verdict": "REJECT",
+  "reason": "Middle name Petrus conflicts with Albertus, and at about 16 he is unlikely to be the married head (census wife Fouchee matches neither spouse).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5114",
+  "verdict": "REJECT",
+  "reason": "Middle name Jacobus conflicts with Albertus; census wife Fouchee is not his known spouse van Vreede (married Dec 1825).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5114",
+  "verdict": "REJECT",
+  "reason": "Johannes Andries vs Johannes Albertus conflict, and census wife Fouchee contradicts his wife Davel married 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "751|1523",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus (b.1782) conflicts with Johannes Ludovicus, and the census annotation 'Johannes Lodovicus' zoon' points to a son of a Johannes Lodovicus, not this man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|1495",
+  "verdict": "REJECT",
+  "reason": "Petrus conflicts with Ludovicus and he was about 14 in 1823, too young to head a household with a wife (Anna Johanna Pretorius).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|1497",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus conflicts with Johannes Diederik, and he was about 14 in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4104",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus conflicts with Jan Christoffel (middle name differs), and he was about 16 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4598",
+  "verdict": "REJECT",
+  "reason": "First name Johannes conflicts with census head Daniel Petrus; he was also only about 16.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|4709",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus conflicts with Willem Lodewyk, and he was about 16; census wife Du Preez is not among his spouses.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "755|4709",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match Willem Lodewyk, same district, and census wife Du Preez, Francina Jac. matches his wife Francina Jacoba du Preez married July 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|4709",
+  "verdict": "REJECT",
+  "reason": "Willem Jurgen conflicts with Willem Lodewyk, he was about 17, and the census wife Du Preez is not his wife (De Beer, married 1828).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|4709",
+  "verdict": "REJECT",
+  "reason": "Petrus Gerhardus conflicts with Willem Lodewyk, and census wife Du Preez contradicts his wife Scholtz married 1801.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "761|4709",
+  "verdict": "REJECT",
+  "reason": "Willem Sterrenberg conflicts with Willem Lodewyk, and census wife Du Preez contradicts his wife Pieterse(n) married 1821; a census Willem Sterrenberg exists (though its wife Pienaar also needs checking).",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem Sterrenberg"
+ },
+ {
+  "pair_id": "765|4709",
+  "verdict": "REJECT",
+  "reason": "Census wife Du Preez contradicts his wife Botha married 1804, and the declared Somerset/Cradock area fits the Cradock head 'Pretorius, Willem' better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "752|4814",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus conflicts with Johannes Jacobus, he was about 16, and census wife v. d. Berg is not among his spouses.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4814",
+  "verdict": "UNCERTAIN",
+  "reason": "Name Johannes Jacobus matches exactly, but census wife v. d. Berg, Hendrina Sophia is not his only recorded spouse van Vreede (married 4 Dec 1825), which weighs against identity without being a clean pre-census contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|4814",
+  "verdict": "REJECT",
+  "reason": "Johannes Andries conflicts with Johannes Jacobus, and census wife v. d. Berg contradicts his wife Davel married 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|4814",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus Cornelis is compatible with Johannes Jacobus, but census wife v. d. Berg differs from his undated spouse Viljoen and he was only about 18.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5007",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus conflicts with Wynand Johannes Adriaan, and he was about 16.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5029",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Petrus Jacobus is name-compatible with Johannes Petrus (Jan), but he was only about 16 in 1825 and declared Somerset rather than Graaff-Reinet.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5029",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Petrus Jacobus is compatible with Johannes Jacobus (extra middle name) and the absence of a census wife fits his December 1825 marriage, but the name evidence alone is not conclusive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "763|5029",
+  "verdict": "REJECT",
+  "reason": "First name Daniel conflicts with census head Jan Petrus Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5148",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Johannes' is name-compatible, but he was about 16 and census wife Anna Sophia Pretorius matches neither recorded spouse (Strauss undated, Alberts 1829).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|5148",
+  "verdict": "REJECT",
+  "reason": "Census wife Anna Sophia Pretorius contradicts his wife Davel married 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|5148",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Johannes' is name-compatible, but census wife Anna Sophia Pretorius differs from his undated spouse Viljoen and he was about 18.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4103",
+  "verdict": "REJECT",
+  "reason": "Middle name Jacobus conflicts with census head Johannes Lodewicus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "757|4103",
+  "verdict": "REJECT",
+  "reason": "Middle name Andries conflicts with census head Johannes Lodewicus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|4702",
+  "verdict": "REJECT",
+  "reason": "The census head is a woman (v. d. Merwe, Alletta Jac., widow of Johannes Lodewicus Pretorius); a male genealogy person cannot be this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "758|4702",
+  "verdict": "REJECT",
+  "reason": "The census head is a woman (v. d. Merwe, Alletta Jac., widow of Johannes Lodewicus Pretorius); a male genealogy person cannot be this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5152",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus conflicts entirely with Wessel Christiaan.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "753|5178",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus conflicts with Johannes Andries, and census wife Davel is not his spouse van Vreede.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,21 @@
+You are reviewing proposed historical identity links between a genealogical record of a Voortrekker man and the head of a household in the Cape Colony census (opgaafrol) of 1823-1825. Assess each pair independently, using ONLY the identity evidence supplied in the record. No household counts, wealth, scores or earlier decisions are given, and you must not try to infer or look for them. Do not consult any other source, file or the web.
+
+For each pair decide whether the genealogical man IS the census head:
+- ACCEPT only if the evidence is strong and there is no material contradiction.
+- REJECT only if there is an affirmative contradiction.
+- UNCERTAIN otherwise. Missing information warrants UNCERTAIN, not guessed facts.
+
+Evidence to weigh:
+1. Names. Spelling variation, omitted or reordered middle names, initials, Dutch/English forms (Johannes/Jan, Petrus/Pieter, Jacobus/Koos) and particles (v. d. = van der) are normal and not contradictions in themselves. A common name alone does not prove identity.
+2. Wives. Census wives are recorded by their own (maiden) surname. A census wife who matches a genealogy spouse married before the census year is strong corroboration. A census wife who clearly differs from a spouse married before the census year is a strong contradiction, unless remarriage, a missing marriage date or plausible spelling variation could explain it; check every listed spouse. A spouse married after the census year can neither confirm nor contradict. A census head with no wife named is not a contradiction for an unmarried or widowed man.
+3. Head role. census_head_role "female" means the household is headed by a woman, often a widow entered under her late husband's name (census_widow_of). A male genealogy person cannot be that head: REJECT. "male" heads are men.
+4. Dates. A census year before the man's birth, or after his death, is a contradiction. A man under about 15 in the census year is unlikely to be a household head.
+5. District. Declared districts are approximate (boundaries changed; Somerset was Cradock in 1823; Colesberg was part of Graaff-Reinet). A different district is not by itself a contradiction, but it weakens a weak match.
+6. Competing identities. other_census_candidates_for_this_person lists other census heads that could be the same man; if one of them fits clearly better (for example, his wife matches), the pair under review is likely wrong. competing_pair_ids_same_census_head lists other genealogy persons proposed for the same census head; fathers and sons can share names, so compare birth years and wives.
+
+Return ONLY a JSON array with one object per input pair, in any order, with keys:
+  pair_id (string, exactly as given), verdict ("ACCEPT", "REJECT" or "UNCERTAIN"),
+  reason (one or two sentences citing the specific evidence),
+  wife_evidence ("agrees", "contradicts", "not_comparable"),
+  better_candidate (the census_head_name of a clearly better census candidate for this person, or null).
+Do not include a probability. Assess every input pair. These are advisory reviews, not final decisions.

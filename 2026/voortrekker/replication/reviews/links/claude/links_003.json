@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "107|1703",
+  "verdict": "ACCEPT",
+  "reason": "Full name matches (Bothman/Bothma Petrus Gerhardus), and the census wife de Wet, Anna Petronella matches the 1801 marriage. The census 'Prov. Veldcornet' agrees with the genealogy note VELDKORNET, and Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "108|1704",
+  "verdict": "ACCEPT",
+  "reason": "Full name Cornelis Arnoldus matches, and the census wife Bester, Catharina Willemina Levina matches the 1823 marriage. The annotation 'Pieter's zoon' fits his descent from Petrus Gerhardus Bothma.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "112|9859",
+  "verdict": "REJECT",
+  "reason": "The census wife Jacobs, Elisabeth Susanna clearly differs from Cornelia Josina Steenberg, whom he married in 1821. Another census head, Botma Lodewyk, has wife Steenberg Josina and fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botma, Lodewyk"
+ },
+ {
+  "pair_id": "112|10401",
+  "verdict": "ACCEPT",
+  "reason": "Name matches, and the census wife Steenberg, Josina matches Cornelia Josina Steenberg, married in 1821. The district is the same (Worcester).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "116|2093",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Augustus/Augustinus Breedt/Breed matches, and the census wife Venter, Johanna matches the 1789 marriage. The annotation 'de Oude' fits his birth year of 1767.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "117|1763",
+  "verdict": "ACCEPT",
+  "reason": "Name Jacob Breed matches exactly, and the census wife de Beer, Maria Johanna matches the 1816 marriage. Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "118|2092",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Breed matches, and the census wife Fourie, Susanna Maria matches the 1815 marriage. The query mark in the census surname is outweighed by the exact wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "118|4212",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Breed with wife Fourie, Susanna Maria (married 1815) matches. Graaff-Reinet 1825 is consistent with his declared district of Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "119|2285",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name Gerhardus Christiaan Breedt matches, and the annotation 'Jan's zoon' fits the Breed sibling group. No wife in 1823 is consistent with his marriage in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "119|4210",
+  "verdict": "ACCEPT",
+  "reason": "Name matches allowing for the misspelling 'Chistiaan', and the census wife Venter, Gegina Wilhelmina matches Gesina Wilhelmina Venter, married in 1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "120|2095",
+  "verdict": "ACCEPT",
+  "reason": "Willem Breedt with wife Visagie, Maria Magdalena matches the 1822 marriage. The annotation 'Jan's zoon' fits the family.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "120|4214",
+  "verdict": "ACCEPT",
+  "reason": "'Willem Herzenberg' is a plausible variant of Willem Sterrenberg, and the census wife Visagie, Maria Magdalena matches the 1822 marriage. Graaff-Reinet fits Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "121|2094",
+  "verdict": "ACCEPT",
+  "reason": "David Breed matches, and the census wife Vosloo, Anna Helena matches Anna Johanna Helena Vosloo, married in 1821 (a middle name is omitted).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "123|2405",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Breedt with wife van der Merwe, Helena Maria matches the 1816 marriage. The annotation 'Jan's zoon' fits.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "124|7937",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name Christiaan Joseph Breitenbach matches. The census wife Blignault, Antje (a diminutive of Anna) matches Anna Catharina Blignaut, married in 1816. A Swellendam census against a declared Somerset only weakens the link slightly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "125|10739",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, and neither record shows a wife. However, a single given name with no spouse or other corroboration is not strong enough to establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "126|9678",
+  "verdict": "ACCEPT",
+  "reason": "Johan Hendrik Breedenbach/Breytenbach matches, and the census wife Meyer, Hester Maria matches the 1812 marriage. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "127|9675",
+  "verdict": "ACCEPT",
+  "reason": "Johan Jacob matches Johannes Jacob, and the census wife Oosthuysen, Hester Susanna matches the 1823 Oosthuizen marriage. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "129|444",
+  "verdict": "UNCERTAIN",
+  "reason": "Full name and district match, with the annotation 'Wynand's son'. However, the genealogy records a marriage to Fourie in 1817, at age 13, which is implausible, while the census names no wife. The spouse data look unreliable, so identity cannot be confirmed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|4077",
+  "verdict": "ACCEPT",
+  "reason": "Jan Brits matches. The census wife Meyburg, Anna Cornelia is a plausible spelling or transcription variant of Anna Cecilia Myburgh, married in January 1825. Graaff-Reinet fits Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "131|5335",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan P. Brits matches, and the census wife De Beer, Susanna Petronella matches the 1821 marriage. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "132|4049",
+  "verdict": "REJECT",
+  "reason": "The census wife Brits, Johanna Adriana differs from Johanna Christina Brits, whom he married in 1820. Census head Brits, Willem Petrus has wife Brits, Johanna Christina and fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Willem Petrus"
+ },
+ {
+  "pair_id": "132|4050",
+  "verdict": "ACCEPT",
+  "reason": "Willem Brits matches Willem Petrus, and the census wife Brits, Johanna Christina matches the 1820 marriage exactly. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "134|571",
+  "verdict": "ACCEPT",
+  "reason": "Lucas Cornelis/Cornelius Bronkhorst matches, and the census wife Janze van Veuren, Martha Elizabeth matches the 1818 Janse van Vuuren marriage. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "135|595",
+  "verdict": "ACCEPT",
+  "reason": "The full name Johannes Gerhardus Stephanus Bronkhorst matches, and the census wife Minnaar, Anna Susanna matches the 1821 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "136|598",
+  "verdict": "ACCEPT",
+  "reason": "Gysbert Bronkhorst with wife Van Dyk, Sophia matches the 1787 marriage, and the annotation 'Senior' fits his birth in 1765. The Beaufort/Somerset district difference is minor given the wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "137|1714",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and the annotation 'Gysbert's zoon' fit, and the wife's given names Anna Eleonora match. However, her census surname Prinsloo differs from the genealogy's Pretorius (married 1813), which may be a recording error but is a material discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "138|599",
+  "verdict": "ACCEPT",
+  "reason": "Gysbert Sybrand Bronkhorst matches, and the census wife Botha, Johanna Maria matches the 1814 marriage. The annotation 'Gysbert's son' fits.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "139|455",
+  "verdict": "REJECT",
+  "reason": "This head is unmarried and the son of Johannes, whereas the man (born 1768) remarried Elsie Catharina Jacoba in 1822. Census head Bronkhorst, Hendrik Lambert with wife Jacobs, Elsje Catharina, marked 'Senior', fits clearly better, and the younger Hendrik Lambert (born 1804) fits this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Bronkhorst, Hendrik Lambert"
+ },
+ {
+  "pair_id": "143|455",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Lambert, born 1804 and unmarried until 1828, fits a wifeless head in 1825. The annotation 'Johannes' son' agrees with his descent from Johannes Jacob Bronkhorst.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "139|632",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Jacobs, Elsje Catharina matches his second wife Elsie Catharina 'Jacoba', married 02/06/1822. The annotation 'Senior' fits his birth in 1768.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "140|202",
+  "verdict": "ACCEPT",
+  "reason": "Rudolph Johannes Bronkhorst with wife Beukes, Johanna Christina matches the January 1825 marriage. The annotation 'Hendrik's son' fits his descent from Hendrik Lambertus.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "141|456",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Jacob 'Senior' matches, and the census wife De Beer, Catharina Maria matches his second marriage, dated 1814.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "142|254",
+  "verdict": "ACCEPT",
+  "reason": "Willem Johannes Bronkhorst with wife Smit, Hermina Christina matches the 1820 marriage. The annotation 'Johannes' son' fits.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "144|503",
+  "verdict": "ACCEPT",
+  "reason": "Jan Andries Broodryk with wife Fourie, Maria Elizabeth matches the 1805 marriage, and the annotation 'Senior' fits. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "145|504",
+  "verdict": "ACCEPT",
+  "reason": "The full name Johannes Christoffel Broodryk matches, and the annotation 'Johannes Andries' son' fits his father Jan Andries. No wife in 1825 is consistent with his marriage in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "146|7590",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Hendrik Bruwer matches, and the census wife Moller, Martha M. matches the 1823 marriage. The district is the same.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "147|7586",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches, and an unmarried man aged about 19 is plausible. However, there is another identical wifeless Bruwer, Schalk Willem head in Swellendam, so this row cannot be distinguished.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "147|7589",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches, and an unmarried man aged about 19 is plausible. However, there is another identical wifeless Bruwer, Schalk Willem head in Swellendam, so this row cannot be distinguished.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "148|9609",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name Carel Valentyn Buchner matches. The census wife Landman, Martha Maria corresponds to the garbled second-spouse entry 'LANDMAN', which implies a remarriage that explains the difference from van Niekerk. The census 'Field Cornet' fits his public offices.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

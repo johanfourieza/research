@@ -1,0 +1,6 @@
+row_id,kept_pair,dropped_pair,excluded_census_id,reason
+119,119|4210,119|2285,2285,"Same man in Cradock 1823 and Graaff-Reinet 1825 (moved); Johan: use the 1825 record"
+120,120|4214,120|2095,2095,"Same couple in Cradock 1823 and Graaff-Reinet 1825 (moved); Johan: use the 1825 record"
+297,297|4529,297|2048,2048,"Same couple in Cradock 1823 and Graaff-Reinet 1825 (moved); Johan: use the 1825 record"
+412,412|4161,412|2295,2295,"Same couple in Cradock 1823 and Graaff-Reinet 1825 (moved); Johan: use the 1825 record"
+985,985|5285,985|5053,5053,"Double entry in the Graaff-Reinet 1825 return; Johan: keep one (fuller entry)"

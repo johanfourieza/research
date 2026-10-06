@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "107|1703",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Gerhardus Bothma/Bothman matches, and Anna Petronella de Wet agrees with the spouse married in 1801. The veldkornet annotations and Somerset/Cradock geography provide additional corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "108|1704",
+  "verdict": "ACCEPT",
+  "reason": "Cornelis Arnoldus Bothma/Bothman and Catharina Wilhelmina Levina Bester match with minor spelling variations. The marriage occurred in the census year, and his age and Somerset/Cradock geography are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "112|9859",
+  "verdict": "REJECT",
+  "reason": "Elisabeth Susanna Jacobs contradicts Cornelia Josina Steenberg, whom he married in 1821. The other listed marriage is explicitly dated 1834 and cannot explain the census wife in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "112|10401",
+  "verdict": "ACCEPT",
+  "reason": "Lodewyk Bothma/Botma matches, and Josina Steenberg is compatible with Cornelia Josina Steenberg, married in 1821. Worcester and his age also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "116|2093",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Augustinus Breed and Johannes Augustus Breedt are compatible name variants, corroborated by the exact wife match to Johanna Venter, married in 1789. His age also fits the annotation 'de Oude'.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "117|1763",
+  "verdict": "ACCEPT",
+  "reason": "Jacob Breed and his wife Maria Johanna de Beer match exactly, with their marriage preceding the census by seven years. His age and Somerset/Cradock geography are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "118|2092",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Breed and Susanna Maria Fourie match the couple married in 1815. The uncertain surname transcription and district difference do not materially contradict this strong couple match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "118|4212",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Breed and Susanna Maria Fourie match exactly, with the marriage dated 1815. Colesberg is compatible with Graaff-Reinet, and his lifespan includes 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "119|2285",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and Somerset/Cradock geography agree, and age 26 is compatible with heading a household. The 1824 marriage cannot corroborate the 1823 entry, and the genealogy does not independently establish the census patronymic.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "119|4210",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Christiaan Breed matches the head with a minor spelling omission. Gegina Wilhelmina Venter plausibly matches Gesina Wilhelmina Venter, married in 1824, providing strong corroboration despite the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "120|2095",
+  "verdict": "ACCEPT",
+  "reason": "Willem Breedt is compatible with Willem Sterrenberg Breed through omission of the middle name. Maria Magdalena Visagie exactly matches his wife married in 1822, outweighing the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "120|4214",
+  "verdict": "ACCEPT",
+  "reason": "Willem Breed and Maria Magdalena Visagie match the couple married in 1822, and Colesberg/Graaff-Reinet geography is compatible. Herzenberg versus Sterrenberg is plausibly a transcription variation in the middle name given the exact couple match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "121|2094",
+  "verdict": "ACCEPT",
+  "reason": "David Breed matches exactly, and Anna Helena Vosloo is compatible with Anna Johanna Helena Vosloo through omission of a middle name. Their 1821 marriage provides strong corroboration despite the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "123|2405",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Breed/Breedt matches, and Helena Maria van der Merwe exactly matches his wife married in 1816. His age, lifespan and Somerset/Cradock geography are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "124|7937",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan Joseph Breitenbach matches exactly, while Antje Blignault is compatible with Anna Catharina Blignaut through a familiar name form and omitted middle name. The 1816 marriage supports the identification despite the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "125|10739",
+  "verdict": "UNCERTAIN",
+  "reason": "Wynand Breytenbach/Breitenbach matches in Swellendam, and age 22 is compatible with household headship. Neither a spouse nor another identifying detail supplies strong independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "126|9678",
+  "verdict": "ACCEPT",
+  "reason": "Johan Hendrik Breytenbach/Breedenbach matches, and Hester Maria Meyer exactly matches his wife married in 1812. Uitenhage agrees, while the explicitly dated 1831 marriage is irrelevant to 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "127|9675",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Jacob Breytenbach and Johan Jacob Breedenbach are compatible name forms. Hester Susanna Oosthuizen/Oosthuysen matches his wife married in 1823, and Uitenhage agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "129|444",
+  "verdict": "UNCERTAIN",
+  "reason": "Louis Lourens Breytenbach/Brytenbagh matches in Beaufort, but the census supplies no wife for comparison with the 1817 marriage. The genealogy does not independently establish the annotation 'Wynand's son', leaving insufficient corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "130|4077",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Brits and the Colesberg/Graaff-Reinet geography agree, and Myburgh/Meyburg is a plausible surname variation. Anna Cecilia versus Anna Cornelia leaves the wife's identity unresolved, so the 1825 marriage does not securely corroborate this common-name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "131|5335",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan P. Brits is compatible with Christiaan Pieter Brits, and Susanna Petronella de Beer exactly matches his wife married in 1821. Graaff-Reinet also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "132|4049",
+  "verdict": "REJECT",
+  "reason": "Johanna Adriana Brits differs from Johanna Christina Brits, whom he married in 1820. The alternative Willem Petrus Brits has the exact matching wife in the same district and is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Brits, Willem Petrus"
+ },
+ {
+  "pair_id": "132|4050",
+  "verdict": "ACCEPT",
+  "reason": "Willem Brits is compatible with Willem Petrus Brits through omission of a middle name. Johanna Christina Brits exactly matches his wife married in 1820, and Graaff-Reinet agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "134|571",
+  "verdict": "ACCEPT",
+  "reason": "Lucas Cornelius/Cornelis Bronkhorst matches, and Martha Elisabeth Janse van Vuuren agrees with Martha Elizabeth Janze van Veuren through ordinary spelling variations. The 1818 marriage and Beaufort district support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "135|595",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Gerhardus Stephanus Bronkhorst and Anna Susanna Minnaar match exactly, with the marriage dated 1821. Beaufort and his lifespan are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "136|598",
+  "verdict": "ACCEPT",
+  "reason": "Gysbert Bronkhorst and Sophia van Dyk match exactly, with their marriage dated 1787. His age of about 60 fits 'Senior', and the district difference does not outweigh the couple match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "137|1714",
+  "verdict": "REJECT",
+  "reason": "The census wife Anna Eleonora Prinsloo has a different maiden surname from Anna Eleonora Pretorius, married in 1813. Prinsloo and Pretorius are not ordinary spelling variants, and no other listed marriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "138|599",
+  "verdict": "ACCEPT",
+  "reason": "Gysbert Sybrand Bronkhorst matches, and Johanna Maria Botha exactly matches his wife married in 1814. His age and lifespan are compatible, and the district difference is not a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "139|455",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Beaufort district agree, but no census wife is available to compare with either marriage dated before 1825. The competing Hendrik Lambert born in 1804 also fits the name and district, and this entry does not distinguish them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "143|455",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Beaufort district agree, and age 21 is compatible with household headship. The absent census wife cannot resolve the competition with the man born in 1768; the 1828 marriage is later than the census and the other marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "139|632",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Lambert/Lambertus Bronkhorst matches, and Elsje Catharina Jacobs plausibly matches Elsie Catharina Jacoba, whose marriage is explicitly dated 1822. Beaufort agrees, and 'Senior' fits his age of about 57.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "140|202",
+  "verdict": "ACCEPT",
+  "reason": "Rudolph Johannes Bronkhorst and Johanna Christina Beukes match exactly, with their marriage dated January 1825. His age is compatible, and the district difference does not outweigh the exact couple match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "141|456",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Jacob Bronkhorst/Brokhorst matches, and Catharina Maria de Beer exactly matches the spouse whose marriage is explicitly dated 1814. Beaufort and the 'Senior' annotation also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "142|254",
+  "verdict": "ACCEPT",
+  "reason": "Willem Johannes Bronkhorst and Hermina Christina Smit match exactly, with their marriage dated 1820. His age is compatible, and the district difference is insufficient to undermine the couple match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "144|503",
+  "verdict": "ACCEPT",
+  "reason": "Jan Andries Broodryk matches exactly, and Maria Elizabeth Fourie agrees with Maria Elisabeth Fourie, married in 1805. Beaufort agrees, and age 50 is compatible with 'Senior'.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "145|504",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Christoffel Broodryk matches in Beaufort, and age 20 is compatible with household headship. The marriage is dated after the census, and the genealogy supplied for this pair does not independently establish the census patronymic.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "146|7590",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Hendrik Bruwer/Brruwer matches, and Martha M. Moller is compatible with Martha Maria Moller, married in 1823. Swellendam and his lifespan also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "147|7586",
+  "verdict": "UNCERTAIN",
+  "reason": "Schalk Willem Bruwer matches in Swellendam, but another listed census head has the identical name and also no wife recorded. The 1828 marriage cannot distinguish these 1825 entries.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "147|7589",
+  "verdict": "UNCERTAIN",
+  "reason": "Schalk Willem Bruwer matches in Swellendam, but another listed census head has the identical name and also no wife recorded. His compatible age and later 1828 marriage do not distinguish the entries.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "148|9609",
+  "verdict": "UNCERTAIN",
+  "reason": "Carel Valentyn Buchner and Uitenhage match, but Martha Maria Landman differs from the documented wife married in 1817. The malformed second spouse entry contains 'LANDMAN' without a usable name or date, leaving a possible remarriage unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,2463 @@
+[
+ {
+  "pair_id": "755|4107",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1386",
+  "genealogy_id": "PRETORIUSa1b3c7d1e2f4",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM LODEWYK",
+  "birth_year": "1804.0",
+  "death_year": "1879",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "FRANCINA JACOBA",
+    "surname": "DU PREEZ",
+    "marriage_date": "04/07/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|73",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Anna Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Lodewicus",
+    "census_spouse": "Pienaar, Wilhelmina Christina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "755|4107",
+   "759|4107",
+   "765|4107"
+  ]
+ },
+ {
+  "pair_id": "759|4107",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1390",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM JURGEN",
+  "birth_year": "1808.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DE BEER",
+    "marriage_date": "07/04/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "HEYLA MAGDALENA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "30/12/1882",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|73",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Anna Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Lodewicus",
+    "census_spouse": "Pienaar, Wilhelmina Christina",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "755|4107",
+   "759|4107",
+   "765|4107"
+  ]
+ },
+ {
+  "pair_id": "765|4107",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1406",
+  "genealogy_id": "PRETORIUSa1b5c3d7e3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SOMERSET (AREA CRADOCK)",
+  "spouses": [
+   {
+    "name": "PETRONELLA CHRISTINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/04/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ANNA ADRIANA",
+    "surname": "DU PLOOY",
+    "marriage_date": "14/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|73",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Sterrenberg",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Anna Jacoba",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "755|4107",
+   "759|4107",
+   "765|4107"
+  ]
+ },
+ {
+  "pair_id": "758|5033",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1389",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f2",
+  "surname": "PRETORIUS",
+  "given_names": "JOHANNES JACOBUS CORNELIS",
+  "birth_year": "1807.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CATHARINA JACOBA",
+    "surname": "VILJOEN",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1002",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Jacobus Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Haarhoff, Martha Magdalena",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "758|5033"
+  ]
+ },
+ {
+  "pair_id": "759|5109",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1390",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM JURGEN",
+  "birth_year": "1808.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DE BEER",
+    "marriage_date": "07/04/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "HEYLA MAGDALENA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "30/12/1882",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1079",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem H.",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Marta M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "759|5109",
+   "765|5109"
+  ]
+ },
+ {
+  "pair_id": "765|5109",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1406",
+  "genealogy_id": "PRETORIUSa1b5c3d7e3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SOMERSET (AREA CRADOCK)",
+  "spouses": [
+   {
+    "name": "PETRONELLA CHRISTINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/04/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ANNA ADRIANA",
+    "surname": "DU PLOOY",
+    "marriage_date": "14/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1079",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem H.",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Marta M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "759|5109",
+   "765|5109"
+  ]
+ },
+ {
+  "pair_id": "759|5181",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1390",
+  "genealogy_id": "PRETORIUSa1b3c7d1e6f3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM JURGEN",
+  "birth_year": "1808.0",
+  "death_year": "1889",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "DE BEER",
+    "marriage_date": "07/04/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "HEYLA MAGDALENA",
+    "surname": "VAN DEN BERG",
+    "marriage_date": "30/12/1882",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1151",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Willem Jurgen",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "759|5181"
+  ]
+ },
+ {
+  "pair_id": "760|4228",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1395",
+  "genealogy_id": "PRETORIUSa1b3c9d7",
+  "surname": "PRETORIUS",
+  "given_names": "PETRUS GERHARDUS ( SWART PIET)",
+  "birth_year": "1772.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SOPHIA JOACHIMINA",
+    "surname": "SCHOLTZ",
+    "marriage_date": "19/04/1801",
+    "marriage_year": "1801"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|194",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Petrus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Kruger, Francina Marg.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "760|4228"
+  ]
+ },
+ {
+  "pair_id": "760|4900",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1395",
+  "genealogy_id": "PRETORIUSa1b3c9d7",
+  "surname": "PRETORIUS",
+  "given_names": "PETRUS GERHARDUS ( SWART PIET)",
+  "birth_year": "1772.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SOPHIA JOACHIMINA",
+    "surname": "SCHOLTZ",
+    "marriage_date": "19/04/1801",
+    "marriage_year": "1801"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|869",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Van Eeden, Zacharia Geertruida",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "760|4900"
+  ]
+ },
+ {
+  "pair_id": "760|5164",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1395",
+  "genealogy_id": "PRETORIUSa1b3c9d7",
+  "surname": "PRETORIUS",
+  "given_names": "PETRUS GERHARDUS ( SWART PIET)",
+  "birth_year": "1772.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "SOPHIA JOACHIMINA",
+    "surname": "SCHOLTZ",
+    "marriage_date": "19/04/1801",
+    "marriage_year": "1801"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1134",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Petrus Gerhardus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Jan Lodewyk",
+    "census_spouse": "v. d. Berg, Elsje Rachel",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Johannes Lodewicus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Jan Christoffel",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius , Gerhardus Stephanus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Dirk Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Sterrenberg",
+    "census_spouse": "Pienaar, Anna Jacoba",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "760|5164"
+  ]
+ },
+ {
+  "pair_id": "765|1511",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1406",
+  "genealogy_id": "PRETORIUSa1b5c3d7e3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SOMERSET (AREA CRADOCK)",
+  "spouses": [
+   {
+    "name": "PETRONELLA CHRISTINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/04/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ANNA ADRIANA",
+    "surname": "DU PLOOY",
+    "marriage_date": "14/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|26",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Pretorius, Willem",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Marthinnus Wessel",
+    "census_spouse": "Pretorius, Maria Christina",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "765|1511"
+  ]
+ },
+ {
+  "pair_id": "765|4570",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1406",
+  "genealogy_id": "PRETORIUSa1b5c3d7e3",
+  "surname": "PRETORIUS",
+  "given_names": "WILLEM",
+  "birth_year": "1786.0",
+  "death_year": null,
+  "declared_district": "SOMERSET (AREA CRADOCK)",
+  "spouses": [
+   {
+    "name": "PETRONELLA CHRISTINA",
+    "surname": "BOTHA",
+    "marriage_date": "01/04/1804",
+    "marriage_year": "1804"
+   },
+   {
+    "name": "ANNA ADRIANA",
+    "surname": "DU PLOOY",
+    "marriage_date": "14/05/1851",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|538",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Pretorius, Charl Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Pretorius, Louisa Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": "Pretorius, Anna Johanna",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem Jacobus",
+    "census_spouse": "Marais, Catharina Magdalena",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Diederik",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Johannes Ludovicus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Pretorius, Matthys Wynand",
+    "census_spouse": "Pretorius, Magdalena Gebregta",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "765|4570"
+  ]
+ },
+ {
+  "pair_id": "766|2200",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1409",
+  "genealogy_id": "PRINSLOOa1b3c3d1e13",
+  "surname": "PRINSLOO",
+  "given_names": "HENDRIK FREDERIK",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARGARETHA SUSANNA",
+    "surname": "VAN DEN VYVER",
+    "marriage_date": "15/01/1815",
+    "marriage_year": "1815"
+   },
+   {
+    "name": "RACHEL GESINA PHILIPPINA",
+    "surname": "DU PREEZ",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|793",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Prinsloo, Johanna Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Marthinus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2200",
+   "773|2200"
+  ]
+ },
+ {
+  "pair_id": "773|2200",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1419",
+  "genealogy_id": "PRINSLOOa1b3c3d4e2f3",
+  "surname": "PRINSLOO",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ISABELLA ELISABETH MARGARETHA",
+    "surname": "BOTHA",
+    "marriage_date": "07/07/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "PHILIPPINA RUDOLPHINA",
+    "surname": "VORSTER",
+    "marriage_date": "26/09/1847",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|793",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Prinsloo, Johanna Petronella",
+  "census_widow_of": null,
+  "census_annotation": "Marthinus' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2200",
+   "773|2200"
+  ]
+ },
+ {
+  "pair_id": "766|2203",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1409",
+  "genealogy_id": "PRINSLOOa1b3c3d1e13",
+  "surname": "PRINSLOO",
+  "given_names": "HENDRIK FREDERIK",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARGARETHA SUSANNA",
+    "surname": "VAN DEN VYVER",
+    "marriage_date": "15/01/1815",
+    "marriage_year": "1815"
+   },
+   {
+    "name": "RACHEL GESINA PHILIPPINA",
+    "surname": "DU PREEZ",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|796",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Klaas",
+  "census_head_role": "male",
+  "census_spouse": "Klopper, Petronella Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2203",
+   "773|2203"
+  ]
+ },
+ {
+  "pair_id": "773|2203",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1419",
+  "genealogy_id": "PRINSLOOa1b3c3d4e2f3",
+  "surname": "PRINSLOO",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ISABELLA ELISABETH MARGARETHA",
+    "surname": "BOTHA",
+    "marriage_date": "07/07/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "PHILIPPINA RUDOLPHINA",
+    "surname": "VORSTER",
+    "marriage_date": "26/09/1847",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|796",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Klaas",
+  "census_head_role": "male",
+  "census_spouse": "Klopper, Petronella Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2203",
+   "773|2203"
+  ]
+ },
+ {
+  "pair_id": "766|2231",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1409",
+  "genealogy_id": "PRINSLOOa1b3c3d1e13",
+  "surname": "PRINSLOO",
+  "given_names": "HENDRIK FREDERIK",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARGARETHA SUSANNA",
+    "surname": "VAN DEN VYVER",
+    "marriage_date": "15/01/1815",
+    "marriage_year": "1815"
+   },
+   {
+    "name": "RACHEL GESINA PHILIPPINA",
+    "surname": "DU PREEZ",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|828",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Hendrik Fredrik",
+  "census_head_role": "male",
+  "census_spouse": "Geere, Maria Gesina",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2231",
+   "770|2231",
+   "782|2231"
+  ]
+ },
+ {
+  "pair_id": "770|2231",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1416",
+  "genealogy_id": "PRINSLOOa1b3c3d1e1f3",
+  "surname": "PRINSLOO",
+  "given_names": "WILLEM MARTHINUS",
+  "birth_year": "1800.0",
+  "death_year": "1859",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA CATHARINA",
+    "surname": "KLOPPER",
+    "marriage_date": "14/07/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "ANNA SUSANNA PETRONELLA",
+    "surname": null,
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|828",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Hendrik Fredrik",
+  "census_head_role": "male",
+  "census_spouse": "Geere, Maria Gesina",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2231",
+   "770|2231",
+   "782|2231"
+  ]
+ },
+ {
+  "pair_id": "782|2231",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1436",
+  "genealogy_id": "PRINSLOOa1b3c3d6e5",
+  "surname": "PRINSLOO",
+  "given_names": "HENDRIK PETRUS SR.",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELSJE JACOBA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": "06/03/1814",
+    "marriage_year": "1814"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|828",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Hendrik Fredrik",
+  "census_head_role": "male",
+  "census_spouse": "Geere, Maria Gesina",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "766|2231",
+   "770|2231",
+   "782|2231"
+  ]
+ },
+ {
+  "pair_id": "767|2201",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1411",
+  "genealogy_id": "PRINSLOOa1b3c3d1e14",
+  "surname": "PRINSLOO",
+  "given_names": "ARIE JACOBUS",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|794",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Marthinus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2201",
+   "772|2201",
+   "781|2201"
+  ]
+ },
+ {
+  "pair_id": "772|2201",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1418",
+  "genealogy_id": "PRINSLOOa1b3c3d1e1f5",
+  "surname": "PRINSLOO",
+  "given_names": "ANTHONIE CHRISTOFFEL",
+  "birth_year": "1809.0",
+  "death_year": "1883",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA CATHARINA",
+    "surname": "SNYMAN",
+    "marriage_date": "07/01/1827",
+    "marriage_year": "1827"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|794",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Marthinus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2201",
+   "772|2201",
+   "781|2201"
+  ]
+ },
+ {
+  "pair_id": "781|2201",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1435",
+  "genealogy_id": "PRINSLOOa1b3c3d6e1f3",
+  "surname": "PRINSLOO",
+  "given_names": "JOACHIM (JOACHEMUS) JOHANNES PETRUS",
+  "birth_year": "1807.0",
+  "death_year": "1877",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA CATHARINA LEVINA",
+    "surname": "BESTER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|794",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Marthinus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2201",
+   "772|2201",
+   "781|2201"
+  ]
+ },
+ {
+  "pair_id": "767|2210",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1411",
+  "genealogy_id": "PRINSLOOa1b3c3d1e14",
+  "surname": "PRINSLOO",
+  "given_names": "ARIE JACOBUS",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|805",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Barend Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Joachim's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2210",
+   "779|2210"
+  ]
+ },
+ {
+  "pair_id": "779|2210",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1433",
+  "genealogy_id": "PRINSLOOa1b3c3d6e1",
+  "surname": "PRINSLOO",
+  "given_names": "JOACHIM JOHANNES",
+  "birth_year": "1783.0",
+  "death_year": "1838",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTHA LOUISA",
+    "surname": "PRINSLOO",
+    "marriage_date": "30/02/1803",
+    "marriage_year": "1803"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|805",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Barend Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Joachim's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2210",
+   "779|2210"
+  ]
+ },
+ {
+  "pair_id": "767|2235",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1411",
+  "genealogy_id": "PRINSLOOa1b3c3d1e14",
+  "surname": "PRINSLOO",
+  "given_names": "ARIE JACOBUS",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|832",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Snyman, Anna Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon. De Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2235",
+   "768|2235"
+  ]
+ },
+ {
+  "pair_id": "768|2235",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1412",
+  "genealogy_id": "PRINSLOOa1b3c3d1e19",
+  "surname": "PRINSLOO",
+  "given_names": "NICOLAAS JACOBUS (KLAAS)",
+  "birth_year": "1801.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "BOTHA",
+    "marriage_date": "11/08/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|832",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Willem Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Snyman, Anna Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon. De Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2235",
+   "768|2235"
+  ]
+ },
+ {
+  "pair_id": "767|2258",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1411",
+  "genealogy_id": "PRINSLOOa1b3c3d1e14",
+  "surname": "PRINSLOO",
+  "given_names": "ARIE JACOBUS",
+  "birth_year": "1791.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|857",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Zacharias",
+  "census_head_role": "male",
+  "census_spouse": "Faber, Christina Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "Klaas' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "767|2258"
+  ]
+ },
+ {
+  "pair_id": "768|2207",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1412",
+  "genealogy_id": "PRINSLOOa1b3c3d1e19",
+  "surname": "PRINSLOO",
+  "given_names": "NICOLAAS JACOBUS (KLAAS)",
+  "birth_year": "1801.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA MARIA",
+    "surname": "BOTHA",
+    "marriage_date": "11/08/1822",
+    "marriage_year": "1822"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|802",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Daniel Jacobus",
+  "census_head_role": "male",
+  "census_spouse": "Erasmus, Martha Christina",
+  "census_widow_of": null,
+  "census_annotation": "Joachim's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "768|2207"
+  ]
+ },
+ {
+  "pair_id": "770|2204",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1416",
+  "genealogy_id": "PRINSLOOa1b3c3d1e1f3",
+  "surname": "PRINSLOO",
+  "given_names": "WILLEM MARTHINUS",
+  "birth_year": "1800.0",
+  "death_year": "1859",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HELENA CATHARINA",
+    "surname": "KLOPPER",
+    "marriage_date": "14/07/1822",
+    "marriage_year": "1822"
+   },
+   {
+    "name": "ANNA SUSANNA PETRONELLA",
+    "surname": null,
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|797",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Roelofse, Isabella",
+  "census_widow_of": null,
+  "census_annotation": "Klaas' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "770|2204",
+   "785|2204"
+  ]
+ },
+ {
+  "pair_id": "785|2204",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1443",
+  "genealogy_id": "PRINSLOOa1b3c3d6e7",
+  "surname": "PRINSLOO",
+  "given_names": "WILLEM PETRUS",
+  "birth_year": "1797.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA ELISABETH",
+    "surname": "PRINSLOO",
+    "marriage_date": "04/10/1819",
+    "marriage_year": "1819"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|797",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Roelofse, Isabella",
+  "census_widow_of": null,
+  "census_annotation": "Klaas' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "770|2204",
+   "785|2204"
+  ]
+ },
+ {
+  "pair_id": "773|2202",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1419",
+  "genealogy_id": "PRINSLOOa1b3c3d4e2f3",
+  "surname": "PRINSLOO",
+  "given_names": "WILLEM JACOBUS",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ISABELLA ELISABETH MARGARETHA",
+    "surname": "BOTHA",
+    "marriage_date": "07/07/1828",
+    "marriage_year": "1828"
+   },
+   {
+    "name": "PHILIPPINA RUDOLPHINA",
+    "surname": "VORSTER",
+    "marriage_date": "26/09/1847",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|795",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Willem Marthinus",
+  "census_head_role": "male",
+  "census_spouse": "Klopper, Petronella Margaretha",
+  "census_widow_of": null,
+  "census_annotation": "Willem's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Pieter Willem",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "773|2202"
+  ]
+ },
+ {
+  "pair_id": "775|2208",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1426",
+  "genealogy_id": "PRINSLOOa1b3c3d5e1f1",
+  "surname": "PRINSLOO",
+  "given_names": "MARTHINUS",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA PETRONELLA",
+    "surname": "DE WET",
+    "marriage_date": "06/02/1825",
+    "marriage_year": "1825"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|803",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Hendrik Petrus",
+  "census_head_role": "male",
+  "census_spouse": "van der Merwe, Elsje Jacoba",
+  "census_widow_of": null,
+  "census_annotation": "Joachim's zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "775|2208"
+  ]
+ },
+ {
+  "pair_id": "781|2213",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1435",
+  "genealogy_id": "PRINSLOOa1b3c3d6e1f3",
+  "surname": "PRINSLOO",
+  "given_names": "JOACHIM (JOACHEMUS) JOHANNES PETRUS",
+  "birth_year": "1807.0",
+  "death_year": "1877",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ANNA MARIA CATHARINA LEVINA",
+    "surname": "BESTER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|808",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Prinsloo, Joachim Johannes",
+  "census_head_role": "male",
+  "census_spouse": "Erasmus, Elizabeth Johanna",
+  "census_widow_of": null,
+  "census_annotation": "de Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Prinsloo, Nicolaas Jacobus",
+    "census_spouse": "Botha, Catharina Maria",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Johannes",
+    "census_spouse": "Prinsloo, Johanna Petronella",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Marthinus",
+    "census_spouse": null,
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem Marthinus",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Klaas",
+    "census_spouse": "Klopper, Petronella Margaretha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Prinsloo, Willem",
+    "census_spouse": "Roelofse, Isabella",
+    "census_district": "Cradock"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "781|2213"
+  ]
+ },
+ {
+  "pair_id": "786|9502",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1445",
+  "genealogy_id": "PRINSLOOa1b3c6d1e2",
+  "surname": "PRINSLOO",
+  "given_names": "MARTHINUS PETRUS",
+  "birth_year": "1782.0",
+  "death_year": null,
+  "declared_district": "UITENHAGE",
+  "spouses": [
+   {
+    "name": "ISABELLA SUSANNA",
+    "surname": "POTGIETER",
+    "marriage_date": "07/04/1805",
+    "marriage_year": "1805"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Uitenhage 1825|685",
+  "census_district": "Uitenhage",
+  "census_year": 1825,
+  "census_head_name": "Prinslo, Marthinus Petrus",
+  "census_head_role": "male",
+  "census_spouse": "Potgieter, Isabella Susanna",
+  "census_widow_of": null,
+  "census_annotation": "Nicolaas' son",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Pringer, Jan Fredrik Bernardus",
+    "census_spouse": "Siebrits, Aletta Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Prinslo, Hendrik Jacobus",
+    "census_spouse": "Van Staden, Maria Elisabeth",
+    "census_district": "Uitenhage"
+   },
+   {
+    "census_head_name": "Prinslo, Salomon",
+    "census_spouse": "Van Rooyen, Susanna Catharina",
+    "census_district": "Uitenhage"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "786|9502"
+  ]
+ },
+ {
+  "pair_id": "791|1948",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1463",
+  "genealogy_id": "PUTTERa1b9c4d6e5",
+  "surname": "PUTTER",
+  "given_names": "PAUL JACOBUS",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CATHARINA JOHANNA",
+    "surname": "BOTHA",
+    "marriage_date": "06/06/1824",
+    "marriage_year": "1824"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Cradock 1823|513",
+  "census_district": "Cradock",
+  "census_year": 1823,
+  "census_head_name": "Putter, Paul Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "Diederik Johannes' zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Putter, Johannes Diederik",
+    "census_spouse": "Hatting, Johanna Gustapha",
+    "census_district": "Cradock"
+   },
+   {
+    "census_head_name": "Putter, Diedrik Johannes Gerhardus",
+    "census_spouse": "Meintjes, Catharina Maria",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "791|1948"
+  ]
+ },
+ {
+  "pair_id": "797|1118",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1477",
+  "genealogy_id": "RASa1b2c6d1e4f3",
+  "surname": "RAS",
+  "given_names": "HERMANUS NICOLAAS",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "CLANWILLIAM",
+  "spouses": [
+   {
+    "name": "MARTHA FRANCINA PETRONELLA",
+    "surname": "SPANGENBERG",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Clanwilliam 1824|232",
+  "census_district": "Clanwilliam",
+  "census_year": 1824,
+  "census_head_name": "Ras, Marthinus Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": "Engelbrecht, Anna Magdalena",
+  "census_widow_of": null,
+  "census_annotation": "d'Oude",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Russouw, Chritiaan Jacobus",
+    "census_spouse": "Esterhuyzen, Maria Jacoba",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Nicolaas Rudolf",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Samuel H. C.",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Willem",
+    "census_spouse": "Esterhuyzen, Aletta C.",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Marthinus David",
+    "census_spouse": "Visagie, Christina Adriana",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Christiaan David",
+    "census_spouse": "Van Zyl, Maria Magdalena",
+    "census_district": "Clanwilliam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "797|1118"
+  ]
+ },
+ {
+  "pair_id": "797|1158",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1477",
+  "genealogy_id": "RASa1b2c6d1e4f3",
+  "surname": "RAS",
+  "given_names": "HERMANUS NICOLAAS",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "CLANWILLIAM",
+  "spouses": [
+   {
+    "name": "MARTHA FRANCINA PETRONELLA",
+    "surname": "SPANGENBERG",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Clanwilliam 1824|274",
+  "census_district": "Clanwilliam",
+  "census_year": 1824,
+  "census_head_name": "Ras, Hermanus Nicolaas",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": "M. zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Russouw, Chritiaan Jacobus",
+    "census_spouse": "Esterhuyzen, Maria Jacoba",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Nicolaas Rudolf",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Samuel H. C.",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Willem",
+    "census_spouse": "Esterhuyzen, Aletta C.",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Marthinus Nicolaas",
+    "census_spouse": "Engelbrecht, Anna Magdalena",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Marthinus David",
+    "census_spouse": "Visagie, Christina Adriana",
+    "census_district": "Clanwilliam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "797|1158"
+  ]
+ },
+ {
+  "pair_id": "797|1359",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1477",
+  "genealogy_id": "RASa1b2c6d1e4f3",
+  "surname": "RAS",
+  "given_names": "HERMANUS NICOLAAS",
+  "birth_year": "1805.0",
+  "death_year": null,
+  "declared_district": "CLANWILLIAM",
+  "spouses": [
+   {
+    "name": "MARTHA FRANCINA PETRONELLA",
+    "surname": "SPANGENBERG",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Clanwilliam 1824|518",
+  "census_district": "Clanwilliam",
+  "census_year": 1824,
+  "census_head_name": "Russouw, Willem",
+  "census_head_role": "male",
+  "census_spouse": "Esterhuyzen, Aletta C.",
+  "census_widow_of": null,
+  "census_annotation": "Samuel zoon",
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Russouw, Chritiaan Jacobus",
+    "census_spouse": "Esterhuyzen, Maria Jacoba",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Nicolaas Rudolf",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Russouw, Samuel H. C.",
+    "census_spouse": null,
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Marthinus Nicolaas",
+    "census_spouse": "Engelbrecht, Anna Magdalena",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Marthinus David",
+    "census_spouse": "Visagie, Christina Adriana",
+    "census_district": "Clanwilliam"
+   },
+   {
+    "census_head_name": "Ras, Christiaan David",
+    "census_spouse": "Van Zyl, Maria Magdalena",
+    "census_district": "Clanwilliam"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "797|1359"
+  ]
+ },
+ {
+  "pair_id": "801|5153",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1482",
+  "genealogy_id": "RETIEFa1b4c7d1",
+  "surname": "RETIEF",
+  "given_names": "FRANCOIS",
+  "birth_year": "1773.0",
+  "death_year": "1838",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "MARTHA ELISABETH",
+    "surname": "JOUBERT",
+    "marriage_date": "30/11/1794",
+    "marriage_year": "1794"
+   },
+   {
+    "name": "MARTHA MARIA",
+    "surname": "MARITZ",
+    "marriage_date": "24/8/1817",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|1123",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "Retief, Francois",
+  "census_head_role": "male",
+  "census_spouse": "Marits, Marta Maria",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Retief, Petrus Jacobus",
+    "census_spouse": "Minnaar, Francina Jac.",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Retief, Francois Jacobus",
+    "census_spouse": "Rossouw, Marg. Magdalena",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "801|5153"
+  ]
+ }
+]

@@ -1,0 +1,2702 @@
+[
+ {
+  "pair_id": "993|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1869",
+  "genealogy_id": "VAN DER MERWEa1b3c8d6e1f7",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES LODEVICUS",
+  "birth_year": "1796.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ALETTA CORNELIA",
+    "surname": "VILJOEN",
+    "marriage_date": "02/02/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "1000|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1878",
+  "genealogy_id": "VAN DER MERWEa1b2c14d10e5",
+  "surname": "VAN DER MERWE",
+  "given_names": "PIETER WILLEM",
+  "birth_year": "1795.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "HENDRINA MARGARETHA DOROTHEA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "1003|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1883",
+  "genealogy_id": "VAN DER MERWEa1b2c14d9e1f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "CORNELIS JOHANNES",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA MARGARETHA",
+    "surname": "PRETORIUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "1006|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1888",
+  "genealogy_id": "VAN DER MERWEa1b2c4d5e1f7",
+  "surname": "VAN DER MERWE",
+  "given_names": "JAN (JOHANNES) LODEWYK",
+  "birth_year": "1804.0",
+  "death_year": null,
+  "declared_district": "COLESBERG",
+  "spouses": [
+   {
+    "name": "MARTHA MAGDALENA",
+    "surname": "PRETORIUS",
+    "marriage_date": "03/12/1825",
+    "marriage_year": "1825"
+   },
+   {
+    "name": "MARIA CATHARINA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": "02/12/1839",
+    "marriage_year": null
+   },
+   {
+    "name": "MARIA ANNA WILHELMINA",
+    "surname": "WERNICH",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Westhuizen, Hendrik Lourens",
+    "census_spouse": "Kruger, Anna Maria",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Van der Westhuizen, Abraham Nicolaas",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Van der Westhuizen, Wietsche",
+    "census_spouse": "Koortze, Susanna Francina",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Van der Westhuizen, Isaac",
+    "census_spouse": "Janze van Veuren, Sara Johanna",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Van der Westhuizen, Johannes",
+    "census_spouse": "Van Wyk, Martha Magdalena",
+    "census_district": "Beaufort"
+   },
+   {
+    "census_head_name": "Van der Westhuizen, Nicolaas",
+    "census_spouse": null,
+    "census_district": "Beaufort"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "1014|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1898",
+  "genealogy_id": "VAN DER MERWEa1b2c5d7e5f2",
+  "surname": "VAN DER MERWE",
+  "given_names": "FRANCOIS ANROLDUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CHRISTINA CORNELIA",
+    "surname": "KOCH",
+    "marriage_date": "05/09/1819",
+    "marriage_year": "1819"
+   },
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "SCHEEPERS",
+    "marriage_date": "04/12/1830",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "1017|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1907",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e4f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES PETRUS",
+  "birth_year": "1808.0",
+  "death_year": "1891",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTHA SOPHIA",
+    "surname": "ELOFF",
+    "marriage_date": "20/03/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "1018|4342",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1908",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e5f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES STEPHANUS",
+  "birth_year": "1805.0",
+  "death_year": "1877",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "GRIESEL",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|309",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": "v. d. Merwe, Martha Sophia",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4342",
+   "1000|4342",
+   "1003|4342",
+   "1006|4342",
+   "1014|4342",
+   "1017|4342",
+   "1018|4342"
+  ]
+ },
+ {
+  "pair_id": "993|4352",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1869",
+  "genealogy_id": "VAN DER MERWEa1b3c8d6e1f7",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES LODEVICUS",
+  "birth_year": "1796.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ALETTA CORNELIA",
+    "surname": "VILJOEN",
+    "marriage_date": "02/02/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|319",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Andries Petrus",
+  "census_head_role": "male",
+  "census_spouse": "v. Heerden, Elsje Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4352",
+   "996|4352",
+   "1014|4352",
+   "1017|4352",
+   "1018|4352"
+  ]
+ },
+ {
+  "pair_id": "996|4352",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1874",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "DAVID SCHALK",
+  "birth_year": "1799.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "WEIDEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIASUSANNA",
+    "surname": "DE BEER",
+    "marriage_date": "05/06/1836",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|319",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Andries Petrus",
+  "census_head_role": "male",
+  "census_spouse": "v. Heerden, Elsje Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4352",
+   "996|4352",
+   "1014|4352",
+   "1017|4352",
+   "1018|4352"
+  ]
+ },
+ {
+  "pair_id": "1014|4352",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1898",
+  "genealogy_id": "VAN DER MERWEa1b2c5d7e5f2",
+  "surname": "VAN DER MERWE",
+  "given_names": "FRANCOIS ANROLDUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CHRISTINA CORNELIA",
+    "surname": "KOCH",
+    "marriage_date": "05/09/1819",
+    "marriage_year": "1819"
+   },
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "SCHEEPERS",
+    "marriage_date": "04/12/1830",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|319",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Andries Petrus",
+  "census_head_role": "male",
+  "census_spouse": "v. Heerden, Elsje Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4352",
+   "996|4352",
+   "1014|4352",
+   "1017|4352",
+   "1018|4352"
+  ]
+ },
+ {
+  "pair_id": "1017|4352",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1907",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e4f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES PETRUS",
+  "birth_year": "1808.0",
+  "death_year": "1891",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTHA SOPHIA",
+    "surname": "ELOFF",
+    "marriage_date": "20/03/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|319",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Andries Petrus",
+  "census_head_role": "male",
+  "census_spouse": "v. Heerden, Elsje Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4352",
+   "996|4352",
+   "1014|4352",
+   "1017|4352",
+   "1018|4352"
+  ]
+ },
+ {
+  "pair_id": "1018|4352",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1908",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e5f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES STEPHANUS",
+  "birth_year": "1805.0",
+  "death_year": "1877",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "GRIESEL",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|319",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Andries Petrus",
+  "census_head_role": "male",
+  "census_spouse": "v. Heerden, Elsje Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4352",
+   "996|4352",
+   "1014|4352",
+   "1017|4352",
+   "1018|4352"
+  ]
+ },
+ {
+  "pair_id": "993|4402",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1869",
+  "genealogy_id": "VAN DER MERWEa1b3c8d6e1f7",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES LODEVICUS",
+  "birth_year": "1796.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ALETTA CORNELIA",
+    "surname": "VILJOEN",
+    "marriage_date": "02/02/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|369",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, David Schalk",
+  "census_head_role": "male",
+  "census_spouse": "Weideman, Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4402",
+   "996|4402",
+   "998|4402",
+   "1001|4402"
+  ]
+ },
+ {
+  "pair_id": "996|4402",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1874",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "DAVID SCHALK",
+  "birth_year": "1799.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "WEIDEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIASUSANNA",
+    "surname": "DE BEER",
+    "marriage_date": "05/06/1836",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|369",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, David Schalk",
+  "census_head_role": "male",
+  "census_spouse": "Weideman, Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4402",
+   "996|4402",
+   "998|4402",
+   "1001|4402"
+  ]
+ },
+ {
+  "pair_id": "998|4402",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1876",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f8",
+  "surname": "VAN DER MERWE",
+  "given_names": "WILLEM CAREL",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "DOROTHEA MARTHA MARIA",
+    "surname": "COMBRINK",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|369",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, David Schalk",
+  "census_head_role": "male",
+  "census_spouse": "Weideman, Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4402",
+   "996|4402",
+   "998|4402",
+   "1001|4402"
+  ]
+ },
+ {
+  "pair_id": "1001|4402",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1881",
+  "genealogy_id": "VAN DER MERWEa1b2c14d9e1f1",
+  "surname": "VAN DER MERWE",
+  "given_names": "DIEDELOF JACOBUS",
+  "birth_year": "1806.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "GEERTRUIDA JACOBA",
+    "surname": "ROBBERTS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|369",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, David Schalk",
+  "census_head_role": "male",
+  "census_spouse": "Weideman, Johanna Catharina",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4402",
+   "996|4402",
+   "998|4402",
+   "1001|4402"
+  ]
+ },
+ {
+  "pair_id": "993|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1869",
+  "genealogy_id": "VAN DER MERWEa1b3c8d6e1f7",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES LODEVICUS",
+  "birth_year": "1796.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ALETTA CORNELIA",
+    "surname": "VILJOEN",
+    "marriage_date": "02/02/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "996|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1874",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "DAVID SCHALK",
+  "birth_year": "1799.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "WEIDEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIASUSANNA",
+    "surname": "DE BEER",
+    "marriage_date": "05/06/1836",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "999|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1877",
+  "genealogy_id": "VAN DER MERWEa1b2c14d10e4",
+  "surname": "VAN DER MERWE",
+  "given_names": "THEUNIS JACOBUS",
+  "birth_year": "1792.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "CORNELIA CATHARINA",
+    "surname": "DE BEER",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "1002|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1882",
+  "genealogy_id": "VAN DER MERWEa1b2c14d9e1f2",
+  "surname": "VAN DER MERWE",
+  "given_names": "JACOBUS JOHANNES RUDOLPH",
+  "birth_year": "1807.0",
+  "death_year": "1869",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "ELSIE MARIA ALETTA MAGDALENA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "1003|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1883",
+  "genealogy_id": "VAN DER MERWEa1b2c14d9e1f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "CORNELIS JOHANNES",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARIA MARGARETHA",
+    "surname": "PRETORIUS",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "1014|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1898",
+  "genealogy_id": "VAN DER MERWEa1b2c5d7e5f2",
+  "surname": "VAN DER MERWE",
+  "given_names": "FRANCOIS ANROLDUS",
+  "birth_year": "1798.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "CHRISTINA CORNELIA",
+    "surname": "KOCH",
+    "marriage_date": "05/09/1819",
+    "marriage_year": "1819"
+   },
+   {
+    "name": "HELENA DOROTHEA",
+    "surname": "SCHEEPERS",
+    "marriage_date": "04/12/1830",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "1017|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1907",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e4f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES PETRUS",
+  "birth_year": "1808.0",
+  "death_year": "1891",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTHA SOPHIA",
+    "surname": "ELOFF",
+    "marriage_date": "20/03/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "1018|4787",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1908",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e5f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES STEPHANUS",
+  "birth_year": "1805.0",
+  "death_year": "1877",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA ELIZABETH",
+    "surname": "GRIESEL",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|756",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Johannes Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|4787",
+   "996|4787",
+   "999|4787",
+   "1002|4787",
+   "1003|4787",
+   "1014|4787",
+   "1017|4787",
+   "1018|4787"
+  ]
+ },
+ {
+  "pair_id": "993|5002",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1869",
+  "genealogy_id": "VAN DER MERWEa1b3c8d6e1f7",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES LODEVICUS",
+  "birth_year": "1796.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ALETTA CORNELIA",
+    "surname": "VILJOEN",
+    "marriage_date": "02/02/1816",
+    "marriage_year": "1816"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|971",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|5002",
+   "996|5002",
+   "997|5002"
+  ]
+ },
+ {
+  "pair_id": "996|5002",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1874",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "DAVID SCHALK",
+  "birth_year": "1799.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "WEIDEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIASUSANNA",
+    "surname": "DE BEER",
+    "marriage_date": "05/06/1836",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|971",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|5002",
+   "996|5002",
+   "997|5002"
+  ]
+ },
+ {
+  "pair_id": "997|5002",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|971",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "993|5002",
+   "996|5002",
+   "997|5002"
+  ]
+ },
+ {
+  "pair_id": "994|4101",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1872",
+  "genealogy_id": "VAN DER MERWEa1b2c13d1e8f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "SCHALK WILLEM",
+  "birth_year": "1796.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HENDRINA JOHANNA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ANGENITHA MARIA",
+    "surname": "OLIVIER",
+    "marriage_date": "11/05/1847",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|67",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Schalk Willem",
+  "census_head_role": "male",
+  "census_spouse": "Liebenberg, Mar. Catharina Johanna",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "994|4101"
+  ]
+ },
+ {
+  "pair_id": "994|4584",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1872",
+  "genealogy_id": "VAN DER MERWEa1b2c13d1e8f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "SCHALK WILLEM",
+  "birth_year": "1796.0",
+  "death_year": "1860",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "HENDRINA JOHANNA",
+    "surname": "VAN DER MERWE",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "ANGENITHA MARIA",
+    "surname": "OLIVIER",
+    "marriage_date": "11/05/1847",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|552",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Carel Erasmus",
+  "census_head_role": "male",
+  "census_spouse": "Meyburg, M. M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "994|4584",
+   "997|4584"
+  ]
+ },
+ {
+  "pair_id": "997|4584",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|552",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Carel Erasmus",
+  "census_head_role": "male",
+  "census_spouse": "Meyburg, M. M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "994|4584",
+   "997|4584"
+  ]
+ },
+ {
+  "pair_id": "996|4407",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1874",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "DAVID SCHALK",
+  "birth_year": "1799.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "WEIDEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIASUSANNA",
+    "surname": "DE BEER",
+    "marriage_date": "05/06/1836",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|374",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "996|4407",
+   "997|4407"
+  ]
+ },
+ {
+  "pair_id": "997|4407",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|374",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Johannes Lodewicus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "996|4407",
+   "997|4407"
+  ]
+ },
+ {
+  "pair_id": "996|4995",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1874",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f3",
+  "surname": "VAN DER MERWE",
+  "given_names": "DAVID SCHALK",
+  "birth_year": "1799.0",
+  "death_year": "1874",
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "JOHANNA CATHARINA",
+    "surname": "WEIDEMAN",
+    "marriage_date": null,
+    "marriage_year": null
+   },
+   {
+    "name": "MARIASUSANNA",
+    "surname": "DE BEER",
+    "marriage_date": "05/06/1836",
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|964",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Willem Paulus Jacobus",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "996|4995"
+  ]
+ },
+ {
+  "pair_id": "997|4365",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|332",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend",
+  "census_head_role": "male",
+  "census_spouse": "Pienaar, Elsje",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "997|4365"
+  ]
+ },
+ {
+  "pair_id": "997|4366",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|333",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Johannes",
+  "census_head_role": "male",
+  "census_spouse": "De Clercq, Anna Elisabeth",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "997|4366"
+  ]
+ },
+ {
+  "pair_id": "997|4405",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|372",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Daniel Pieter",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "997|4405",
+   "1017|4405"
+  ]
+ },
+ {
+  "pair_id": "1017|4405",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1907",
+  "genealogy_id": "VAN DER MERWEa1b3c14d5e4f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "JOHANNES PETRUS",
+  "birth_year": "1808.0",
+  "death_year": "1891",
+  "declared_district": "SOMERSET",
+  "spouses": [
+   {
+    "name": "MARTHA SOPHIA",
+    "surname": "ELOFF",
+    "marriage_date": "20/03/1836",
+    "marriage_year": "1836"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|372",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Daniel Pieter",
+  "census_head_role": "male",
+  "census_spouse": null,
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Van der Meulen, Niclaas",
+    "census_spouse": "Roux, Elizabeth",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Gert",
+    "census_spouse": "Van der Merwe, Jacoba",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Piet",
+    "census_spouse": null,
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Willem",
+    "census_spouse": "Potgieter, Susanna",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Pieter Schalk",
+    "census_spouse": "De Wet, Magdalena",
+    "census_district": "Albany"
+   },
+   {
+    "census_head_name": "Van der Merwe, Frans Jacobus",
+    "census_spouse": null,
+    "census_district": "Albany"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "997|4405",
+   "1017|4405"
+  ]
+ },
+ {
+  "pair_id": "997|4803",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|772",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Pieter",
+  "census_head_role": "male",
+  "census_spouse": "Du Toit, Sara Geertruida",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "997|4803"
+  ]
+ },
+ {
+  "pair_id": "997|4993",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1875",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f5",
+  "surname": "VAN DER MERWE",
+  "given_names": "BAREND",
+  "birth_year": "1803.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "ELSIE LOUISA",
+    "surname": "PIENAAR",
+    "marriage_date": "07/12/1823",
+    "marriage_year": "1823"
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|962",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Barend Frederik",
+  "census_head_role": "male",
+  "census_spouse": "v. Nieukerk, Wilhelmina Petronella",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "997|4993"
+  ]
+ },
+ {
+  "pair_id": "998|4358",
+  "genealogy_source": "Voortrekkers 2.xlsx|Main|1876",
+  "genealogy_id": "VAN DER MERWEa1b2c13d4e3f8",
+  "surname": "VAN DER MERWE",
+  "given_names": "WILLEM CAREL",
+  "birth_year": "1808.0",
+  "death_year": null,
+  "declared_district": "GRAAFF-REINET",
+  "spouses": [
+   {
+    "name": "DOROTHEA MARTHA MARIA",
+    "surname": "COMBRINK",
+    "marriage_date": null,
+    "marriage_year": null
+   }
+  ],
+  "genealogy_notes": null,
+  "census_source": "1825 series.xlsx|Graaff-Reinet 1825|325",
+  "census_district": "Graaff-Reinet",
+  "census_year": 1825,
+  "census_head_name": "v. d. Merwe, Willem Carel",
+  "census_head_role": "male",
+  "census_spouse": "Combrink, D. M. M.",
+  "census_widow_of": null,
+  "census_annotation": null,
+  "other_census_candidates_for_this_person": [
+   {
+    "census_head_name": "Venter, Johannes Alidanus (?)",
+    "census_spouse": "Gryling, Geertrui Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus Jacobus",
+    "census_spouse": "? No surname listed ?, Sophia Adriana",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Jan Charel Marthinus",
+    "census_spouse": "Venter, Catharina Johanna",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Andries Petrus Jacobus",
+    "census_spouse": null,
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Tjaard Adriaan Nicolaas",
+    "census_spouse": "Venter, Adriana Mar. Hendrina",
+    "census_district": "Graaff-Reinet"
+   },
+   {
+    "census_head_name": "Venter, Petrus",
+    "census_spouse": "Potgieter, Hester",
+    "census_district": "Graaff-Reinet"
+   }
+  ],
+  "competing_pair_ids_same_census_head": [
+   "998|4358"
+  ]
+ }
+]

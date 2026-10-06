@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "808|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches exactly, but he was born in 1809, so he would be about 14 in 1823 and is shown as a married head (wife Grobbelaar). That is implausible, though not an outright contradiction, and the genealogy lists no spouse to compare.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1915",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Hendrik is a normal form of Johannes Hendrik and he would be about 20 in 1823. His only recorded marriage (Labuschagne, 1830) is after the census, so the census wife Grobbelaar can neither confirm nor contradict the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "810|1970",
+  "verdict": "REJECT",
+  "reason": "The census middle name Matthys differs from the genealogy middle name Hendrik. This is a substitution, not an omission, and a separate census head Jan Hendrik Robbertse exists in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "820|4925",
+  "verdict": "REJECT",
+  "reason": "The census head is Jan Hendrik, not Gerhardus Jacobus. His wife v. d. Merwe in 1825 also differs from Hattingh, whom he married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Roetz, Gerhardus Jacobus"
+ },
+ {
+  "pair_id": "822|1882",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Nicolaas matches, but the third name (Rudolph vs Jacobus) differs. The census wife Venter cannot be checked against his 1827 marriage to van der Westhuizen.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "825|9588",
+  "verdict": "REJECT",
+  "reason": "The census head Paul Stephanus differs from Johannes Gysbertus. The household's wife, Swanepoel, matches a competing genealogy person, Paulus Stephanus Roos.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "827|9588",
+  "verdict": "ACCEPT",
+  "reason": "Paul Stephanus is a variant of Paulus Stephanus, and the census wife Swanepoel, Hester Maria matches his first spouse exactly. His later marriages date from 1832 and 1834.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "828|4726",
+  "verdict": "REJECT",
+  "reason": "This census head shows no wife, whereas he married Magdalena Elisabeth Roos in 1820. Another 1825 Graaff-Reinet head, Gysbert Johannes Roos with wife Magdalena Elisabeth Roos, fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Roos, Gysbert Johannes"
+ },
+ {
+  "pair_id": "828|4794",
+  "verdict": "ACCEPT",
+  "reason": "Gysbert Johannes is a variant of Gysbertus Johannes, and the census wife Roos, Magdalena Elisabeth matches his 1820 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "831|5537",
+  "verdict": "REJECT",
+  "reason": "The census head's names, Isaac Francois, are entirely different from Johannes Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "832|5795",
+  "verdict": "ACCEPT",
+  "reason": "The name Francois Roos matches, and the census wife Furstenberg, Maria Elisabeth matches his 1805 marriage. The district (Stellenbosch) also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "832|5821",
+  "verdict": "REJECT",
+  "reason": "The census wife Kuneker, Francina Merina differs from Fürstenberg, whom he married in 1805. The household of Francois Roos with a Furstenberg wife fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Roos, Francois"
+ },
+ {
+  "pair_id": "832|6388",
+  "verdict": "REJECT",
+  "reason": "The census wife Meyer, Margaretha Elisabeth differs from Fürstenberg, whom he married in 1805. The household of Francois Roos with a Furstenberg wife fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Roos, Francois"
+ },
+ {
+  "pair_id": "838|4942",
+  "verdict": "ACCEPT",
+  "reason": "Stephanus Scheepers matches (middle name omitted), and the census wife Janse v. Rensburg, Maria Magdalena matches his 1808 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "838|4946",
+  "verdict": "REJECT",
+  "reason": "The census head is Gerhardus Stephanus, and his wife Basson differs from Janse van Rensburg, whom he married in 1808.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Scheepers, Stephanus"
+ },
+ {
+  "pair_id": "839|4946",
+  "verdict": "REJECT",
+  "reason": "The census middle name Stephanus differs from Hendrik. He would also be only about 16 in 1825, yet the census head has a wife, Basson.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "840|3852",
+  "verdict": "ACCEPT",
+  "reason": "Gidion is a variant of Gideon, and the census wife Klynhans, Hester M. matches his 1803 marriage to Kleynhans. The district (George) also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "842|9088",
+  "verdict": "REJECT",
+  "reason": "The census wife Steyn, Anna Christina differs from Potgieter, whom he married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "842|9156",
+  "verdict": "REJECT",
+  "reason": "The census wife Scheepers, Anna Susanna differs from Potgieter, whom he married in 1817. No remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "846|9156",
+  "verdict": "REJECT",
+  "reason": "The census name Gerhardus Stephanus differs from Gerhardus Johannes Adolphus. He would also be about 17 in 1825, yet the census head has a wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "848|9156",
+  "verdict": "REJECT",
+  "reason": "He died in 1823, before the 1825 census, and his names (Coenraad Johannes Abraham) differ from the head's, Gerhardus Stephanus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "842|9614",
+  "verdict": "UNCERTAIN",
+  "reason": "Gerrit may be a form of Gerhardus, but the match is weak. A man married in 1817 appears here with no wife, and the annotation 'Gerrit's son; enrolled' suggests a younger man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "854|9614",
+  "verdict": "REJECT",
+  "reason": "The genealogy person, Sara Johanna, is a woman married to Strydom, whereas the census head is a man named Gerrit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "843|9159",
+  "verdict": "REJECT",
+  "reason": "The census middle name Johannes differs from Coenraad. A census head named exactly Fredrik Coenraad exists in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Scheepers, Fredrik Coenraad"
+ },
+ {
+  "pair_id": "850|9159",
+  "verdict": "REJECT",
+  "reason": "The census head Fredrik Johannes differs from Johannes Jacobus and has no wife, whereas he married Lindeque in 1820. Another head, Johannes Jacobus with wife Lindeque, fits exactly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Scheepers, Johannes Jacobus"
+ },
+ {
+  "pair_id": "843|9621",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Coenraad matches Frederik Coenraad exactly, and the district (Uitenhage) agrees. The absence of a wife fits his later marriage to Landman in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "844|9487",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Jacobus, not Coenraad, and the census wife Lindeque differs from Potgieter, whom he married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "850|9487",
+  "verdict": "ACCEPT",
+  "reason": "The name Johannes Jacobus matches exactly, and the census wife Lindeque, Anna Catharina matches his 1820 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "844|9523",
+  "verdict": "REJECT",
+  "reason": "The census head's names, Hendrik Petrus, are entirely different from Coenraad.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "849|9523",
+  "verdict": "UNCERTAIN",
+  "reason": "Hendrik Petrus matches his first two names. However, he has no birth year, and his marriage to Bronkhorst falls in the census year itself (July 1825), so the absence of a wife can neither confirm nor contradict the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "844|9524",
+  "verdict": "UNCERTAIN",
+  "reason": "Cornelis Coenraad shares only the name Coenraad, and the head shows no wife although he married Potgieter in 1821. That is weak but not an affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "847|9697",
+  "verdict": "ACCEPT",
+  "reason": "The name Johannes Marthinus matches, and the census wife Landman, Magdalena matches his 1798 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "850|9697",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes Marthinus, and the census wife Landman differs from Lindeque, whom he married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Scheepers, Johannes Jacobus"
+ },
+ {
+  "pair_id": "850|9610",
+  "verdict": "REJECT",
+  "reason": "The census head is Coenraad Fredrik, and the census wife Landman differs from Lindeque, whom he married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Scheepers, Johannes Jacobus"
+ },
+ {
+  "pair_id": "851|9173",
+  "verdict": "REJECT",
+  "reason": "The census head's names, Cornelis Coenraad, are entirely different from Hendrik Christoffel Petrus. The census wife Bronkorst cannot be compared with his 1839 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "854|9706",
+  "verdict": "REJECT",
+  "reason": "The genealogy person, Sara Johanna, is a woman, whereas the census head is a man, Carel Johannes.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "857|9562",
+  "verdict": "ACCEPT",
+  "reason": "The name Marthinus Johannes matches, and the census wife Scheepers, Elisabeth fits his 1810 marriage to Maria Elizabeth Scheepers.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "858|9592",
+  "verdict": "ACCEPT",
+  "reason": "The name Petrus Albertus matches exactly, and the census wife Bekker, Catharina Elisabeth matches his 1817 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "861|3874",
+  "verdict": "REJECT",
+  "reason": "The census head is Johannes 'Senior', which is unlikely for a man born in 1800 whose first name is Stephanus. The census wife Botha matches none of his three listed spouses.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "864|5205",
+  "verdict": "ACCEPT",
+  "reason": "Joachim matches (middle name omitted), and the census wife Kruger, Anna Jacomina is a plausible spelling variant of Anna Jacoba Kruger, whom he married in 1801.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

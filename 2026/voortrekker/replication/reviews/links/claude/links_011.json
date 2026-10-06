@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "524|9548",
+  "verdict": "REJECT",
+  "reason": "The census wife is Dorothea van Devender. His wives married before 1825 were Geertruida Gesina Labuschagne (1816) and Hilletje Roets (1818), and neither matches her.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "528|9548",
+  "verdict": "REJECT",
+  "reason": "His wife in 1825 was Gesina Adriana Wilhelmina du Plessis (married 1817); the later du Plessis wives came after 1835. The census wife, Dorothea van Devender, clearly differs.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "532|9548",
+  "verdict": "REJECT",
+  "reason": "His wife is Elsie Maria Jordaan, not Dorothea van Devender. The Cradock (Somerset) head 'La Buscagne, Jan Hendrik' with wife Elsje Maria Jordaan matches his full name, his wife and his district.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "La Buscagne, Jan Hendrik"
+ },
+ {
+  "pair_id": "535|9644",
+  "verdict": "ACCEPT",
+  "reason": "His full name Carel Pieter matches the head, and the census wife Achata Jacomina Meyer matches his 1817 wife Agatha Jacomina Meyer. The district (Uitenhage) agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "536|9271",
+  "verdict": "UNCERTAIN",
+  "reason": "There are two unmarried Johan Abraham Landman heads in Uitenhage (Christoffel's son and Willem's son). His wife Le Roux has no marriage date, so nothing distinguishes which head, if either, is him.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "538|9271",
+  "verdict": "REJECT",
+  "reason": "He married Maria Elizabeth de Jager in 1822, but this head has no wife. Another Uitenhage head, Johan Abraham Landman with wife Maria Elisabeth de Jager, fits him clearly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Landman, Johan Abraham"
+ },
+ {
+  "pair_id": "536|9649",
+  "verdict": "UNCERTAIN",
+  "reason": "This is one of two unmarried Johan Abraham Landman heads, and his wife Le Roux has no marriage date. The evidence cannot tell whether this head, Willem's son, is him.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "538|9649",
+  "verdict": "REJECT",
+  "reason": "He married Maria Elizabeth de Jager in 1822, but this head is unmarried. The Uitenhage head Johan Abraham Landman with wife Maria Elisabeth de Jager matches him clearly.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Landman, Johan Abraham"
+ },
+ {
+  "pair_id": "537|9632",
+  "verdict": "REJECT",
+  "reason": "He was about 16 in 1825 and did not marry until 1829. The census head is married to Catharina Scheepers, who is none of his wives, so this is a different, older Willem.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "538|9643",
+  "verdict": "ACCEPT",
+  "reason": "The name Johan(nes) Abraham Landman matches. The census wife Maria Elisabeth de Jager matches his 1822 marriage, and the district agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "543|8337",
+  "verdict": "ACCEPT",
+  "reason": "His distinctive full name Johannes Hermanus Richard Lemmer/Lemmert matches exactly, in Swellendam. He was unmarried until 1826, which fits a head with no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "544|4614",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife Anna Petronella Cilliers matches his wife Anna Johanna Petronella Cilliers, married February 1825. The district is Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "545|4381",
+  "verdict": "ACCEPT",
+  "reason": "The name Barend Johannes Liebenberg matches. The census wife Hester Magdalena v. d. Berg matches his 1806 wife Hester Magdalena van den Berg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "546|4544",
+  "verdict": "ACCEPT",
+  "reason": "The name Barend Godlieb Liebenberg matches. The census wife Maria Petronella van Jaarsveld matches his 1787 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "548|4756",
+  "verdict": "REJECT",
+  "reason": "The census wife is Marg. Jac. Joubert. His wives married before 1825 were Kotze (1817) and Maria Christina Hendrina Liebenberg (1821), and neither matches her.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "549|4553",
+  "verdict": "ACCEPT",
+  "reason": "The full name Stephanus Rudolph/Rudolf Liebenberg matches, in Graaff-Reinet. He was unmarried until 1826, which fits a head with no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "550|7486",
+  "verdict": "ACCEPT",
+  "reason": "The full name Georg Frederik Linde matches exactly, in his declared Swellendam district. He married in 1830, so the absence of a wife in 1825 fits.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "551|9488",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit and Gerhardus Johannes are the same name, and 'Sr.' matches the 'Senior' annotation. The census wife Anna Catharina Viljoen matches his 1801 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "552|9485",
+  "verdict": "REJECT",
+  "reason": "This head is annotated 'Senior' and has no wife. Another head, Petrus Lindeque with wife Martha Maria Dupree, annotated as son of Gerhardus Johannes, matches both his wife Du Preez and his parentage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Lindeque, Petrus"
+ },
+ {
+  "pair_id": "552|9489",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Martha Maria Dupree matches his wife Martha Maria du Preez. The annotation 'Gerhardus Johannes' son' fits his descent from Gerrit Johannes.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "553|541",
+  "verdict": "ACCEPT",
+  "reason": "The name Andries Louis Lombard/Lombart matches, with 'Senior' agreeing with 'Sr.'. The census wife Cornelia de Wege matches his 1798 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "554|540",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and the 'Andries' son' annotation fit. However, the census wife Anna Johanna Lombart differs in surname from his recorded wife Engela Anna Johanna Botes, whose marriage date is missing, so an earlier marriage cannot be ruled out.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "558|9221",
+  "verdict": "UNCERTAIN",
+  "reason": "The distinctive name Willem Godfried Lötter matches, and Uitenhage is near Somerset. But he married Erasmus in 1802 and this head has no wife, so whether he was widowed by 1825 is unknown.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "563|1063",
+  "verdict": "ACCEPT",
+  "reason": "Paul Willem is a variant of Paulus Wilhelmus. The census wife Johanna Maria Mouton matches his 1813 marriage, in Clanwilliam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "564|885",
+  "verdict": "ACCEPT",
+  "reason": "The name Jan Lodewyk Lubbe matches exactly. The census wife Margaretha Magdalena Elizabeth de Koker matches his 1816 marriage, and Beaufort is consistent with his history.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "567|5505",
+  "verdict": "ACCEPT",
+  "reason": "The full name Hendrik Jacobus Maartens matches exactly, in Graaff-Reinet. He married only in 1832, so the absence of a wife fits.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "569|2346",
+  "verdict": "ACCEPT",
+  "reason": "Malang is a variant of Malan. The census wife Margaretha Maria Swart matches his 1817 wife Maria Margaretha Swart with the names reordered, and Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "572|3513",
+  "verdict": "UNCERTAIN",
+  "reason": "No spouse is recorded for him, and there are several Daniel Petrus Marais heads. This one is in George rather than his declared Uitenhage, so nothing confirms it.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "572|9668",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Uitenhage district fit, but no spouse or parentage evidence is available to choose between the several Daniel Petrus Marais heads.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "572|9736",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Uitenhage district fit, but he has no recorded spouse to compare with the census wife Martha Maria Vogel, and other same-named heads exist.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "575|488",
+  "verdict": "ACCEPT",
+  "reason": "The name Gerhardus Petrus Marais matches. The census wife Maria Adriana Vermeulen matches his 1800 marriage, in Beaufort.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "577|9703",
+  "verdict": "ACCEPT",
+  "reason": "The name Matthys Hendrik Marais matches. The census wife Maria Petronella Meyer matches his 1815 wife Magdalena Petronella Meyer apart from a plausible variation in the first name, in Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "583|9709",
+  "verdict": "ACCEPT",
+  "reason": "Maretz is a variant of Maritz, and the name Johannes Stephanus matches. The census wife Salomina Dupree matches his 1815 wife Magdalena Salomina du Preez.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "585|9694",
+  "verdict": "ACCEPT",
+  "reason": "The name Salomon Maretz/Maritz matches, with the annotation 'Junior'. The census wife Magdalena Petronella Catharina Stoffelina Scheepers matches his 1823 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "587|3860",
+  "verdict": "REJECT",
+  "reason": "The census wife M. K. Scheepers is not his 1813 wife, Catherina Aletta Nortier. The George head 'Marneweck, Johan Coenraad' with wife C. A. Nortje matches him.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Marneweck, Johan Coenraad"
+ },
+ {
+  "pair_id": "587|3863",
+  "verdict": "ACCEPT",
+  "reason": "The name Johan Coenraad Marneweck matches. The census wife C. A. Nortje matches his 1813 wife Catherina Aletta Nortier, in his declared George district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "588|9147",
+  "verdict": "ACCEPT",
+  "reason": "The given names Petrus Johannes match, and the census surname 'Mark' is annotated 'Marx?', in his declared Uitenhage district. He married only in 1827, so the absence of a wife fits.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "589|5456",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he was married to van Heerden from 1799 and this head has no wife, so he may or may not have been widowed. The census is in Graaff-Reinet rather than his declared Cradock, and a younger namesake competes for this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "590|5456",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he was only about 16 in 1825, which makes him unlikely as a household head. His marriage was in 1831, and an older namesake (born 1775) competes for this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "591|4167",
+  "verdict": "ACCEPT",
+  "reason": "The name Willem J. Albertus Meintjes matches. The census wife Anna Francina Johanna Viljoen matches his second wife, married in 1822.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

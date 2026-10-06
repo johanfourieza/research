@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "1163|9150",
+  "verdict": "REJECT",
+  "reason": "The name matches exactly, but the census wife is Potgieter, Jacomina Alletta, while his only spouse is Johanna Salomina Pienaar, married in 1822. That is before the census and no remarriage is recorded. The other same-named candidate also has a Potgieter wife, so this head is probably a namesake.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1169|9188",
+  "verdict": "REJECT",
+  "reason": "The given names differ completely (Salomon Cornelis Johannes vs Gerrit Thomas). He would have been only 16 in 1825, and his only marriage (Knoetze) was in 1829, yet the census head has a wife (Potgieter).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1170|9311",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife Strydom, Magdalena Josina matches his second wife, married 03/11/1822, before the census. No contradictions.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1170|9754",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Petrus Theodorus vs Johannes Gerhardus). He had been married since 1818/1822, while this head is enrolled with no wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1172|9622",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife Dekker, Maria Francina matches his wife, married in 1821.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1173|9650",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Coenraad Marthinus vs Cornelis Tobias). No census wife is recorded, although he married Meyer in 1815 and Breytenbach in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1175|5043",
+  "verdict": "REJECT",
+  "reason": "The first names differ (Sarel/Carel Johannes vs Hendrik Johannes). The census wife v. Vreeden appears in 1825, but his only marriage (Van den Berg) was in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1176|5179",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife Pretorius, Catharina Geertruida M. matches his wife Catharina Gertruida Maria Pretorius, married in 1824.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1176|5256",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Walters vs Gabriel). The census wife Christina Gerharda Pretorius differs from his wife Catharina Gertruida Maria Pretorius, married in 1824. Another candidate, Jan Gabriel, has the matching wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Vermeulen, Jan Gabriel"
+ },
+ {
+  "pair_id": "1178|1638",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Marthinus Christoffel vs Jan Hendrik). He was about 15 in 1823, yet the head has a wife (van der Merwe), while his only spouse is Durand.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1184|1638",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Albertus vs Hendrik). The census wife van der Merwe differs from his wife Van Deventer, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1178|5020",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Marthinus Christoffel vs Ignatius Michiel). He was about 17 in 1825, and the census wife v. d. Berg is not among his spouses (Durand only).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1179|4294",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Hercules vs Hendrik). The census wife Viljoen, A. J. S. differs from his wife Kruger, married in 1818.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1179|4371",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Hercules vs Hendrik). The census wife Nieuwhoudt differs from his wife Kruger, married in 1818.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1187|4371",
+  "verdict": "REJECT",
+  "reason": "The head was already married to Nieuwhoudt in 1825, but this man (born 1806) first married Jacobs in 1826, and Nieuwhoudt is not among his spouses. The middle name Hendrik is also unsupported.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1179|5196",
+  "verdict": "REJECT",
+  "reason": "The census wife Jacobsz, Johanna Christina differs from his wife Kruger, married in 1818.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1184|5196",
+  "verdict": "REJECT",
+  "reason": "The census wife Jacobsz, Johanna Christina differs from his wife Van Deventer, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1187|5196",
+  "verdict": "UNCERTAIN",
+  "reason": "The name Jan matches, and the census wife's surname Jacobsz resembles his wife's surname Jacobs. However, her given names differ (Johanna Christina vs Catharina Sophia), and his marriage was in 1826, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1179|5326",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife Kruger, Johanna Elisabeth matches his wife, married in 1818.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|4374",
+  "verdict": "UNCERTAIN",
+  "reason": "Census 'Albertus' is compatible with Albertus Johannes, and having no wife fits his 1826 marriage. However, the name is common and nothing corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1186|4374",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Willem Jacobus vs Albertus), and he was only about 17 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|4665",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Albertus Johannes vs Johannes Herculus).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1187|4665",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Johannes, but the middle name Herculus is not in his record. An unmarried head fits his 1826 marriage, but nothing corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|5027",
+  "verdict": "REJECT",
+  "reason": "This head is female (Griesel, Johanna Elisabeth, widow of Albertus Viljoen), so a male genealogy person cannot be her.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|5223",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches exactly in a consistent district, and having no wife fits his 1826 marriage. Without wife corroboration, though, the evidence rests on the name alone.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1195|5223",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Carel Marthinus vs Albertus Johannes).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|5261",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Albertus Johannes vs Petrus Cornelis). The head is also married in 1825, before his 1826 marriage to Griesel.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1188|5261",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Johannes vs Cornelis). The census wife Viljoen, Catharina Johanna differs from his wife Martha Janse van Rensburg, married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1181|5309",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Albertus Johannes vs Petrus G.). The head's wife De Beer is not his spouse (Griesel, married 1826).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1192|5309",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Christoffel vs Petrus G.). The census wife De Beer differs from his wife Janse van Vuuren, married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1183|1623",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Willem Wouter vs Jan Wilhelmus). The census wife Aucamp differs from his wife Greyling.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1184|1623",
+  "verdict": "REJECT",
+  "reason": "The middle name differs (Albertus vs Wilhelmus). The census wife Aucamp differs from his wife Van Deventer, married in 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1183|2156",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife Greyling, Jacomina Hendrina matches his first spouse. The recorded birth year (1797, the same as the marriage year) looks like a genealogy data error rather than a real contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1183|5022",
+  "verdict": "REJECT",
+  "reason": "The census wife Viljoen, Susanna Elisabeth differs from his wife Greyling, Jacomina Hendrina, and the head lacks the middle name Wouter.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1184|2157",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife van Deventer, Catharina matches his wife Elizabeth Catharina Van Deventer, married in 1820.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1185|9603",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Barend Christiaan vs Carel Marthinus), and he was about 18 in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1188|2103",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Petrus Johannes vs Abraham). The census wife Vorster is not his spouse (Janse van Rensburg, married 1824).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1188|9605",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Petrus Johannes vs Stephanus Petrus). The census wife Hendrina Maria differs from his wife Martha Janse van Rensburg, married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1193|9605",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches exactly, and the census wife's given names Hendrina Maria match his wife Hendrina Maria van Staden, married in 1814. The census surname Viljoen appears to be her married name.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1194|9605",
+  "verdict": "REJECT",
+  "reason": "The given names differ (Gerhardus Coenradus vs Stephanus Petrus). The census wife Hendrina Maria differs from his wife Cecilia Johanna Botha, married in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "474|7724",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match (Andries Johannes Joubert) in his declared district Swellendam; aged ~20 in 1825 and his first dated marriage is 1826, so no wife in the census is consistent.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "475|2129",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district (Cradock) fit, but the census wife Hester Jacoba Botha does not match the only genealogy spouse (Van den Berg); her marriage date is missing, so an earlier unrecorded marriage could explain it.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "476|7710",
+  "verdict": "ACCEPT",
+  "reason": "Census wife 'Joubert, M. E.' matches Margaretha Elizabeth Joubert, married 1823; the full name also matches, which outweighs the uncertain declared district (Colesberg?).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "477|7348",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Dorothea Regiena van Eeden matches the 1823 spouse Dorothea Regina van Eeden, and the full name matches; the declared district difference is outweighed.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "478|7718",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but Swellendam 1825 has two Jacobus Francois Joubert heads (965 and 969), both without a wife; the evidence cannot say which one he is.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "478|7720",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and district match, but Swellendam 1825 has two Jacobus Francois Joubert heads (965 and 969), both without a wife; the evidence cannot say which one he is.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "479|7719",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match, but he declared Somerset while the census entry is in Swellendam. His marriage (June 1825) falls in the census year, so the missing wife neither confirms nor contradicts.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "481|9216",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Uitenhage. The census wife's given names Maria Magdalena match his 1814 spouse; she is entered under the married surname Kemp rather than Potgieter, which is a clerical variant, not a conflict.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "482|1997",
+  "verdict": "ACCEPT",
+  "reason": "The census annotation 'de Oude' matches his epithet, and the census wife Anna Elizabeth Kruger matches his 1799 second marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "483|1543",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Maria Magdalena Willemina Sophia Rhynders matches the 1816 spouse Maria Magdalena Wilhelmina Josepha Reynders; name and district (Cradock/Somerset) also match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "492|1543",
+  "verdict": "REJECT",
+  "reason": "In 1823 this head was married to Rhynders, but this man (b.1802) first married Naude in 1826. The wife instead matches the older Johannes Jacobus (pair 483|1543).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "483|4811",
+  "verdict": "UNCERTAIN",
+  "reason": "This man had been married to Reynders since 1816, yet the Graaff-Reinet 1825 head has no wife. The Cradock 1823 entry with wife Rhynders fits him clearly better, and this entry fits the unmarried younger namesake better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Klopper, Johannes Jacobus"
+ },
+ {
+  "pair_id": "492|4811",
+  "verdict": "ACCEPT",
+  "reason": "Name matches in his declared district Graaff-Reinet. He was unmarried in 1825 (first marriage 1826), consistent with no census wife, whereas the competing older namesake was married.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "486|4809",
+  "verdict": "UNCERTAIN",
+  "reason": "Distinctive exact name; aged ~20 and unmarried, consistent with no wife. However, he declared Somerset while the entry is in Graaff-Reinet, and there is no wife to corroborate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "487|2196",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Johanna Elizabeth Erasmus matches his 1804 spouse exactly; name and district (Cradock/Somerset) match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "488|2196",
+  "verdict": "REJECT",
+  "reason": "He was born 1808, so he was about 15 in 1823, and he married Du Toit only in 1830. The census head's wife Erasmus belongs to his father (pair 487|2196).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "491|4686",
+  "verdict": "ACCEPT",
+  "reason": "Census wife R. Elisabeth Alida Grobler matches Rachel Elizabeth Alida Grobler, married February 1825; the full name matches exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "494|5090",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Graaff-Reinet. The census wife H. Cornelia de Beer matches the 1809 spouse Neeltjie de Beer, since Neeltjie is the usual diminutive of Cornelia.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "496|5093",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Graaff-Reinet, which then included Colesberg. He married in 1826, so no census wife in 1825 is consistent.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "499|1650",
+  "verdict": "REJECT",
+  "reason": "The census wife Aletta Elizabeth Coetzee contradicts his 1819 marriage to Hester Sophia Fourie, and another Cradock 1823 head of the same name has Fourie as wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Koekemoer, Diederik Johannes"
+ },
+ {
+  "pair_id": "499|2373",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Hester Sophia Fourie matches his 1819 spouse exactly; name and district (Cradock/Somerset) match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "500|1884",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Cradock, which corresponds to his declared Somerset. He was aged ~20 and did not marry until 1832, consistent with no census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "501|275",
+  "verdict": "ACCEPT",
+  "reason": "Dawid/David is a spelling variant, and the census wife Elizabeth Kruger matches his 1814 spouse Elizabeth Margaretha Kruger; the district (Beaufort) matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "503|879",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in his declared district Beaufort; he has no recorded spouse, consistent with no census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "504|2106",
+  "verdict": "REJECT",
+  "reason": "The same Cradock 1823 series has a second Jacobus Johannes Jurgen Kotze with wife Maria Dorothea Kruger, his 1813 spouse. This wifeless entry ('Jan's zoon') is therefore a different man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Kotze, Jacobus Johannes Jurgen"
+ },
+ {
+  "pair_id": "504|2131",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Maria Dorothea Kruger matches his 1813 spouse exactly; name matches and the district is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "504|4249",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Maria Dorothea Kruger matches his 1813 spouse. Graaff-Reinet 1825 included Colesberg, his declared district; this 1825 entry can coexist with the 1823 Cradock entry.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "506|8310",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Anna Magdalena Badenhorst matches his 1820 spouse Anna Magdalena Petronella Badenhorst; the name (allowing for the Jacbobus typo) and district Swellendam match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "507|9193",
+  "verdict": "REJECT",
+  "reason": "He was born 1808 (aged ~17) and first married Maritz in 1835, but the census head already had a wife, Catharina Elisabeth Wessels, in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "508|9187",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Anna Maria van der Wat matches his 1803 spouse Anna Margaretha van der Watt (same surname; the given-name variation is plausible); name and district Uitenhage match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "509|10131",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches only partially (Hendrik Johannes vs Hendrik (Johannes) Jacobus), and the Worcester census district is far from his declared Somerset. He married after 1824, so no wife can corroborate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "510|1988",
+  "verdict": "ACCEPT",
+  "reason": "Krugel/Kruger is a plausible spelling variant. The census wife Anna Maria de Bruin matches his 1814 spouse Anna Maria de Bruyn, and Cradock corresponds to his declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "512|2132",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Johanna Alida Joosten matches his 1809 spouse Johanna Alida Jooste; name and district (Cradock/Somerset) match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "514|1579",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Lasya Christina Vorster matches his 1815 spouse exactly; name and district Cradock match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "515|4205",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Sophia Marg. Steenkamp matches his 1798 spouse Sophia Margaretha Steenkamp; name and district Graaff-Reinet match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "516|4203",
+  "verdict": "ACCEPT",
+  "reason": "Gert is a short form of Gerrit, and the census wife Elisabeth Johanna Catharina Pelzer matches his 1820 spouse Elizabeth Johanna Pelser; the district Graaff-Reinet matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "517|2113",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Elsje Francina Stein matches his 1820 spouse Elsie Francina Steyn, and the name matches allowing for the 'Caspa' spelling; the Cradock/Graaff-Reinet difference is outweighed.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "519|2122",
+  "verdict": "UNCERTAIN",
+  "reason": "Exact name match, but he was only ~17 in 1823 and declared Graaff-Reinet rather than Cradock, with no wife to corroborate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "520|5213",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Anna Maria Jac. Griesel matches his 1822 spouse Anna Maria Jacoba Griesel. Lodewicus/Lodewyk is a variant, and Graaff-Reinet then included Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

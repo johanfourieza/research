@@ -1,0 +1,142 @@
+[
+ {
+  "pair_id": "767|2201",
+  "verdict": "REJECT",
+  "reason": "The given names Arie Jacobus and Marthinus share nothing. That is an affirmative name contradiction, not spelling variation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "772|2201",
+  "verdict": "REJECT",
+  "reason": "The names Anthonie Christoffel and Marthinus do not match. Born 1809, he was about 14 in 1823, too young to be a household head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "781|2201",
+  "verdict": "REJECT",
+  "reason": "The names Joachim Johannes Petrus and Marthinus do not match. Born 1807, he was only about 16 in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "767|2210",
+  "verdict": "REJECT",
+  "reason": "The given names Arie Jacobus and Barend Nicolaas do not match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "779|2210",
+  "verdict": "REJECT",
+  "reason": "The given names Joachim Johannes and Barend Nicolaas do not match. The annotation 'Joachim's zoon' suggests the head is a son of a Joachim, not Joachim himself.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "767|2235",
+  "verdict": "REJECT",
+  "reason": "The first names Arie and Willem differ. The census head is annotated 'De Oude' and has a wife, Snyman, who appears nowhere in the genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "768|2235",
+  "verdict": "REJECT",
+  "reason": "The names Nicolaas Jacobus and Willem Jacobus differ. He married Catharina Maria Botha in 1822, but the census wife is Anna Margaretha Snyman.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Nicolaas Jacobus"
+ },
+ {
+  "pair_id": "767|2258",
+  "verdict": "REJECT",
+  "reason": "The given names Arie Jacobus and Zacharias do not match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "768|2207",
+  "verdict": "REJECT",
+  "reason": "The names Nicolaas Jacobus and Daniel Jacobus differ. The census wife Erasmus contradicts his 1822 marriage to Botha.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Nicolaas Jacobus"
+ },
+ {
+  "pair_id": "770|2204",
+  "verdict": "REJECT",
+  "reason": "He married Helena Catharina Klopper in 1822, but the census wife is Isabella Roelofse. His undated second wife, Anna Susanna Petronella, does not fit Isabella either. The census head Willem Marthinus, whose wife is a Klopper, fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Willem Marthinus"
+ },
+ {
+  "pair_id": "785|2204",
+  "verdict": "REJECT",
+  "reason": "He married Maria Elisabeth Prinsloo in 1819, but the census wife is Isabella Roelofse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2202",
+  "verdict": "REJECT",
+  "reason": "The middle names Jacobus and Marthinus differ. Born 1808, he was about 15 in 1823, and his first marriage was not until 1828, yet the census head already has a wife, Klopper.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "775|2208",
+  "verdict": "REJECT",
+  "reason": "The names Marthinus and Hendrik Petrus differ. He married De Wet only in 1825, after the census. The unmarried census head Prinsloo, Marthinus fits his name and status better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Prinsloo, Marthinus"
+ },
+ {
+  "pair_id": "781|2213",
+  "verdict": "REJECT",
+  "reason": "The names are similar, but he was born in 1807 and was only about 16 in 1823, while the census head is annotated 'de Oude' (the elder) and is married. The census wife Erasmus differs from his undated spouse Bester.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "786|9502",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches (Prinslo is a spelling variant), and so does the district. The census wife Isabella Susanna Potgieter matches his wife, married in 1805.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "791|1948",
+  "verdict": "ACCEPT",
+  "reason": "The full name Paul Jacobus Putter matches exactly, and Cradock is consistent with Somerset. No wife is listed, which fits an 18-year-old who married only in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "797|1118",
+  "verdict": "REJECT",
+  "reason": "The first names Hermanus and Marthinus differ. The head is annotated 'd'Oude', which conflicts with a man born in 1805. A census head with his exact name exists in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Ras, Hermanus Nicolaas"
+ },
+ {
+  "pair_id": "797|1158",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district match exactly. A man aged about 19 is plausible as a young head with no wife listed, and his marriage to Spangenberg is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "797|1359",
+  "verdict": "REJECT",
+  "reason": "The surname and given names differ completely: Ras, Hermanus Nicolaas versus Russouw, Willem.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Ras, Hermanus Nicolaas"
+ },
+ {
+  "pair_id": "801|5153",
+  "verdict": "ACCEPT",
+  "reason": "The name and district match. The census wife Marta Maria Marits matches his second wife Martha Maria Maritz, married in 1817.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

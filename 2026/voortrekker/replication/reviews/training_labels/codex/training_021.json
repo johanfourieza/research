@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "993|4342",
+  "verdict": "REJECT",
+  "reason": "The head's name matches, but Martha Sophia van der Merwe contradicts Aletta Cornelia Viljoen, whom he married in 1816. No supplied remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|4342",
+  "verdict": "REJECT",
+  "reason": "Pieter Willem and Johannes Lodewicus are different given names, not spelling variants or reordered names. The undated marriage cannot establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|4342",
+  "verdict": "REJECT",
+  "reason": "Although Johannes is shared, Cornelis Johannes conflicts with Johannes Lodewicus through different additional given names. The undated Pretorius marriage cannot establish which wife he had in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4342",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Johannes Lodewyk is compatible with Johannes Lodewicus, but none of the listed wives corroborates Martha Sophia van der Merwe. The December 1825 marriage, later 1839 marriage and undated marriage leave the census-year marital chronology unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4342",
+  "verdict": "REJECT",
+  "reason": "Francois Anroldus conflicts with Johannes Lodewicus, and the census wife differs from Christina Cornelia Koch, married in 1819. The Scheepers marriage in 1830 cannot explain the census wife in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4342",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus and Johannes Lodewicus have conflicting second given names. Martha Sophia Eloff, married in 1836, cannot corroborate or contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4342",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus conflicts with Johannes Lodewicus in the second given name. The undated Griesel marriage does not establish a census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4352",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus conflicts with Andries Petrus. Elsje Johanna Catharina van Heerden also contradicts Aletta Cornelia Viljoen, married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4352",
+  "verdict": "REJECT",
+  "reason": "David Schalk and Andries Petrus are incompatible given names. The Weideman marriage is undated and the De Beer marriage occurred in 1836, so neither establishes a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4352",
+  "verdict": "REJECT",
+  "reason": "Francois Anroldus conflicts with Andries Petrus, and Elsje Johanna Catharina van Heerden contradicts Christina Cornelia Koch, married in 1819. The 1830 Scheepers marriage provides no explanation for the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4352",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus and Andries Petrus share Petrus but have conflicting first given names. His 1836 marriage cannot establish his wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4352",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus and Andries Petrus are different given names, despite the shared surname and district. The undated Griesel marriage cannot establish a census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4402",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus conflicts with David Schalk. Johanna Catharina Weideman also contradicts Aletta Cornelia Viljoen, married in 1816.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4402",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk van der Merwe and the listed spouse Johanna Catharina Weideman both match exactly, with a compatible age and matching district. Although that marriage is undated, the combined evidence is strong and the 1836 De Beer marriage creates no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|4402",
+  "verdict": "REJECT",
+  "reason": "Willem Carel conflicts with David Schalk. The undated Combrink marriage cannot establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|4402",
+  "verdict": "REJECT",
+  "reason": "Diedelof Jacobus and David Schalk are incompatible given names. The undated Robberts marriage cannot establish which wife he had in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4787",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus and Johannes Jacobus have conflicting second given names, rather than a spelling or ordering difference. No census wife is named to permit comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4787",
+  "verdict": "REJECT",
+  "reason": "David Schalk conflicts with Johannes Jacobus; the shared surname and district do not reconcile those given names. No census wife is named.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|4787",
+  "verdict": "REJECT",
+  "reason": "Theunis Jacobus and Johannes Jacobus have conflicting first given names. The census supplies no wife for corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4787",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus is compatible with reordered Jacobus Johannes and omission of Rudolph, and an age of about 18 is possible. No census wife is named, and the differing declared district leaves insufficient corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|4787",
+  "verdict": "REJECT",
+  "reason": "Cornelis Johannes and Johannes Jacobus share Johannes but conflict in their other given name. No census wife is named to permit comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4787",
+  "verdict": "REJECT",
+  "reason": "Francois Anroldus and Johannes Jacobus are incompatible given names. The absence of a named census wife supplies no additional contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4787",
+  "verdict": "REJECT",
+  "reason": "Johannes Petrus conflicts with Johannes Jacobus in the second given name. No census wife is named, and the 1836 marriage cannot corroborate an 1825 identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4787",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus and Johannes Jacobus have conflicting second given names despite sharing surname and district. No census wife is named.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|5002",
+  "verdict": "REJECT",
+  "reason": "Johannes Lodevicus and Barend Jacobus are incompatible given names. The missing census wife does not itself establish a marital contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|5002",
+  "verdict": "REJECT",
+  "reason": "David Schalk conflicts with Barend Jacobus; sharing the surname and district does not reconcile the given names. No census wife is named.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|5002",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend is compatible with Barend Jacobus through omission of a middle name, and the district and age are compatible. No census wife is named to corroborate Elsie Louisa Pienaar, married in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "994|4101",
+  "verdict": "UNCERTAIN",
+  "reason": "Schalk Willem, district and age are compatible, but Mar. Catharina Johanna Liebenberg does not match either listed spouse. The Van der Merwe marriage is undated and the Olivier marriage occurred in 1847, preventing a firm census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "994|4584",
+  "verdict": "REJECT",
+  "reason": "Schalk Willem and Carel Erasmus are incompatible given names. The undated Van der Merwe marriage and 1847 Olivier marriage do not establish which wife he had in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4584",
+  "verdict": "REJECT",
+  "reason": "Barend conflicts with Carel Erasmus. M. M. Meyburg also contradicts Elsie Louisa Pienaar, married in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4407",
+  "verdict": "REJECT",
+  "reason": "David Schalk and Barend Johannes Lodewicus are incompatible given names. No census wife is named to permit comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4407",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend is compatible with Barend Johannes Lodewicus through omitted middle names, and the district and age are compatible. The census supplies no wife to corroborate his 1823 marriage to Elsie Louisa Pienaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4995",
+  "verdict": "REJECT",
+  "reason": "David Schalk conflicts with Willem Paulus Jacobus, rather than representing a spelling variation or omitted middle name. No census wife is named.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4365",
+  "verdict": "ACCEPT",
+  "reason": "Barend van der Merwe matches the head, and Elsje Pienaar is compatible with Elsie Louisa Pienaar, married in 1823. The district matches and his age of about 22 is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4366",
+  "verdict": "REJECT",
+  "reason": "Barend is compatible with Barend Johannes, but Anna Elisabeth De Clercq contradicts Elsie Louisa Pienaar, married in 1823. No supplied remarriage explains the different wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4405",
+  "verdict": "REJECT",
+  "reason": "Barend and Daniel Pieter are incompatible given names. The absence of a census wife does not itself contradict the recorded 1823 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|4405",
+  "verdict": "REJECT",
+  "reason": "Petrus and Pieter are compatible forms, but Johannes and Daniel are conflicting first given names. No census wife is named, and the 1836 marriage cannot corroborate the 1825 link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4803",
+  "verdict": "REJECT",
+  "reason": "Barend conflicts with Pieter, and Sara Geertruida du Toit contradicts Elsie Louisa Pienaar, married in 1823. No supplied remarriage explains the wife discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4993",
+  "verdict": "REJECT",
+  "reason": "Barend is compatible with Barend Frederik, but Wilhelmina Petronella van Nieukerk contradicts Elsie Louisa Pienaar, married in 1823. No supplied remarriage explains the difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|4358",
+  "verdict": "ACCEPT",
+  "reason": "Willem Carel van der Merwe matches exactly, and Combrink, D. M. M. matches Dorothea Martha Maria Combrink's surname and initials despite the missing marriage date. The district agrees and an age of about 17 is compatible with headship.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

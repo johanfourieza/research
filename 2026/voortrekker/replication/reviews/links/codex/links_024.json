@@ -1,0 +1,44 @@
+[
+ {
+  "pair_id": "1212|9219",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Uitenhage district match, and Elisabeth Catharina Kemp matches the spouse married on 5 April 1825, the census year. His birth in 1805 is compatible with being a household head.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1215|8510",
+  "verdict": "REJECT",
+  "reason": "The census wife Elisabeth Johanna Gildenhuis clearly differs from Elizabeth Carolina Swart, whom he married in 1820. No listed remarriage or plausible spelling variation explains this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1216|8850",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and Swellendam district match, and his age is compatible with household headship. No census wife is named to corroborate his February 1825 marriage to Hester Jacoba Jacomina Marais, leaving insufficient evidence for a strong identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1217|9453",
+  "verdict": "UNCERTAIN",
+  "reason": "Johan Adam is compatible with Johannes Adam, and the district and lifespan fit. The genealogy supplies no spouse information to compare with Elisabeth Johanna Appel, so the name and district match remain insufficient to establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1219|3949",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Gerhardus matches Frederik Gerhardus with a minor spelling variation, and the George district agrees. Census wife C. M. Le Roux matches Catharina Maria Le Roux, married in 1810, providing strong corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1220|8692",
+  "verdict": "ACCEPT",
+  "reason": "Johan Philippus is a compatible variant of Johannes Philip, and Maria Hendrina Grove exactly matches his spouse married in 1813. The different district does not outweigh this strong spouse corroboration, and his age is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

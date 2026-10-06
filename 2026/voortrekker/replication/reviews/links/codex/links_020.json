@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "981|7783",
+  "verdict": "ACCEPT",
+  "reason": "The full name and Anna Johanna Olivier, married in 1822, match exactly. The district difference does not outweigh this corroboration.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "982|467",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik van den Berg and the Beaufort district match, and Maria Magdalena Gous/Gousch is a plausible spelling variation. The matching spouse corroborates identity despite the missing marriage date.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "984|5252",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Nicolaas and the district match, while Heiltje Magdalena Pretorius plausibly matches Hilletje Magdalena Pretorius, married in 1800. The abbreviated surname particle presents no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "985|5053",
+  "verdict": "ACCEPT",
+  "reason": "Barend is compatible with Barend Petrus, and Hendrina Johanna Marrais matches the wife married in 1821 through a minor surname spelling variation. The district and age are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "985|5285",
+  "verdict": "ACCEPT",
+  "reason": "The full name, district and Hendrina Johanna Marais match. Their 1821 marriage predates the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "986|4721",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Paulus/Paules and Cornelia Johanna Fouche/Fouchee match through plausible spelling variations in the same district. The marriage to Jacoba Elizabeth Meintjies in 1852 is irrelevant to the 1825 wife.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "987|4465",
+  "verdict": "ACCEPT",
+  "reason": "Izak Johannes Matthys is compatible with Isaac Johannes Mattheus, and the census wife matches Johanna Sophia Adriana van den Berg, married in 1819. The district also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "988|5255",
+  "verdict": "ACCEPT",
+  "reason": "Barend J. P. matches Barend Jacobus Petrus, and Dorothea Magdalena Fourie matches the listed spouse with Maria omitted. The marriage occurred in 1825, and no census date establishes a timing contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "989|4188",
+  "verdict": "UNCERTAIN",
+  "reason": "Lucas Adriaan is compatible with Lucas Adriaan Jacobus, and Colesberg is compatible with Graaff-Reinet. At about 18 he could be a head, but no wife or other identifying detail corroborates the name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "990|4522",
+  "verdict": "ACCEPT",
+  "reason": "Jan Hendrik Gerhardus matches Johannes Hendrik Gerhardus, and Judith Aucamp is compatible with Magdalena Judith Aucamp. These combined name matches outweigh the district difference despite the undated marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "992|1723",
+  "verdict": "ACCEPT",
+  "reason": "Gert Jacobus matches Gerrit Jacobus, and Maria Elizabeth van Tonder matches the spouse married in 1805. Cradock in 1823 is compatible with the declared Somerset district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "993|4342",
+  "verdict": "REJECT",
+  "reason": "Although Johannes Lodevicus/Lodewicus matches, Martha Sophia van der Merwe clearly differs from Aletta Cornelia Viljoen, married in 1816. No listed remarriage explains the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "994|4307",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's name and district match, but Hendrina Johanna van Heerden has a different maiden surname from the undated spouse Hendrina Johanna van der Merwe. The missing marriage date prevents a firm contradiction, and the Olivier marriage in 1847 cannot resolve the 1825 identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4402",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk van der Merwe, the district and Johanna Catharina Weideman all match. The undated matching spouse provides corroboration, while the De Beer marriage in 1836 is later than the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "996|4743",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but no census wife distinguishes this man from the competing David Schalk born in 1801. Both birth years are compatible with an adult head in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1005|4743",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and geographic area are compatible, but the unnamed census wife provides no corroboration of the 1825 Hennop marriage. The competing David Schalk born in 1799 is also of a compatible age.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|4365",
+  "verdict": "ACCEPT",
+  "reason": "Barend van der Merwe and the district match, and Elsje Pienaar is compatible with Elsie Louisa Pienaar, married in 1823. The spelling variation and omitted middle name are not contradictions.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "997|5002",
+  "verdict": "UNCERTAIN",
+  "reason": "Barend Jacobus is compatible with the shorter genealogy name Barend, and the district agrees. No census wife or other identifying detail corroborates the link; an unnamed wife does not establish a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|4358",
+  "verdict": "ACCEPT",
+  "reason": "Willem Carel and the district match, while Combrink, D. M. M. matches Dorothea Martha Maria Combrink. His approximate age of 17 is young but does not contradict the corroborated identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "999|1748",
+  "verdict": "ACCEPT",
+  "reason": "Theunis is compatible with Theunis Jacobus, and Cornelia Catharina de Beer matches exactly despite the undated marriage. Cradock in 1823 is compatible with Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|1674",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Willem matches exactly, and Hendrina Margaretha van der Merwe matches the listed spouse with Dorothea omitted. The district relationship is compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|1777",
+  "verdict": "ACCEPT",
+  "reason": "Diedelof Jacobus matches exactly, and Geertruida Jacoba Robbertse plausibly matches Geertruida Jacoba Robberts. The districts are compatible, and an approximate age of 17 is not a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4787",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Jacobus is compatible with reordered given names and omitted Rudolph, but there is no census wife to corroborate identity. The district difference and approximate age of 18 leave this a weak name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1005|4492",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk matches exactly, and Anna Maria Susanna Henop matches Hennop, married in 1825. Colesberg and Graaff-Reinet are geographically compatible, and no census date establishes a marriage-timing contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4493",
+  "verdict": "ACCEPT",
+  "reason": "Jan Lodewyk and Martha Magdalena Pretorius match the genealogy, with their marriage recorded in 1825. The districts are compatible, and the unspecified census date does not establish that it preceded the marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1007|9346",
+  "verdict": "ACCEPT",
+  "reason": "The full name, Uitenhage district and Helena Dorothea Schoeman match, with the marriage dating to 1816. The Lindeque marriage in 1832 does not affect the 1825 comparison.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1009|9525",
+  "verdict": "ACCEPT",
+  "reason": "Lucas Johannes and the district match exactly, and Maria Elisabeth Viljoen matches Maria Elizabeth Viljoen, married in 1818. The spelling variation is minor.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1013|4950",
+  "verdict": "UNCERTAIN",
+  "reason": "Maria Elisabeth Scheepers matches a listed spouse, and Jacob is compatible with Jacobus. However, Fredrik differs from Francois beyond ordinary omission or reordering, leaving an unresolved name discrepancy despite the spouse match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1014|4804",
+  "verdict": "REJECT",
+  "reason": "The head's name is compatible, but Christina Kotze has a different maiden surname from Christina Cornelia Koch, married in 1819. The Scheepers marriage in 1830 cannot explain the census wife in 1825.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1015|5147",
+  "verdict": "ACCEPT",
+  "reason": "Willem Carel and the district match, and Marg. Johanna de Wit is a straightforward abbreviation of Margaretha Johanna de Wit. The combined husband and wife names provide strong corroboration despite the missing marriage date.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|1566",
+  "verdict": "ACCEPT",
+  "reason": "David Schalk matches exactly, and Neeltje van der Merwe is compatible with Neeltjie Christina van der Merwe. The matching couple and compatible Somerset/Cradock geography support identity.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|2310",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district relationship are compatible, but the man was only about 15 in 1823 and lacks corroborating spouse evidence. His marriage to Martha Sophia Eloff in 1836 can neither confirm nor contradict Neeltje Christina de Wit in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1024|674",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacob and Jacobus Andries are compatible through name expansion and omission, and Beaufort agrees. No census wife corroborates Sara Magdalena Kock, and the genealogy supplies no father's name to check the annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1026|656",
+  "verdict": "UNCERTAIN",
+  "reason": "Nicolaas van der Westhuizen and Beaufort match, but the census supplies no wife for comparison with Magdalena Christina van Wyk. The father's name and Senior annotation cannot be verified from the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1028|655",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes van der Westhuizen and Beaufort match, but the genealogy marriage to Anna Susanna Naude occurred in 1828 and cannot be compared with the 1825 wife. No supplied genealogy evidence verifies the Nicolaas' son or Fieldcornet annotations.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1029|1514",
+  "verdict": "REJECT",
+  "reason": "Gert is compatible with Gerrit Albertus, but Anna Wilhelmina Bantjies clearly differs from Johanna Elizabeth de Lange, married in 1821. The Schutte marriage in 1836 does not explain this contradiction in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1031|1870",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit van Deventer and Aletta Catharina van Zyl match exactly, with their marriage recorded in the census year. Somerset/Cradock is compatible, and no census date establishes a timing contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1032|1516",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Gerritse/Gerritze and the district relationship are compatible, and the unnamed wife does not conflict with a listed marriage in 1832. However, the supplied genealogy does not independently confirm the father's name or otherwise corroborate the name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1033|52",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Andries in Cradock fits Willem Andreas and the declared Somerset district better than Willem Adriaan in Albany. The only listed marriage occurred in 1832, so it cannot establish a contradiction with Johanna Christina Delport in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "van Deventer, Willem Andries"
+ },
+ {
+  "pair_id": "1033|1517",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Andries is compatible with Willem Andreas, and Cradock in 1823 fits the declared Somerset district. His approximate age of 18 and unnamed census wife are compatible, but neither the later marriage nor the unverified father's annotation establishes identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

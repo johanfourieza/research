@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "77|9549",
+  "verdict": "REJECT",
+  "reason": "The census wife, Geertruyda Elisabeth Nel, differs from Geertruy Maria Bronkhorst, married in 1822, and does not match the other listed spouse, Adriana Jacoba Maria du Plessis. The head's Jacobus Johannes also differs from Theunis Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "101|9549",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus agrees, but Frederik versus Johannes leaves the name match incomplete, and the genealogy man was only about 16 in 1825. His 1830 marriage cannot establish or contradict the census wife, and no paternal name is supplied to verify 'Fredrik's son'.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|103",
+  "verdict": "REJECT",
+  "reason": "Willem and Theunis Christoffel are different given names. Dorothea Magdalena Goosen also contradicts the listed wife Anna Christina Magdalena Pieterse, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|103",
+  "verdict": "REJECT",
+  "reason": "The census wife Dorothea Magdalena Goosen differs from Anna Cornelia Maria Els, married in 1821. The shared name Theunis does not overcome this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|163",
+  "verdict": "REJECT",
+  "reason": "Although Willem Botha matches exactly, Hester Elizabeth Venter differs from the genealogy wife Anna Christina Magdalena Pieterse, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|163",
+  "verdict": "REJECT",
+  "reason": "Omission of Frederik is compatible with the head's name, but Hester Elizabeth Venter contradicts Helena Catharina Botha, married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|4985",
+  "verdict": "REJECT",
+  "reason": "The head's name matches Willem Botha, but Anna Marg. van der Berg differs from Anna Christina Magdalena Pieterse, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|4985",
+  "verdict": "REJECT",
+  "reason": "Anna Marg. van der Berg contradicts Ester Francina Jacoba Hennop, married in 1823 before this 1825 census. The compatible abbreviated head name and Colesberg/Graaff-Reinet geography do not overcome the wife mismatch.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3388",
+  "verdict": "REJECT",
+  "reason": "Marthinus Christoffel differs from Petrus Johannes, and the census wife E. M. Koen differs from Helena Dorothea Carelse, married in 1821. The shared George district does not resolve these contradictions.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3910",
+  "verdict": "REJECT",
+  "reason": "The census wife J. H. P. Schoeman contradicts Helena Dorothea Carelse, married in 1821. The partial Johan/Johannes name overlap and shared district are insufficient to overcome this.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3931",
+  "verdict": "REJECT",
+  "reason": "E. J. Strydom differs from the genealogy wife Helena Dorothea Carelse, married in 1821. The shared Johannes and George district do not overcome that contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "80|3931",
+  "verdict": "REJECT",
+  "reason": "Willem Adriaan and Louis Johannes are entirely different given names, with no supplied variant connecting them. The undated marriage to Maria Schoeman cannot establish a wife contradiction for 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "79|3935",
+  "verdict": "UNCERTAIN",
+  "reason": "The records share Botha, Johannes and George, but Petrus Johannes versus Johannes Christoffel is only a partial name match. No census wife or genealogical paternal name is supplied to corroborate the identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "82|4436",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Botha and Graaff-Reinet agree, but Jacobus does not correspond to the supplied Lodewicus Petrus. No census wife is named to compare with either listed spouse, including Anna Dorothea Scholtz, whose marriage date establishes 1819.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|2016",
+  "verdict": "REJECT",
+  "reason": "Willem Jacobus and Johannes Christoffel are entirely different given names. The marriage to Ester Francina Jacoba Hennop occurred on 5 January 1823, but the census date within that year is unspecified, preventing a definite wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|2243",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem is compatible with Willem Jacobus, but the census wife Catharina Geertruida Botha differs from Ester Francina Jacoba Hennop. The genealogy marriage occurred on 5 January 1823 and the census's exact date is unknown, so their sequence cannot be established.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|2243",
+  "verdict": "REJECT",
+  "reason": "The head's abbreviated name and Somerset/Cradock geography are compatible, but Catharina Geertruida Botha differs from Helena Catharina Botha, married in 1822. Geertruida versus Helena is not explained by reordering or spelling variation.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|4541",
+  "verdict": "REJECT",
+  "reason": "Maria Elisabeth Venter contradicts Ester Francina Jacoba Hennop, married in 1823. The shared Willem and compatible Colesberg/Graaff-Reinet geography cannot overcome the wife mismatch.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|5311",
+  "verdict": "REJECT",
+  "reason": "Christoffel Francois differs entirely from Willem Jacobus, and Anna Christina Viljoen contradicts Ester Francina Jacoba Hennop, married in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "89|5311",
+  "verdict": "REJECT",
+  "reason": "Anna Christina Viljoen differs from Maria Dorothea Terblanche, married in 1817. The shared Christoffel does not overcome this wife contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "85|1690",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Botha and the Somerset/Cradock geography are compatible, but Christiaan versus Francois leaves an unresolved name discrepancy. No census wife or genealogical paternal name is supplied to corroborate the match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|5269",
+  "verdict": "UNCERTAIN",
+  "reason": "Theunis is compatible with Theunis Louis, but the common name lacks corroboration and the districts differ. The marriage to Elisabeth Johanna Erasmus is undated, so Magdalena Roos cannot establish a chronological wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|5269",
+  "verdict": "REJECT",
+  "reason": "Magdalena Roos contradicts Anna Cornelia Maria Els, married in 1821. The compatible omission of Gerhardus does not overcome this wife mismatch.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|1950",
+  "verdict": "UNCERTAIN",
+  "reason": "Only Johannes overlaps between Pieter Johannes and Fredrik Johannes; the man was about 17 in 1823, and 'de Oude' supplies no definite age. The absent census wife and marriage in 1827 provide no identifying corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "94|1950",
+  "verdict": "UNCERTAIN",
+  "reason": "Frederik/Fredrik and the Somerset/Cradock geography are compatible, but Christoffel versus Johannes remains unresolved. No census wife is named, and 'de Oude' alone neither identifies nor excludes the man born in 1795.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|1954",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Johannes Botha matches exactly and Somerset is compatible with Cradock in 1823, but the man was about 17 and the common name lacks independent corroboration. No genealogical paternal name verifies 'Piet's zoon', and the 1827 marriage cannot confirm the census identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "92|9008",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Botha, Uitenhage and an age of about 20 are compatible, but do not strongly identify this particular head. The marriage to Susara Jacoba Margaretha Willemse in 1829 cannot confirm or contradict Martha Jacoba van Rooyen in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "94|1856",
+  "verdict": "REJECT",
+  "reason": "Maria Petronella Venter contradicts Petronella Catharina Nel, married in 1818. The shared Frederik/Fredrik and compatible district do not overcome this difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "96|3932",
+  "verdict": "UNCERTAIN",
+  "reason": "David Botha and George agree, but Herculis versus Adolph Michiel leaves an unresolved name discrepancy. The marriage to Maria Elisabeth Carelse occurred on 9 October 1825, so without the census's exact date, L. J. Botha cannot establish a definite wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|2259",
+  "verdict": "REJECT",
+  "reason": "Abraham Carel differs entirely from Petrus Johannes, and Geertruida Maria Bothma matches none of the three listed spouses. Their full marriage dates establish marriages in 1816, 1817 and 1822, including the latest to Maria Susanna van Zyl before the census.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|1688",
+  "verdict": "REJECT",
+  "reason": "Abraham Lodovicus differs entirely from Philip Rudolph, and Helena Claudina van der Nest contradicts Anna Johanna Nel, married in 1822. The other marriage is dated 1860 and cannot explain the 1823 wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|1691",
+  "verdict": "REJECT",
+  "reason": "Despite the exact Philip Rudolph Botha name match, Geertruide Petronella Prinsloo contradicts Anna Johanna Nel, married in 1822. The marriage to Elisabeth Cornelia Maree is dated 1860 and is irrelevant to the 1823 wife comparison.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "108|1691",
+  "verdict": "REJECT",
+  "reason": "Cornelis Arnoldus and Philip Rudolph are entirely different given names, regardless of possible Bothma/Botha spelling variation. The marriage to Catharina Wilhelmina Levina Bester occurred during 1823, so its timing relative to the census is unknown.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "99|4696",
+  "verdict": "REJECT",
+  "reason": "The census head is the woman Anna Sophia Oberholzer, identified as a widow of Philip Rudolph Botha, and cannot be the male genealogy person. The genealogy man's death in 1875 also conflicts with identifying him as her already deceased husband in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|9514",
+  "verdict": "REJECT",
+  "reason": "Jacobus differs from Willem Frederik, and Martha Catharina Crouse contradicts Helena Catharina Botha, married in 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "105|1901",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan/Johannes provides partial name agreement, but Daniel versus Joseph is unresolved and the genealogy man was only about 16 in 1823. Both listed marriages are undated, so Martha Louisa Venter cannot establish a definite wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "105|1952",
+  "verdict": "REJECT",
+  "reason": "Pieter does not correspond to either Jan or Daniel, constituting a substantive given-name contradiction. Both genealogy marriages are undated, so Elizabeth Botha cannot independently establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "106|2261",
+  "verdict": "REJECT",
+  "reason": "Gerhardus Cornelis and Johannes Arnoldus are entirely different given names, with no supplied variant connecting them. The shared Bothma surname and compatible Somerset/Cradock geography do not resolve this contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "112|9859",
+  "verdict": "REJECT",
+  "reason": "Elisabeth Susanna Jacobs contradicts Cornelia Josina Steenberg, married in 1821. The other marriage is dated 1834, so it cannot explain the 1824 census wife despite the compatible head name and district.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "119|4210",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Chistiaan closely matches Gerhardus Christiaan, and Gegina Wilhelmina Venter plausibly matches Gesina Wilhelmina Venter, married in 1824 before the census. These matching names and spouse provide strong corroboration; the district difference is not a material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

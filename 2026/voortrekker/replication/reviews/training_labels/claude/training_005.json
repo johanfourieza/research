@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "173|2008",
+  "verdict": "ACCEPT",
+  "reason": "Full name Philippus Jeremias Coetzer matches, and the annotation 'Philip's zoon' fits the genealogy's 'Jr'. Cradock 1823 corresponds to declared Somerset, and having no census wife fits a man aged about 18 whose marriage came in 1824, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "180|4345",
+  "verdict": "ACCEPT",
+  "reason": "Ph. Wilhelmus Combrink matches Phillippus Wilhelmus. The census wife v. d. Merwe, Hester Jac. matches the spouse Hester Jacoba van der Merwe, married 1820, and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "182|520",
+  "verdict": "REJECT",
+  "reason": "The census head is Michiel Combrink with wife Pieterse, not Willem Andries with Du Plooy (married 1822). Another candidate, Combrink, Willem Andries with wife Du Plooy, Maria Johanna, fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Combrink, Willem Andries"
+ },
+ {
+  "pair_id": "191|9469",
+  "verdict": "ACCEPT",
+  "reason": "Johan Christiaan Davel matches Johannes Christiaan, and the census wife Landman, Johanna Maria matches the second spouse, married 1813. The district Uitenhage matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|1530",
+  "verdict": "REJECT",
+  "reason": "The census head is Matthys Johannes, not Zacharias Johannes. His wife Wagenaar does not match either pre-census spouse, Fouche (1815) or Greeff (1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|1646",
+  "verdict": "REJECT",
+  "reason": "The census head is Mattheus Johannes 'de Oude' with wife Britz, which differs in name from Zacharias Johannes. The wife also contradicts both spouses, Fouche and Greeff.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|1782",
+  "verdict": "REJECT",
+  "reason": "The census wife Hatting, Anna does not match either spouse, Fouche (1815) or Greeff (1816). The annotation 'de Oude' also fits poorly with a man born 1788.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1782",
+  "verdict": "REJECT",
+  "reason": "The census wife Hatting, Anna contradicts both spouses, Pretorius (1801) and Prinsloo (married 09/09/1821, before the census). Neither marriage explains a Hatting wife in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "201|1782",
+  "verdict": "REJECT",
+  "reason": "The given names Zacharias and Arnoldus Stephanus are different. The census wife Hatting also contradicts the spouse Muller, married 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|1969",
+  "verdict": "REJECT",
+  "reason": "The census head is Zacharias Adriaan, a different middle name. His wife van der Merwe, Jacoba contradicts both spouses, Fouche and Greeff.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1969",
+  "verdict": "REJECT",
+  "reason": "Zacharias Adriaan ('Jan's zoon') differs from Zacharias Christiaan. The wife van der Merwe also contradicts the spouses Pretorius and Prinsloo, both married before 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|5523",
+  "verdict": "REJECT",
+  "reason": "The census head is Matthys Johannes, not Zacharias Johannes. His wife Louw contradicts the spouses Fouche and Greeff.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|9540",
+  "verdict": "ACCEPT",
+  "reason": "Zacharias Johannes de Beer matches exactly. The census wife Greef, Maria Susanna matches the second spouse Maria Susanna Greeff (married 1816), which outweighs the Uitenhage/Somerset district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "199|9540",
+  "verdict": "REJECT",
+  "reason": "The given names Hendrik Stephanus and Zacharias Johannes are entirely different. The census wife Greef matches no genealogy spouse; Kruger was married in 1838, and Bester is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "194|9689",
+  "verdict": "REJECT",
+  "reason": "The census head is Dupree, Andris, a different surname and given name. His wife Prinslo contradicts the spouse Du Plooy, married 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|359",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census head is annotated 'Senior' and already married, whereas the genealogy man was born 1807 (age 18) and first married in 1829. An 18-year-old cannot be the senior of two same-named heads.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "206|359",
+  "verdict": "REJECT",
+  "reason": "Matthys Andries differs from Zacharias Joseph. The census wife De Kock contradicts the spouse De Beer, married 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "196|1757",
+  "verdict": "ACCEPT",
+  "reason": "Adriaan Charel de Beer matches Adriaan Carel. The census wife Botha, Aletta Catharina matches the spouse married 1810, and Cradock matches Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "196|1779",
+  "verdict": "REJECT",
+  "reason": "Christiaan Marthinus differs from Adriaan Carel. The census wife Badenhorst contradicts the spouse Botha, married 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "198|1779",
+  "verdict": "REJECT",
+  "reason": "The census head Christiaan Marthinus differs in given names from Zacharias Christiaan Jr. He is also married to Badenhorst, while the genealogy man was about 16 and married De Klerk around 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "196|5300",
+  "verdict": "REJECT",
+  "reason": "Matthys Jacobus differs from Adriaan Carel. The census wife Venter contradicts the spouse Botha, married 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "197|1780",
+  "verdict": "REJECT",
+  "reason": "Zacharias Arnoldus ('Christiaan's zoon') has a different middle name from Zacharias Christiaan. His wife Hatting, Anna Catharina contradicts the spouses Pretorius and Prinsloo, both married before 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "198|1641",
+  "verdict": "REJECT",
+  "reason": "Zacharias Wilhelmus ('Johannes' zoon') has a different middle name from Zacharias Christiaan Jr. Jr implies a father named Zacharias Christiaan, not Johannes, and the man was only about 16 in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "200|1788",
+  "verdict": "REJECT",
+  "reason": "Jan Hendrik differs entirely from Christiaan Marthinus. The annotation 'Zacharias' zoon' does not resolve that name conflict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "200|4384",
+  "verdict": "REJECT",
+  "reason": "Samuel Jacobus differs from Christiaan Marthinus. The census wife Fourie contradicts the spouse Bezuidenhout, married 1803.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "203|4384",
+  "verdict": "ACCEPT",
+  "reason": "Samuel Jacobus de Beer matches exactly. The census wife Fourie, Anna Gabriela Johanna matches the spouse Anna Johanna Isabella Fourie (married 1814) in surname and two forenames, and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "201|1799",
+  "verdict": "ACCEPT",
+  "reason": "Arnoldus Stephanus de Beer matches exactly in Cradock (Somerset). The census wife Mulder, Elizabeth Catharina is a plausible variant of Elisabeth Maria Muller (married 1810).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "201|5325",
+  "verdict": "REJECT",
+  "reason": "Barend Petrus differs from Arnoldus Stephanus. The census wife Gausch contradicts the spouse Muller, married 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "209|5325",
+  "verdict": "ACCEPT",
+  "reason": "Barend Petrus de Beer matches exactly in the declared district Graaff-Reinet. The census wife Gausch matches the undated spouse surname Gous, though her forename Susanna differs from Gesina Johanna Helena.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "201|9757",
+  "verdict": "REJECT",
+  "reason": "The census head Dupree, Andries Hendrik has a different surname and given names. His wife Ferreira contradicts the spouse Muller, married 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "203|4704",
+  "verdict": "REJECT",
+  "reason": "Carel Petrus Jacobus differs from Samuel Jacobus. The candidate De Beer, Samuel Jacobus with wife Fourie fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "De Beer, Samuel Jacobus"
+ },
+ {
+  "pair_id": "203|4719",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus differs from Samuel Jacobus. The candidate De Beer, Samuel Jacobus with wife Fourie fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "De Beer, Samuel Jacobus"
+ },
+ {
+  "pair_id": "203|4724",
+  "verdict": "REJECT",
+  "reason": "Andries Jacobus differs from Samuel Jacobus, and his wife Momberg contradicts the spouse Fourie, married 1814. The candidate De Beer, Samuel Jacobus with wife Fourie fits clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "De Beer, Samuel Jacobus"
+ },
+ {
+  "pair_id": "205|464",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Fredrik de Beer matches Jacobus Frederik. The census wife Botes, Christina Helena matches the spouse married 1823, and the district Beaufort matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "205|591",
+  "verdict": "REJECT",
+  "reason": "Matthys Johannes 'Senior' with wife Swanepoel differs in name and wife from Jacobus Frederik, who married Botes in 1823. The candidate De Beer, Jacobus Fredrik with wife Botes fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "De Beer, Jacobus Fredrik"
+ },
+ {
+  "pair_id": "206|592",
+  "verdict": "ACCEPT",
+  "reason": "Sacharias Joseph de Beer matches Zacharias Joseph in Beaufort. The annotation 'Sacharias Joseph's son' fits a man born 1801. No wife is named despite his 1823 marriage, but that is an omission rather than a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "206|593",
+  "verdict": "REJECT",
+  "reason": "This Sacharias Joseph is annotated 'Senior', meaning the father of a same-named head. The genealogy man, born 1801 and aged 24, cannot be that senior.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "213|9261",
+  "verdict": "ACCEPT",
+  "reason": "Lodewyk de Jager 'Senior' matches Lodewyk Sr, born 1782. The census wife Van Niekerk, Engela Adriana matches the spouse married 1803, and the district Uitenhage matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "218|9264",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Johannes de Jager matches Frederik Johannes. The census wife Meyer, Susanna Catharina matches the spouse married 1815, and the district Uitenhage matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "220|8109",
+  "verdict": "REJECT",
+  "reason": "Christiaan Jacobus has a different middle name from Christiaan Lodewikus. The genealogy man was also only about 18 in 1825, with a marriage in 1831.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

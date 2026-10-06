@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "855|9400",
+  "verdict": "UNCERTAIN",
+  "reason": "The surname and Petrus overlap, but Jacobus does not closely match Johannes Christoffel. The census wife differs from Maria Sophia Goeman, whose missing marriage date prevents a definite chronological contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "856|3865",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches and the age is plausible, but no census wife corroborates the identity and George differs from the declared Somerset district. The genealogy supplies no father's name to check the 'J. son' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "856|3895",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches and the age is plausible, but no census wife corroborates the identity and George differs from the declared Somerset district. The genealogy supplies no father's name to check the 'S. son' annotation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "857|9562",
+  "verdict": "ACCEPT",
+  "reason": "The man's name and Uitenhage district match, and Elisabeth Scheepers is compatible with Maria Elizabeth Scheepers, married in 1810. The omitted given name and Elisabeth/Elizabeth spelling are normal variations.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "858|9592",
+  "verdict": "ACCEPT",
+  "reason": "The full name and district match, and Catharina Elisabeth Bekker matches the wife married in 1817. The dates present no contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "859|3873",
+  "verdict": "ACCEPT",
+  "reason": "Fredrik Stephanus matches Frederik Stephanus, and Nel, A. C. matches Anna Catharina Nel, married in 1817. The George district also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "860|3874",
+  "verdict": "REJECT",
+  "reason": "The census wife M. Botha contradicts Martha Magdalena Schoeman, married in 1823. No supplied remarriage or alternative spouse explains the different maiden surname.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "860|3927",
+  "verdict": "ACCEPT",
+  "reason": "The name and George district match, and Schoeman, M. M. matches Martha Magdalena Schoeman, married in 1823. His birth year is compatible with an adult household head in 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "861|3875",
+  "verdict": "UNCERTAIN",
+  "reason": "The exact name, George district and age of about 25 support the match, but no wife or supplied paternal name corroborates it. The competing same-named genealogy person leaves identity unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "863|3875",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he was only about 16 and declared Somerset rather than George; the competing man born in 1800 in the declared George district fits better. His 1836 marriage cannot establish his marital status in 1825, and there is no affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "861|3892",
+  "verdict": "UNCERTAIN",
+  "reason": "The exact name, George district and age of about 25 support the match, but no wife or supplied paternal name corroborates the 'S. son' entry. The competing same-named genealogy person leaves identity unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "863|3892",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but his age of about 16 and declared Somerset district make this weaker than the competing George man born in 1800. Neither the unchecked 'S. son' annotation nor the marriage in 1836 resolves the identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "862|2029",
+  "verdict": "ACCEPT",
+  "reason": "Carolus Gustaph is compatible with Carolus Gustaaf, and Geertruida Jacoba Hatting matches the wife married in 1822. Somerset and Cradock are compatible for the 1823 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "863|3890",
+  "verdict": "UNCERTAIN",
+  "reason": "The exact name matches, but an approximately 16-year-old from declared Somerset is a weak fit for this George entry annotated 'Senior'. The 1836 Le Roux marriage can neither confirm nor contradict the census wife C. E. Bekker.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "864|5205",
+  "verdict": "ACCEPT",
+  "reason": "Joachim Scholtz matches with Hermanus omitted, and Anna Jacomina Kruger is a plausible name variant of Anna Jacoba Kruger, married in 1801. The district and lifespan also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "865|5495",
+  "verdict": "UNCERTAIN",
+  "reason": "Schombe, Andries Gotlieb is compatible with Andries Godlieb Schoombee, and the district agrees, but he was only about 16 and another same-named head is listed. The absent census wife and the 1827 marriage do not independently establish identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "866|9339",
+  "verdict": "ACCEPT",
+  "reason": "Both the man's full name and the listed wife's full name, Hester Aletta Viljoen, match exactly. Her marriage date is unspecified, but no supplied chronology contradicts the match, and the district difference alone does not outweigh the matching couple.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "868|9530",
+  "verdict": "ACCEPT",
+  "reason": "Sevensterren, Wessel Laurens is compatible with Sevenster, Wessel Lourens with additional given names omitted. Anna Cornelia Botha matches the wife married in 1809, and Uitenhage agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "870|9459",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and age of about 21 are compatible with the 'Junior' entry, but Uitenhage differs from declared Beaufort and there is no independent corroboration. The marriage in 1831 cannot confirm the 1825 identity.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "870|9461",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches and his age is plausible, but the district differs and no pre-census spouse is supplied for comparison. Rachel Johanna Classen, married in 1831, cannot contradict the census wife Hendrina Maria Janze van Rensburg.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "872|2044",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and Somerset/Cradock geography are compatible, but the missing birth year prevents checking the 'de Oude' annotation. Christina van Zetten differs from the listed Potgieter spouse, whose undated marriage prevents a definite contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "874|1069",
+  "verdict": "ACCEPT",
+  "reason": "Gert Willem is compatible with Gerrit Willem, and Anna Margaretha Mouton exactly matches the wife married in 1823. The Clanwilliam district and age also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "875|9953",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and age of about 20 are compatible, but the census supplies no wife and the genealogy supplies no paternal name to verify 'P. zoon'. The undated and malformed spouse entries do not establish marital status in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "877|852",
+  "verdict": "ACCEPT",
+  "reason": "Johan Hendrik matches Johannes Hendrik, and Maria Jacoba Korf exactly matches the spouse whose marriage date is 8 October 1820. Beaufort also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "878|241",
+  "verdict": "REJECT",
+  "reason": "Maria Elizabeth de Beer contradicts Catharina Maria Brits, married in 1823. The alternative Willem Jacobus Smit with wife Catharina Maria Brits is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "878|242",
+  "verdict": "ACCEPT",
+  "reason": "The full name and wife Catharina Maria Brits match exactly, with the marriage preceding the census in 1823. His age of about 19 is plausible, and the district difference is not a contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "878|264",
+  "verdict": "REJECT",
+  "reason": "Maria Christina Geertruida Roets contradicts Catharina Maria Brits, married in 1823. The alternative Willem Jacobus Smit with wife Catharina Maria Brits is clearly better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Smit, Willem Jacobus"
+ },
+ {
+  "pair_id": "879|248",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and age of about 18 are compatible, but the district differs and the genealogy supplies no paternal name to verify 'Willem Jacobus' son'. Both dated marriages occurred after 1825 and provide no confirmation.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "879|814",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but the district differs and no pre-census spouse is supplied to corroborate this head. The marriages in 1829 and 1831 cannot contradict Johanna Margaretha du Plooy as the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "880|443",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and Beaufort district match, while Breitenbagh is compatible with Breytenbach and Susara Isabella is a plausible rendering of Susanna Isabella. The listed marriage in 1814 predates the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|1721",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and Elizabeth Johanna Susanna Coetzee match exactly, and the supplied marriage date places that marriage in 1809. Somerset is compatible with Cradock in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "881|4775",
+  "verdict": "ACCEPT",
+  "reason": "Abram Johannes is compatible with Abraham Johannes, and Anna Elisabeth Vorster matches a listed spouse. Her undated marriage leaves the sequence unresolved but allows remarriage to explain the different spouse from the dated 1809 Coetzee marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "882|2015",
+  "verdict": "ACCEPT",
+  "reason": "Burgert Godlieb matches exactly, and Fredrika Elizabeth Jacoba de Beer matches the wife married in 1813 with minor spelling variation. Somerset and Cradock are compatible in 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "883|5111",
+  "verdict": "ACCEPT",
+  "reason": "Christiaan Hendrik S. matches Christiaan Hendrik Stephanus, and Dorothea Wilhelmina Klaassen matches Dorothea Wilhelmina Claasens, married in 1817. The district also agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|2125",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and Aletta Catharina Magdalena Olivier match exactly, with the marriage dated 1821. Somerset and Cradock are compatible for 1823.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "885|5474",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, but the census supplies no wife to corroborate either listed spouse, and Graaff-Reinet differs from declared Somerset. The absent wife is insufficient to establish a contradiction or a strong identity match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "886|653",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name, Beaufort district and wife Hendrina Maria Janse/Janze van Rensburg all match. Either supplied marriage year, 1813 or 1815, precedes the census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "887|651",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name and Beaufort district match, and Aletta Sophia Janze van Rensburg matches the wife married in 1816. Janse/Janze is a normal spelling variation.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "888|635",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, Beaufort district and adult age are compatible, but no spouse or explicit genealogical father's name independently corroborates the identity. An empty spouse list and an unnamed census wife do not establish that these are the same man.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "889|4840",
+  "verdict": "ACCEPT",
+  "reason": "The man's full name matches exactly, and Anna Francina v. Eeden matches Anna Francina van Eeden, married in 1817. The matching couple provides strong corroboration despite the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

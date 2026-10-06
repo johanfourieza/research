@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "308|2415",
+  "verdict": "ACCEPT",
+  "reason": "Eelhoff Fredrik Christoffel matches Frederik Christoffel Eloff, and census wife Meyberg, Martha matches Martha Catharina Myburgh (m. 1818). Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "311|1999",
+  "verdict": "ACCEPT",
+  "reason": "Els, Fredrik matches Frederik Nicolaas Els, and census wife de Bruin, Susanna Cornelia matches Susanna Cornelia de Bruyn (m. 1803). Cradock 1823 corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "318|1694",
+  "verdict": "ACCEPT",
+  "reason": "Enslin, Jan Adam is the distinctive name Johan Adam Enslin; aged about 23 in Cradock (Somerset). An unmarried head fits because his marriage was in 1825, and no rival census head shares the name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "321|4239",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Abram matches Lourens Abraham, and census wife Bekker, Helena Geertruida matches Helena Geertruyda Bekker (m. 1800). Graaff-Reinet versus declared Somerset is a minor district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4239",
+  "verdict": "REJECT",
+  "reason": "His middle name is Marthinus, not Abram, and the census wife Helena Geertruida Bekker is not his Helena Dorothea Bekker. Census head Laurens Marthinus with wife Helena Dorothea Bekker fits him exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Erasmus, Laurens Marthinus"
+ },
+ {
+  "pair_id": "322|4243",
+  "verdict": "ACCEPT",
+  "reason": "Daniel E. matches Daniel Elardus, and census wife Gausch, Petronella Catharina is a plausible variant of Petronella Catharina Goud (m. 1824). Graaff-Reinet versus declared Somerset is a minor district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "324|2233",
+  "verdict": "REJECT",
+  "reason": "Census wife Bothma, Jacomina Elizabeth clearly differs from his wife Cornelia Jacoba Susanna Kruger (m. 1807). The Uitenhage head Daniel Jacobus with wife Kruger, Cornelia Susanna fits him.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Erasmus, Daniel Jacobus"
+ },
+ {
+  "pair_id": "324|9362",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match, and census wife Kruger, Cornelia Susanna matches Cornelia Jacoba Susanna Kruger (m. 1807). Uitenhage versus declared Somerset is outweighed by the wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|2220",
+  "verdict": "ACCEPT",
+  "reason": "Anthonie Philippus is an exact match for this full name; aged about 18 in Cradock (Somerset). An unmarried head fits because he married in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|2222",
+  "verdict": "ACCEPT",
+  "reason": "Balthazar Johannes is an exact match; aged about 28 in Cradock (Somerset). An unmarried head fits because he married in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "328|53",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match in Albany, the declared district. Census wife Delport, Anna Johanna Catharina closely matches Anna Johanna Maria Delport.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|5292",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Marthinus matches Lourens Marthinus, and census wife Bekker, Helena Dorothea matches his second wife (m. 1818). Graaff-Reinet is his declared district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "330|2221",
+  "verdict": "ACCEPT",
+  "reason": "Barend Christoffel is an exact full-name match; aged about 22 in Cradock (Somerset). No spouse is recorded on either side.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|2224",
+  "verdict": "UNCERTAIN",
+  "reason": "Erasmus, Jacob is a single common given name with no wife to compare (his marriage was in 1828). District and age (about 20) are plausible but not distinctive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|2223",
+  "verdict": "ACCEPT",
+  "reason": "Lourens Johannes is an exact match, and census wife van Straten, Johanna Maria Elizabeth matches Johanna Elisabeth Maria van Straten. Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "333|2218",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was about 14 in 1823, yet the census head is married to Prinsloo, Martha Louisa. He married Gesina Meyer only in 1829, so this head is likely an older namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "334|1827",
+  "verdict": "ACCEPT",
+  "reason": "Exact name match, and census wife Botha, Hester Carolina is a plausible variant of Hester Cornelia Botha (m. 1811). Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "336|5304",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Jacob Rudolph only partly matches Willem Jacobus and adds the name Rudolph. He was about 17, there is no wife to compare (he married in 1831), and the head is in Graaff-Reinet rather than declared Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|1737",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but census wife Botha, Anna Sophia differs from his only listed wife, Elisabeth Erasmus. That marriage is undated and he has no birth year, so remarriage cannot be excluded.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "338|1769",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Johannes matches Lourens Johannes, and census wife Grobbelaar, Johanna Hendrina matches Johanna Hendrina Grobler (m. 1813). Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "339|1738",
+  "verdict": "ACCEPT",
+  "reason": "Michiel Coenraad is an exact match, and census wife Grobbelaar, Martha Maria matches Martha Maria Grobler. Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "345|7458",
+  "verdict": "ACCEPT",
+  "reason": "Erwe, Andries Johannes matches Andries Johannes Erwee in his declared district, Swellendam. An unmarried head fits because he married in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "346|79",
+  "verdict": "ACCEPT",
+  "reason": "Espach, Jogchem Christoffel matches Joachim Christoffel Espag, and census wife Meyer, Rachel matches Rachel Catharina Meyer (m. 1810). Albany is his declared district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "347|296",
+  "verdict": "UNCERTAIN",
+  "reason": "Two Jan Christoffel Esterhuizen heads appear in Beaufort. This one is married to Koortze, Elizabeth, who differs from his undated wife Buitendach; at about 19 a prior marriage is possible but unlikely.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "347|463",
+  "verdict": "UNCERTAIN",
+  "reason": "An unmarried Jan Christoffel Esterhuizen in Beaufort is consistent with his age (about 19). A second same-name head exists in Beaufort, and nothing beyond the name distinguishes them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "348|9348",
+  "verdict": "ACCEPT",
+  "reason": "Exact match on the distinctive name Marthinus Gerrit Thomas. Census wife Marx, Susanna Maria matches his wife (m. 1821) in his declared district, Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "349|5567",
+  "verdict": "ACCEPT",
+  "reason": "Fick, Anthon Fredricus matches Anthonie Frederik Fick in his declared district, Stellenbosch. An unmarried head fits because he married in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "350|8987",
+  "verdict": "ACCEPT",
+  "reason": "Ford, James matches James Foord, and census wife Helman, Maria Dorothea matches Maria Dorothea Hellmond (m. 1824). The wife match outweighs Uitenhage versus declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "351|4971",
+  "verdict": "ACCEPT",
+  "reason": "Fouchee, Jacobus Paulus matches him exactly in his declared district, Graaff-Reinet. An unmarried head fits his age (about 19) and his 1828 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "352|7575",
+  "verdict": "REJECT",
+  "reason": "He was about 17 in 1825 and married Johanna Swanepoel in 1828, but this Swellendam head is married to Du Toit, Agata Maria. The unmarried Fouchee, Gustaphus in his declared district, Graaff-Reinet, fits better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fouchee, Gustaphus"
+ },
+ {
+  "pair_id": "353|7576",
+  "verdict": "UNCERTAIN",
+  "reason": "Fouche, Stephanus gives only the first name, and an identical unmarried Fouche, Stephanus also appears in Swellendam. His 1825 marriage gives no usable wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "354|266",
+  "verdict": "ACCEPT",
+  "reason": "David Stephanus is an exact match, and census wife Janze van Rensburg, Isabella Elizabeth matches his wife (m. 1802). Beaufort is his declared district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "355|225",
+  "verdict": "UNCERTAIN",
+  "reason": "Baret (?) Jacobus is an uncertain transcription that may represent Bartholomeus Jacobus. He was unmarried at about 23 (married 1827), but the head is in Beaufort rather than Colesberg, so the evidence is not strong.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "356|224",
+  "verdict": "ACCEPT",
+  "reason": "Willem Andries Johannes is an exact three-name match, and an unmarried head fits his age of about 20. Beaufort versus declared Somerset weakens but does not contradict the match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "356|4750",
+  "verdict": "REJECT",
+  "reason": "Fourie, Willem gives only the first name. The Beaufort head Fourie, Willem Andries Johannes matches his full name and fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fourie, Willem Andries Johannes"
+ },
+ {
+  "pair_id": "357|826",
+  "verdict": "ACCEPT",
+  "reason": "Daniel Jacobus is an exact match, and census wife Fourie, Jacoba Susanna matches his wife (m. Feb 1825). Beaufort is his declared district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "358|8258",
+  "verdict": "REJECT",
+  "reason": "This Swellendam head is married to De Jager, Martha Hermiena, whereas he married Anna Barbara Robbertse in 1826 and was declared in Uitenhage. The unmarried Uitenhage Philip Jacobus fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fourie, Philip Jacobus"
+ },
+ {
+  "pair_id": "358|9718",
+  "verdict": "ACCEPT",
+  "reason": "Philip Jacobus matches Philippus Jacobus in his declared district, Uitenhage. An unmarried head fits his age (about 22) and his 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "360|2236",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but census wife Booysen, Maria Elizabeth differs in given names from his wife Aletta Booysen (m. 1797). Only an unrecorded remarriage or a recording error would reconcile them.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "364|387",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he married Maria Elizabeth van Eeden in 1820 and this Beaufort head has no wife, and he was declared in Swellendam. Nothing positively corroborates the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

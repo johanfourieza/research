@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "1147|4127",
+  "verdict": "REJECT",
+  "reason": "Census head is Stephanus, not Petrus/Pieter, and wife Coetzee, Maria Jac. matches neither genealogy spouse (Hester J.M.S. Venter m.1820; Hester Sophia van der Walt m.1824).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4127",
+  "verdict": "REJECT",
+  "reason": "Census head is Stephanus, not Petrus Albertus, and wife Coetzee, Maria Jac. contradicts his only spouse, Wilhelmina C.F. Venter (m.1812).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4224",
+  "verdict": "REJECT",
+  "reason": "Census head Pieter Albert has a different middle name from Petrus Jan Hendrik. His wife Willemina Catharina Venter matches neither Hester J.M.S. Venter (m.1820) nor Hester Sophia van der Walt (m.1824).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4361",
+  "verdict": "REJECT",
+  "reason": "Census head is a van der Merwe (Isaac Johannes), a different surname and given names, and wife Maria Martha v. d. Merwe matches neither genealogy spouse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4587",
+  "verdict": "ACCEPT",
+  "reason": "Piet is a normal form of Petrus, and census wife v. d. Walt, Hester Sophia exactly matches his second wife (married 05/09/1824, before the 1825 census). He was about 26, and Somerset/Graaff-Reinet is within boundary tolerance.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4587",
+  "verdict": "REJECT",
+  "reason": "Census wife v. d. Walt, Hester Sophia contradicts his only spouse, Wilhelmina C.F. Venter (m.1812), with no remarriage recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1148|1874",
+  "verdict": "REJECT",
+  "reason": "Census head Albertus Stephanus does not match Christiaan Willem, and wife La Buscagne, Cornelia Gesina contradicts his spouse Anna Maria Venter (m.1820).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1148|4129",
+  "verdict": "REJECT",
+  "reason": "Census head Christiaan Philip has a different middle name from Christiaan Willem, and wife Coetzee, Lacya Christina contradicts his spouse Anna Maria Venter (m.1820).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|4134",
+  "verdict": "REJECT",
+  "reason": "The name Pieter is compatible, but census wife Pretorius, Heeltje Johanna contradicts his only spouse, Wilhelmina C.F. Venter (m.1812).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1150|4519",
+  "verdict": "REJECT",
+  "reason": "Census head Erasmus Albertus does not match Bernhardus Gerhardus, and wife Nienaber, Johanna Susanna contradicts his spouse Johanna C.M. Olivier (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4519",
+  "verdict": "REJECT",
+  "reason": "Census head Erasmus Albertus does not match Marcus Albertus, and wife Nienaber, Johanna Susanna contradicts his spouse Johanna Adriana Botha (m.1804).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1151|841",
+  "verdict": "REJECT",
+  "reason": "Census head is a Van der Westhuizen, not a Venter, and wife Kock, Saartje Magdalena contradicts his spouse Aletta Sophia Bezuidenhout (m.1807).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|1858",
+  "verdict": "REJECT",
+  "reason": "Census head Pieter Jacobus does not match Jan Adriaan. Wife Venter, Elizabeth Johanna matches neither Helena Johanna van der Merwe (m.1822) nor Anna Catharina Oberholzer.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|1910",
+  "verdict": "REJECT",
+  "reason": "The name Jan Adriaan matches, but census wife van Jaarsveld, Anna Catharina contradicts his 1822 wife Helena Johanna van der Merwe. Her given names echo his undated second wife, but the surname Oberholzer is not a spelling variant of van Jaarsveld.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|2280",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Albert (annotated 'Senior') differs from Jan Adriaan, and wife van der Walt, Anna Maria contradicts Helena Johanna van der Merwe (m.1822).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|2352",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Albert differs from Jan Adriaan, and wife Venter, Anna Catharina Sophia contradicts Helena Johanna van der Merwe (m.1822); Oberholzer does not explain it either.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1153|2439",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Hendrik differs from Jan Adriaan, and wife de Meyer, Sophia Aletta Jacoba contradicts Helena Johanna van der Merwe (m.1822).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|2060",
+  "verdict": "REJECT",
+  "reason": "Census head Christiaan Philippus does not match Paulus Christoffel, who was only about 15 in 1823 and did not marry until 1827, yet the census head has a wife (Coetzee).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|4178",
+  "verdict": "REJECT",
+  "reason": "Census head Hendrik does not match Paulus Christoffel, who was about 17 in 1825 and first married in 1827, yet the census head has a wife (Kruger, Anna Zacharia).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|4808",
+  "verdict": "REJECT",
+  "reason": "Census head Paul Stephanus has a different middle name from Paulus Christoffel, who was only about 17 in 1825. The absence of a census wife is consistent with his 1827 marriage but cannot offset the name conflict.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1154|4812",
+  "verdict": "REJECT",
+  "reason": "Paulus Christoffel was about 17 in 1825, and his only recorded marriage is to Klopper in 1827. The census wife Fourie, Anna Catharina is therefore unexplained.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1159|4812",
+  "verdict": "REJECT",
+  "reason": "Paul is compatible with Paulus Stephanus, but census wife Fourie, Anna Catharina contradicts his spouse Cecilia Jacomina Smit (m.1813).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4125",
+  "verdict": "REJECT",
+  "reason": "Census head Andries Johannes does not match Albertus Johannes, who was about 18 in 1825 and married Hugo only in 1827. The census wife is a v. d. Walt.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4125",
+  "verdict": "REJECT",
+  "reason": "Census head Andries Johannes does not match Jan Adriaan, and wife v. d. Walt, Levina Catharina contradicts his spouse Lasya S.P. Venter (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4573",
+  "verdict": "REJECT",
+  "reason": "Census head Willem Adriaan does not match Albertus Johannes (about 18, married 1827), and the census wife Potgieter is not his spouse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1156|4220",
+  "verdict": "REJECT",
+  "reason": "The genealogy person Maria Catharina is a woman (wife of J.J. Klopper), so she cannot be the male census head Barnard Venter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1156|4747",
+  "verdict": "REJECT",
+  "reason": "The genealogy person Maria Catharina is a woman (wife of J.J. Klopper), so she cannot be the male census head Marius Albertus Venter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4747",
+  "verdict": "ACCEPT",
+  "reason": "Marius Albertus is a plausible rendering of Marcus Albertus. Census wife Botha, Johanna Adriana exactly matches his spouse (m.1804), and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1157|4585",
+  "verdict": "REJECT",
+  "reason": "Census head Nicolaas Albertus does not match Marcus Albertus, and wife Venter, Johanna Maria contradicts his spouse Johanna Adriana Botha (m.1804).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4058",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Charel Marthinus has different middle names from Jan Adriaan, and wife Venter, Catharina Johanna contradicts his spouse Maria Elizabeth Kruger (m.1810).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4058",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Charel Marthinus has different middle names from Jan Adriaan. Wife Catharina Johanna Venter differs in given names from his spouse Lasya Sophia Petronella Venter (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4194",
+  "verdict": "REJECT",
+  "reason": "Census head Andries does not match Jan Adriaan, and wife v. d. Walt, Johanna Marg. contradicts his spouse Maria Elizabeth Kruger (m.1810).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4194",
+  "verdict": "REJECT",
+  "reason": "Census head Andries does not match Jan Adriaan, and wife v. d. Walt, Johanna Marg. contradicts his spouse Lasya S.P. Venter (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4520",
+  "verdict": "REJECT",
+  "reason": "The name Jan Adriaan matches, but census wife v. d. Merwe, Helena Johanna contradicts his only spouse, Maria Elizabeth Kruger (m.1810).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4520",
+  "verdict": "REJECT",
+  "reason": "The name Jan Adriaan matches, but census wife v. d. Merwe, Helena Johanna contradicts his spouse Lasya S.P. Venter (m.1816); his second marriage was not until 1834.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4571",
+  "verdict": "REJECT",
+  "reason": "Census head Hercules Frederik does not match Jan Adriaan, and wife Pretorius, Engela Elisabeth contradicts his spouse Maria Elizabeth Kruger (m.1810).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1158|4581",
+  "verdict": "REJECT",
+  "reason": "Jan is compatible with Jan Adriaan, but census wife v. d. Walt, Johanna Aletta contradicts his spouse Maria Elizabeth Kruger (m.1810).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4581",
+  "verdict": "REJECT",
+  "reason": "Jan is compatible with Jan Adriaan, but census wife v. d. Walt, Johanna Aletta contradicts his spouse Lasya S.P. Venter (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4574",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Hendrik has a different middle name from Jan Adriaan. Wife Anna Sophia Venter differs in first given name from his spouse Lasya Sophia Petronella Venter (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4586",
+  "verdict": "REJECT",
+  "reason": "Jan Sr. is compatible by name, but census wife v. d. Walt, Johanna Catharina contradicts his spouse Lasya S.P. Venter (m.1816).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

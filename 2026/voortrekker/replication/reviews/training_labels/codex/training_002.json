@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "69|9411",
+  "verdict": "REJECT",
+  "reason": "Gerrit is incompatible with the supplied given names Lourens Rasmus. The marriage to Hilletjie Levina Bester in 1830 cannot establish or contradict the wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "87|9411",
+  "verdict": "REJECT",
+  "reason": "Gerrit is incompatible with Ernst Adriaan Lodewyk, rather than a spelling variation or omitted middle name. The listed marriage occurred after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "71|1944",
+  "verdict": "REJECT",
+  "reason": "Johannes Jurgen and Jacobus Christoffel are different given names. The 1832 marriage and the undated Bezuidenhout marriage do not establish his wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "71|4388",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Botha is compatible with Johannes Jurgen Botha, but the common name provides insufficient corroboration. The Opperman marriage occurred in 1832 and the Bezuidenhout marriage is undated, so neither establishes his wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "82|4388",
+  "verdict": "REJECT",
+  "reason": "Petronella Jordaan differs from both listed spouses, Johanna Christina van den Berg married in 1809 and Anna Dorothea Scholtz married on 7 February 1819. The latter date establishes a pre-census marriage despite the null marriage_year field.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "84|4388",
+  "verdict": "REJECT",
+  "reason": "Johannes differs from Alwyn Petrus, and Petronella Jordaan contradicts the 1823 marriage to Anna Margaretha Catharina Smit. The listed Alewijn Petrus Botha with Anna Marg. Smit matches both names and district much better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Botha, Alewijn Petrus"
+ },
+ {
+  "pair_id": "85|4388",
+  "verdict": "REJECT",
+  "reason": "Although Johannes is compatible with Johannes Christiaan, Petronella Jordaan differs clearly from Catharina Maria Janse van Vuuren, married in 1819. No supplied remarriage explains that difference.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "72|1840",
+  "verdict": "REJECT",
+  "reason": "Carel Hendrik and Herculas David are incompatible given names despite the shared surname and district. The 1829 marriage cannot be compared with the census wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|1840",
+  "verdict": "REJECT",
+  "reason": "Elsje Elizabeth Maria Coetzer differs clearly from Anna Catharina Susanna Goosen, married in 1821. Carel Hendrik also differs from Pieter Hendrik.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "72|1868",
+  "verdict": "REJECT",
+  "reason": "Theunis Christoffel is incompatible with Herculas David; the annotation Hercules' zoon names the head's father, not the head. The listed 1829 marriage cannot be compared with the wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "73|4670",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus Johannes is compatible with Pieter Johannes Hendrik, but the census date within 1825 is unspecified, so its relationship to the 8 January 1825 Geere marriage is not established. Competing pair 97|4670 has an exact head-name match and a matching wife married in 1822.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|4670",
+  "verdict": "REJECT",
+  "reason": "Maria Susanna van Zyl differs from Geertruy Maria Bronkhorst, married in 1822, and does not match the additional undated spouse Adriana Jacoba Maria du Plessis. Petrus Johannes also differs from Theunis Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|4670",
+  "verdict": "REJECT",
+  "reason": "Petrus Johannes differs from Theunis Gerhardus, and Maria Susanna van Zyl contradicts the 1821 marriage to Anna Cornelia Maria Els.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|4670",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Johannes and Petrus Johannes are compatible, but the 1827 Putter marriage cannot establish his wife in 1825. Competing pair 97|4670 supplies a matching name and a pre-census marriage to Maria Susanna van Zyl, leaving this pair without sufficient corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|4670",
+  "verdict": "REJECT",
+  "reason": "Maria Susanna van Zyl differs clearly from Anna Catharina Susanna Goosen, married in 1821. The compatible Pieter/Petrus forms do not resolve that spouse contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4670",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Johannes Botha matches exactly, and Maria Susanna van Zyl matches the spouse married on 26 December 1822. His age is compatible, and Colesberg's inclusion in Graaff-Reinet explains the district labels.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "73|4671",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus is compatible with Pieter Johannes Hendrik, but the shortened common name is insufficient corroboration. Anna Maria Geere was married on 8 January 1825, and the unspecified census date prevents establishing whether that marriage preceded the census entry naming A. M. A. Snyman.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|4671",
+  "verdict": "REJECT",
+  "reason": "Petrus is incompatible with Willem Jacobus. A. M. A. Snyman also differs clearly from Ester Francina Jacoba Hennop, married in 1823.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "91|4671",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus is compatible with Pieter Johannes, and a birth in 1806 does not exclude household headship in 1825. The 1827 Putter marriage cannot confirm or contradict A. M. A. Snyman, leaving only a common name match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "95|4671",
+  "verdict": "REJECT",
+  "reason": "Although Petrus is compatible with Pieter Hendrik, A. M. A. Snyman differs clearly from Anna Catharina Susanna Goosen, married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4671",
+  "verdict": "REJECT",
+  "reason": "A. M. A. Snyman matches none of the three spouses, whose supplied marriage dates all precede 1825. In particular, the latest listed marriage was to Maria Susanna van Zyl on 26 December 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|1687",
+  "verdict": "REJECT",
+  "reason": "Maria Elizabeth Hendrina van der Nest differs clearly from Johanna Cornelia van der Merwe, married in 1810. Theunis Jacobus also differs from Frederik Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|1949",
+  "verdict": "REJECT",
+  "reason": "Johannes Jurgen is incompatible with Frederik Jacobus. The annotation Fredrik's zoon identifies the head's father and cannot substitute for the head's own given names.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|4385",
+  "verdict": "REJECT",
+  "reason": "Hendrik Johannes differs from Frederik Jacobus, and Hester van Wyk differs clearly from Johanna Cornelia van der Merwe, married in 1810.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4385",
+  "verdict": "REJECT",
+  "reason": "Hester van Wyk matches none of the three listed spouses, including Maria Susanna van Zyl married in 1822. The earlier Hester Aletta van Zyl marriage does not explain the different maiden surname.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "74|5241",
+  "verdict": "REJECT",
+  "reason": "Hester Fredrika Jac. Hennop differs clearly from Johanna Cornelia van der Merwe, married in 1810. Willem Jacobus also differs from Frederik Jacobus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|5241",
+  "verdict": "REJECT",
+  "reason": "Willem is compatible with the shortened head name, but Hester Fredrika Jac. Hennop differs clearly from Anna Christina Magdalena Pieterse, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "83|5241",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Jacobus matches exactly, the districts are compatible, and Hennop, Ester/Hester and Jacoba/Jac. provide substantial spouse agreement. However, Francina versus Fredrika is an unresolved middle-name discrepancy that prevents confident acceptance.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|5241",
+  "verdict": "REJECT",
+  "reason": "Hester Fredrika Jac. Hennop differs clearly from Helena Catharina Botha, married in 1822. The shared given name Willem does not resolve that contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "75|4413",
+  "verdict": "REJECT",
+  "reason": "Theunis Johannes is incompatible with Christiaan. Anna Catharina Theron matches neither Christina Elisabeth van Aarde married in 1799 nor Magdalena Susanna van Rooyen married in 1818.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|4413",
+  "verdict": "REJECT",
+  "reason": "Despite the exact head-name match, Anna Catharina Theron differs clearly from Geertruy Maria Bronkhorst, married in 1822. The additional undated spouse, Adriana Jacoba Maria du Plessis, also does not match or explain the census wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "78|4413",
+  "verdict": "REJECT",
+  "reason": "Theunis Johannes is incompatible with Willem, and Anna Catharina Theron differs clearly from Anna Christina Magdalena Pieterse, married in 1817.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|4413",
+  "verdict": "UNCERTAIN",
+  "reason": "Theunis Botha is shared, but Louis versus Johannes and the different district leave the name match weak. The marriage to Elisabeth Johanna Erasmus is undated, so it cannot establish a contradiction with Anna Catharina Theron in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "90|4413",
+  "verdict": "REJECT",
+  "reason": "Anna Catharina Theron differs clearly from Anna Cornelia Maria Els, married in 1821. The shared first name Theunis does not overcome the spouse contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|4413",
+  "verdict": "REJECT",
+  "reason": "Anna Catharina Theron matches none of the three spouses with pre-census marriage dates, including Maria Susanna van Zyl married in 1822. Theunis Johannes also differs from Petrus Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|2006",
+  "verdict": "REJECT",
+  "reason": "Anna Maria Els differs clearly from Geertruy Maria Bronkhorst, married in 1822, and does not match the additional undated spouse Adriana Jacoba Maria du Plessis. The shared name Theunis and compatible district do not resolve this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "88|2006",
+  "verdict": "UNCERTAIN",
+  "reason": "Theunis Botha and the Somerset/Cradock geography are compatible, but Louis versus Gerhardus leaves the name evidence incomplete. The Erasmus marriage is undated, and no supplied paternal name allows verification of Fredrik's zoon.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "97|2006",
+  "verdict": "REJECT",
+  "reason": "Theunis Gerhardus is incompatible with Petrus Johannes. Anna Maria Els also matches none of the listed spouses, including Maria Susanna van Zyl married on 26 December 1822.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "100|2006",
+  "verdict": "REJECT",
+  "reason": "Theunis Gerhardus is incompatible with Willem Frederik, and Anna Maria Els differs clearly from Helena Catharina Botha, married in 1822. Fredrik's zoon identifies a father rather than supplying the head's given name.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "77|9528",
+  "verdict": "REJECT",
+  "reason": "Alletta Cornelia Janze van Vuuren differs clearly from Geertruy Maria Bronkhorst, married in 1822, and does not match the additional undated spouse Adriana Jacoba Maria du Plessis. Barend Johannes also differs from Theunis Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

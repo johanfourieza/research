@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "998|4430",
+  "verdict": "REJECT",
+  "reason": "Willem Carel and Paul Jacobus are incompatible given names, despite the matching surname and district. The undated Combrink marriage does not establish a census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|4759",
+  "verdict": "REJECT",
+  "reason": "The recorded names Willem Carel and Willem Jacobus conflict in their second given name; this is not an omission or spelling variation. The undated genealogy marriage prevents a firm comparison with E. J. Duwenagee.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|4759",
+  "verdict": "REJECT",
+  "reason": "Diedelof Jacobus and Willem Jacobus have incompatible first given names. The marriage to Geertruida Jacoba Robberts is undated, so the different census wife is not independently decisive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4759",
+  "verdict": "REJECT",
+  "reason": "Johannes Stephanus and Willem Jacobus are incompatible given names. The undated Griesel marriage cannot establish who his wife was in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|5157",
+  "verdict": "REJECT",
+  "reason": "Willem Carel and Frederik Stephanus are incompatible given names. The matching surname and district do not resolve that contradiction, and no census wife is named.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "998|5207",
+  "verdict": "REJECT",
+  "reason": "Willem Carel and Willem Johannes contain conflicting second given names rather than an omitted name. The undated Combrink marriage does not establish a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|41",
+  "verdict": "REJECT",
+  "reason": "Pieter Willem and Pieter Schalk have conflicting second given names. The genealogy marriage is undated, so Magdalena de Wet cannot independently be treated as a contradictory census-year wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1011|41",
+  "verdict": "REJECT",
+  "reason": "Marthinus Stephanus and Pieter Schalk are incompatible given names. The Jordaan marriage occurred in 1838 and the Vosloo marriage is undated, so neither establishes a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1016|41",
+  "verdict": "REJECT",
+  "reason": "David Schalk and Pieter Schalk have incompatible first given names. The undated marriage to Neeltjie Christina van der Merwe does not permit a firm census-year wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|43",
+  "verdict": "REJECT",
+  "reason": "Pieter Willem conflicts with the recorded given names Pieter Hendrik Schalk beyond simple omission or reordering. The undated genealogy marriage does not establish whether the different census wife is contradictory.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|2123",
+  "verdict": "REJECT",
+  "reason": "Pieter Willem van der Merwe and Andries Johannes Venter differ in both surname and given names. The alternative Van der Merwe, Piet has a substantially better name fit, although it remains unconfirmed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Van der Merwe, Piet"
+ },
+ {
+  "pair_id": "1000|4408",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus is compatible with Pieter and Willem could be omitted, but this common name provides insufficient corroboration. Geertruida differs from Hendrina Margaretha Dorothea, yet the genealogy marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1000|9486",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter van der Merwe is compatible with Pieter Willem, but the supplied genealogy cannot verify the annotation identifying him as Jacobus' son. The undated genealogy marriage prevents a firm comparison with Sara Johanna Janze van Vuuren.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1001|4434",
+  "verdict": "REJECT",
+  "reason": "Diedelof Jacobus and Roelof Petrus are incompatible given names. The undated Robberts marriage does not establish a separate census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|1613",
+  "verdict": "REJECT",
+  "reason": "Venter and van der Merwe are different surnames, despite the compatible Jacob/Jacobus given name. The genealogy marriage is undated and cannot establish a wife contradiction in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|1674",
+  "verdict": "REJECT",
+  "reason": "Jacobus Johannes Rudolph and Pieter Willem are incompatible given names. The undated marriage to Elsie Maria Aletta Magdalena cannot establish a census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1017|1674",
+  "verdict": "REJECT",
+  "reason": "Although Petrus and Pieter are compatible forms, Johannes Petrus and Pieter Willem otherwise contain conflicting given names. The marriage to Martha Sophia Eloff in 1836 cannot confirm or contradict the wife recorded in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4209",
+  "verdict": "REJECT",
+  "reason": "The surnames Venter and van der Merwe contradict the proposed identity, despite Jacob being compatible with Jacobus. The undated genealogy marriage does not permit a firm wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|4542",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan can represent Johannes with the other given names omitted, but there is no strong corroboration of this common name. The undated marriage to Elsie Maria Aletta Magdalena does not establish whether Johanna Catharina Venter is a contradictory wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4542",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan van der Merwe is compatible with Jan Lodewyk, and Colesberg is geographically compatible with Graaff-Reinet. The Pretorius marriage was on 3 December 1825, the van der Merwe marriage was in 1839, and the Wernich marriage is undated, leaving the wife at the census date unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1018|4542",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan is compatible with Johannes, Stephanus could be omitted, and the district agrees, but these facts do not establish identity. The undated Griesel marriage prevents treating Johanna Catharina Venter as a definite wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1002|5336",
+  "verdict": "REJECT",
+  "reason": "Van der Berg and van der Merwe are different surnames, and the remaining given names also differ beyond their shared Jacobus. The undated genealogy marriage cannot establish a census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1149|5336",
+  "verdict": "REJECT",
+  "reason": "Petrus Albertus Venter conflicts with Jacobus Petrus van der Berg in surname and given names. Cecilia Johanna van der Linde also differs clearly from Wilhelmina Catharina Francina Venter, whom he married in 1812.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|1963",
+  "verdict": "REJECT",
+  "reason": "Cornelis Johannes and Willem are incompatible given names. The census names no wife, and the annotation identifying Willem's father cannot be checked against the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1003|4109",
+  "verdict": "REJECT",
+  "reason": "Cornelis Johannes van der Merwe and Tjaard Adriaan Nicolaas Venter have incompatible surnames and given names. The undated Pretorius marriage does not establish a separate wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1161|4109",
+  "verdict": "REJECT",
+  "reason": "Adriana Mar. Hendrina Venter differs clearly from Lasya Sophia Petronella Venter, married in 1816; the other listed marriage occurred in 1834. Jan Adriaan also conflicts with Tjaard Adriaan Nicolaas beyond the shared Adriaan.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1005|866",
+  "verdict": "REJECT",
+  "reason": "David Schalk van der Merwe and Nicolaas Hendrik van der Westhuizen differ in both surname and given names. No census wife is named, so the listed marriages provide no direct wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1026|866",
+  "verdict": "UNCERTAIN",
+  "reason": "Nicolaas van der Westhuizen is compatible with Nicolaas Hendrik, and the district and age are plausible, but no wife is named to corroborate the 1814 marriage. The genealogy supplies no father's name to verify 'Wietsche's son', and the alternative Nicolaas remains similarly plausible.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|1880",
+  "verdict": "REJECT",
+  "reason": "Jan Lodewyk van der Merwe and Gerrit Venter have incompatible surnames and given names. The dated marriages occurred after 1823 and the Wernich marriage is undated, so the census wife is not independently contradictory.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|2279",
+  "verdict": "REJECT",
+  "reason": "Venter and van der Merwe are different surnames, and Hendrik conflicts with Lodewyk despite the shared Jan. The dated marriages occurred after 1823 and the remaining marriage is undated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4493",
+  "verdict": "ACCEPT",
+  "reason": "Jan Lodewyk van der Merwe and Martha Magdalena Pretorius match both recorded partners exactly, with their marriage dated within the census year, 1825. His age of about 21 is plausible, and Colesberg is compatible with Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4540",
+  "verdict": "REJECT",
+  "reason": "Jan Lodewyk van der Merwe and Tjaard Andries van der Walt have incompatible surnames and given names. No census wife is named to provide a comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1006|4689",
+  "verdict": "REJECT",
+  "reason": "The census head is explicitly female: Anna Susanna van der Merwe, widow of Isaac. She cannot be the male genealogy person Jan Lodewyk van der Merwe.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1009|9525",
+  "verdict": "ACCEPT",
+  "reason": "Lucas Johannes van der Merwe matches exactly, and Maria Elisabeth Viljoen matches the spouse married in 1818, allowing normal Elizabeth/Elisabeth spelling variation. The Uitenhage district and his age of about 30 also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4124",
+  "verdict": "REJECT",
+  "reason": "Marthinus van der Merwe and Johannes Lodewyk van der Walt have incompatible surnames and given names. The undated van Rooyen marriage does not establish a census-year wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1010|4516",
+  "verdict": "REJECT",
+  "reason": "Marthinus and Jacobus Schalk are incompatible given names despite their shared surname. The undated genealogy marriage prevents a firm comparison with Johanna Dorothea Smit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1011|5283",
+  "verdict": "REJECT",
+  "reason": "Marthinus Stephanus and Willem Petrus are incompatible given names. The Jordaan marriage occurred in 1838 and the Vosloo marriage is undated, so neither establishes a wife contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1013|4043",
+  "verdict": "REJECT",
+  "reason": "Van der Merwe and Venter are different surnames, and Jacobus Francois also conflicts with Petrus Jacobus beyond their shared Jacobus. Both genealogy marriages are undated and the census wife's surname is missing.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1147|4043",
+  "verdict": "REJECT",
+  "reason": "Petrus Jan Hendrik and Petrus Jacobus contain conflicting given names beyond their shared Petrus. Sophia Adriana also differs from both listed pre-census spouses, including Hester Sophia van der Walt married on 5 September 1824, although the census omits her surname.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "1155|4043",
+  "verdict": "REJECT",
+  "reason": "Albertus Johannes and Petrus Jacobus are incompatible given names despite their shared Venter surname. The marriage to Cecilia Jacomina Louisa Hugo in 1827 cannot confirm or contradict a wife recorded in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "364|8033",
+  "verdict": "UNCERTAIN",
+  "reason": "Fourie, Josephus (Swellendam 1825) is a plausible name form, but no wife is recorded for a man married in 1820, so nothing corroborates the link. The proposed Worcester 1824 head Joseph Johannes Fourie, whose wife Van Eeden, Maria Elisabeth matches, fits clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fourie, Joseph Johannes"
+ },
+ {
+  "pair_id": "364|10410",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches and the census wife Van Eeden, Maria Elisabeth matches the 1820 spouse. The Worcester district is adjacent to Swellendam and does not outweigh the wife match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "365|8254",
+  "verdict": "REJECT",
+  "reason": "The census wife Snyman, E. C. clearly differs from his only spouse, De Jager, married in 1820. The 'Sr.' designation also fits a man born in 1797 poorly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "366|4871",
+  "verdict": "ACCEPT",
+  "reason": "Marius is a plausible misreading of Marcus. The census wife Janzen, Anna Lacya matches the 1818 spouse Anna Catharina Lasya Jansen, and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "370|3999",
+  "verdict": "ACCEPT",
+  "reason": "The full name Hendrik Josephus matches (Gyser = Geyser), the district matches and his age (24) fits. His April 1825 marriage falls in the census year, so a missing wife neither confirms nor contradicts.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "371|9412",
+  "verdict": "REJECT",
+  "reason": "This head has a wife (Gous, Hendrina Johanna) in 1825, but the genealogy man was 17 and did not marry until 1830, to Van Staden. A same-district head named Pieter Johannes with no wife fits better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Gousch, Pieter Johannes"
+ },
+ {
+  "pair_id": "371|9604",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and an unmarried, newly enrolled head is consistent with a 17-year-old who married in 1830. However, the name is common and another Gous Pieter Johannes (Hendrik) heads a household in the same district.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "372|1914",
+  "verdict": "ACCEPT",
+  "reason": "Gous, Willem's census wife Schutte, Susanna Josina exactly matches the 1813 spouse. Cradock 1823 corresponds to the declared district, Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "376|1804",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name Abraham Carel matches and his age (24) fits. However, no wife can be compared (Bouwer's marriage is undated), and Cradock differs from the declared district, Albany.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "377|96",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Bothma, Maria Petronella exactly matches the 1823 spouse, and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "378|1601",
+  "verdict": "REJECT",
+  "reason": "The census wife Durand, Willemina Christina matches none of his three listed spouses. He would have been about 16 in 1823, so this married head is more likely an older namesake.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "379|2194",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the census wife Klopper, Anna Maria matches the 1798 spouse. The annotation 'de Oude' fits a man born in 1775.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "380|1730",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, and the census wife Scheepers, Hester Antoinetta matches the 1804 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "380|2199",
+  "verdict": "REJECT",
+  "reason": "He is already matched, with his wife, to another head in the same 1823 Cradock roll. This unmarried, newly enrolled 'Abraham's zoon' is a different, younger namesake.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Greyling, Barend Christiaan"
+ },
+ {
+  "pair_id": "382|1547",
+  "verdict": "REJECT",
+  "reason": "He was born in 1809 and so was about 14 in 1823. The census head has a wife, Stein, while his only spouse is Van Dyk, so this is likely an older Nicolaas Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "383|7957",
+  "verdict": "ACCEPT",
+  "reason": "Paul Johannes is a variant of Paulus Johannes. The census wife Meyer, Anna Helena matches the 1820 spouse Johanna Helena Meyer in surname and second name, a plausible variant.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "387|1996",
+  "verdict": "ACCEPT",
+  "reason": "The name matches (Grobbelaar/Grobler), and the census wife de Bruin, Maria Margaretha matches his first spouse; her marriage date is garbled but she is listed before an 1826 marriage. Cradock corresponds to the declared district, Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "387|9567",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but this unmarried Uitenhage head is not corroborated. The man is better matched to Cradock 1823 with wife de Bruin, and a younger namesake declared in Uitenhage is also proposed for this head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Grobbelaar, Johannes Hermanus"
+ },
+ {
+  "pair_id": "389|9567",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and the declared district (Uitenhage) match, and his July 1825 marriage falls in the census year, so a missing wife is not comparable. However, an older namesake is also proposed for this head, so the identity is not proven.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "388|1778",
+  "verdict": "ACCEPT",
+  "reason": "The name matches (Grobbelaar/Grobler), Cradock corresponds to the declared district, Somerset, and an unmarried head fits a man who married in 1824. The 'Nicolaas zoon' annotation matches his sibling Johannes Hermanus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "388|4843",
+  "verdict": "REJECT",
+  "reason": "The census wife Jansen, Hendrina Magdalena clearly differs from his only spouse, Coetzer, married in 1824.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Grobbelaar, Willem Pieter"
+ },
+ {
+  "pair_id": "390|9391",
+  "verdict": "ACCEPT",
+  "reason": "Coert Nicolaas matches 'Ceort' (a typo), the district matches and his age (22) fits. His 1826 marriage came after the census, so the missing wife is consistent.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "393|9568",
+  "verdict": "REJECT",
+  "reason": "The census wife Van Eeden, Aletta Petronella clearly differs from his only spouse, Pelzer, married in 1821.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "394|9568",
+  "verdict": "REJECT",
+  "reason": "The census wife Van Eeden clearly differs from his 1824 spouse, Pretorius. Another head, Petrus Schalk, has the matching wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Grobler, Petrus Schalk"
+ },
+ {
+  "pair_id": "394|5117",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Schalk is a form of Pieter Schalk, and the census wife Pretorius, Anna Johanna Jac. matches the 1824 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "396|5052",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, the census wife Rossouw, Susanna Marg. matches the 1815 spouse, and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "401|396",
+  "verdict": "ACCEPT",
+  "reason": "Egidius is a form of Aegidius, the surname is rare and the district matches, with no competing candidate. No wife is listed despite his 1820 marriage, which weakens but does not contradict the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "402|668",
+  "verdict": "ACCEPT",
+  "reason": "Barnard is a variant of Barend, and the census wife Fourie, Catharina Maria matches the 1814 spouse. Beaufort and Colesberg are compatible.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "403|757",
+  "verdict": "REJECT",
+  "reason": "The census wife Bezuidenhout, Martha Jacoba clearly differs from his only spouse, Francina Harmse, married in 1819.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "404|646",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Fourie, Anna Christina matches the 1802 spouse, and 'Senior' fits a man born in 1759.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "405|2027",
+  "verdict": "ACCEPT",
+  "reason": "The name matches (Hatting/Hattingh), and the census wife Coetzer, Magdalena Elizabeth matches the 1812 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "406|2031",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Grobbelaar, Magteld Geertruida matches the 1817 spouse, Machteld Geertruida Grobler.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "407|2034",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, Cradock corresponds to the declared district, Somerset, and an unmarried head fits his 1826 marriage. The 'Jan Hendrik's zoon' annotation matches his siblings.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "408|2033",
+  "verdict": "ACCEPT",
+  "reason": "The full name matches, Cradock corresponds to the declared district, Somerset, and an unmarried head fits his 1829 marriage. The 'Jan Hendrik's zoon' annotation matches his siblings.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "410|1979",
+  "verdict": "ACCEPT",
+  "reason": "The census wife du Plessies, Catharina Maria matches his undated second spouse, du Plessis, which is consistent with remarriage after Tregardt.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "412|2295",
+  "verdict": "ACCEPT",
+  "reason": "Havinga is a variant of Havenga, and the census wife Rickert, Elizabeth Margaretha matches the 1821 spouse Riekert.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "412|4161",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the census wife Rickert, Elisabeth Marg. matches the 1821 spouse. The 1825 Graaff-Reinet entry is a different year from the 1823 Cradock entry, so both can be his.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "414|4415",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the census wife v. d. Merwe, Martha Sophia matches the 1812 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "417|5327",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, and the census wife Steenkamp, Hendrina Cecilia matches the 1820 spouse.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "419|1706",
+  "verdict": "ACCEPT",
+  "reason": "Jan Ersnt (a transposition of Ernst) Heydenryk matches, Cradock corresponds to the declared district, Somerset, and an unmarried head fits his 1832 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

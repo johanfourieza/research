@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "151|1072",
+  "verdict": "REJECT",
+  "reason": "The census wife Elsie Dorothea Maria differs in her middle names from his only pre-1824 spouse, Elsje Sophia Lubbe (married 1810). The head also lacks 'Petrus'.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "151|1209",
+  "verdict": "ACCEPT",
+  "reason": "The full name Schalk Willem Petrus matches exactly. The census wife Lubbe, Elsie Sophia matches his 1810 spouse Elsje Sophia Lubbe.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "153|5411",
+  "verdict": "ACCEPT",
+  "reason": "Jan Daniel is the usual form of Johannes Daniel. The census wife Haubvleisch, Helena Maria is a spelling variant of Helena Maria Hauptfleisch (married 1816), and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "154|4979",
+  "verdict": "ACCEPT",
+  "reason": "Charel Arnoldus matches. The census wife Viljoen, Anna Francina matches his 1823 spouse exactly, and Colesberg lay within Graaff-Reinet.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "156|4978",
+  "verdict": "ACCEPT",
+  "reason": "The full name Petrus Gerhardus matches exactly, he is aged about 26, and the district is consistent (Colesberg was in Graaff-Reinet). No wife is listed, which fits his first marriage being in 1826.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "158|575",
+  "verdict": "ACCEPT",
+  "reason": "Arie Willem matches (Claasen/Claassens), as does the district. The census wife Van Heerden, Anna Sophia matches his spouse exactly; they married in October 1825, the census year.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "159|576",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and an unmarried 19-year-old fits his 1828 marriage. However, another unmarried Johannes Hendrik Claassens head appears in Beaufort and nothing distinguishes the two.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|2283",
+  "verdict": "ACCEPT",
+  "reason": "Johannes is consistent with Johannes Jacobus (a middle name omitted). The census wife Venter, Hester Hendrina matches his 1805 spouse Hester Hendrina Aletta Venter. The competing Coetzer JJ (b.1799) did not marry until 1824, and to a Heydenrych.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2283",
+  "verdict": "REJECT",
+  "reason": "His only marriage was to Heydenrych in 1824, but this 1823 head's wife is Venter, Hester Hendrina. That wife matches the 1805 spouse of the competing Johannes Coetzee (b.1784).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "160|4222",
+  "verdict": "ACCEPT",
+  "reason": "Johannes/Johannes Jacobus is consistent, and the census wife Venter, Hester Hendrina matches his 1805 spouse. Graaff-Reinet fits his declared Colesberg; this is probably the same household as the 1823 Cradock entry.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "163|1655",
+  "verdict": "ACCEPT",
+  "reason": "Pieter Hendrik matches exactly. The census wife Koekemoer, Johanna Adriana matches his spouse of 1813 (a second marriage before the census), and Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "166|1656",
+  "verdict": "ACCEPT",
+  "reason": "Stephanus Hermanus matches exactly, he is aged about 25, and Cradock corresponds to Somerset. No wife is listed, which fits his marriage in 1832.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "167|2007",
+  "verdict": "ACCEPT",
+  "reason": "Philippus Jeremias matches. The census wife de Bruin, Christina Elizabeth matches his 1790 spouse Christina Elisabeth de Bruyn, and the annotation 'de Oude' fits the Sr, born 1764.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "173|2007",
+  "verdict": "REJECT",
+  "reason": "The Jr (b.1805) married Hester Cecilia Oosthuizen in 1824 and was unmarried in 1823. This head is 'de Oude' with wife de Bruin, who is the Sr's wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "167|2008",
+  "verdict": "REJECT",
+  "reason": "This head is annotated 'Philip's zoon' and has no wife. The Sr (b.1764) is the father, not the son, and he was married with his wife listed under the 'de Oude' entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "173|2008",
+  "verdict": "ACCEPT",
+  "reason": "Philippus Jeremias matches, and 'Philip's zoon' fits the Jr (b.1805, aged about 18) as son of the Sr. No wife is listed, consistent with his marriage in March 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "168|2005",
+  "verdict": "ACCEPT",
+  "reason": "Hendrik Coetzer matches. The census wife de Bruin, Jacoba Johanna matches his 1822 spouse Jacoba Johanna de Bruyn, and Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "169|1771",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Coetzer matches. The census wife Jordaan, Elsje Maria matches his 1796 spouse Elsie Maria Jordaan, and 'de Oude' fits his birth in 1772.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1756",
+  "verdict": "REJECT",
+  "reason": "He first married in 1824 (to Heydenrych), yet this 1823 head has a wife, Elsje Maria, whose name does not match.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "172|1756",
+  "verdict": "REJECT",
+  "reason": "The census wife Elsje Maria clearly differs from his only spouse, Anna Catharina Nel (married 1815).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1772",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Jacobus Coetzer matches. The census wife Heydenryk, Geertruida matches his spouse Geertruyda Petronella Heydenrych, an uncommon surname. The marriage on 25 Jan 1824 falls just after the nominal 1823 roll year, so the entry was probably taken at or after it.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|1839",
+  "verdict": "REJECT",
+  "reason": "The census wife Prinsloo, Catharina Margaretha does not match his only spouse, Heydenrych (married 1824), and he had no earlier marriage.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2003",
+  "verdict": "REJECT",
+  "reason": "The census wife Jordaan, Elsje Magdalena does not match his only spouse, Heydenrych (married 1824).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2080",
+  "verdict": "REJECT",
+  "reason": "The census wife van der Walt, Susanna Sophia does not match his only spouse, Heydenrych (married 1824). The head is also a Coetzee annotated 'Dirk's zoon'.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "170|2458",
+  "verdict": "REJECT",
+  "reason": "The census wife Fourie, Martha Catharina does not match his only spouse, Heydenrych (married 1824).",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "171|1520",
+  "verdict": "ACCEPT",
+  "reason": "Wensel/Wentzel Christoffel matches, with Coetzer/Coetzee as variants. The census wife van Heerden, Elizabeth Helena matches his 1818 spouse exactly.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "171|1815",
+  "verdict": "REJECT",
+  "reason": "The census wife La Buscagne, Johanna Aletta does not match his 1818 spouse Elisabeth Helena van Heerden. That spouse appears with another Wentzel Christoffel head.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Coetzee, Wentzel Christoffel"
+ },
+ {
+  "pair_id": "178|9547",
+  "verdict": "ACCEPT",
+  "reason": "Stephanus Lucas Combrink matches exactly. The census wife Labuscagne, Hester Jacomina matches his July 1824 spouse, which outweighs the Uitenhage/Somerset district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "180|4345",
+  "verdict": "ACCEPT",
+  "reason": "Ph. Wilhelmus matches Phillippus Wilhelmus. The census wife v. d. Merwe, Hester Jac. matches his 1820 spouse Hester Jacoba van der Merwe, and the district matches.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "181|4360",
+  "verdict": "ACCEPT",
+  "reason": "Jan Frederik Johannes matches exactly and the district matches. No wife is listed, which fits his marriage in 1827.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "182|915",
+  "verdict": "ACCEPT",
+  "reason": "Willem Andries Combrink matches. The census wife Du Plooy, Maria Johanna matches his 1822 spouse exactly, and the district is Beaufort.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "186|8361",
+  "verdict": "ACCEPT",
+  "reason": "Andries Cronje/Cronjee matches. The census wife Van Coller, Johanna Elisabeth matches his 1807 spouse exactly, and the district is Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "189|8155",
+  "verdict": "ACCEPT",
+  "reason": "Piet is a form of Pieter. The census wife De Jager, Elisabeth matches his spouse Elisabeth Catharina de Jager (marriage date unknown), and the district is Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "190|8078",
+  "verdict": "ACCEPT",
+  "reason": "Thomas Richard Dannhauser/Danhauser matches. The census wife Janse van Rensburg, Hester matches his January 1825 spouse, and the district is Swellendam.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "191|9469",
+  "verdict": "ACCEPT",
+  "reason": "Johan Christiaan matches Johannes Christiaan. The census wife Landman, Johanna Maria matches his second spouse (married 1813), and the district is Uitenhage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "193|9540",
+  "verdict": "ACCEPT",
+  "reason": "Zacharias Johannes matches exactly. The census wife Greef, Maria Susanna matches his 1816 spouse Greeff, which outweighs the Uitenhage/Somerset difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "194|936",
+  "verdict": "ACCEPT",
+  "reason": "Zacharias Johannes matches. The census wife Du Plooy, Elizabeth Fredrica matches his 1822 spouse Sophia Elisabeth Frederika du Plooy; the first name is omitted but the rest agrees, and 'Junior' fits his birth in 1801.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|359",
+  "verdict": "REJECT",
+  "reason": "He was about 18 and did not marry until 1829 (Alberts). This head is 'Senior' with wife De Kock, Johanna Christina.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|377",
+  "verdict": "REJECT",
+  "reason": "He was about 18 and did not marry until 1829 (Alberts), yet this head has wife Jordaan, Maria Susanna.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "195|679",
+  "verdict": "ACCEPT",
+  "reason": "Matthys Andries matches exactly and the district is Beaufort. This head has no wife, which fits his 1829 marriage; the other same-named Beaufort heads all have wives inconsistent with him.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

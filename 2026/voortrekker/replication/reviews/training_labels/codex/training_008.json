@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "322|2233",
+  "verdict": "REJECT",
+  "reason": "The recorded given names Daniel Elardus and Daniel Jacobus differ substantively, rather than through omission, reordering or spelling variation. Both listed marriages occurred after 1823 and cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|2233",
+  "verdict": "REJECT",
+  "reason": "Antonie Philippus and Daniel Jacobus are incompatible given names. The marriages in 1826 and 1834 cannot be compared with the census wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "333|2233",
+  "verdict": "REJECT",
+  "reason": "Pieter Rasmus does not match Daniel Jacobus, and the genealogical man would have been only about 14 in 1823. His 1829 marriage provides no comparable wife evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|2437",
+  "verdict": "REJECT",
+  "reason": "Daniel Elardus and Daniel Johannes have substantively different second given names. Neither the 1824 nor the 1834 marriage can confirm or contradict the wife recorded in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|2437",
+  "verdict": "REJECT",
+  "reason": "Lourens and Daniel are different given names; the shared Johannes does not resolve that contradiction. The undated marriage to Johanna Elisabeth Maria van Straten cannot establish which wife he had in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|2437",
+  "verdict": "REJECT",
+  "reason": "Pieter Johannes conflicts with Daniel Johannes, while another listed census candidate matches Pieter Johannes exactly. The marriage to Elisabeth Erasmus is undated, so the wife difference is not independently decisive.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Pieter Johannes"
+ },
+ {
+  "pair_id": "344|2437",
+  "verdict": "REJECT",
+  "reason": "The census wife Catharina Geertruida Pretorius differs from Maria Magdalena Erasmus, whom he married in 1817. The head's name Daniel Johannes also conflicts with Pieter Johannes.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|4207",
+  "verdict": "REJECT",
+  "reason": "Gerhardus conflicts with Daniel Elardus, and census wife Maria Claudina Venter differs from Petronella Catharina Goud, married in 1824. The marriage to du Plessis in 1834 cannot explain the 1825 wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "322|9513",
+  "verdict": "REJECT",
+  "reason": "Abel Hermanus conflicts with Daniel Elardus, and Cornelia Elisabeth Bezuidenhout differs from his spouse Petronella Catharina Goud, married in 1824. His other listed marriage occurred in 1834.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "324|1768",
+  "verdict": "REJECT",
+  "reason": "Daniel Jacobus and Carel Stephanus are different given names. Census wife Sara Johanna du Plessies also contradicts the 1807 marriage to Cornelia Jacoba Susanna Kruger.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "325|5293",
+  "verdict": "REJECT",
+  "reason": "Census wife Anna Maria Klopper differs from Martha Wilhelmina Zacharya Kruger, married in 1812; the marriage to Anna Maria Neethling occurred only in 1846. Stephanus Petrus also differs substantively from Petrus Rasmus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "326|5293",
+  "verdict": "REJECT",
+  "reason": "Antonie Philippus is incompatible with Petrus Rasmus. Both listed marriages occurred after 1825, so the census wife supplies no valid marriage comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|5293",
+  "verdict": "REJECT",
+  "reason": "Jacob conflicts with Petrus Rasmus; the listed Jacobus Abraham candidate offers a compatible form of Jacob with an additional given name. The 1828 marriage cannot be compared with the 1825 census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Jacobus Abraham"
+ },
+ {
+  "pair_id": "333|5293",
+  "verdict": "UNCERTAIN",
+  "reason": "Pieter Rasmus and Petrus Rasmus are compatible names, but he was only about 16 in 1825 and there is no independent corroboration. His marriage to Gesina Meyer in 1829 neither confirms nor contradicts Anna Maria Klopper.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "337|5293",
+  "verdict": "REJECT",
+  "reason": "Pieter and Petrus are equivalent forms, but Johannes and Rasmus are substantively different second names; another candidate matches Pieter Johannes exactly. The undated marriage to Elisabeth Erasmus does not establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Pieter Johannes"
+ },
+ {
+  "pair_id": "326|9362",
+  "verdict": "REJECT",
+  "reason": "Antonie Philippus does not match Daniel Jacobus. The marriages in 1826 and 1834 are both later than the census and cannot be used against Cornelia Susanna Kruger.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|9362",
+  "verdict": "REJECT",
+  "reason": "Balthasar Johannes and Daniel Jacobus are incompatible given names. His marriage to Maria Magdalena Enslin occurred during 1825, and the unspecified census date prevents a secure wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|2224",
+  "verdict": "REJECT",
+  "reason": "Balthasar Johannes conflicts with the census name Jacob. The absence of a census wife is not contradictory, since his listed marriage occurred in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|2224",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacob Erasmus matches the census name, his age of about 20 is plausible, and Somerset is compatible with Cradock in 1823. However, no comparable wife or genealogical father's name corroborates the common name or the annotation Daniel's zoon.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "327|4213",
+  "verdict": "REJECT",
+  "reason": "Balthasar Johannes conflicts with Carel Jacobus Johannes; sharing Johannes does not explain the other given names. No census wife is named, so there is no wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|4213",
+  "verdict": "REJECT",
+  "reason": "Lourens Johannes and Carel Jacobus Johannes contain incompatible given names beyond their shared Johannes. The absent census wife and undated genealogy marriage provide no wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4239",
+  "verdict": "REJECT",
+  "reason": "Although Lourens and Laurens are normal variants, Marthinus and Abram are different given names. The second marriage is dated 1818, but Helena Dorothea Bekker differs from census wife Helena Geertruida Bekker in a substantive given name.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "332|4239",
+  "verdict": "REJECT",
+  "reason": "Lourens and Laurens are compatible, but Johannes and Abram are substantively different second given names. The undated marriage to Johanna Elisabeth Maria van Straten cannot establish a contradiction with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "329|4240",
+  "verdict": "REJECT",
+  "reason": "Lourens Marthinus and Marthinus Stephanus differ through substitution of given names, not merely reordering. Laurens Abram is a better listed candidate because it shares Lourens/Laurens and a wife named Helena Bekker, although both second-name discrepancies remain unresolved.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Laurens Abram"
+ },
+ {
+  "pair_id": "330|1769",
+  "verdict": "REJECT",
+  "reason": "Barend Christoffel and Laurens Johannes are incompatible given names, while the listed Barend candidate preserves his first name without a conflicting second name. The empty spouse list cannot contradict Johanna Hendrina Grobbelaar.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Barend"
+ },
+ {
+  "pair_id": "330|2221",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name matches, age about 22 is plausible, and Somerset is compatible with Cradock in 1823. However, the empty spouse list supplies no corroboration, and no genealogical father's name is supplied to verify Daniel's zoon.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "330|5304",
+  "verdict": "REJECT",
+  "reason": "Barend Christoffel conflicts with Willem Jacob Rudolph. The listed Barend candidate is a better name match, while the absence of spouse information supplies no additional identification.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Barend"
+ },
+ {
+  "pair_id": "330|9335",
+  "verdict": "REJECT",
+  "reason": "Barend Christoffel and Jacob Jacobus are incompatible given names; the listed Barend candidate is a better name match. No genealogy spouse is supplied, so Petronella Aletta Coetzee cannot be treated as a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Barend"
+ },
+ {
+  "pair_id": "342|9335",
+  "verdict": "REJECT",
+  "reason": "Coert conflicts with Jacob Jacobus. The marriage to Aletta Catharina Steenkamp occurred in 1827 and cannot confirm or contradict the wife recorded in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "331|2218",
+  "verdict": "REJECT",
+  "reason": "Jacob does not match Petrus Rasmus, whereas the listed Jacobus Abraham candidate has a compatible form of Jacob. His marriage in 1828 supplies no comparable wife evidence for 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Jacobus Abraham"
+ },
+ {
+  "pair_id": "337|2218",
+  "verdict": "REJECT",
+  "reason": "Pieter/Petrus is a normal variation, but Johannes and Rasmus are different second names; the listed Pieter Johannes candidate matches exactly. The undated marriage to Elisabeth Erasmus cannot establish a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Erasmus, Pieter Johannes"
+ },
+ {
+  "pair_id": "334|4074",
+  "verdict": "REJECT",
+  "reason": "Johannes Jacobus and Johannes Hendrik have substantively different second given names. The census does not name a wife, so it provides no direct contradiction with the 1811 marriage to Hester Cornelia Botha.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "340|4852",
+  "verdict": "REJECT",
+  "reason": "Philippus Johannes Lodewicus conflicts with Jacobus Petrus. Census wife Anna Sophia Grobler also contradicts the 1823 marriage to Susanna Sara Jacoba Greyling.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "341|4852",
+  "verdict": "REJECT",
+  "reason": "Census wife Anna Sophia Grobler differs from Susanna Sophia Erasmus, married in 1821. Although Jacob/Jacobus is compatible, Lourens Carolus does not match Petrus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "342|4243",
+  "verdict": "REJECT",
+  "reason": "Coert conflicts with the explicitly recorded Daniel in Daniel E. (?), regardless of the uncertain initial. His marriage in 1827 cannot be compared with the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|451",
+  "verdict": "REJECT",
+  "reason": "Hendrik Johannes and Abel Jacobus are incompatible given names. The absence of a census wife does not contradict marriages dated 1827 and 1852.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|1737",
+  "verdict": "REJECT",
+  "reason": "Hendrik Johannes conflicts with Pieter Johannes in the first given name. Both listed marriages occurred after 1823, so Anna Sophia Botha cannot be treated as a wife contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "343|1761",
+  "verdict": "REJECT",
+  "reason": "Hendrik Johannes and Hendrik Stephanus have substantively different second given names. The marriages in 1827 and 1852 provide no comparable wife evidence for the 1823 census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "347|296",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Christoffel Esterhuizen matches exactly, Beaufort agrees, and age about 19 is plausible. However, the marriage to Maria Magdalena Buitendach is undated, so the different census wife Elizabeth Koortze cannot establish either agreement or a decisive contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "348|9083",
+  "verdict": "REJECT",
+  "reason": "Marthinus Gerrit Thomas and Jan Theodoris are incompatible given names despite the matching surname and district. No census wife is named, so the 1821 marriage to Susanna Maria Marx provides no direct wife comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

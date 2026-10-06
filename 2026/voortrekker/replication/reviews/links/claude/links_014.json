@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "711|9629",
+  "verdict": "ACCEPT",
+  "reason": "The given names match (Evert Frederik/Fredrik) and the census wife Scheepers, Elsie Johanna Marthina matches the 1820 spouse Elsje Johanna Marthina Scheepers. The district is Uitenhage in both records.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "712|9167",
+  "verdict": "UNCERTAIN",
+  "reason": "The census wife Van Niekerk is unknown to the genealogy, whose only marriage (Meyer) is in 1833, so it cannot contradict; but a 20-year-old with an unrecorded wife is doubtful. The adjacent unmarried 'Theodorus, Theodoris' son' (entry 325) looks like this man, and this head looks like his father.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Theodorus"
+ },
+ {
+  "pair_id": "712|9169",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and an unmarried 20-year-old fits his first marriage in 1833. The annotation 'Theodoris' son' is consistent with the adjacent Theodoris household, but no wife evidence can confirm the link.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "715|9745",
+  "verdict": "UNCERTAIN",
+  "reason": "The census wife's given names (Johanna Elisabeth) match the 1807 spouse exactly, but her surname is Muller rather than Stroebel, which is not a spelling variant. The surname conflict prevents acceptance, while the identical given names suggest a possible recording discrepancy rather than a clear contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "716|9118",
+  "verdict": "UNCERTAIN",
+  "reason": "Muller, Adriana Angenesse matches his (undated, apparently first) wife. However, he married Janse van Vuuren on 12/07/1823, and another 1825 Uitenhage Petrus Hendrik is recorded with that wife, so this Muller household is probably a different man.",
+  "wife_evidence": "agrees",
+  "better_candidate": "Potgieter, Petrus Hendrik (wife Janze van Vuuren, Sarra Johanna)"
+ },
+ {
+  "pair_id": "716|9598",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Janze van Vuuren, Sarra Johanna matches his spouse Sara Johanna Janse(n) van Vuuren, married 12/07/1823, before the 1825 census. The name and district also match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "717|77",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Erasmus, Gertruyda Margaretha matches his 1822 spouse Geertruyda Margaretha Erasmus, and the name matches. Albany versus Somerset/Cradock is a neighbouring-district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "718|1813",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Jordaan, Aletta Magdalena match his 1816 marriage. Cradock 1823 corresponds to the later Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "719|1836",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Steenkamp, Geertruida Maria match his 1817 marriage. The district is consistent (Cradock/Somerset).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "720|1823",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the Cradock (=Somerset) district match, and he is unmarried before his 1825 marriage. The annotation 'Jacobus' zoon' matches the entries for his genealogical brothers Pieter Jacobus and Jacobus Christoffel in the same 1823 Cradock roll.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "730|1823",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches and he was unmarried before 1826, but this Cradock 1823 entry fits the Somerset-born Hans Jurgen (pair 720), whose brothers appear alongside him as 'Jacobus' zoon'. This man declared Uitenhage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Hans Jurie"
+ },
+ {
+  "pair_id": "720|9209",
+  "verdict": "UNCERTAIN",
+  "reason": "Hans Jurie is a variant of Hans Jurgen and an unmarried head is plausible, but Uitenhage differs from his declared Somerset. The Cradock 1823 Hans Jurgen entry with his brothers fits him better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Potgieter, Hans Jurgen"
+ },
+ {
+  "pair_id": "730|9209",
+  "verdict": "UNCERTAIN",
+  "reason": "The name variant (Jurie/Jurgen) and the Uitenhage district fit, and he was unmarried before his 1826 marriage. However, there is no wife evidence to confirm, and a same-named cousin competes for this entry.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "722|1862",
+  "verdict": "ACCEPT",
+  "reason": "Hermanus 'de Oude' (about 58) in Cradock fits Hermanus Sr., and his genealogical sons Hermanus Philippus, Willem Jacobus and Nicolaas Johannes appear in the same roll as 'Hermanus' zoon'. No wife is listed, so his 1814 marriage to Coetzee cannot be checked.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "723|1831",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Botha, Elizabeth Helena match his 1812 marriage. Cradock corresponds to Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "724|1830",
+  "verdict": "ACCEPT",
+  "reason": "The census wife Botha, Neeltje Elizabeth matches his 1817 spouse Cornelia (Neeltje) Elisabeth Botha. The annotation 'Hermanus' zoon' fits.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "726|1832",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Botha, Maria Petronella match his 1822 marriage.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "727|1833",
+  "verdict": "ACCEPT",
+  "reason": "The exact name is followed by 'Hermanus' zoon' in consecutive entries with his genealogical brothers Hermanus Philippus and Willem Jacobus in Cradock 1823. He is unmarried at 19, before his 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "728|146",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Potgieter, Anna Elizabeth match his ca. 1813 marriage, and the district is Albany in both records.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "729|9616",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he married Du Preez in May 1823 and no wife appears in 1825. Uitenhage also differs from his declared Somerset.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "733|1781",
+  "verdict": "REJECT",
+  "reason": "Born 1808, he would be about 15 in 1823, yet this head has a wife (de Beer, Maria Magdalena) who is unknown to the genealogy. His only marriage was in 1832, so this is clearly an older Zacharias.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "735|5006",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but this head has a wife (Pretorius, Anna Christina) while he was 19 and did not marry Aucamp until 1827. Two unmarried Wynand Johannes heads in the same roll fit him better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Wynand Johannes (no wife listed)"
+ },
+ {
+  "pair_id": "735|5078",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and an unmarried 19-year-old fits his 1827 marriage. However, another identical unmarried entry (1114) exists, so the identity cannot be fixed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "735|5144",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, and an unmarried 19-year-old fits his 1827 marriage. However, another identical unmarried entry (1048) exists, so the identity cannot be fixed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "737|620",
+  "verdict": "UNCERTAIN",
+  "reason": "The exact name, the Beaufort district and the annotation 'Johannes Lodewicus' son' fit, as does the unmarried status before his 1829 marriage; brother Charel Johannes is the adjacent entry 478. However, the recorded death year of 1807 contradicts the 1825 census and must be a data error, since he married in 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "761|620",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but he married Pieterse in 1821 and no wife appears. The household is in Beaufort rather than his declared Graaff-Reinet, and the Beaufort-born Willem Sterrenberg (pair 737) fits this entry better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "737|4107",
+  "verdict": "UNCERTAIN",
+  "reason": "His only marriage is in 1829, so the census wife Pienaar cannot contradict, but an 18-year-old with an unrecorded wife in Graaff-Reinet is doubtful. The unmarried Beaufort entry fits him better, and his record has an erroneous 1807 death year.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Willem Sterrenberg (Beaufort)"
+ },
+ {
+  "pair_id": "761|4107",
+  "verdict": "REJECT",
+  "reason": "The census wife Pienaar, Anna Jacoba clearly differs from his 1821 wife Jacoba Johanna Pieterse(n). His other spouses (Maritz, Combrink) do not explain it either.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "737|7162",
+  "verdict": "UNCERTAIN",
+  "reason": "The census wife Smith, Elsje Maria predates his only (1829) marriage, so she cannot contradict, but a Stellenbosch head with a wife is a poor fit for an 18-year-old from Beaufort. The unmarried Beaufort entry fits better, and his record has an erroneous 1807 death year.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Pretorius, Willem Sterrenberg (Beaufort)"
+ },
+ {
+  "pair_id": "740|618",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive name Charel Johannes matches exactly in his declared Beaufort district, and the annotation 'Johannes Lodewicus' son' fits. His 1823 wife is not listed, which leaves the wife evidence silent rather than contradictory.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "742|619",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife De Beer, Catharina Elizabeth match his June 1825 marriage, recorded in the same census year. The district is Beaufort in both records.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "743|5167",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Pretorius, Magdalena G. match his 1807 spouse Magdalena Gerbrecht Pretorius. The district is Graaff-Reinet in both records.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "744|5168",
+  "verdict": "REJECT",
+  "reason": "Born 1809, he was 16 in 1825, and the census wife Bester, Anna Maria is the 1815 wife of the older Gerhardus Petrus (pair 750). His own marriages were in 1827 and 1829.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "750|5168",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife Bester, Anna Maria match his 1815 spouse Anna Magrietha Bester; the middle-name variation is minor. Graaff-Reinet borders his declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "745|1651",
+  "verdict": "ACCEPT",
+  "reason": "The name matches, the census wife Pretorius, Maria Christina matches his 1792 marriage, and the annotation 'De oude' fits a man aged about 48.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "746|5146",
+  "verdict": "ACCEPT",
+  "reason": "The name matches (Wilhelm/Wilhelmus), and the census wife De Wit, Christina Petronella matches his 1818 marriage. The district is Graaff-Reinet in both records.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "748|5073",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive full name Johannes Lodewyk Wynand matches exactly in his declared Graaff-Reinet district. No spouse is recorded in either source.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "749|5079",
+  "verdict": "ACCEPT",
+  "reason": "The exact name and the census wife 'Schombe (?), Anna Elisabeth' match his 1822 spouse Anna Elisabeth Schoombee. The district is Graaff-Reinet in both records.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "751|5029",
+  "verdict": "UNCERTAIN",
+  "reason": "Jan Petrus Jacobus is broadly compatible with Johannes Petrus, but the extra 'Jacobus' and the missing wife (he married Kotze in 1804) are unexplained. The district also differs (Graaff-Reinet vs Somerset), and his son of the same name is a competing candidate.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "752|5029",
+  "verdict": "UNCERTAIN",
+  "reason": "Born 1809, he would be only 16 in 1825, which makes him unlikely as a head, though an unmarried head is consistent with his dated marriage of 1829. The extra name 'Jacobus' and his father of the same name competing for this entry leave it undetermined.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ }
+]

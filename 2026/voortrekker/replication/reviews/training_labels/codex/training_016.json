@@ -1,0 +1,275 @@
+[
+ {
+  "pair_id": "755|4107",
+  "verdict": "REJECT",
+  "reason": "Willem Lodewyk and Willem Sterrenberg have conflicting middle names, not an evident spelling variation. The marriage to Francina Jacoba du Preez occurred during 1825, so its timing relative to the census cannot be established.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|4107",
+  "verdict": "REJECT",
+  "reason": "Willem Jurgen and Willem Sterrenberg have conflicting middle names, not an evident spelling variation. Both listed marriages occurred after 1825 and cannot be compared with the census wife.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|4107",
+  "verdict": "REJECT",
+  "reason": "Anna Jacoba Pienaar contradicts the listed pre-census wife, Petronella Christina Botha, married in 1804; the other marriage occurred in 1851. The Willem Pretorius candidate in Cradock fits the supplied name and district better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "758|5033",
+  "verdict": "UNCERTAIN",
+  "reason": "Jacobus Johannes is compatible with reordered and shortened Johannes Jacobus Cornelis, and the district agrees. The undated marriage to Catharina Jacoba Viljoen prevents treating Martha Magdalena Haarhoff as a definite spouse contradiction, but there is no strong corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "759|5109",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Pretorius and the district agree, but the census initial H. does not establish a match to Jurgen. The marriages in 1828 and 1882 cannot confirm or contradict the census wife in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|5109",
+  "verdict": "REJECT",
+  "reason": "Marta M. Pretorius differs from Petronella Christina Botha, married in 1804, and the 1851 marriage cannot explain the census wife. The Willem Pretorius candidate in Cradock is a better fit to the name and declared district.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "759|5181",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name and district match, and an age of about 17 is possible for a head. No wife is named, which is compatible with the listed marriages beginning in 1828, but independent identifying corroboration is missing.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|4228",
+  "verdict": "REJECT",
+  "reason": "Francina Marg. Kruger contradicts Sophia Joachim ina Scholtz, the listed wife married in 1801. The census middle name Jacobus also differs from Gerhardus.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|4900",
+  "verdict": "REJECT",
+  "reason": "The census wife Zacharia Geertruida van Eeden differs clearly from Sophia Joachimina Scholtz, married in 1801. The shared name Petrus Pretorius does not overcome this contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "760|5164",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus Gerhardus Pretorius and the district match, and the birth and death years permit the link. No census wife is supplied to corroborate the 1801 marriage, leaving identity insufficiently established.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|1511",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Pretorius and the Somerset/Cradock location are compatible, but the common name lacks spouse corroboration. The annotation de Oude is relative and does not establish or contradict the identity of a man born in 1786.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "765|4570",
+  "verdict": "REJECT",
+  "reason": "Charl Johannes conflicts with Willem, and Louisa Maria Pretorius differs from Petronella Christina Botha, married in 1804. The Willem Pretorius candidate in Cradock fits the name and district better.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Pretorius, Willem"
+ },
+ {
+  "pair_id": "766|2200",
+  "verdict": "REJECT",
+  "reason": "Johannes is not a spelling or shortened form of Hendrik Frederik. Johanna Petronella Prinsloo also differs from both the wife married in 1815, Margaretha Susanna van den Vyver, and the undated spouse Rachel Gesina Philippina du Preez.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2200",
+  "verdict": "REJECT",
+  "reason": "The census given name Johannes conflicts with Willem Jacobus. Both listed marriages occurred after 1823, so the census wife supplies no comparable marriage evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "766|2203",
+  "verdict": "REJECT",
+  "reason": "Klaas conflicts with Hendrik Frederik. Petronella Margaretha Klopper matches neither Margaretha Susanna van den Vyver, married in 1815, nor the undated spouse Rachel Gesina Philippina du Preez.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2203",
+  "verdict": "REJECT",
+  "reason": "Klaas is not a variant of Willem Jacobus. The marriages dated 1828 and 1847 cannot be compared with the wife recorded in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "766|2231",
+  "verdict": "REJECT",
+  "reason": "Hendrik Fredrik is a compatible name, but Maria Gesina Geere contradicts Margaretha Susanna van den Vyver, married in 1815. The other listed spouse, Rachel Gesina Philippina du Preez, does not resolve the discrepancy.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "770|2231",
+  "verdict": "REJECT",
+  "reason": "Hendrik Fredrik conflicts with Willem Marthinus, and Maria Gesina Geere matches neither Helena Catharina Klopper, married in 1822, nor the other listed spouse's given names. The alternative Willem Marthinus has the matching head name and wife surname Klopper, although his wife's given names still differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Willem Marthinus"
+ },
+ {
+  "pair_id": "782|2231",
+  "verdict": "REJECT",
+  "reason": "Maria Gesina Geere clearly differs from Elsje Jacoba van der Merwe, married in 1814. The middle names Fredrik and Petrus also differ.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "767|2201",
+  "verdict": "REJECT",
+  "reason": "Marthinus conflicts with Arie Jacobus and is not an evident name variant. Neither record supplies a wife for comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "772|2201",
+  "verdict": "REJECT",
+  "reason": "Marthinus conflicts with Anthonie Christoffel. The genealogy man would also have been only about 14 in 1823, making household headship unlikely, although age alone would not establish a contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "781|2201",
+  "verdict": "REJECT",
+  "reason": "Marthinus conflicts with Joachim or Joachemus Johannes Petrus and cannot be explained by omission or reordering of those names. No census wife is available for comparison.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "767|2210",
+  "verdict": "REJECT",
+  "reason": "Barend Nicolaas conflicts with Arie Jacobus, with no supplied alias connecting them. The shared surname and compatible district do not resolve that contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "779|2210",
+  "verdict": "REJECT",
+  "reason": "The head is named Barend Nicolaas, not Joachim Johannes. Joachim's zoon identifies the head's father and does not make Joachim the head's given name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "767|2235",
+  "verdict": "REJECT",
+  "reason": "The given names Willem Jacobus and Arie Jacobus conflict in Willem versus Arie, which are not evident variants. The genealogy supplies no spouse against which Anna Margaretha Snyman can be compared.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "768|2235",
+  "verdict": "REJECT",
+  "reason": "Anna Margaretha Snyman contradicts Catharina Maria Botha, married in 1822, and Willem differs from Nicolaas. The alternative Nicolaas Jacobus Prinsloo matches both the man's name and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Nicolaas Jacobus"
+ },
+ {
+  "pair_id": "767|2258",
+  "verdict": "REJECT",
+  "reason": "Zacharias conflicts with Arie Jacobus and is not an evident spelling variation or abbreviation. No genealogy spouse is supplied for comparison with Christina Magdalena Faber.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "768|2207",
+  "verdict": "REJECT",
+  "reason": "Martha Christina Erasmus contradicts Catharina Maria Botha, married in 1822, and Daniel differs from Nicolaas. The alternative Nicolaas Jacobus Prinsloo matches both the man's name and his wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Nicolaas Jacobus"
+ },
+ {
+  "pair_id": "770|2204",
+  "verdict": "REJECT",
+  "reason": "Isabella Roelofse differs from Helena Catharina Klopper, married in 1822, and from the other listed spouse's given names, Anna Susanna Petronella. The alternative Willem Marthinus has the matching head name and wife surname Klopper, although his wife's given names remain discrepant.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Prinsloo, Willem Marthinus"
+ },
+ {
+  "pair_id": "785|2204",
+  "verdict": "REJECT",
+  "reason": "Isabella Roelofse clearly differs from Maria Elisabeth Prinsloo, married in 1819. The compatible shortened head name Willem does not overcome this spouse contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "773|2202",
+  "verdict": "REJECT",
+  "reason": "Willem Marthinus and Willem Jacobus have conflicting middle names, not an evident spelling variation. Both listed marriages occurred after 1823, so Petronella Margaretha Klopper cannot be assessed against them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "775|2208",
+  "verdict": "REJECT",
+  "reason": "Hendrik Petrus conflicts with Marthinus. The alternative Marthinus Prinsloo matches the supplied name, while the genealogy marriage in 1825 cannot confirm or contradict a census wife in 1823.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Prinsloo, Marthinus"
+ },
+ {
+  "pair_id": "781|2213",
+  "verdict": "UNCERTAIN",
+  "reason": "Joachim Johannes is compatible with omission of Petrus, but a man born in 1807 would be only about 16 and the annotation de Oude weakens the match without conclusively disproving it. The undated Bester marriage prevents a definite comparison with Elizabeth Johanna Erasmus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "786|9502",
+  "verdict": "ACCEPT",
+  "reason": "Marthinus Petrus matches, with Prinslo a plausible spelling of Prinsloo, and Isabella Susanna Potgieter exactly matches the wife married in 1805. The district agrees and the man would have been about 43 in 1825.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "791|1948",
+  "verdict": "UNCERTAIN",
+  "reason": "Paul Jacobus Putter matches and Somerset/Cradock is geographically compatible; no named census wife is consistent with the listed marriage occurring in 1824. However, no supplied genealogy evidence verifies the census patronymic Diederik Johannes' zoon, leaving the link without strong independent corroboration.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "797|1118",
+  "verdict": "REJECT",
+  "reason": "Marthinus and Hermanus are conflicting given names, not evident spelling variants, despite the shared Nicolaas and surname Ras. The undated Spangenberg marriage cannot establish a spouse contradiction with Anna Magdalena Engelbrecht.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "797|1158",
+  "verdict": "UNCERTAIN",
+  "reason": "Hermanus Nicolaas Ras and the district match, and an age of about 19 is compatible with headship. No census wife or supplied genealogy patronymic corroborates the identity, and the undated marriage does not establish marital status in 1824.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "797|1359",
+  "verdict": "REJECT",
+  "reason": "Willem Russouw conflicts with Hermanus Nicolaas Ras in both given names and surname, with no supplied evidence connecting the names. The undated genealogy marriage cannot independently establish a spouse contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "801|5153",
+  "verdict": "ACCEPT",
+  "reason": "Francois Retief matches exactly, and Marta Maria Marits is a plausible spelling of Martha Maria Maritz, whose supplied marriage date is in 1817. The district and lifespan also agree with the 1825 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

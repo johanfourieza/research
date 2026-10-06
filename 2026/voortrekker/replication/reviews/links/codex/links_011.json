@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "524|9548",
+  "verdict": "REJECT",
+  "reason": "Dorothea Van Devender matches neither Geertruida Gesina Labuschagne, married in 1816, nor Hilletje Aletta Elizabeth Roets, whose supplied marriage date is in 1818. The compatible head name does not overcome this spouse contradiction.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "528|9548",
+  "verdict": "REJECT",
+  "reason": "The census wife Dorothea Van Devender differs from Gesina Adriana Wilhelmina du Plessis, married in 1817. The other listed marriages occurred in 1835 and 1843 and cannot explain the 1825 wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "532|9548",
+  "verdict": "UNCERTAIN",
+  "reason": "Elsie Maria Jordaan's marriage is undated, so Dorothea Van Devender cannot establish a chronological spouse contradiction. The Cradock candidate Jan Hendrik La Buscagne with Elsje Maria Jordaan fits both names much better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "La Buscagne, Jan Hendrik"
+ },
+ {
+  "pair_id": "535|9644",
+  "verdict": "ACCEPT",
+  "reason": "Carel Pieter matches Karel Pieter, and Achata Jacomina Meyer plausibly matches Agatha Jacomina Meyer, married in 1817. The district and adult age also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "536|9271",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age are compatible, but no census wife supplies corroboration and the genealogy marriage is undated. The annotation identifying Christoffel's son cannot be verified from the supplied genealogy information.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "538|9271",
+  "verdict": "UNCERTAIN",
+  "reason": "The name matches, but the unnamed census wife provides no affirmative contradiction or confirmation. Another Johan Abraham Landman in Uitenhage has Maria Elisabeth de Jager, matching the documented 1822 spouse and making that candidate clearly better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Landman, Johan Abraham"
+ },
+ {
+  "pair_id": "536|9649",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but the absent census wife and undated genealogy marriage do not distinguish this head from the other Johan Abraham Landman. The supplied genealogy does not establish whether he was Willem's son.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "538|9649",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age are compatible, but Maria Elizabeth de Jager, married in 1822, is not named in this census entry. The missing wife is insufficient for rejection, and the annotation identifying Willem's son cannot be checked against the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "537|9632",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem is compatible with Willem Adolph, but he was only about 16 in 1825 and there is no identifying corroboration. Both listed marriages occurred after the census, so neither can confirm or contradict Catharina Scheepers.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "538|9643",
+  "verdict": "ACCEPT",
+  "reason": "Johan Abraham matches Johannes Abraham, and Maria Elisabeth de Jager matches the spouse married in 1822. The district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "543|8337",
+  "verdict": "ACCEPT",
+  "reason": "The distinctive three given names Johannes Hermanus Richart match Johannes Hermanus Richard, with a minor surname variation from Lemmer to Lemmert. Swellendam and an age of about 24 are consistent, with no material contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "544|4614",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name matches, and Anna Petronella Cilliers is compatible with Anna Johanna Petronella Cilliers, married in February 1825. Although he was only about 16, the matching couple and district provide strong evidence.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "545|4381",
+  "verdict": "ACCEPT",
+  "reason": "Barend Johannes and Hester Magdalena van den Berg match the census couple, allowing for the abbreviated surname particle. Their 1806 marriage, district and his age are consistent with the 1825 entry.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "546|4544",
+  "verdict": "ACCEPT",
+  "reason": "The head's full name and Maria Petronella van Jaarsveld match the documented couple married in 1787. This spouse match distinguishes him from the other Barend Godlieb whose wife is Alletta Catharina Pienaar.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "548|4756",
+  "verdict": "REJECT",
+  "reason": "The census wife Marg. Jac. Joubert differs from both Francina Maria Johanna Kotze, married in 1817, and Maria Christina Hendrina Liebenberg, married in 1821. The additional undated spouse Susanna Carolina Liebenberg also does not match or explain the Joubert wife.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "549|4553",
+  "verdict": "UNCERTAIN",
+  "reason": "Stephanus Rudolf matches Stephanus Rudolph, and the district and age of about 22 are compatible. There is no spouse or other independent identifying evidence; the 1826 marriage cannot confirm the 1825 head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "550|7486",
+  "verdict": "UNCERTAIN",
+  "reason": "Georg Frederik Linde matches exactly, and Swellendam and an age of about 21 are compatible. No census wife or additional identifying detail corroborates the match, and the later or undated marriages do not resolve it.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "551|9488",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit and Gerhardus Johannes are compatible name forms, and Anna Catharina Viljoen exactly matches the spouse married in 1801. The Senior annotation, district and age also agree.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "552|9485",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but the missing wife and birth year leave the Senior entry uncorroborated. The other Petrus Lindeque with Martha Maria Dupree is clearly better because her name matches Martha Maria du Preez.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Lindeque, Petrus"
+ },
+ {
+  "pair_id": "552|9489",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Lindeque and Martha Maria Dupree match the genealogy couple, with Dupree a plausible spelling of du Preez. Although the marriage date is missing, the matching couple and district distinguish this entry from the wife-unnamed Petrus.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "553|541",
+  "verdict": "ACCEPT",
+  "reason": "Andries Louis Lombart matches Andries Louis Lombard, and Cornelia de Wege matches the spouse married in 1798. The Senior annotation, Beaufort district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "554|540",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's names and district match, but the census wife's maiden surname Lombart differs from Botes despite the shared Anna Johanna names. Because the Botes marriage is undated, this does not establish a contradiction in 1825.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "558|9221",
+  "verdict": "UNCERTAIN",
+  "reason": "Willem Godfried Lotter matches the genealogy name, but the census supplies no wife to corroborate the 1802 Erasmus marriage. The district differs and the annotation identifying Johannes G.'s son cannot be checked from the supplied genealogy.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "563|1063",
+  "verdict": "ACCEPT",
+  "reason": "Paul Willem is compatible with Paulus Wilhelmus, and Johanna Maria Mouton exactly matches the spouse married in 1813. Clanwilliam and his age are consistent with the 1824 census.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "564|885",
+  "verdict": "ACCEPT",
+  "reason": "Jan Lodewyk and Margaretha Magdalena Elizabeth de Koker match the documented couple married in 1816. Beaufort is explicitly included in his declared district history.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "567|5505",
+  "verdict": "UNCERTAIN",
+  "reason": "The full name, Graaff-Reinet district and age of about 23 are compatible. No wife or additional identifying detail corroborates the match, and the 1832 marriage cannot confirm the 1825 head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "569|2346",
+  "verdict": "ACCEPT",
+  "reason": "Jacobus Malang is a plausible spelling of Jacobus Malan, and Margaretha Maria Swart matches Maria Margeraetha Swart with reordered names. The 1817 marriage and Somerset/Cradock district relationship support the 1823 identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "572|3513",
+  "verdict": "UNCERTAIN",
+  "reason": "Daniel Petrus Marais matches the name, but George differs from the declared Uitenhage district and no genealogy spouse permits comparison with D. M. Terblans. The Uitenhage namesake has a geographic advantage, but the supplied evidence does not clearly identify either head.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "572|9668",
+  "verdict": "UNCERTAIN",
+  "reason": "The name, district and age are compatible, but neither record provides a comparable spouse. The annotation identifying Jan's son cannot be verified from the supplied genealogy, leaving the identity uncorroborated.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "572|9736",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but no genealogy spouse permits comparison with Martha Maria Vogel. Another Daniel Petrus Marais in Uitenhage remains plausible, and the supplied information does not distinguish them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "575|488",
+  "verdict": "ACCEPT",
+  "reason": "Gerhardus Petrus Marais and Maria Adriana Vermeulen exactly match the couple married in 1800. Beaufort and his age are consistent, with no material contradiction.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "577|9703",
+  "verdict": "UNCERTAIN",
+  "reason": "The head's full name and district match, but the census gives Maria Petronella Meyer rather than Magdelena Petronella Meyer, married in 1815. The shared surname and Petronella support a possible match, while the differing first name prevents confident identification without clearly establishing a different woman.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "583|9709",
+  "verdict": "ACCEPT",
+  "reason": "Johannes Stephanus Maretz matches Johannes Stephanus Maritz, and Salomina Dupree is compatible with Magdelena Salomina du Preez, married in 1815. The matching spouse and district distinguish this head from the namesake married to Isabella Elisabeth van Staden.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "585|9694",
+  "verdict": "ACCEPT",
+  "reason": "Salomon Maretz matches Salomon Maritz, and the wife's distinctive names match Magdelena Petronella Catherina Stoffelina Scheepers with minor spelling variations. Their 1823 marriage, Uitenhage district and his age of about 20 support the identification.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "587|3860",
+  "verdict": "REJECT",
+  "reason": "M. K. Scheepers contradicts Catherina Aletta Nortier, married in 1813; the other listed marriages occurred after 1825. The Johan Coenraad Marneweck with C. A. Nortje matches both the fuller head name and the relevant spouse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Marneweck, Johan Coenraad"
+ },
+ {
+  "pair_id": "587|3863",
+  "verdict": "ACCEPT",
+  "reason": "Johan Coenraad Marneweck matches exactly, and C. A. Nortje is compatible with Catherina Aletta Nortier, married in 1813. The George district and age are consistent.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "588|9147",
+  "verdict": "UNCERTAIN",
+  "reason": "Petrus Johannes matches, and the annotation 'Marx?' supports a possible reading of Mark as Marx. The district and age are compatible, but the uncertain surname and lack of comparable spouse evidence leave the identity unconfirmed.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "589|5456",
+  "verdict": "UNCERTAIN",
+  "reason": "Johannes Petrus Meintjes matches the name, but the district differs and no census wife corroborates the 1799 marriage to Louisa Maria van Heerden. The competing genealogy man born in 1809 also has the same name, and the entry does not distinguish them.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "590|5456",
+  "verdict": "UNCERTAIN",
+  "reason": "The name and district match, but he was only about 16 in 1825 and the entry lacks identifying corroboration. His marriages occurred after the census, and the older competing Johannes Petrus Meintjes cannot be excluded.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "591|4167",
+  "verdict": "ACCEPT",
+  "reason": "Willem J. Albertus matches Willem Jacobus Albertus, and Anna Francina Johanna Viljoen matches the second spouse, whose supplied marriage date is 6 January 1822. This strong couple match outweighs the district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]

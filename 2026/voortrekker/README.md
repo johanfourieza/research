@@ -1,114 +1,80 @@
-# Demographic Pressure, Emancipation and Selection into the Great Trek
+# Selection into the Great Trek
 
-Replication data for Fourie and Links (2026), *European Review of Economic History*.
+Replication data and code for Johan Fourie and Calumet Links, "Selection into the Great Trek," *European Review of Economic History* (forthcoming).
 
-## Overview
+## The study
 
-This repository contains the data underlying the paper "Demographic Pressure,
-Emancipation and Selection into the Great Trek." The paper links Voortrekker
-genealogical records to the 1825 Cape Colony census and to the British slave
-compensation records of 1833–34 in order to study selection into the Great
-Trek (1835–1840).
+Between 1835 and 1840, some 12,000 to 14,000 Dutch-speaking colonists left the Cape Colony for the southern African interior. The paper links Voortrekker genealogies to the 1825 Cape Colony census (*opgaafrolle*) and to the British slave compensation records of 1833–34 to ask which households left.
 
-The central empirical question is who left, and whether those households
-looked different from those who stayed. The main finding is that selection
-operated on household composition rather than on wealth: Voortrekker
-households were larger, more fertile and more densely composed of working-age
-men, but held no more wealth and fewer slaves than households that stayed.
+Within districts, Trekker households were larger, with more children, but no wealthier, and they held fewer slaves. Much of the demographic difference reflects the overrepresentation of established married households among those who left. Within couples, the differences are smaller and depend on the linkage. Greater emancipation losses do not predict trekking within districts.
+
+## Contents
+
+| Folder | Contents |
+|---|---|
+| `data/raw/` | The three sources as plain CSV: the 1825 census, the Voortrekker genealogies and the slave compensation records. |
+| `data/linked/` | The record linkage: the final census links, every reviewed link decision, the training labels, the compensation links, and a crosswalk from the linkage sample to the genealogy. |
+| `data/analysis/` | The household-level analysis dataset used for the paper's estimates. |
+| `docs/` | `variable_definitions.csv`, a machine-readable list of every variable in `data/`. |
+| `scripts/` | `load_data.R`, which loads the CSV files, and `build_data_release.R`, which rebuilds `data/` from a replication run. |
+| `replication/` | The full analysis: source workbooks, linkage inputs, R code, the model reviews of the linkage (`reviews/`), and the linkage protocol and its departures (`PROTOCOL.md`). |
+
+Variable definitions are in [`CODEBOOK.md`](CODEBOOK.md). All CSV files are UTF-8, with missing values left empty.
+
+## Quick start
+
+From the `2026/voortrekker` folder:
+
+```r
+source("scripts/load_data.R")   # loads all CSV files and prints their sizes
+analysis %>% filter(is_voortrekker) %>% count(district)
+```
+
+## Replicating the paper
+
+Requirements: R 4.5 with tidyverse, data.table, readxl, writexl, janitor, stringdist, randomForest, xgboost, sandwich, lmtest, MatchIt, nnet, broom, stargazer, ggplot2, patchwork, scales, sf, maps and jsonlite. `replication/output/session_info.txt` lists exact package versions after a run.
+
+From the `2026/voortrekker/replication` folder:
+
+```
+Rscript code/run_all.R
+```
+
+This runs three steps in turn, taking about 15 minutes:
+
+1. The pipeline with the wife-blind linkage. Outputs go to `output_wife_blind/`.
+2. The pipeline with the final linkage. Outputs go to `output/`: tables in `output/tables/`, LaTeX table fragments in `output/tables/tex/` and figures in `output/figures/`.
+3. The married-household analyses on both linkages. Outputs go to `output/couples_analysis/`.
+
+The pipeline checks the MD5 checksums of the source workbook and of the link decisions before it estimates anything. To regenerate `data/` from the run, execute `Rscript scripts/build_data_release.R` from the `2026/voortrekker` folder.
+
+## How the linkage works
+
+The linkage is documented in Appendix A of the paper. In brief:
+
+1. **Parsing.** A parser (`code/parse_names.R`) separates the household head and the wife in every district return, and flags widows and female heads.
+2. **Candidate pairs.** Each Voortrekker is compared with census heads in the relevant districts whose surname matches exactly or approximately.
+3. **Classifier.** A random forest (`code/linkage.R`) scores each pair on name similarity, the wives' names, surname frequency and district. It was trained on hand labels that two language models reviewed blind to household characteristics, with the authors deciding disagreements.
+4. **Review.** Proposals and pairs near the threshold were reviewed by the same two models, which saw identity evidence only. A proposal accepted by both models was linked; the authors decided every other pair that at least one model accepted.
+
+`data/linked/link_decisions.csv` records every decision. `replication/reviews/` contains the evidence packets the models saw, their verdicts, and the reconciliation files. `replication/PROTOCOL.md` sets out the linkage protocol, fixed before estimation, and every departure from it.
+
+A second linkage uses no spouse information: a classifier without spouse features, whose proposals are taken without review. It serves as a sensitivity check (Section 8.3 of the paper) and is run by setting `VT_LINKAGE=blind`.
+
+## Sources
+
+- **1825 census** (*opgaafrolle*): colonial tax returns for the eleven districts of the Cape Colony, transcribed from the Western Cape Archives and Records Service. The Somerset data come from the Cradock 1823 returns.
+- **Voortrekker genealogies**: compiled from published genealogical sources on Voortrekker families.
+- **Slave compensation records**: [Ekama (2021)](https://datafirst.uct.ac.za/dataportal/index.php/catalog/848), from the 1833–34 Cape compensation claims at the UK National Archives.
 
 ## Citation
 
-> Fourie, J. and Links, C. (2026). *Demographic Pressure, Emancipation and
-> Selection into the Great Trek.* European Review of Economic History
-> (forthcoming).
-
-## Principal investigators
-
-- **Johan Fourie**, Department of Economics, Stellenbosch University
-  (johanf@sun.ac.za)
-- **Calumet Links**, Department of Economics, Stellenbosch University
-
-## Data
-
-All data are plain UTF-8 CSV. Missing values are empty strings.
-
-### `data/raw/` — source datasets
-
-| File | Rows | Description |
-|---|---|---|
-| `cape_census_1825.csv` | 10,420 | Household-level 1825 Cape Colony census (*opgaafrolle*). One row per household, compiled from the eleven district returns. |
-| `voortrekkers.csv` | 2,702 | Voortrekker genealogical records. Individual-level entries compiled from published genealogies. The matching sample is restricted to 917 adult males born before 1810 with valid names. |
-| `slave_compensation.csv` | 36,419 | Slave compensation records at the individual-slave level, from [Ekama (2021)](https://datafirst.uct.ac.za/dataportal/index.php/catalog/848). Includes valuation, compensation and owner details. |
-
-### `data/linked/` — record-linkage results
-
-| File | Rows | Description |
-|---|---|---|
-| `voortrekker_census_matches.csv` | 558 | Accepted Voortrekker-to-census links from the Random Forest + expert-review pipeline. 536 unique matched census households. |
-| `voortrekker_emancipation_matches.csv` | 577 | Voortrekker-to-slave-compensation links on owner name and district. |
-
-### `data/analysis/` — analysis-ready file
-
-| File | Rows | Description |
-|---|---|---|
-| `analysis_dataset.csv` | 10,420 | Household-level analysis file. The 1825 census enriched with a Voortrekker-match flag (`is_voortrekker`), a composite `wealth_index`, derived household-composition variables, and Voortrekker genealogical fields for matched households. This is the file used to produce the regression tables in the paper. |
-
-## Data collection
-
-- **1825 census (*opgaafrolle*)**: colonial tax returns transcribed from the
-  Western Cape Archives and Records Service. Coverage: Cape, Stellenbosch,
-  Graaff-Reinet, Swellendam, Albany, Beaufort, Clanwilliam, Cradock, George,
-  Worcester and Uitenhage districts. Somerset data come from the Cradock 1823
-  returns; Colesberg is included in Graaff-Reinet; Clanwilliam is included in
-  Worcester.
-- **Voortrekker genealogies**: compiled from published genealogical sources
-  on Voortrekker families.
-- **Slave compensation**: from [Ekama (2021)](https://datafirst.uct.ac.za/dataportal/index.php/catalog/848),
-  who digitised the 1833–34 Cape compensation claims held at the UK National
-  Archives.
-
-## Universe and sample
-
-Unit of analysis: household, with the household head identified by name and
-district in the 1825 census.
-
-Matching sample: 917 Voortrekker men (adult, born before 1810, with valid
-names) matched against 10,420 census households across the ten main districts
-that supplied Voortrekkers. Final linked sample: 536 unique matched
-Voortrekker census households versus 9,884 non-Voortrekker households.
-
-## Loading the data in R
-
-```r
-library(readr)
-
-census   <- read_csv("data/raw/cape_census_1825.csv")
-vt       <- read_csv("data/raw/voortrekkers.csv")
-slaves   <- read_csv("data/raw/slave_compensation.csv")
-
-links_c  <- read_csv("data/linked/voortrekker_census_matches.csv")
-links_e  <- read_csv("data/linked/voortrekker_emancipation_matches.csv")
-
-analysis <- read_csv("data/analysis/analysis_dataset.csv")
-```
-
-A helper script is provided at `scripts/load_data.R`.
-
-## Documentation
-
-Variable definitions are in [`CODEBOOK.md`](CODEBOOK.md) and, in
-machine-readable form, in [`docs/variable_definitions.csv`](docs/variable_definitions.csv).
+Fourie, J. and Links, C. (forthcoming). Selection into the Great Trek. *European Review of Economic History*.
 
 ## License
 
-The data are released under the Creative Commons Attribution 4.0
-International License (CC BY 4.0). See [`LICENSE`](LICENSE).
-
-## Funding
-
-This work was supported by LEAP (Laboratory for the Economics of Africa's
-Past) at Stellenbosch University.
+Data and code are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0); see [`LICENSE`](LICENSE).
 
 ## Contact
 
-Johan Fourie, Stellenbosch University: johanf@sun.ac.za
+Johan Fourie, Department of Economics, Stellenbosch University: johanf@sun.ac.za. Calumet Links, Department of Economics, Stellenbosch University. Supported by LEAP (Laboratory for the Economics of Africa's Past).

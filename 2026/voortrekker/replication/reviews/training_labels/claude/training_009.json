@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "349|5567",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive given names Anthonie Frederik match 'Anthon Fredricus' in the same district (Stellenbosch), and he was aged about 24. The 1827 marriage postdates the census, so the absent wife is consistent.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "353|7576",
+  "verdict": "UNCERTAIN",
+  "reason": "'Fouche, Stephanus' is consistent with Stephanus Jacobus in Swellendam, but the marriage fell in the census year (1825), so the wife cannot be checked. A second identical 'Fouche, Stephanus' head with no wife exists, so the match is ambiguous.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "355|493",
+  "verdict": "REJECT",
+  "reason": "The census head's given names Matthys Johannes do not match Bartholomeus Jacobus, and the annotation says 'Piet's son'. 'Fourie, Baret (?) Jacobus' in Beaufort is a closer name fit.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fourie, Baret (?) Jacobus"
+ },
+ {
+  "pair_id": "357|406",
+  "verdict": "REJECT",
+  "reason": "The census head is David, annotated as David's son, while the genealogy man is Daniel Jacobus. The census wife Gousch is unrelated to his Fourie wife, though that marriage was in the census year.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "358|9718",
+  "verdict": "ACCEPT",
+  "reason": "'Philip Jacobus', Philip's son, unmarried, in Uitenhage matches Philippus Jacobus (b.1803, aged 22, declared Uitenhage), whose first marriage was in 1826. The competing claimant Petrus Johannes does not fit the name.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "360|9718",
+  "verdict": "REJECT",
+  "reason": "The census head Philip Jacobus, Philip's son, does not match Petrus Johannes, born 1777. 'Fourie, Petrus Johannes' with a Booysen wife in Cradock (later Somerset) fits his name, Booysen marriage and district far better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Fourie, Petrus Johannes"
+ },
+ {
+  "pair_id": "364|7809",
+  "verdict": "REJECT",
+  "reason": "Census head Stephanus Andries does not match Joseph Johannes. The census wife Legrange differs from his wife Van Eeden, married 1820.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "364|8256",
+  "verdict": "REJECT",
+  "reason": "The census head is named Johannes Hermanus, not Joseph Johannes. No wife is listed, although he married Van Eeden in 1820.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "364|8597",
+  "verdict": "REJECT",
+  "reason": "Census head Coenraad Christoffel does not match Joseph Johannes. The census wife Fourie differs from his 1820 wife Van Eeden.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "364|8615",
+  "verdict": "REJECT",
+  "reason": "Census head Charl Hendrik does not match Joseph Johannes. The census wife Fourie differs from his 1820 wife Van Eeden.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "365|8251",
+  "verdict": "REJECT",
+  "reason": "Census head Philip Rudolph does not match Louis Johannes. The census wife Botha differs from his 1820 wife De Jager.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "365|8254",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census wife Snyman differs from his 1820 wife De Jager, and no remarriage is recorded. 'Sr.' also suggests an older man than one born in 1797.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "366|4871",
+  "verdict": "ACCEPT",
+  "reason": "'Marius Johannes' is a plausible variant of Marcus Johannes, in the same district. The census wife 'Janzen, Anna Lacya' matches his 1818 wife Anna Catharina Lasya Jansen.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "366|5331",
+  "verdict": "REJECT",
+  "reason": "Census head Stephanus does not match Marcus Johannes, and the census wife Harmse differs from his 1818 wife Jansen. 'Fourie, Marius Johannes' with wife Janzen fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Fourie, Marius Johannes"
+ },
+ {
+  "pair_id": "379|2194",
+  "verdict": "ACCEPT",
+  "reason": "The name matches exactly, as does the wife Klopper, Anna Maria (married 1798). Cradock is the predecessor of Somerset, and 'de Oude' fits a man born in 1775.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "380|2198",
+  "verdict": "REJECT",
+  "reason": "The census head is Abraham Carel, annotated as Barend's son, and his wife Erasmus differs from Scheepers (married 1804). 'Greyling, Barend Christiaan' with wife Scheepers fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Greyling, Barend Christiaan"
+ },
+ {
+  "pair_id": "382|1547",
+  "verdict": "REJECT",
+  "reason": "He was born in 1809, making him about 14 in 1823, which is implausible for a married household head. The census wife Stein also differs from his only recorded spouse, Van Dyk, whose marriage date is unknown.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "384|9567",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Hermanus does not match Hendrik Christoffel Ignatius, who was born in 1808 and married in 1830.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "387|1996",
+  "verdict": "ACCEPT",
+  "reason": "Grobbelaar/Grobler Johannes Hermanus with wife 'de Bruin, Maria Margaretha' matches his first spouse; the garbled first-marriage date evidently precedes his 1826 remarriage. The Cradock district fits Somerset. The death year 1976 is a data error.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "387|4186",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Hendrik's wife Venter does not match his pre-1826 wife de Bruin, and the middle name differs. The Cradock head Johannes Hermanus with wife de Bruin fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Grobbelaar, Johannes Hermanus"
+ },
+ {
+  "pair_id": "388|9391",
+  "verdict": "REJECT",
+  "reason": "Census head Coert Nicolaas does not match Willem Pieter.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "392|9451",
+  "verdict": "REJECT",
+  "reason": "The census head is Pieter Johannes, annotated as Coert's son, which does not match Frederik Johannes Nicolaas Andries (born 1808, married 1829).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "394|4830",
+  "verdict": "REJECT",
+  "reason": "Census head Johannes Jacobus does not match Pieter Schalk, and the census wife Erasmus differs from his 1824 wife Pretorius. 'Grobler, Petrus Schalk' with wife Pretorius fits.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Grobler, Petrus Schalk"
+ },
+ {
+  "pair_id": "394|4968",
+  "verdict": "REJECT",
+  "reason": "Census head Petrus Hendrik's wife Kemp differs from Pieter Schalk's 1824 wife Pretorius. 'Grobler, Petrus Schalk' with wife Pretorius fits.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Grobler, Petrus Schalk"
+ },
+ {
+  "pair_id": "394|5117",
+  "verdict": "ACCEPT",
+  "reason": "Petrus Schalk is the same name as Pieter Schalk. The census wife 'Pretorius, Anna Johanna Jac.' matches his 1824 wife exactly, and Graaff-Reinet is adjacent to his declared districts.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "401|396",
+  "verdict": "ACCEPT",
+  "reason": "The rare surname Hansonius plus Egidius/Aegidius in the declared district Beaufort, with no other candidates, is strong. The absent wife (Botes, married 1820) is not an affirmative contradiction.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "403|757",
+  "verdict": "REJECT",
+  "reason": "The census wife Bezuidenhout differs from his 1819 wife Francina Harmse, and the census head is Cornelis Johannes, annotated as Cornelis' son.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "403|779",
+  "verdict": "REJECT",
+  "reason": "Census head Leonardus Johannes Francois does not match Cornelis, and the wife Lotriet differs from his 1819 wife Harmse.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "408|2033",
+  "verdict": "ACCEPT",
+  "reason": "Hatting/Hattingh Hendrik Petrus matches exactly, in Cradock (later Somerset), aged about 22. Being unmarried in 1823 is consistent with his 1829 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "412|2295",
+  "verdict": "ACCEPT",
+  "reason": "Havinga/Havenga Barend Petrus with wife 'Rickert, Elizabeth Margaretha' matches his 1821 wife Riekert, in the declared district Cradock.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "414|4415",
+  "verdict": "ACCEPT",
+  "reason": "The name Jan Hendrik Henning matches exactly. The wife 'v. d. Merwe, Martha Sophia' matches his 1812 marriage, in the declared district.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "414|4476",
+  "verdict": "REJECT",
+  "reason": "Census head Jan Andries's wife Joosten differs from his 1812 wife van der Merwe. 'Henning, Jan Hendrik' with that wife fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Henning, Jan Hendrik"
+ },
+ {
+  "pair_id": "417|4503",
+  "verdict": "REJECT",
+  "reason": "Census head Marthinus Johannes Hendrik with wife Blom does not match Christiaan Frederik, whose wife was Steenkamp (married 1820). 'Herbst, Christiaan Frederik' with wife Steenkamp fits exactly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Herbst, Christiaan Frederik"
+ },
+ {
+  "pair_id": "418|5172",
+  "verdict": "REJECT",
+  "reason": "Census head Willem Jacobus does not match Johan Christiaan Jacobus. His only marriage was in 1833, after the census.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "424|429",
+  "verdict": "REJECT",
+  "reason": "This head is 'Christiaan' Senior with wife Koortze, evidently the father. The 21-year-old Christiaan Wynand, who married in 1828, matches the separate head 'Christiaan Wynand', annotated as Christiaan's son.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "Horn, Christiaan Wynand"
+ },
+ {
+  "pair_id": "424|430",
+  "verdict": "ACCEPT",
+  "reason": "The name Christiaan Wynand matches exactly, as Christiaan's son in the declared district Beaufort. Being unmarried in 1825 is consistent with his 1828 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "429|9177",
+  "verdict": "REJECT",
+  "reason": "This Petrus Gerhardus (Senior) has wife Van Staden, which contradicts his 1820 wife Uys. Another census head Petrus Gerhardus has wife 'Uys, Johanna Susanna' and fits clearly.",
+  "wife_evidence": "contradicts",
+  "better_candidate": "Human, Petrus Gerhardus"
+ },
+ {
+  "pair_id": "432|5338",
+  "verdict": "REJECT",
+  "reason": "The name matches, but the census wife 'Jacobse, Maria Louisa' clearly differs from his 1822 wife Maria Magdalena Marais, and no remarriage is recorded.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "433|244",
+  "verdict": "REJECT",
+  "reason": "The census head Daniel, Philip's son, with a wife, does not match Petrus Casparus (born 1806, married 1829).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "448|244",
+  "verdict": "REJECT",
+  "reason": "Daniel matches by first name only. The census wife Fourie, Susanna contradicts his 1812 wife Anna Susanna Marais, and the head is annotated as Philip's son.",
+  "wife_evidence": "contradicts",
+  "better_candidate": null
+ }
+]

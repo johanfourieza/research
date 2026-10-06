@@ -1,0 +1,282 @@
+[
+ {
+  "pair_id": "254|2130",
+  "verdict": "ACCEPT",
+  "reason": "Full name matches and census wife Smit, Elizabeth matches spouse Elizabeth Jacoba Smit (m. 1817); Cradock 1823 is the predecessor of declared Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "255|9345",
+  "verdict": "ACCEPT",
+  "reason": "Jacob Barnard = Jacob Bernard; census wife Sabella Catharina Maria van Staden matches Isabella Catharina Maria van Staden (m. 1817); district Uitenhage agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "256|2168",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Stein, Christina matches Christina Steyn (m. 1807); Cradock vs declared Albany is a minor district difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "257|2242",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive full name matches exactly; census wife Janze, Elsje Martha Aletta agrees with Hester Martha Aletta Janse van Vuuren (m. 1814) on surname and two middle names, the first-name difference being plausible transcription; Cradock = Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "258|7513",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches but the head is in Swellendam while this man (b. 1791) declared Somerset, and the census lists no wife although he married Botha in 1812; competing pair 263 (b. 1804, declared Swellendam) fits the district better.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "263|7513",
+  "verdict": "UNCERTAIN",
+  "reason": "Name and Swellendam district match and age (21) is plausible, but no census wife is recorded despite his marriage to Smith in Jan 1824, so there is no corroboration; a common name with a competing claimant (258).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "259|9941",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Wynand Louw matches in the same district (Worcester); unmarried head (married 1833) is consistent and age 21 is plausible.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "260|7268",
+  "verdict": "ACCEPT",
+  "reason": "Name and Swellendam district match, and census wife Appel, Elisabeth Helena matches spouse married 1801.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "264|1922",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Jordaan, Susanna Geertruida matches spouse married 1822; Cradock = Somerset and annotation Barend's zoon fits a brother of Barend Christoffel jr.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "265|1921",
+  "verdict": "REJECT",
+  "reason": "This census head is annotated Senior with wife Steenkamp, i.e. the father; the man born 1805 (age 18) is the separate Barend's zoon entry whose wife de Klerk matches (pair 265|1923).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": "du Plessies, Barend Christoffel (Barend's zoon, wife de Klerk)"
+ },
+ {
+  "pair_id": "265|1923",
+  "verdict": "ACCEPT",
+  "reason": "Census wife de Klerk, Elizabeth Johanna matches his spouse exactly (marriage dated Jan 1824, consistent with a late-compiled 1823 roll); annotation Barend's zoon fits, as does brother Jan's entry.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "266|1935",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Jan Adriaan matches in Cradock (= Somerset); unmarried head consistent with 1825 marriage, and Piet's zoon fits the sibling group (brother Pieter's wife Klopper also matches).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "267|1936",
+  "verdict": "ACCEPT",
+  "reason": "Laurens Marthinus = Lourens Marthinus in Cradock (= Somerset); unmarried consistent with 1828 marriage; age 17 is young but plausible and Piet's zoon fits the sibling group.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "268|1934",
+  "verdict": "ACCEPT",
+  "reason": "Willem Abraham matches in Cradock (= Somerset); unmarried head consistent with Oct 1824 marriage, and Piet's zoon fits the sibling group.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "269|1933",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Klopper, Maria Elizabeth matches spouse married 1820; Cradock = Somerset. The other Pieter (wife du Plooy) does not fit.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "270|1964",
+  "verdict": "ACCEPT",
+  "reason": "Jan Harmse is an abbreviated form of Jan Harm Pieter Ignatius Michael, and census wife Potgieter, Petronella Margaretha matches spouse married 1810.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "271|1975",
+  "verdict": "ACCEPT",
+  "reason": "Laurens = Lourens Stephanus; census wife du Plessies, Catharina Levina matches spouse married 1813; Cradock = Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "272|1974",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife du Plessies, Engela Petronella matches spouse married 1817; Cradock = Somerset.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "273|1973",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive name Caspar Jeremias matches in Cradock (= Somerset); unmarried consistent with 1825 marriage, and Louw's zoon fits the sibling group whose wives match.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "274|1965",
+  "verdict": "ACCEPT",
+  "reason": "Full name matches and census wife Potgieter, Susanna Catharina matches his spouse (marriage dated Jan 1824); Louw's zoon fits the sibling group.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "276|2118",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Pelzer, Anna Maria Margaretha matches Anna Maria Margritha Pelser (m. 1816), outweighing the Cradock vs declared Beaufort difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "278|921",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive Dirk Wouter in Beaufort; census wife Roux, Catharina Susanna matches Cornelia Susanna Roux (m. 1811) on surname and middle name, first name plausibly mistranscribed.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "279|919",
+  "verdict": "ACCEPT",
+  "reason": "Gerrit Andries = Gerhardus Andries; census wife Gousch, Elsje Magdalena matches Elsje Johanna Magdalena Gous (m. 1822); Beaufort agrees.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "280|812",
+  "verdict": "ACCEPT",
+  "reason": "Name and Beaufort match, annotation Snr. fits, and census wife De Clercq, Hendrina Cicilia matches Hendrina Cecilia de Klerk (m. 1802).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "282|929",
+  "verdict": "ACCEPT",
+  "reason": "Distinctive three-part name matches exactly in Beaufort, where his du Plooy kin are enumerated; unmarried consistent with 1837 marriage. Age 16 and declared Somerset slightly weaken it.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "283|780",
+  "verdict": "ACCEPT",
+  "reason": "Census wife Vivier, Maria Johanna matches second spouse Viviers (m. 1819); name and Beaufort match.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "285|343",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches and no wife is consistent (first marriage undated), but the census is Beaufort while he declared Somerset and he was about 18; no corroborating evidence.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "289|4778",
+  "verdict": "ACCEPT",
+  "reason": "Name and Graaff-Reinet match; census wife Herbst, Anna Maria Elisabeth matches Anna Martha Elisabeth Herbst (m. 1802).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "292|5315",
+  "verdict": "UNCERTAIN",
+  "reason": "Name matches but the census is Graaff-Reinet while he declared George, no census wife is recorded and his marriage to Grobler is undated, so nothing corroborates.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "295|914",
+  "verdict": "ACCEPT",
+  "reason": "Name and Beaufort match; census wife Gousch, Susara Johanna Dorothea matches Sara Johanna Dorothea Gous (m. 1818).",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "296|926",
+  "verdict": "ACCEPT",
+  "reason": "Name matches in Beaufort, where his brother Roelof Petrus and a Gerhardus Johannes du Toit (fitting Gerhardus' son) are enumerated; unmarried consistent with 1827 marriage, age 19.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "297|2048",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Grobbelaar, Elsje Susanna matches his (undated) spouse exactly; he may also appear in Graaff-Reinet 1825 (pair 297|4529), which is not a contradiction across years.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "297|4529",
+  "verdict": "ACCEPT",
+  "reason": "Name matches, census wife Grobler, Elsje Susanna is a plausible variant of Grobbelaar, Graaff-Reinet covered Colesberg, and son Johannes Hermanus is the adjacent entry.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "299|4529",
+  "verdict": "REJECT",
+  "reason": "This man was about 17 in 1825 and first married in 1832, whereas this head has wife Grobler/Grobbelaar, Elsje Susanna, the wife of his father Francois Jacobus (b. 1786, pair 297|4529).",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "298|4530",
+  "verdict": "ACCEPT",
+  "reason": "Name and Graaff-Reinet match; unmarried consistent with 1826 marriage, and the entry directly follows his father Francois Jacobus.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "300|7416",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife De Jager, Anna Christiena matches spouse married 1822, outweighing the Swellendam vs declared Colesberg difference.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "302|5218",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Lubbe, Maria Magdalena matches spouse married 1820; Graaff-Reinet covered Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "302|5219",
+  "verdict": "REJECT",
+  "reason": "Census head is Johannes Jacobus, a different given name from Thomas Arnoldus; the same wife appears with the Thomas Arnoldus entry (pair 302|5218), which fits clearly better.",
+  "wife_evidence": "agrees",
+  "better_candidate": "Du Toit, Thomas Arnoldus"
+ },
+ {
+  "pair_id": "303|5216",
+  "verdict": "ACCEPT",
+  "reason": "Name matches in Graaff-Reinet next to his father's and brother's entries; unmarried consistent with 1826 marriage.",
+  "wife_evidence": "not_comparable",
+  "better_candidate": null
+ },
+ {
+  "pair_id": "304|5215",
+  "verdict": "ACCEPT",
+  "reason": "Name matches and census wife Momberg, Rachel Geertruida matches second spouse (m. 1810); Graaff-Reinet covered Colesberg.",
+  "wife_evidence": "agrees",
+  "better_candidate": null
+ }
+]
