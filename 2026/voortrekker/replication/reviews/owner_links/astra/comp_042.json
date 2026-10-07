@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0703",
+  "choice": "NONE",
+  "reason": "C02's Johannes is compatible with Johan but lacks David, is in a different district, and offers nothing to distinguish the man from his identically named father. C01 has the conflicting second name Gerhardus."
+ },
+ {
+  "case_id": "P0418",
+  "choice": "NONE",
+  "reason": "C01 matches only the second name Jacobus, while C02's Joachim Hendrik is a different name combination. The shared district, without parentage or spouse corroboration, does not make either identification more likely than not."
+ },
+ {
+  "case_id": "P0570",
+  "choice": "C02",
+  "reason": "Isaac Stephanus is a normal spelling equivalent of Izaak Stephanus, and the surname and Graaff-Reinet district match exactly."
+ },
+ {
+  "case_id": "P0257",
+  "choice": "C01",
+  "reason": "Joachim Christoffel Espag matches the complete name and Albany district, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0041",
+  "choice": "C01",
+  "reason": "Andries Stephanus Botes matches the complete name and Beaufort district. The note identifying his father as Jacob cannot be checked because the genealogy supplies no father, but it creates no contradiction."
+ },
+ {
+  "case_id": "P0227",
+  "choice": "NONE",
+  "reason": "No candidate matches Gerrit Johannes Jacobus. Even treating Gerhardus as compatible with Gerrit, C02 has the different second name Cornelis and a father initial C rather than the genealogy's Gerhardus."
+ },
+ {
+  "case_id": "P0670",
+  "choice": "NONE",
+  "reason": "The sole candidate, Jan Lodewyk, does not match Daniel Jacobus Johannes or his recorded alternative name Jacobus. The shared surname and district do not overcome that given-name mismatch."
+ },
+ {
+  "case_id": "P0511",
+  "choice": "C05",
+  "reason": "Andries Hendrik Potgieter matches the complete name and Somerset district, with no conflicting parentage or status note."
+ },
+ {
+  "case_id": "P0377",
+  "choice": "C02",
+  "reason": "Andries Jacobus Krugel matches the complete name and Somerset district; the other candidates have different given names."
+ },
+ {
+  "case_id": "P0042",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Anthonie Johannes. All are also recorded in Beaufort rather than the declared Colesberg district."
+ }
+]

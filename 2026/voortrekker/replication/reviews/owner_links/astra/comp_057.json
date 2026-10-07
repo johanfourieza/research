@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0689",
+  "choice": "NONE",
+  "reason": "C01 is Pieter Andreas Johannes Swanepoel, whose given names do not match Hendrik Frederik. The different district supplies no supporting evidence."
+ },
+ {
+  "case_id": "P0256",
+  "choice": "C01",
+  "reason": "Andries Johannes Erwee matches the full name and Swellendam district exactly, with no contradictory evidence."
+ },
+ {
+  "case_id": "P0643",
+  "choice": "C05",
+  "reason": "C05 is the exact Willem Steenkamp match in Clanwilliam. His parentage note, son of Casparus, cannot be checked against the genealogy but does not contradict it."
+ },
+ {
+  "case_id": "P0342",
+  "choice": "NONE",
+  "reason": "C01 Johannes Petrus and C04 Pieter Johannes overlap with his latter names, but neither records Christoffel. With no corroborating parentage or other distinguishing evidence, neither is more likely than not to be this man."
+ },
+ {
+  "case_id": "P0599",
+  "choice": "NONE",
+  "reason": "No candidate matches Marthinus Easias. C05 Johannes Martinus shares only a form of Marthinus and has Johannes rather than Easias."
+ },
+ {
+  "case_id": "P0532",
+  "choice": "C17",
+  "reason": "C17 matches Johannes Petrus Pretorius and the Somerset district exactly. The omitted Jan Sr. designation introduces no contradiction."
+ },
+ {
+  "case_id": "P0254",
+  "choice": "NONE",
+  "reason": "The closest candidate, C09 Hendrik Ferdinand, has a different second name from Hendrik Johannes. The compatible Graaff-Reinet/Colesberg geography does not overcome that weak name match."
+ },
+ {
+  "case_id": "P0326",
+  "choice": "C06",
+  "reason": "C06 matches Pieter Daniel Jacobs exactly in Beaufort, and the son-of-Pieter notes support the recorded father Pieter Daniel Sr. The man born in 1807 would have been an adult during the compensation period."
+ },
+ {
+  "case_id": "P0353",
+  "choice": "C04",
+  "reason": "C04 matches Jacobus Francois Joubert exactly in Swellendam. The genealogy supplies no father against which the parentage notes could conflict."
+ },
+ {
+  "case_id": "P0068",
+  "choice": "C10",
+  "reason": "C10 matches Christoffel Jacobus Botha in Somerset with Theunis omitted, and its parentage note is not contradicted by the genealogy. C02 instead supplies the different third name Lodew., making it a weaker match."
+ }
+]

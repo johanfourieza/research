@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0415",
+  "choice": "C06",
+  "reason": "Paul Willem is a normal variant of Paulus Wilhelmus, and the surname and Clanwilliam district agree."
+ },
+ {
+  "case_id": "P0295",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hermanus Grobler, whose given names differ substantially from Pieter Schalk."
+ },
+ {
+  "case_id": "P0844",
+  "choice": "NONE",
+  "reason": "C11's Salomon could represent omitted middle names, but it also exactly matches the recorded father's name. Nothing supplied favors the 1809-born son over his father."
+ },
+ {
+  "case_id": "P0604",
+  "choice": "C06",
+  "reason": "Jacobus Johannes contains the same two given names in reversed order, with matching surname and Uitenhage district. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0216",
+  "choice": "NONE",
+  "reason": "C03 has the same given names reversed and a compatible Graaff-Reinet district, but the man's father shares those names. No age, parentage or generational note favors identifying this owner as the 1808-born son."
+ },
+ {
+  "case_id": "P0356",
+  "choice": "NONE",
+  "reason": "No candidate matches Hendrik Coenraad. C03 shares only Hendrik, has the different second name Petrus, and is recorded in Albany rather than Somerset."
+ },
+ {
+  "case_id": "P0267",
+  "choice": "NONE",
+  "reason": "David Stephanus is not a spelling variant or abbreviation of Daniel Jacobus; the matching surname and district do not overcome the given-name contradiction."
+ },
+ {
+  "case_id": "P0436",
+  "choice": "NONE",
+  "reason": "C02 matches Philip Carel and the district, but both the man and his explicitly recorded father bear that name. The owner record lacks a junior or parentage note distinguishing the 1801-born son from Philip Carel senior."
+ },
+ {
+  "case_id": "P0379",
+  "choice": "C16",
+  "reason": "Daniel Frederik and the Somerset district match exactly. The note 'sv Jan' does not contradict any supplied paternal information, and no other candidate matches his given names."
+ },
+ {
+  "case_id": "P0667",
+  "choice": "NONE",
+  "reason": "The only candidate, Abraham Frederik Strauss, has substantially different given names from Adries Jacobus."
+ }
+]

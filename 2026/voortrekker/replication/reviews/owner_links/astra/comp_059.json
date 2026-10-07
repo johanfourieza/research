@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0506",
+  "choice": "C12",
+  "reason": "Pieter Jacobus Potgieter matches the full name exactly, and the compensation district is Somerset as declared."
+ },
+ {
+  "case_id": "P0586",
+  "choice": "C01",
+  "reason": "Johannes Gysbertus Roos matches the full personal name and Somerset district. Omission of the senior designation is not a contradiction."
+ },
+ {
+  "case_id": "P0329",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Willem Hendrik; Christoffel Johannes, Jacobus Johannes and David are different names."
+ },
+ {
+  "case_id": "P0313",
+  "choice": "NONE",
+  "reason": "The closest candidates are Pieter Daniel and Petrus Jacobus, neither matching Casparus; C03's note 'Daniel]' also points toward Daniel. The shared Pieter/Petrus name and Beaufort district are insufficient."
+ },
+ {
+  "case_id": "P0742",
+  "choice": "NONE",
+  "reason": "C08 is the only Johannes candidate, but its 'sv Willem' note contradicts the genealogy's father Jacob. No other candidate has compatible given names."
+ },
+ {
+  "case_id": "P0116",
+  "choice": "C12",
+  "reason": "Cornelis Gerhardus Coetzee matches the full name exactly and is recorded in Somerset, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0616",
+  "choice": "C01",
+  "reason": "Joachim Scholtz in Graaff-Reinet is consistent with omission of the middle name Hermanus. The 'sv Joachim' note does not contradict any supplied genealogy father, since none is recorded."
+ },
+ {
+  "case_id": "P0467",
+  "choice": "C01",
+  "reason": "Jacobus Paulus Odendaal matches the full name and Somerset district exactly. The father note 'sv Jacobus' introduces no conflict because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0271",
+  "choice": "NONE",
+  "reason": "C03 names Louis as father, contradicting Petrus Johannes. C06 has the same given names reordered but represents a deceased estate, with no supplied death, parentage or spouse evidence establishing that the estate is his."
+ },
+ {
+  "case_id": "P0129",
+  "choice": "NONE",
+  "reason": "The sole candidate is Michael Combrink, a clearly different given name from Willem Andries despite the matching surname and district."
+ }
+]

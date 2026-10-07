@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0301",
+  "choice": "C01",
+  "reason": "C01 is Christiaan Hattingh of Somerset, which fits Christiaan Jacobus with the middle name omitted, and the district matches. C03's second name, Arnoldus, contradicts Jacobus; C01's two parentage notes conflict with each other, but the genealogy gives no father to test them against."
+ },
+ {
+  "case_id": "P0118",
+  "choice": "NONE",
+  "reason": "No owner is named Stephanus Hermanus. The closest, C15 Stephanus Johannes sv Crn., has a clearly different second name, so a shared first name alone is too weak."
+ },
+ {
+  "case_id": "P0752",
+  "choice": "NONE",
+  "reason": "No Van Deventer owner is named Michiel. The candidates are Jan Frederik, Jacob, Willem Abraham and Gerrit Albertus."
+ },
+ {
+  "case_id": "P0430",
+  "choice": "NONE",
+  "reason": "No owner is named Adriaan Willem Petrus. C05 Lucas Johannes of Somerset matches the genealogy father's name, so it is most likely the father, not this man."
+ },
+ {
+  "case_id": "P0312",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Philippus. C02 Jacobus Johannes sv P has a different first name, and David and Christoffel Johannes do not fit."
+ },
+ {
+  "case_id": "P0852",
+  "choice": "NONE",
+  "reason": "No Viljoen owner is named Johannes Hercules or Jan Hercules. All the candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0863",
+  "choice": "NONE",
+  "reason": "No owner is named Christiaan Rudolph. C01 Christoffel Jacobus differs in both given names, so it is not a match."
+ },
+ {
+  "case_id": "P0222",
+  "choice": "NONE",
+  "reason": "No Els owner is named Cornelis Wilhelmus. The candidates are Johannes Christoffel, Nicolaas, Johannes Martinus and Frederik."
+ },
+ {
+  "case_id": "P0293",
+  "choice": "NONE",
+  "reason": "The only candidate, Johannes Hermanus Grobler sv N., differs in first name from Frederik Johannes Nicolaas Andries and does not match."
+ },
+ {
+  "case_id": "P0142",
+  "choice": "NONE",
+  "reason": "No owner is named Zacharias Christiaan. C02 Zacharias Johannes has a different second name and was recorded in Uitenhage rather than Somerset, so the match is too weak."
+ }
+]

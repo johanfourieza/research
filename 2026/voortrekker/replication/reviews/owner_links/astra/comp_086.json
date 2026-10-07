@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0268",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Hermanus Fourie, a clearly different given-name combination from Philippus Jacobus. The shared surname and Uitenhage district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0740",
+  "choice": "C03",
+  "reason": "Nicolaas van der Westhuizen matches the first name, surname and Beaufort district, with Georg plausibly omitted. The parentage and seniority notes cannot be checked against the genealogy but provide no established contradiction."
+ },
+ {
+  "case_id": "P0812",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Gerhardus Janse van Vuuren, not Stephanus Johannes Janse van Vuuren. The overlapping Johannes and Janse do not establish identity given the different remaining names and district."
+ },
+ {
+  "case_id": "P0712",
+  "choice": "C02",
+  "reason": "Jan is a normal form of Johannes, and C02 matches the surname and Somerset district, with the middle names plausibly omitted. The 'sv Gerrit' parentage cannot be checked because no genealogy father is supplied."
+ },
+ {
+  "case_id": "P0858",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Barend Christiaan. C01 instead matches his father's name, Willem Wouter, and C04's 'sv Willem' note does not overcome the contradictory given names Jan Albertus."
+ },
+ {
+  "case_id": "P0159",
+  "choice": "C01",
+  "reason": "C01 exactly matches Barend Jacobus de Lange and the Somerset district. The 'sv Barend' note introduces no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0238",
+  "choice": "NONE",
+  "reason": "No candidate is named Balthasar or a supplied variant of that name. Several share Johannes, but their other given names differ and there is no supporting parentage or spouse evidence linking them to this man."
+ },
+ {
+  "case_id": "P0772",
+  "choice": "NONE",
+  "reason": "C01 is Willem Jacobus Janse van Rensburg, not Hendrik Johannes Janse van Rensburg. The matching surname and Beaufort district are insufficient against the different given names."
+ },
+ {
+  "case_id": "P0644",
+  "choice": "C03",
+  "reason": "C03 exactly matches Jan Harmse Steenkamp and the Somerset district. There is no supplied parentage or status evidence contradicting the identification."
+ },
+ {
+  "case_id": "P0687",
+  "choice": "NONE",
+  "reason": "C01 is Pieter Andreas Johannes Swanepoel, son of Pieter, whereas the target is Christiaan Henderik, son of Jacobus. Both given names and parentage contradict the match, and the districts also differ."
+ }
+]

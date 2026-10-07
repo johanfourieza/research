@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0182",
+  "choice": "C01",
+  "reason": "C01 has the exact name Barend Christoffel du Plessis and is in Somerset, his declared district. The note 'sv BC' fits a family that repeats the name, and no other candidate matches."
+ },
+ {
+  "case_id": "P0328",
+  "choice": "C01",
+  "reason": "C01 is Daniel Jacobs of Beaufort, his declared district. Omitting the second name Roelof is normal, and he was an adult landholder (married 1812). The other Beaufort Jacobs owners have different first names or are sons of Pieter."
+ },
+ {
+  "case_id": "P0795",
+  "choice": "NONE",
+  "reason": "The only Van Staden owners are Willem Hendrik and Jacobus Frederik. Both given names clearly differ from Philippus Theunis."
+ },
+ {
+  "case_id": "P0602",
+  "choice": "NONE",
+  "reason": "He died in 1823, before the 1830s compensation claims. The only Coenraad candidates are Coenraad Frederik and Coenraad 's Gerrit', whose names or parentage conflict with his father Jan Marthinus."
+ },
+ {
+  "case_id": "P0552",
+  "choice": "NONE",
+  "reason": "No Prinsloo owner is named Anthonie Christoffel. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0275",
+  "choice": "NONE",
+  "reason": "The only candidate is a woman, Anna Catharina Fourie, possibly his wife. Nothing shows the claim is his, so she cannot be taken as Marcus Johannes."
+ },
+ {
+  "case_id": "P0032",
+  "choice": "NONE",
+  "reason": "No owner is named Wynand Carel. C02 'Johannes sr' matches his father Johannes Sr, not him, and the other candidates are Gerrit Pieter and a woman."
+ },
+ {
+  "case_id": "P0441",
+  "choice": "C01",
+  "reason": "C01 has the exact name Johannes Petrus Muller and is in Swellendam, his declared district. No other candidate shares his given names."
+ },
+ {
+  "case_id": "P0622",
+  "choice": "C07",
+  "reason": "C07 has the exact name Nicolaas Wilhelmus Smit, in Worcester, which borders his declared district of Tulbagh. The other Nicolaas, C08, has a different second name (Albertus)."
+ },
+ {
+  "case_id": "P0146",
+  "choice": "NONE",
+  "reason": "No De Beer owner is named Hendrik Petrus Jacobus. The candidates are Jan Andries, Samuel (a widow's claim) and Matthys Andries."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0811",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Gerhardus Janse van Vuuren, whose given names clearly differ from Hendrik Lourens Janse. The claim is also listed as a widow's, so it cannot be this man."
+ },
+ {
+  "case_id": "P0525",
+  "choice": "NONE",
+  "reason": "No Pretorius owner is named Matthys Wynand. The nearest, Matthys Jacobus sv JL (C05), has a different second name and no supporting link to Wynand."
+ },
+ {
+  "case_id": "P0557",
+  "choice": "NONE",
+  "reason": "No owner is named Willem Johannes. Willem Jacobus (C04) and Willem Petrus (C09) share only the first name and have different second names, and no note confirms the father Johannes."
+ },
+ {
+  "case_id": "P0460",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Cecilia Johanna Jacoba Nel, and all candidates are male owners with different names. Louis (C03) may be her father but is not her."
+ },
+ {
+  "case_id": "P0321",
+  "choice": "NONE",
+  "reason": "No Beaufort Jacobs owner is named Johannes Jacobus. Johannes Stephanus (C02), son of Pieter, has a different second name."
+ },
+ {
+  "case_id": "P0174",
+  "choice": "C02",
+  "reason": "Roelof Petrus Gerhardus Dreyer is an exact full-name match. He is in Somerset, matching the declared district."
+ },
+ {
+  "case_id": "P0766",
+  "choice": "NONE",
+  "reason": "The only candidate is Frederik Roelof Janse van Rensburg. His given names clearly differ from Lucas Willem Janse."
+ },
+ {
+  "case_id": "P0760",
+  "choice": "NONE",
+  "reason": "No owner is named Gerhardus Jozua. Gerhardus Laurens/Lourens (C02, C04) has a different second name, and C02 is a widow's claim."
+ },
+ {
+  "case_id": "P0175",
+  "choice": "NONE",
+  "reason": "No Du Plessis owner is named Andries Stephanus. C02 is only a son of an Andries and is not this man."
+ },
+ {
+  "case_id": "P0121",
+  "choice": "C04",
+  "reason": "Johannes Jacobus Coetzer of Somerset is an exact name match in the declared district. No other candidate shares his names."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0405",
+  "choice": "C05",
+  "reason": "Two owners match the name Christiaan Jacobus. C01's claim localities (Hantam; Keerom) point to the far west, away from Graaff-Reinet/Colesberg. C05 (Waterkloof, Graaff-Reinet) fits the declared district, though with no father recorded this call is only moderately supported."
+ },
+ {
+  "case_id": "P0352",
+  "choice": "C05",
+  "reason": "Frans is the usual short form of Francois, and the owner's 'sr' note matches the genealogy's 'SR.' He claims in Graaff-Reinet (Camdebo). C07 has a different second name (Nicolaas) and a father not recorded in the genealogy."
+ },
+ {
+  "case_id": "P0357",
+  "choice": "C01",
+  "reason": "C01 is Johannes Klopper, son of Hendrik, in Somerset, which agrees with the genealogy father Hendrik Coenraad and the declared district. The middle name differs (Frederik vs Jacobus), but no other candidate is plausible."
+ },
+ {
+  "case_id": "P0073",
+  "choice": "NONE",
+  "reason": "No Botha owner is named Frederik Christoffel or is recorded as son of Frederik Jacobus. The only 'sv Frederik' owner is Paul Stephanus, a clearly different given name."
+ },
+ {
+  "case_id": "P0193",
+  "choice": "NONE",
+  "reason": "Both Beaufort owners are Leendert Hendrik and Cornelis Michiel. Neither name is compatible with Jacobus."
+ },
+ {
+  "case_id": "P0190",
+  "choice": "NONE",
+  "reason": "No Du Plessis owner bears the given names Casper Jeremias or any compatible form."
+ },
+ {
+  "case_id": "P0452",
+  "choice": "NONE",
+  "reason": "The Albany Nel owners are Willem Andries, Gert, Louis, Daniel sr and Gerrit. None matches Johannes Petrus jr."
+ },
+ {
+  "case_id": "P0165",
+  "choice": "C01",
+  "reason": "C01 matches exactly: Adriaan Francois de Necker, son of Pieter, in Swellendam. This agrees with the genealogy father Pieter Hendrikus and the declared district."
+ },
+ {
+  "case_id": "P0565",
+  "choice": "C02",
+  "reason": "Martinus Petrus Prinsloo in Uitenhage is a direct name and district match. No other candidate shares his given names."
+ },
+ {
+  "case_id": "P0520",
+  "choice": "NONE",
+  "reason": "No Pretorius owner is named Dewald Johannes or any compatible variant."
+ }
+]

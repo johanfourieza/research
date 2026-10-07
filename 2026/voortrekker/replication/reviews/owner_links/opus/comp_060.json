@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0391",
+  "choice": "NONE",
+  "reason": "The only Casper (C03) is noted as 'sr, sv Jan', but the genealogy gives this man's father as Casper (Jeremias). That parentage conflict points to a different Casper, possibly his father."
+ },
+ {
+  "case_id": "P0228",
+  "choice": "NONE",
+  "reason": "No owner is named Willem Jacobus. C07 Willem Christoffel has a different second name and is noted 'sv Corn.', which contradicts the genealogy father Gerhardus sr."
+ },
+ {
+  "case_id": "P0481",
+  "choice": "NONE",
+  "reason": "The only candidate, Godlieb Rudolph, is a clearly different given name from Daniël Jacobus."
+ },
+ {
+  "case_id": "P0071",
+  "choice": "C03",
+  "reason": "The genealogy records only 'Jacobus', and C03 Jacobus Theodorus in Uitenhage shares that first name and the district. An omitted middle name is normal, whereas C01 has Jacobus only as a second name."
+ },
+ {
+  "case_id": "P0150",
+  "choice": "C02",
+  "reason": "C02 Hendrik Jacobus De Bruyn in Somerset exactly matches the full name and the declared district."
+ },
+ {
+  "case_id": "P0102",
+  "choice": "NONE",
+  "reason": "Neither Gysbert Sybrand nor Johannes Gerhardus Stephanus matches Hendrik Lambert. C01's note 'sv Gysbert' also conflicts with the father Johannes Jacob."
+ },
+ {
+  "case_id": "P0676",
+  "choice": "NONE",
+  "reason": "The only candidate, Jan Lodewyk, is a clearly different given name from Frederik Andries."
+ },
+ {
+  "case_id": "P0093",
+  "choice": "NONE",
+  "reason": "Johan Hendrik differs from Johannes Jacob in the second name. A shared first name alone is weak, and no other evidence links them."
+ },
+ {
+  "case_id": "P0186",
+  "choice": "C06",
+  "reason": "C06 'Pieter, sr; sv Jan' in Somerset exactly matches the single given name Pieter and the declared district. 'Sr' fits a man already married in 1820, and no father is recorded to contradict 'sv Jan'."
+ },
+ {
+  "case_id": "P0284",
+  "choice": "C04",
+  "reason": "C04 Arnoldus Jacobus Greyling exactly matches the full name, and Somerset was formerly part of Cradock, which fits the declared district."
+ }
+]

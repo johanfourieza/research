@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0346",
+  "choice": "C08",
+  "reason": "C08 matches Francois Jacobus Joubert's full given names and Somerset district. C04 has only the shortened name Frans and a senior designation, in a different district."
+ },
+ {
+  "case_id": "P0805",
+  "choice": "C04",
+  "reason": "C04 exactly matches Andries Johannes van Tonder in Swellendam. The parentage note does not conflict with the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0515",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Nicolaas Johannes or a plausible abbreviated equivalent. None supplies parentage linking him to Hermanus Sr."
+ },
+ {
+  "case_id": "P0054",
+  "choice": "NONE",
+  "reason": "The Somerset candidates named Christoffel do not match the distinct name Christiaan. C15 shares Christiaan but adds Willem and is in Graaff-Reinet, with no supporting identity evidence."
+ },
+ {
+  "case_id": "P0886",
+  "choice": "C01",
+  "reason": "Johan Philip is a normal variant of Johannes Philip, and C01 matches the surname and Uitenhage district. The note naming Paul as father is not contradicted by the supplied genealogy."
+ },
+ {
+  "case_id": "P0559",
+  "choice": "C03",
+  "reason": "Jochemus Johannes is a plausible spelling variant of Joachim Johannes, and C03 is in Somerset. This is stronger than C08's single given name Joachim in Uitenhage."
+ },
+ {
+  "case_id": "P0834",
+  "choice": "NONE",
+  "reason": "No candidate matches Jan Adriaan. The Johannes candidates have different additional given names, while Willem Adriaan has a different first name; the common district does not resolve these discrepancies."
+ },
+ {
+  "case_id": "P0640",
+  "choice": "C04",
+  "reason": "C04 exactly matches Barend Jacobus Spies in Swellendam. C01 instead has the distinct second name Christoffel, and no supplied evidence contradicts C04's parentage note."
+ },
+ {
+  "case_id": "P0117",
+  "choice": "NONE",
+  "reason": "No candidate is named Ockert or Ockert Jacobus. Several share Jacobus, but their different first names and lack of corroborating evidence prevent a more-likely-than-not match."
+ },
+ {
+  "case_id": "P0505",
+  "choice": "NONE",
+  "reason": "No candidate matches Willem Frederik. C11's Frederik could reflect an omitted name, but its Uitenhage district and absence of corroborating identity evidence make that match insufficient."
+ }
+]

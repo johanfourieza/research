@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0425",
+  "choice": "C02",
+  "reason": "Matthys Hendrik Marais matches the full name exactly and is recorded in Uitenhage, the declared district. No supplied evidence contradicts the identification."
+ },
+ {
+  "case_id": "P0108",
+  "choice": "NONE",
+  "reason": "None of the candidates bears the given names Johannes Daniel or a plausible abbreviated equivalent. Charl, Petrus Gerhardus, Charl Andries and Abraham Jacobus are different names."
+ },
+ {
+  "case_id": "P0259",
+  "choice": "C12",
+  "reason": "Martinus Gerrit Thomas matches Marthinus Gerrit Thomas with a minor spelling variation, and the district is Uitenhage. C10 lacks Thomas and is less exact than C12."
+ },
+ {
+  "case_id": "P0450",
+  "choice": "NONE",
+  "reason": "C01 has entirely different given names, while C02 matches only Willem and omits the first name Pieter. The genealogy supplies no father or other corroboration linking Pieter Willem to the owner noted as son of Louis."
+ },
+ {
+  "case_id": "P0148",
+  "choice": "NONE",
+  "reason": "No owner is named Zacharias Joseph. C01's reference to Zacharias identifies his father, not the owner, and C03 is a widow entry under Samuel's name."
+ },
+ {
+  "case_id": "P0299",
+  "choice": "NONE",
+  "reason": "The sole candidate is Cornelis Johannes Harmse, whose given names do not match Bartholomeus. The shared surname and compatible district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0623",
+  "choice": "NONE",
+  "reason": "No candidate matches Christiaan Adreas or a plausible full-name variant. Stephanus Christiaan and Andries provide only isolated name overlap, without corroborating identity evidence."
+ },
+ {
+  "case_id": "P0022",
+  "choice": "C03",
+  "reason": "Andries Bester matches the first name and surname in the declared district, with Nicolaas plausibly omitted. The note 'sv Christiaan' cannot be checked against the unspecified genealogy father but supplies no contradiction."
+ },
+ {
+  "case_id": "P0183",
+  "choice": "C20",
+  "reason": "Jan Du Plessis matches the first name and surname in Somerset, with Adriaan plausibly omitted. The parentage notes cannot be checked because the genealogy gives no father; the other Jan/Johannes candidates have different second names."
+ },
+ {
+  "case_id": "P0637",
+  "choice": "NONE",
+  "reason": "C01 is a widow entry under Jacobus's name, and C02 is Louis Johannes rather than Gerrit Christoffel. Neither candidate matches this man."
+ }
+]

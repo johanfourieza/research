@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0223",
+  "choice": "C03",
+  "reason": "Frederik Els in Somerset matches Frederik Christiaan Els of Somerset; only the middle name is omitted. The other candidates have different given names or are in Albany."
+ },
+ {
+  "case_id": "P0787",
+  "choice": "NONE",
+  "reason": "Both Uitenhage owners are named Willem Hendrik and Jacobus Frederik. Neither name is compatible with Philippus Theunis."
+ },
+ {
+  "case_id": "P0831",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Venter is Albertus Johannes. The nearest, Johannes Petrus Albertus, has a different first name and an extra name, and the other candidates differ clearly."
+ },
+ {
+  "case_id": "P0445",
+  "choice": "NONE",
+  "reason": "The only candidates are Willem (son of Louis) and Hendrik Johannes. Neither is compatible with Frederik Daniël."
+ },
+ {
+  "case_id": "P0375",
+  "choice": "NONE",
+  "reason": "The only owner is Pieter Hendrik Kritzinger, which is the name of Johan Jacob's father, not of Johan Jacob himself."
+ },
+ {
+  "case_id": "P0545",
+  "choice": "C03",
+  "reason": "Willem Pretorius in Somerset matches Willem Pretorius of Somerset (Cradock area) exactly. Willem Lodewyk and Willem Sterrenberg are in Graaff-Reinet and carry extra names."
+ },
+ {
+  "case_id": "P0424",
+  "choice": "NONE",
+  "reason": "No Marais owner is David Jacobus. Jacobus son of Charles in Somerset lacks the first name David, so it is only a weak partial match."
+ },
+ {
+  "case_id": "P0885",
+  "choice": "C01",
+  "reason": "Fredrik Gerhardus Wolmarans of George matches Frederik Gerhardus Wolmarans of George in full, allowing for a spelling variant."
+ },
+ {
+  "case_id": "P0270",
+  "choice": "NONE",
+  "reason": "The only owner is Johannes Hermanus Fourie, a clearly different name from Louis Theunis."
+ },
+ {
+  "case_id": "P0722",
+  "choice": "NONE",
+  "reason": "No owner is Diedelof Jacobus. David Jacobus (son of Carel) has a different first name and is in Graaff-Reinet rather than Somerset."
+ }
+]

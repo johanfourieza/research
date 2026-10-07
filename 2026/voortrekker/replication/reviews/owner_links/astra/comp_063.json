@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0030",
+  "choice": "C03",
+  "reason": "Johannes Bezuidenhout in Beaufort matches the man's name and district exactly, including the explicit 'sr' designation."
+ },
+ {
+  "case_id": "P0573",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names corresponding to Hendrik Willem. C01 matches his father's name, Martinus Nicolaas, rather than his own."
+ },
+ {
+  "case_id": "P0327",
+  "choice": "NONE",
+  "reason": "No candidate matches Gert Petrus. Although several have a father named Pieter, Gabriel Gerhardus (C01) and Petrus Jacobus (C07) have materially different given names, and the Pieter Daniel entries resemble his father's name."
+ },
+ {
+  "case_id": "P0521",
+  "choice": "C06",
+  "reason": "Johannes Lodewyk Wynand contains both Wynand and Johannes in reordered, expanded form and is recorded in Graaff-Reinet. This is the strongest name match, with no contradictory parentage or status evidence."
+ },
+ {
+  "case_id": "P0796",
+  "choice": "C02",
+  "reason": "Jacobus Frederk is a close spelling match for Jacobus Frederik, and the Uitenhage district agrees. No supplied parentage or status evidence contradicts the match."
+ },
+ {
+  "case_id": "P0728",
+  "choice": "NONE",
+  "reason": "C01 matches his father, Johannes Marthinus, rather than Stephanus Petrus. C02 is Petrus Jacobus, with a paternal reference to Piet, not Johannes Marthinus."
+ },
+ {
+  "case_id": "P0707",
+  "choice": "C03",
+  "reason": "Johannes Daniel Van Coller matches the full given names and Swellendam district. The 'sv Jan' note does not conflict with any supplied father information."
+ },
+ {
+  "case_id": "P0547",
+  "choice": "NONE",
+  "reason": "No candidate has Arie or an equivalent given name. Willem Jacobus (C08) shares only Jacobus and the district, which is insufficient against the different first name."
+ },
+ {
+  "case_id": "P0050",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Jurgen. Jan Christoffel (C04) has a different second name and district, while the other entries containing Johannes likewise have materially different given names."
+ },
+ {
+  "case_id": "P0319",
+  "choice": "NONE",
+  "reason": "Neither Christoffel Johannes (C01) nor Jacobus Johannes (C03) matches Pieter Johannes beyond the shared second name. C03's 'sv P' describes his father and does not establish that the owner himself was Pieter."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0297",
+  "choice": "NONE",
+  "reason": "The only candidate is Cornelis Johannes Harmse of Beaufort. Neither given name matches Christiaan Barend Stephanus, and the district differs from Colesberg."
+ },
+ {
+  "case_id": "P0756",
+  "choice": "NONE",
+  "reason": "No Uitenhage Van Niekerk owner is named Lucas Cornelis. The male candidates (Gerhardus Lourens, Johannes Stephanus, Stephanus Ignatius, Isaac Abraham, Pieter Cornelis) all have different first names, and the rest are women."
+ },
+ {
+  "case_id": "P0692",
+  "choice": "C04",
+  "reason": "Wentzel Cornelis Swart of Somerset shares the second name Cornelis and the declared district. Wentzel is a common recorded variant of Wessel, and no other candidate has a compatible name."
+ },
+ {
+  "case_id": "P0748",
+  "choice": "C02",
+  "reason": "Gerrit Albertus van Deventer of Somerset matches the given name Gerrit and the declared district Somerset; the added middle name is normal. The other candidates are Willem Abraham, Jacob and Jan Frederik in other districts."
+ },
+ {
+  "case_id": "P0816",
+  "choice": "NONE",
+  "reason": "Adriaan Jacobus (Graaff-Reinet) has a different second name and the wrong district. Andries Petrus (Somerset, son of Louis) has a different first name, and the remaining candidates do not match."
+ },
+ {
+  "case_id": "P0406",
+  "choice": "NONE",
+  "reason": "The only Barend is Barend Godlieb, whose second name contradicts Johannes. No candidate is Barend Johannes, and the others have different names or are a widow."
+ },
+ {
+  "case_id": "P0453",
+  "choice": "NONE",
+  "reason": "The Swellendam candidates are Gert Petrus and Isaac Bartolomeus Nel, both with different given names from Willem Andries."
+ },
+ {
+  "case_id": "P0113",
+  "choice": "C16",
+  "reason": "Martin Coetzee, son of Jan, of Graaff-Reinet matches Maarten (Martin is its English form) and the genealogy father Johannes (Jan). Colesberg was then part of Graaff-Reinet."
+ },
+ {
+  "case_id": "P0682",
+  "choice": "NONE",
+  "reason": "The only candidate is the deceased estate of Johannes Swanepoel. This contradicts the given name Pieter Andries, and nothing shows the estate is his."
+ },
+ {
+  "case_id": "P0592",
+  "choice": "C01",
+  "reason": "Stephanus Johannes Scheepers of Graaff-Reinet matches both given names and the declared district exactly, and he is the sole candidate."
+ }
+]

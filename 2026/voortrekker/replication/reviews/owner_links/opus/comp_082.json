@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0110",
+  "choice": "NONE",
+  "reason": "No owner is named Jan Gabriel. The candidates are a female minor (Dorothea Johanna), Abraham Albertus jr and Gert Adriaan, all clearly different given names."
+ },
+ {
+  "case_id": "P0412",
+  "choice": "NONE",
+  "reason": "Hermanus Stephanus clearly contradicts both Hans Jurgen (Somerset) and Hans Jurie (Albany). The genealogy treats exactly this difference as a strong contradiction."
+ },
+ {
+  "case_id": "P0814",
+  "choice": "NONE",
+  "reason": "C03 matches the name exactly but is recorded as a widow, which implies Johannes Martinus Janse was already dead by the 1830s. This man died in 1877, so the widow's claim cannot be his. C01 and C04 have different second names (Petrus, Cornelis), and C02 is Lucas Daniel."
+ },
+ {
+  "case_id": "P0746",
+  "choice": "C03",
+  "reason": "Gerrit Albertus van Deventer of Somerset matches the genealogy exactly in both full given names and district. The other candidates have different names and are in Uitenhage or Albany."
+ },
+ {
+  "case_id": "P0019",
+  "choice": "NONE",
+  "reason": "Rynier Johannes does not match Johannes Hendrik or Martinus Johannes. The only overlap is a shared Johannes in a different position, which is weak."
+ },
+ {
+  "case_id": "P0680",
+  "choice": "NONE",
+  "reason": "No Strydom owner bears the names Barend Hendrik Josephus. All candidates have clearly different given names, and C06 is a widow."
+ },
+ {
+  "case_id": "P0731",
+  "choice": "C13",
+  "reason": "C13 is Martinus van der Merwe, Somerset, 'sv Martinus'. This matches the first name, the declared district and the genealogy father Marthinus. The omitted middle name Stephanus is a normal variation."
+ },
+ {
+  "case_id": "P0732",
+  "choice": "NONE",
+  "reason": "The only Somerset Martinus (C38, 'sv Martinus') is better explained by the other Marthinus van der Merwe (P0731), whose recorded father matches the parentage note. This man has no father recorded to support the link, so the match is not more likely than not."
+ },
+ {
+  "case_id": "P0856",
+  "choice": "C02",
+  "reason": "Willem Wouter Viljoen of Somerset matches the genealogy exactly in both given names and district. The other Willems are in Graaff-Reinet and have a different second name or a different parentage."
+ },
+ {
+  "case_id": "P0749",
+  "choice": "NONE",
+  "reason": "No owner is named Jan Gerritse. Jan Frederik (Uitenhage) has a different second name and a different district, and Gerrit Albertus is a different man."
+ }
+]

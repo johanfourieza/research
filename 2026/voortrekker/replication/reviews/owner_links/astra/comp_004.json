@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0817",
+  "choice": "C01",
+  "reason": "C01 matches Adriaan Van Wyk and the Beaufort district, with Jacobus Adolph plausibly omitted. The 'so Willem' note cannot be checked because the genealogy supplies no father, but there is no contradictory evidence."
+ },
+ {
+  "case_id": "P0185",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem or Willem Abraham. C04 shares Abraham and the Somerset district, but Pieter is a clearly different first name."
+ },
+ {
+  "case_id": "P0244",
+  "choice": "C12",
+  "reason": "Petrus is a normal equivalent of Pieter, and Rasmus matches exactly. The Graaff-Reinet district differs from Somerset, but this full-name match is substantially stronger than any alternative."
+ },
+ {
+  "case_id": "P0265",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Bartholomeus Jacobus. The supplied districts and notes provide no evidence overcoming those name differences."
+ },
+ {
+  "case_id": "P0279",
+  "choice": "NONE",
+  "reason": "The candidates are Cornelis, Jurie Hendrik and Marthinus, all clearly different from Petrus Andries. Their shared Uitenhage district does not establish identity."
+ },
+ {
+  "case_id": "P0477",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Barbara Petronella, widow of Petrus Wilhemus Oosthuizen. The sole candidate, Martinus Oosthuizen, matches neither her nor her recorded husband."
+ },
+ {
+  "case_id": "P0861",
+  "choice": "NONE",
+  "reason": "No candidate has the name Petrus Johannes or a plausible equivalent. The deceased candidates also have different given names, so the recorded death in 1836 does not identify either estate as his."
+ },
+ {
+  "case_id": "P0688",
+  "choice": "NONE",
+  "reason": "C01 is Pieter Andreas Johannes, not Stephanus Johannes Marthinus; sharing Johannes alone is weak evidence. His Graaff-Reinet district also differs from the declared Cradock district."
+ },
+ {
+  "case_id": "P0721",
+  "choice": "NONE",
+  "reason": "C13 and C15 match only Pieter/Petrus and are in Graaff-Reinet, while C05 is recorded only as Willem sr in Somerset. With no matching parentage or spouse evidence, none is more likely than not to be Pieter Willem."
+ },
+ {
+  "case_id": "P0847",
+  "choice": "NONE",
+  "reason": "No candidate is named Nicolaas or Nicolaas Jacobus. C10 shares Jacobus but is Jacobus Stephanus, and the common Uitenhage district does not overcome the given-name mismatch."
+ }
+]

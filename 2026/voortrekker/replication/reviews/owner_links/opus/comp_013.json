@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0415",
+  "choice": "C06",
+  "reason": "Paul Willem is the standard short Dutch form of Paulus Wilhelmus, and the district (Clanwilliam) matches. No other candidate has a compatible given name."
+ },
+ {
+  "case_id": "P0295",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hermanus, son of N. Both given names clearly differ from Pieter Schalk."
+ },
+ {
+  "case_id": "P0844",
+  "choice": "NONE",
+  "reason": "C11 'Salomon' carries only the single name of the genealogy father, Salomon Vermaak, who was probably alive in the 1830s. It does not show the son's full Salomon Cornelis Johannes, so it more likely refers to the father; no other candidate's names fit."
+ },
+ {
+  "case_id": "P0604",
+  "choice": "C06",
+  "reason": "Jacobus Johannes is Johannes Jacobus with the given names reordered, a normal variation, and the district (Uitenhage) matches. The other candidates have different second names."
+ },
+ {
+  "case_id": "P0216",
+  "choice": "C03",
+  "reason": "Jacobus Francois is Francois Jacobus with the names reordered, recorded in Graaff-Reinet, which then included Colesberg. No other candidate has a compatible name."
+ },
+ {
+  "case_id": "P0356",
+  "choice": "NONE",
+  "reason": "No candidate is named Hendrik Coenraad. C01 is recorded as a son of Henrik, so he is likely this man's son, not the man himself."
+ },
+ {
+  "case_id": "P0267",
+  "choice": "NONE",
+  "reason": "David Stephanus conflicts on both given names with Daniel Jacobus, despite the shared Beaufort district."
+ },
+ {
+  "case_id": "P0436",
+  "choice": "C02",
+  "reason": "Philip Carel in Graaff-Reinet matches exactly on name and district. The man was a 33-year-old married householder by 1834, which makes him a plausible owner, though his same-named father cannot be fully excluded."
+ },
+ {
+  "case_id": "P0379",
+  "choice": "C16",
+  "reason": "Daniel Frederik in Somerset matches exactly on name and district. The genealogy records no father that would contradict the note 'sv Jan', and no other candidate fits."
+ },
+ {
+  "case_id": "P0667",
+  "choice": "NONE",
+  "reason": "The only candidate is Abraham Frederik, which differs from Andries Jacobus on both given names."
+ }
+]

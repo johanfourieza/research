@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0201",
+  "choice": "NONE",
+  "reason": "C01 Leendert Hendrik is the man's father, not him. C02 Cornelis Michiel has a different first name from Christoffel Cornelis."
+ },
+ {
+  "case_id": "P0780",
+  "choice": "C03",
+  "reason": "C03 'Gerrit' in Uitenhage matches the genealogy's bare given name exactly. C04 Gerrit Rynier is also possible, but it carries an unrecorded second name."
+ },
+ {
+  "case_id": "P0685",
+  "choice": "NONE",
+  "reason": "Neither Pieter Frederik Rynier nor Jan Abraham matches Abraham Christoffel Johannes."
+ },
+ {
+  "case_id": "P0082",
+  "choice": "NONE",
+  "reason": "C01 is a widow (Jacoba Wilhelmina). C02 Johannes Arnoldus, in Albany, has different given names from Cornelis Christoffel."
+ },
+ {
+  "case_id": "P0278",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem: the owners are Cornelis, Jurie Hendrik and Marthinus, and all are in Uitenhage rather than Somerset."
+ },
+ {
+  "case_id": "P0339",
+  "choice": "NONE",
+  "reason": "C02 Gerrit is a deceased estate in the 1830s, but Gerrit Jacobus died in 1866. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0658",
+  "choice": "C01",
+  "reason": "Hermanus Steyn, son of Martinus, in Beaufort matches the genealogy's 'Hermanus (M. seun)' with declared district Beaufort."
+ },
+ {
+  "case_id": "P0734",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Van der Merwe owner is named Francois Arnoldus or any close form; Jacob Franciscus is a different name."
+ },
+ {
+  "case_id": "P0153",
+  "choice": "C01",
+  "reason": "C01 Christiaan in Swellendam has no conflicting parentage and fits Christiaan Lodewikus with the middle name omitted. C02 Christiaan Johannes is son of Jacobus, which contradicts the father Andreas Johannes."
+ },
+ {
+  "case_id": "P0647",
+  "choice": "NONE",
+  "reason": "C03 Jan Harmse is the man's father. C01 Thomas Ignatius and C02 Lavina Catharina (a woman) do not match Philippus Lourens."
+ }
+]

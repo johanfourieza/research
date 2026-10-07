@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0391",
+  "choice": "NONE",
+  "reason": "C03 is Casper in Somerset, but its parentage note 'sv Jan' contradicts the genealogy's father, Casper (Jeremias). The other candidates have different given names."
+ },
+ {
+  "case_id": "P0228",
+  "choice": "NONE",
+  "reason": "C07 shares Willem and Somerset, but Christoffel differs from Jacobus and 'sv Corn.' contradicts the recorded father Gerhardus Sr. No other candidate matches his given names."
+ },
+ {
+  "case_id": "P0481",
+  "choice": "NONE",
+  "reason": "The sole candidate is Godlieb Rudolph, a clearly different given-name combination from Daniël Jacobus despite the matching surname and district."
+ },
+ {
+  "case_id": "P0071",
+  "choice": "C03",
+  "reason": "C03 matches Jacobus Botha in Uitenhage, with Theodorus plausibly omitted from the genealogy. C01 instead has the additional leading name Theunis, making it a weaker match."
+ },
+ {
+  "case_id": "P0150",
+  "choice": "C02",
+  "reason": "C02 exactly matches Hendrik Jacobus de Bruyn in Somerset. C01 has a different second name and district, while C03 provides only Hendrik."
+ },
+ {
+  "case_id": "P0102",
+  "choice": "NONE",
+  "reason": "Neither Gysbert Sybrand nor Johannes Gerhardus Stephanus matches Hendrik Lambert. The shared surname and Beaufort district do not overcome these given-name contradictions."
+ },
+ {
+  "case_id": "P0676",
+  "choice": "NONE",
+  "reason": "The sole candidate is Jan Lodewyk, not Frederik Andries. Matching surname and district are insufficient against the clearly different given names."
+ },
+ {
+  "case_id": "P0093",
+  "choice": "NONE",
+  "reason": "Johan is compatible with Johannes, but C01's second name Hendrik conflicts with Jacob. The shared first-name form and district alone are insufficient."
+ },
+ {
+  "case_id": "P0186",
+  "choice": "C06",
+  "reason": "C06 exactly matches Pieter du Plessis in Somerset, whereas the alternatives have additional given names or different districts. Its 'sr; sv Jan' note does not contradict the supplied genealogy, which gives neither birth year nor father."
+ },
+ {
+  "case_id": "P0284",
+  "choice": "C04",
+  "reason": "C04 exactly matches Arnoldus Jacobus Greyling. Somerset is compatible with the declared Cradock district given the supplied historical district relationship."
+ }
+]

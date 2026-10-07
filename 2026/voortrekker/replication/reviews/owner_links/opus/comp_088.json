@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0509",
+  "choice": "NONE",
+  "reason": "No owner is named Philippus Johannes. C02 'Philip' is entered under the widow Gerbrecht Vosloo, so it is a woman's claim in Graaff-Reinet. C11 Hermanus Philippus has a different first name."
+ },
+ {
+  "case_id": "P0123",
+  "choice": "C02",
+  "reason": "C02 Johannes Jacobus Coetzer of Somerset matches both given names and the declared district exactly. No other candidate shares his names."
+ },
+ {
+  "case_id": "P0076",
+  "choice": "C13",
+  "reason": "C13 Petrus Johannes Botha matches both given names exactly. His Graaff-Reinet district fits Colesberg, which was part of Graaff-Reinet. No other candidate is a Petrus Johannes."
+ },
+ {
+  "case_id": "P0427",
+  "choice": "C09",
+  "reason": "C09 'Jacobus' Meyer of George matches his first name with the middle names omitted, and the district agrees. C03 Johannes Jacobus leads with a different first name, and C05 Jacobus Esias has a conflicting second name."
+ },
+ {
+  "case_id": "P0446",
+  "choice": "NONE",
+  "reason": "The only Pieter is C01 Pieter Willem, whose second name Willem conflicts with Schalk Johannes. His parentage (sv Pieter W.) gives no support either. No other candidate fits."
+ },
+ {
+  "case_id": "P0231",
+  "choice": "NONE",
+  "reason": "The sole candidate, Jacobus Lourens Erasmus, has entirely different given names from Carolus Johannes."
+ },
+ {
+  "case_id": "P0280",
+  "choice": "C01",
+  "reason": "C01 Jacob Martinus Gouws of Swellendam matches both given names and the district exactly. The genealogy's inconsistent death and marriage years do not point to any other candidate."
+ },
+ {
+  "case_id": "P0493",
+  "choice": "NONE",
+  "reason": "The sole candidate, Hermanus Johannes Pieterse, has a clearly different name from Ferdinandus Petrus."
+ },
+ {
+  "case_id": "P0536",
+  "choice": "C12",
+  "reason": "C12 Willem Lodewyk Pretorius of Graaff-Reinet matches both given names and the district exactly, with no conflicting note. C13 is recorded as a son of a WL, so he is not the man himself."
+ },
+ {
+  "case_id": "P0191",
+  "choice": "NONE",
+  "reason": "No Du Plessis owner is named Frederik Willem Jacobus or any close variant. C11 Hendrik Francois is only recorded as a son of a Fr."
+ }
+]

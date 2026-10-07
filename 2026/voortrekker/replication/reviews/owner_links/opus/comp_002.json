@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0531",
+  "choice": "NONE",
+  "reason": "No owner is named Gerhardus Petrus. The nearest, C15 Petrus Gerhardus, has the names reversed and is sv Petrus Gerhardus, which contradicts the genealogy father Marthinus Wessel."
+ },
+ {
+  "case_id": "P0845",
+  "choice": "C03",
+  "reason": "C03 Petrus Theodorus Vermaak is an exact full-name match in Uitenhage, the declared district. No other candidate shares his given names."
+ },
+ {
+  "case_id": "P0251",
+  "choice": "NONE",
+  "reason": "No owner is named Philippus Johannes Lodewicus. C05 Petrus Johannes has a different first name (Petrus, not Philippus), so it is not a match."
+ },
+ {
+  "case_id": "P0180",
+  "choice": "C04",
+  "reason": "C04 Andries Stephanus du Plessis is an exact full-name match in Swellendam, the declared district. There is no genealogy father to contradict the note sv Willem."
+ },
+ {
+  "case_id": "P0826",
+  "choice": "NONE",
+  "reason": "No owner is named Bernhardus/Barend Gerhardus. C11 Barend Johannes has a different second name, which is only a weak first-name overlap."
+ },
+ {
+  "case_id": "P0725",
+  "choice": "C38",
+  "reason": "C38 David Schalk van der Merwe is an exact full-name match in Graaff-Reinet, which included Colesberg. The note sv David is compatible with him."
+ },
+ {
+  "case_id": "P0797",
+  "choice": "NONE",
+  "reason": "Neither Uitenhage owner (Jacobus Frederik, Willem Hendrik) shares any given name with Marthinus Petrus."
+ },
+ {
+  "case_id": "P0300",
+  "choice": "C02",
+  "reason": "C02 Johannes Hendrik Hattingh matches Jan Hendrik, since Jan is a form of Johannes. He is in Somerset, the declared district."
+ },
+ {
+  "case_id": "P0417",
+  "choice": "NONE",
+  "reason": "Neither owner (Joachim Hendrik, Jacobus) matches Jan Thomas, and both are in Graaff-Reinet rather than Somerset."
+ },
+ {
+  "case_id": "P0693",
+  "choice": "C24",
+  "reason": "C24 Jacobus Nicolaas Swart is an exact full-name match in Swellendam, the declared district. The 'jr' label does not contradict the genealogy, which records no father."
+ }
+]

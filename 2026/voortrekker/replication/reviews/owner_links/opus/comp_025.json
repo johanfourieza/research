@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0203",
+  "choice": "C06",
+  "reason": "C06 Salomon du Preez of Uitenhage matches the first given name and the district. Two other owners (C01, C03) are noted 's SJ', meaning sons of an SJ, which fits Salomon Johannes having adult sons there."
+ },
+ {
+  "case_id": "P0568",
+  "choice": "C01",
+  "reason": "Martinus Hendrik matches Marthinus with only the middle name omitted, in the same district. C03 is marked 'sr' and has an adult slave-owning son, which fits poorly with a man who died in 1882."
+ },
+ {
+  "case_id": "P0334",
+  "choice": "NONE",
+  "reason": "The only candidate is Nicolaas Johannes Jacobus in Graaff-Reinet. A different first name and a different district contradict Francois Jacobus Jooste of Somerset."
+ },
+ {
+  "case_id": "P0397",
+  "choice": "C01",
+  "reason": "C01 Jan Hendrik Labuschagne of Somerset is an exact match on given names and district."
+ },
+ {
+  "case_id": "P0085",
+  "choice": "NONE",
+  "reason": "The candidates are Johannes Arnoldus, whose given names differ and who is in Albany, and a widow, Jacoba Wilhelmina. Neither can be Gerhardus Cornelis."
+ },
+ {
+  "case_id": "P0088",
+  "choice": "NONE",
+  "reason": "The candidates are a widow and Johannes Arnoldus of Albany. Neither matches Pieter Gerhardus Bothma."
+ },
+ {
+  "case_id": "P0324",
+  "choice": "C01",
+  "reason": "C01 is Pieter [Daniel] of Beaufort, consistent with Pieter Daniel Sr, who married in 1804 and has several 'sv Pieter' sons listed. C07 Pieter Daniel is noted as a son of Pieter, so he is the junior."
+ },
+ {
+  "case_id": "P0374",
+  "choice": "NONE",
+  "reason": "Johannes David and Theodorus Louis both have different given names. Johannes David is noted as a son of Jacobus, so he may be a son rather than this man."
+ },
+ {
+  "case_id": "P0534",
+  "choice": "C02",
+  "reason": "C02 Johannes Jacobus Pretorius of Graaff-Reinet is an exact name and district match. No other candidate shares these given names."
+ },
+ {
+  "case_id": "P0119",
+  "choice": "NONE",
+  "reason": "No candidate is named Phillippus Jeremias. Wentzel Christoffel, Pieter Willem, Jacob Jeremias and Johannes Jacobus all differ in first name."
+ }
+]

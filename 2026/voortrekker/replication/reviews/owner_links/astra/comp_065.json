@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0115",
+  "choice": "C14",
+  "reason": "Hendrik Petrus matches Pieter Hendrik with the names reversed and Petrus equivalent to Pieter. The different district weakens the match but does not outweigh the agreement of both given names."
+ },
+ {
+  "case_id": "P0009",
+  "choice": "C02",
+  "reason": "Gerhardus Johannes matches two of his three given names, with Hendrik omitted. Somerset is compatible with the declared Cradock district, and no recorded parentage or status contradicts this match."
+ },
+ {
+  "case_id": "P0176",
+  "choice": "NONE",
+  "reason": "No candidate has given names matching Wynand Louw. The shared surname and Worcester district alone do not establish identity."
+ },
+ {
+  "case_id": "P0125",
+  "choice": "NONE",
+  "reason": "The sole candidate is Michael, a clearly different given name from Jan Christiaan Johannes, and is recorded in Beaufort rather than Colesberg."
+ },
+ {
+  "case_id": "P0724",
+  "choice": "NONE",
+  "reason": "No candidate matches Cornelis Johannes; C25 is Carel Johannes, and Carel is a different name from Cornelis. Candidates sharing only Johannes or Jan lack sufficient supporting evidence."
+ },
+ {
+  "case_id": "P0846",
+  "choice": "C08",
+  "reason": "Cornelis Tobias Vermaak is an exact full-name match in the declared Uitenhage district, with no contradictory note."
+ },
+ {
+  "case_id": "P0188",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Lourens Stephanus. The senior designation on Pieter does not overcome his different given name."
+ },
+ {
+  "case_id": "P0225",
+  "choice": "NONE",
+  "reason": "No candidate is named Eduard or has a compatible full set of given names. Johannes Cornelis and Johannes Hendrik share only Johannes and are recorded in Somerset rather than Colesberg."
+ },
+ {
+  "case_id": "P0015",
+  "choice": "C01",
+  "reason": "Johannes Andries Beetge is an exact full-name match. Graaff-Reinet is compatible with the declared Colesberg district, which was formerly part of it."
+ },
+ {
+  "case_id": "P0744",
+  "choice": "NONE",
+  "reason": "No candidate is named Jasper or a supplied equivalent; Jacobus is a different given name. Agreement on surname and Beaufort district is insufficient."
+ }
+]

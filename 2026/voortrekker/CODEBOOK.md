@@ -8,7 +8,7 @@ Join keys: `census_id` identifies a census household in every file. `row_id` (`v
 
 ## `data/raw/cape_census_1825.csv`
 
-The 1825 Cape Colony census (*opgaafrolle*), one row per household: 10,783 households in eleven districts. The Somerset data come from the Cradock returns of 1823 and the Clanwilliam and Worcester data from 1824. Source corrections and excluded entries are documented in `replication/data/inputs/`.
+The 1825 Cape Colony census (*opgaafrolle*), one row per household: 10,783 households in eleven districts. The Somerset data come from the Cradock returns of 1823 and the Clanwilliam and Worcester data from 1824. Source-data handling and excluded entries are documented in `replication/data/inputs/`.
 
 ### Identifiers and names
 
@@ -109,7 +109,7 @@ The final census links: 569 rows, one per linked Voortrekker and census househol
 | `block_type` | How the pair entered the candidate set: `exact` surname, approximate surname (`fuzzy`), `cross_district` search, or `decided_pair` (outside the candidate set, decided by the authors). |
 | `evidence_state` | Spouse evidence: `agrees` (wives' names agree), `not_comparable` (missing or inconclusive), `contradicts`. |
 | `classifier_score` | Random forest match probability. |
-| `classifier_status` | Status of the pair in the classifier output: `proposed`, `review_band` (within 0.15 of its threshold), `review_contradiction`, `review` and `not_linked` (other pairs submitted for review), or `not proposed (manual-linkage pair)`. |
+| `classifier_status` | Status of the pair in the classifier output: `proposed`, `review_band` (within 0.15 of its threshold), `review_contradiction`, `review` and `not_linked` (other pairs submitted for review), or `not proposed (supplementary candidate)`. |
 | `review_claude`, `review_codex` | Verdicts of the two blind model reviews: `ACCEPT`, `REJECT` or `UNCERTAIN`. |
 | `decided_by` | `Both models` (classifier proposal accepted by both reviews) or `Author adjudicated`. |
 
@@ -128,7 +128,7 @@ Every reviewed pair: 923 rows, of which 569 are retained.
 | `classifier` | Status of the pair in the classifier output, as `classifier_status` above. |
 | `spouse_evidence` | Spouse-evidence state, as `evidence_state` above; empty for pairs outside the scored candidate set. |
 | `claude`, `codex` | Verdicts of the two blind model reviews. |
-| `manual_linkage_pair` | The pair was linked in a manual linkage of these records and entered the review as a supplementary candidate. |
+| `supplementary_candidate` | The pair was identified by hand and entered the review as a supplementary candidate. |
 
 ## `data/linked/training_labels.csv`
 
@@ -144,7 +144,7 @@ The 972 resolved labels (160 matches). Of these, 910 pairs arise as candidates i
 
 ## `data/linked/voortrekker_emancipation_matches.csv`
 
-Voortrekker links to slave owners in the compensation records: 577 rows.
+Voortrekker links to slave owners in the compensation records: 229 rows, one per owner, the links on which two blind model reviews agree (`replication/reviews/owner_links/`).
 
 | Variable | Description |
 |---|---|
@@ -155,7 +155,7 @@ Voortrekker links to slave owners in the compensation records: 577 rows.
 | `total_valuation`, `total_compensation` | Owner's total appraised value and compensation. |
 | `num_slaves`, `mean_slave_value` | Number of enslaved persons across the owner's claims, and their mean appraised value. |
 | `loss`, `loss_pct` | Valuation minus compensation, and 100 × loss / valuation (percent). |
-| `match_score` | Name-and-district similarity score (links accepted at 0.70 or above). |
+| `match_score` | Name-and-district similarity score of the decided owner (reported only; the links are the review decisions). |
 
 ## `data/linked/genealogy_crosswalk.csv`
 

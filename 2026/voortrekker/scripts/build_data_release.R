@@ -40,22 +40,11 @@ names(slaves) <- clean_name(names(slaves))
 write_csv(slaves, "data/raw/slave_compensation.csv", na = "")
 
 # ---- links: final census links with provenance, all review decisions, training labels
-# The replication inputs are checksum-pinned and stay as they are; the public copies use
-# descriptive labels.
-neutral <- function(x) {
-  x <- gsub("old link", "manual-linkage pair", x, fixed = TRUE)
-  x <- gsub("Johan adjudicated", "Author adjudicated", x, fixed = TRUE)
-  x <- gsub("not proposed (old link)", "not proposed (manual-linkage pair)", x, fixed = TRUE)
-  x
-}
-decisions <- read_csv(file.path(rep, "data/linkage/link_decisions.csv"), show_col_types = FALSE) %>%
-  mutate(across(c(basis, final_quality, classifier), neutral)) %>%
-  rename(manual_linkage_pair = old_link)
+decisions <- read_csv(file.path(rep, "data/linkage/link_decisions.csv"), show_col_types = FALSE)
 labels <- read_csv(file.path(rep, "data/linkage/training_labels.csv"), show_col_types = FALSE) %>%
   transmute(row_id, census_id, label,
-            label_source = recode(label_source, "both models" = "both model reviews", "Johan" = "authors"),
-            sample = recode(set, "original training pair" = "hand-labeled pair", "new sample" = "supplementary sample"),
-            hand_label = original_label)
+            label_source = recode(label_source, "both models" = "both model reviews"),
+            sample, hand_label)
 pairs <- read_csv(file.path(out_tab, "final_pairs_complete.csv"), show_col_types = FALSE)
 links <- pairs %>%
   transmute(row_id, census_id, vt_surname, vt_name, census_name = name_raw, census_district = enumeration_district,

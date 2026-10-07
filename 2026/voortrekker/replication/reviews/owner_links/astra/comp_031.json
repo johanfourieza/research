@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0582",
+  "choice": "C01",
+  "reason": "C01 exactly matches Johannes Francois Robbertse and the Somerset district, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0233",
+  "choice": "NONE",
+  "reason": "No candidate matches Lourens Abraham. The Somerset owners named Lourens have different second names—Jacobus, Rasmus or Johannes—and no supplied parentage or spouse evidence connects them to this man."
+ },
+ {
+  "case_id": "P0028",
+  "choice": "NONE",
+  "reason": "Neither candidate matches Jacobus Cornelis. C02's Jan Andries corresponds instead to the genealogy father's name, Johannes Andreas, while C01 is Mattheus Gerhardus."
+ },
+ {
+  "case_id": "P0384",
+  "choice": "C04",
+  "reason": "C04's Johannes Hendrik corresponds to Jan Hendrik, with Casper omitted, and the Graaff-Reinet district agrees. This two-name correspondence without a conflicting name or parentage note supports the match."
+ },
+ {
+  "case_id": "P0261",
+  "choice": "NONE",
+  "reason": "C01 shares Jacobus but has Albertus rather than Paulus. C03's Paul Johannes and C02's Johannes Hendrik do not match Jacobus Paulus, and no other supplied evidence bridges these differences."
+ },
+ {
+  "case_id": "P0065",
+  "choice": "C19",
+  "reason": "C19 has the same two given names in reversed order and the same Somerset district. C02's exact-name entry is a deceased estate in the 1830s, contradicting this man's recorded death in 1869."
+ },
+ {
+  "case_id": "P0272",
+  "choice": "NONE",
+  "reason": "Johannes Hermanus shares only Hermanus with Hermanus Nicolaas and introduces a different given name. The matching Uitenhage district alone does not establish identity, and there is no corroborating parentage evidence."
+ },
+ {
+  "case_id": "P0393",
+  "choice": "NONE",
+  "reason": "C04 has Hendrik rather than Harm, which is not an ordinary spelling variation. C01 supplies only Jan and is in Uitenhage rather than Somerset, leaving insufficient evidence for a probable match."
+ },
+ {
+  "case_id": "P0048",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Lourens Rasmus. C05 matches the father's name, Theunis Louis, rather than the man's own name."
+ },
+ {
+  "case_id": "P0723",
+  "choice": "NONE",
+  "reason": "No candidate provides a convincing match to Jacobus Johannes Rudolph, and none records Rudolph. Entries sharing only Jacobus or Johannes have different additional names or insufficient corroboration, generally outside Somerset."
+ }
+]

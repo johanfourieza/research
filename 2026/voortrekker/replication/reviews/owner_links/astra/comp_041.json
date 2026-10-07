@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0741",
+  "choice": "C06",
+  "reason": "Jacobus is compatible with Jacob, and C06 is the only matching given name in Beaufort. The 'sv Nicolaas' note cannot be checked because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0338",
+  "choice": "NONE",
+  "reason": "Neither Johannes Petrus (C01) nor Pieter Johannes (C04) matches Johannes Jacobus beyond a shared given name. The Somerset district agreement does not overcome the different remaining names."
+ },
+ {
+  "case_id": "P0759",
+  "choice": "NONE",
+  "reason": "The nearest candidate, C05, is Johannes Stephanus rather than Johannes Jacobus. No candidate supplies matching parentage to Johannes Wilhelmus or another identifying link."
+ },
+ {
+  "case_id": "P0841",
+  "choice": "C01",
+  "reason": "C01 matches Salomon Vermaak exactly and is recorded in the declared district of Uitenhage, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0617",
+  "choice": "C02",
+  "reason": "Philip corresponds to Philippus, making C02 a plausible record under the man's second given name, with Somerset also matching. C03 instead introduces the unmatched names Jacobus Wilhelmus."
+ },
+ {
+  "case_id": "P0600",
+  "choice": "C05",
+  "reason": "C05 matches all three given names, Gerhardus Johannes Adolphus, as well as the surname and Uitenhage district."
+ },
+ {
+  "case_id": "P0560",
+  "choice": "C10",
+  "reason": "C10 is the only Nicolaas Prinsloo, and Martinus can be an omitted middle name in the genealogy's Nicolaas (Klaas). Uitenhage rather than Somerset weakens the identification, but there is no conflicting given name or status evidence."
+ },
+ {
+  "case_id": "P0337",
+  "choice": "NONE",
+  "reason": "C03 is Pieter Johannes, not Pieter Willem, while C02 is Johannes Petrus. Neither has the supplied second name Willem or other evidence sufficient to establish the identity."
+ },
+ {
+  "case_id": "P0426",
+  "choice": "NONE",
+  "reason": "C02 shares Petrus and the Uitenhage district but has Gerhardus rather than Johannes as his second name. C01, Georg Frederik, is a different given-name identity entirely."
+ },
+ {
+  "case_id": "P0508",
+  "choice": "NONE",
+  "reason": "No candidate has names compatible with Hans Jurgen; Hermanus Philippus and Hermanus Jacobus are not equivalents. The Johannes entry, C07, is explicitly a widow and supplies no evidence tying that claim to this man."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0751",
+  "choice": "C01",
+  "reason": "The owner's given names (Gideon Gerhardus), surname and district (Swellendam) all match the genealogy exactly."
+ },
+ {
+  "case_id": "P0583",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Francois, a clearly different given name from Gerrit, though the district (Somerset) matches."
+ },
+ {
+  "case_id": "P0528",
+  "choice": "C14",
+  "reason": "C14, Henning Petrus Nicolaas Pretorius of Graaff-Reinet, matches the full distinctive given names and the declared district exactly."
+ },
+ {
+  "case_id": "P0652",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus, son of Martinus, which shares none of the given names Douw Petrus Jacobus."
+ },
+ {
+  "case_id": "P0362",
+  "choice": "NONE",
+  "reason": "The only candidate is Hendrik Petrus, which contradicts the given names Johannes Frederik despite the same district (Albany)."
+ },
+ {
+  "case_id": "P0037",
+  "choice": "NONE",
+  "reason": "The owner is recorded only as 'Jacobus' with uncertain ownership and no jr/sr note, and the man's father bore the same name. The record is as likely to be the father (Jacobus Nicolaas Sr) as this son, so neither reaches more likely than not."
+ },
+ {
+  "case_id": "P0494",
+  "choice": "NONE",
+  "reason": "Neither Theodorus David nor Jacobus Cornelis matches Johannes Petrus Theodorus. A single shared name (Theodorus) as a different first name is not enough."
+ },
+ {
+  "case_id": "P0662",
+  "choice": "C01",
+  "reason": "Hermanus Steyn of Beaufort is compatible with Petrus Hermanus being known by his second name, the district matches, and he is the only such candidate. This is a moderate match only, since the father is not recorded to check the 'son of Martinus' note."
+ },
+ {
+  "case_id": "P0594",
+  "choice": "C01",
+  "reason": "Gideon Scheepers of George matches the given name and district exactly. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0577",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Francois, whose second name contradicts Jan Hendrik."
+ }
+]

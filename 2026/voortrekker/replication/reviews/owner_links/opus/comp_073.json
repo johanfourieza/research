@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0045",
+  "choice": "NONE",
+  "reason": "No owner is named Carel Frederik. The candidates are Andries Stephanus (son of Jacob), Jacob and Wietsche, all clearly different given names."
+ },
+ {
+  "case_id": "P0336",
+  "choice": "NONE",
+  "reason": "No Somerset Jordaan owner is named Jacob Daniel. Pieter Johannes, Gideon, Gerrit (a deceased estate) and Johannes Petrus all contradict the given names."
+ },
+ {
+  "case_id": "P0523",
+  "choice": "C08",
+  "reason": "Roelof Gerhardus Petrus contains 'Gerhardus Petrus' in the same order, with only an extra leading name, and is in Graaff-Reinet. C20, Petrus Gerhardus, matches only if the names are reversed, so it is the weaker alternative."
+ },
+ {
+  "case_id": "P0351",
+  "choice": "C03",
+  "reason": "David Johannes Joubert is an exact name match. He is recorded in Graaff-Reinet, which included the later Colesberg district."
+ },
+ {
+  "case_id": "P0778",
+  "choice": "NONE",
+  "reason": "The only candidate is Dirk Willem, which clearly contradicts Andries Ignatius Marthinus despite the shared Albany district."
+ },
+ {
+  "case_id": "P0234",
+  "choice": "NONE",
+  "reason": "No owner is named Daniel Elardus. Daniel Johannes is noted as son of Jacob, contradicting the genealogy father Lourens Abraham. Daniel Jacobus is son of Daniel and in Uitenhage, so he does not fit either."
+ },
+ {
+  "case_id": "P0470",
+  "choice": "C03",
+  "reason": "Ockert Johannes Stephanus Olivier of Somerset is an exact match on all three given names and the district."
+ },
+ {
+  "case_id": "P0202",
+  "choice": "C05",
+  "reason": "Jacobus Hercules Du Preez of Somerset matches the given names (Herculas/Hercules is a spelling variant) and the declared district."
+ },
+ {
+  "case_id": "P0686",
+  "choice": "NONE",
+  "reason": "The only candidate, Pieter Andreas Johannes (son of Pieter), clearly contradicts Jacobus."
+ },
+ {
+  "case_id": "P0672",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Lodewyk. Sharing 'Jan' as a middle name is weak and is outweighed by the differing first name David and the conflicting Lodewyk."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0611",
+  "choice": "NONE",
+  "reason": "No owner is named Frederik. The Stephanus owners (C02, C08, C09) share only his second name and carry different or extra names."
+ },
+ {
+  "case_id": "P0704",
+  "choice": "C03",
+  "reason": "C03 Johannes Daniel Van Coller of Swellendam matches his full given names and district exactly. The other two candidates have different given names."
+ },
+ {
+  "case_id": "P0556",
+  "choice": "NONE",
+  "reason": "No Somerset owner is named Johannes. C01 Jochemus Johannes has a different first name, and the other owners' names do not fit."
+ },
+ {
+  "case_id": "P0316",
+  "choice": "C03",
+  "reason": "C03 Petrus Jacobus Jacobs of Beaufort matches his given names and declared district exactly."
+ },
+ {
+  "case_id": "P0765",
+  "choice": "NONE",
+  "reason": "No Janse van Rensburg owner is named Hendrik Christoffel. All candidates have clearly different given names and are in Uitenhage or Albany rather than Somerset."
+ },
+ {
+  "case_id": "P0001",
+  "choice": "C01",
+  "reason": "C01 Johannes Alberts of Swellendam is the only candidate and matches his name and district exactly."
+ },
+ {
+  "case_id": "P0047",
+  "choice": "NONE",
+  "reason": "No Botha owner is named Andries Hendrik or anything close. Every candidate has clearly different given names."
+ },
+ {
+  "case_id": "P0399",
+  "choice": "NONE",
+  "reason": "No Labuschagne owner is named Leonardus Petrus. The candidates (Frans Jacob, Casper, Jan, Jan Hendrik) are clearly different names."
+ },
+ {
+  "case_id": "P0761",
+  "choice": "NONE",
+  "reason": "No owner is named Cornelis. C03 Pieter Cornelis has a different first name and parentage notes (s Gert, s Isaac, s JS); the rest are other men or women."
+ },
+ {
+  "case_id": "P0776",
+  "choice": "NONE",
+  "reason": "No Van Rooyen owner is named Izak or Isaac. The candidates are named Cornelis, Martinus and Gerrit."
+ }
+]

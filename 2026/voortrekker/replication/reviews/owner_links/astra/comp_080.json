@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0472",
+  "choice": "NONE",
+  "reason": "The only candidate, C01, is Martinus Oosthuizen, a clearly different given name from Theunis Gerhardus despite the matching district."
+ },
+ {
+  "case_id": "P0057",
+  "choice": "NONE",
+  "reason": "C07 shares Willem and the Somerset district but explicitly names Pieter B. as his father, contradicting Frederik Jacobus. C11 shares only Willem and is in Graaff-Reinet, with no corroborating evidence sufficient to establish the match."
+ },
+ {
+  "case_id": "P0612",
+  "choice": "NONE",
+  "reason": "C04 Johannes Jurie and C06 Johannes Hendrik are both plausible partial-name matches in George, but no supplied father or locality evidence distinguishes them. No individual candidate is more likely than not to be this Johannes."
+ },
+ {
+  "case_id": "P0411",
+  "choice": "C03",
+  "reason": "Georg Frederik Linde matches the full name exactly and is recorded in Swellendam, consistent with the genealogy's district before about 1840. The parentage note does not contradict any supplied genealogy information."
+ },
+ {
+  "case_id": "P0232",
+  "choice": "C01",
+  "reason": "C01 matches all three given names, the surname, and the Somerset district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0456",
+  "choice": "NONE",
+  "reason": "None of the Albany candidates has given names matching Philip Jacobus; Gerrit/Gert, Willem Andries, Daniel, and Louis are distinct names."
+ },
+ {
+  "case_id": "P0549",
+  "choice": "NONE",
+  "reason": "No candidate has Balthasar or a recognizable variant of Balthsar. C04 shares Johannes but has the distinct first name Jochemus, which is insufficient to identify him as this man."
+ },
+ {
+  "case_id": "P0690",
+  "choice": "C05",
+  "reason": "C05 matches Gerhardus Jacobus Swart and the Somerset district exactly, with no contradictory notes."
+ },
+ {
+  "case_id": "P0629",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names corresponding to Burgert Godlieb. The shared surname and some Somerset entries do not overcome the given-name mismatches."
+ },
+ {
+  "case_id": "P0365",
+  "choice": "NONE",
+  "reason": "No candidate matches Lucas Cornelis Johannes. C03 Lourens Johannes shares Johannes and the Somerset district, but Lourens is a different name from Lucas and there is no corroborating identity evidence."
+ }
+]

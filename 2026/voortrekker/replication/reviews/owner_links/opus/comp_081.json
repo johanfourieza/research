@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0380",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Christiaan. C18 Daniel Frederik is his father's name but is noted as son of Jan, and the Johannes candidates (C06, C09, C13, C20) carry different second names, with C13 and C20 also showing conflicting fathers."
+ },
+ {
+  "case_id": "P0421",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, the widow of Jesias Esterhuizen. Both Beaufort Marais owners are men with unrelated given names."
+ },
+ {
+  "case_id": "P0767",
+  "choice": "NONE",
+  "reason": "The only candidate, Frederik Roelof Janse, has a completely different given name from Willem, despite the shared Albany district."
+ },
+ {
+  "case_id": "P0367",
+  "choice": "C01",
+  "reason": "C01's given names, Joachim Marthinus, match exactly and the district is the same (Graaff-Reinet). The genealogy records no father, so the note 'son of Diederik' does not contradict; the other candidate is a different man."
+ },
+ {
+  "case_id": "P0695",
+  "choice": "C01",
+  "reason": "C01's given names, Jacobus Arnoldus, match exactly. Its Graaff-Reinet district fits his declared Colesberg, which was then part of Graaff-Reinet."
+ },
+ {
+  "case_id": "P0632",
+  "choice": "C14",
+  "reason": "C14 is the only owner with the full name Andries Adriaan. The 'Jr' suffix is consistent with a man born in 1797, and the adjacent Graaff-Reinet district is only a minor discrepancy from Somerset."
+ },
+ {
+  "case_id": "P0246",
+  "choice": "C03",
+  "reason": "C03's given names, Lourens Johannes, match exactly and the district is the same (Somerset). Other Lourens candidates have different second names."
+ },
+ {
+  "case_id": "P0152",
+  "choice": "C01",
+  "reason": "Andries Johannes is the standard Dutch form of Andreas Johannes, and C01 is in the same district (Swellendam). No conflicting father is recorded in the genealogy."
+ },
+ {
+  "case_id": "P0226",
+  "choice": "C03",
+  "reason": "C03 is the only Gerhardus among the Engelbrecht owners and is in the same district (Somerset). The extra middle name Cornelis and the note 'son of C.' do not contradict a genealogy that records no father."
+ },
+ {
+  "case_id": "P0580",
+  "choice": "NONE",
+  "reason": "The only candidate, Johannes Francois, shares just the first name and has a different second name from Johannes Hendrik, which is too weak for a match."
+ }
+]

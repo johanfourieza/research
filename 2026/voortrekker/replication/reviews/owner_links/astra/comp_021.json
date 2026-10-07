@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0302",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Jacobus Gerhardus. The Somerset candidates have distinctly different names, and C05 is a widow."
+ },
+ {
+  "case_id": "P0269",
+  "choice": "C05",
+  "reason": "C05 matches Petrus Johannes Fourie exactly and is recorded in the declared district of Somerset, with no contradictory note."
+ },
+ {
+  "case_id": "P0782",
+  "choice": "C03",
+  "reason": "C03 matches Gerrit Van Rooyen in Uitenhage with Thomas omitted; its parentage note cannot be checked because the genealogy supplies no father. C05 instead records the different second name Rynier."
+ },
+ {
+  "case_id": "P0213",
+  "choice": "NONE",
+  "reason": "C04 shares Andries and the Beaufort district but records Gerhardus rather than Stephanus. This weak partial match has no supporting identity evidence, and the other candidates have different given names."
+ },
+ {
+  "case_id": "P0310",
+  "choice": "NONE",
+  "reason": "The sole candidate is Pieter Daniel, not Jacobus Johannes Petrus Paulus. Pieter can correspond to Petrus, but Daniel is a conflicting name and there is no corroborating identity evidence."
+ },
+ {
+  "case_id": "P0075",
+  "choice": "NONE",
+  "reason": "C11 shares David and the George district, but Hercules differs from Adolph Michiel. No candidate matches the man's remaining given names or supplies corroborating identity evidence."
+ },
+ {
+  "case_id": "P0184",
+  "choice": "NONE",
+  "reason": "No candidate matches Lourens Marthinus. C10's Martinus Johannes shares a spelling variant of Marthinus but introduces Johannes and lacks Lourens, without supporting identity evidence."
+ },
+ {
+  "case_id": "P0774",
+  "choice": "NONE",
+  "reason": "The sole candidate is Willem Jacobus Janse rather than Petrus Johannes Janse. The shared Janse element and Beaufort district do not overcome the different personal names."
+ },
+ {
+  "case_id": "P0660",
+  "choice": "C03",
+  "reason": "Martinus is a normal spelling variant of Marthinus, and C03 matches the surname and Swellendam district. The note 'sv Jacobus' does not conflict with any supplied genealogy parentage."
+ },
+ {
+  "case_id": "P0089",
+  "choice": "C01",
+  "reason": "Piet is a shortened form of Pieter, with Cornelis omitted. C01 also matches Bouwer and the Albany district, with no contradictory evidence."
+ }
+]

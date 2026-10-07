@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0414",
+  "choice": "NONE",
+  "reason": "C01's Hans Jurie is a clearly different given name from Hermanus Anthonie. The shared surname and Albany district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0564",
+  "choice": "C06",
+  "reason": "C06 matches Willem Petrus Prinsloo's full name and Somerset district exactly, with no contradictory identity notes."
+ },
+ {
+  "case_id": "P0802",
+  "choice": "NONE",
+  "reason": "Neither Willem Jacobus nor Jacob matches Francois Cornelius. The shared surname and Graaff-Reinet district are insufficient."
+ },
+ {
+  "case_id": "P0830",
+  "choice": "NONE",
+  "reason": "No candidate has given names matching Paulus Christoffel. C21's note 'sv Paul' identifies Marcus Albertus's father, not the owner himself."
+ },
+ {
+  "case_id": "P0454",
+  "choice": "NONE",
+  "reason": "The owners are Gert Petrus and Isaac Bartolomeus, not Johannes Paulus. Their references to fathers named Johannes or Jan do not identify either owner as this man."
+ },
+ {
+  "case_id": "P0459",
+  "choice": "C07",
+  "reason": "C07 matches Philip Rudolph Nel's full name and Somerset district exactly. C11's 'sv Louis' is compatible with the father, but its less specific name makes it a weaker match than C07."
+ },
+ {
+  "case_id": "P0827",
+  "choice": "C02",
+  "reason": "C02 matches Jacobus Daniel Venter's given names and Beaufort district. Omission of the senior designation is not a contradiction."
+ },
+ {
+  "case_id": "P0813",
+  "choice": "NONE",
+  "reason": "None matches Daniel Rudolph Janse: C03 is Lucas Daniel, while the other candidates have Johannes-based names. C03's 'so Daniel' identifies his father rather than supplying the owner's missing identity."
+ },
+ {
+  "case_id": "P0335",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching David Benjamin. C01 is also a deceased Gerrit estate, inconsistent with this man's recorded death in 1881."
+ },
+ {
+  "case_id": "P0820",
+  "choice": "NONE",
+  "reason": "The closest name, C03's Gert Matthys Jacobus, carries a deceased marker ('+'), conflicting with this man's death in 1859. C01 supplies only Gerrit and 'sr', without enough corroborating evidence to identify the man born in 1804."
+ }
+]

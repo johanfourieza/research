@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0292",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Martha Johanna Grobler, wife of Diederik Johannes Mulder. The only candidate is a man, Johannes Hermanus Grobler (sv N.), who cannot be her."
+ },
+ {
+  "case_id": "P0134",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Daniel Cronje. The nearest, Johannes Isaac (C02), has a different second name and is son of Isaac, which conflicts with the genealogy father Andries sr."
+ },
+ {
+  "case_id": "P0743",
+  "choice": "C04",
+  "reason": "C04 is the only Nicolaas van der Westhuizen among the owners and is in Beaufort, his declared district. The genealogy gives no father to contradict the note 'sv Johannes'."
+ },
+ {
+  "case_id": "P0049",
+  "choice": "C11",
+  "reason": "C11 matches the given names Christoffel Jacobus exactly and is in Somerset, his declared district. C04 carries an extra name (Lodew.) that the genealogy does not record, and C17 is a deceased estate."
+ },
+ {
+  "case_id": "P0309",
+  "choice": "C01",
+  "reason": "C01 matches the full name Michiel Frederik Horn exactly and is in Graaff-Reinet, his declared district."
+ },
+ {
+  "case_id": "P0499",
+  "choice": "C04",
+  "reason": "C04 is the only Evert Frederik Potgieter and is in Uitenhage, his declared district. The 'sr' in the genealogy fits a man born in 1799 who is the son of an Evert."
+ },
+ {
+  "case_id": "P0554",
+  "choice": "C08",
+  "reason": "Two owners are named Hendrik Frederik Prinsloo. C08 is in Somerset, his declared district, while C07 is in Uitenhage, so C08 is preferred."
+ },
+ {
+  "case_id": "P0252",
+  "choice": "C13",
+  "reason": "C13 matches the distinctive full name Jacob Lourens Carolus Erasmus exactly and is in Somerset, his declared district."
+ },
+ {
+  "case_id": "P0154",
+  "choice": "C08",
+  "reason": "C08 is the only male owner named simply Lourens de Jager and is in Swellendam, his declared district. The genealogy records no father that would conflict with 'sv Lourens'."
+ },
+ {
+  "case_id": "P0128",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Hendrik Combrink of Uitenhage, whose given names clearly differ from Stephanus Lucas and whose district differs from Somerset."
+ }
+]

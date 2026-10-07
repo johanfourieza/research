@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0804",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Jacobus, not Adriaan Jacobus, and is in Graaff-Reinet rather than Somerset. The shared second name does not overcome the different first name."
+ },
+ {
+  "case_id": "P0590",
+  "choice": "C01",
+  "reason": "Frans matches the genealogy's explicit alternative to Francois, and the Stellenbosch district agrees. Jacobus can be an omitted additional given name; no genealogy father is supplied to contradict the parentage notes."
+ },
+ {
+  "case_id": "P0833",
+  "choice": "C10",
+  "reason": "Marcus Albertus Venter matches the full name and Graaff-Reinet district exactly. The note 'sv Paul' presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0331",
+  "choice": "NONE",
+  "reason": "C01 is Adolph Jonker, explicitly identified as a son of Pieter. Pieter appears as his father, not as the owner."
+ },
+ {
+  "case_id": "P0402",
+  "choice": "C03",
+  "reason": "Willem Landman matches the first name, surname and Uitenhage district, with Adolph plausibly omitted. No supplied note contradicts the identification."
+ },
+ {
+  "case_id": "P0236",
+  "choice": "C15",
+  "reason": "Petrus Stephanus contains the same two given names in reversed order and matches the Somerset district. The 'sv Jacob' note does not conflict with any supplied genealogy father."
+ },
+ {
+  "case_id": "P0381",
+  "choice": "C08",
+  "reason": "Casper Jan Hendrik Kruger is an exact full-name match. Somerset is compatible with the declared Cradock district given the stated historical district relationship."
+ },
+ {
+  "case_id": "P0199",
+  "choice": "NONE",
+  "reason": "The sole candidate is Roelof du Plooy, a clearly different given name from Cornelis Johannes Frederik. The shared surname and Somerset district are insufficient."
+ },
+ {
+  "case_id": "P0642",
+  "choice": "C09",
+  "reason": "Petrus Johannes Dirkse Steenkamp matches the complete name and Clanwilliam district exactly, with no contradictory note."
+ },
+ {
+  "case_id": "P0101",
+  "choice": "NONE",
+  "reason": "C02 shares Johannes and the Beaufort district but has Gerhardus Stephanus rather than Jacob, with no evidence connecting him to Johannes Jacob senior. C01 has entirely different given names."
+ }
+]

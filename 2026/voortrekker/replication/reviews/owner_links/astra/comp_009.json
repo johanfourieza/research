@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0625",
+  "choice": "NONE",
+  "reason": "C03 could omit Jacobus, but shares only Willem and is recorded in Beaufort rather than Colesberg; its parentage note cannot be checked. C17 is Willem Stephanus, so neither candidate provides a more-likely-than-not identification."
+ },
+ {
+  "case_id": "P0258",
+  "choice": "C03",
+  "reason": "Jan Christoffel Esterhuizen matches the full name and Beaufort district exactly."
+ },
+ {
+  "case_id": "P0818",
+  "choice": "C01",
+  "reason": "Roelof Daniel Van Wyk matches both given names and the Swellendam district. The note naming his father as Jacobus does not contradict any supplied genealogy evidence."
+ },
+ {
+  "case_id": "P0373",
+  "choice": "NONE",
+  "reason": "The sole candidate is Christiaan Burgert Kotze, a clearly different given name from Jacobus Johannes Jurgen."
+ },
+ {
+  "case_id": "P0120",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Hendrik. C04's father initial P does not overcome his clearly different given names, Wentzel Christoffel."
+ },
+ {
+  "case_id": "P0588",
+  "choice": "NONE",
+  "reason": "C01 matches the name and district, but the genealogy explicitly identifies a father with exactly the same name. Without a junior/senior designation, parentage note or other distinguishing evidence, the owner cannot be assigned to the son rather than his father more likely than not."
+ },
+ {
+  "case_id": "P0281",
+  "choice": "C01",
+  "reason": "Cornelis Gouws matches the given name, surname and Uitenhage district exactly, with no conflicting identity evidence."
+ },
+ {
+  "case_id": "P0466",
+  "choice": "NONE",
+  "reason": "The sole candidate is Petrus Jacobus Niemand, not Izak Johannes. The compatible regional district does not overcome the different given names."
+ },
+ {
+  "case_id": "P0061",
+  "choice": "C03",
+  "reason": "Petrus Johannes preserves two of his given names in reversed order, with Lodewicus omitted, and matches Graaff-Reinet. The 'sv Piet' note does not contradict the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0653",
+  "choice": "NONE",
+  "reason": "None of the candidates has either Lucas or Cornelis among his given names. The Somerset candidates have clearly different names."
+ }
+]

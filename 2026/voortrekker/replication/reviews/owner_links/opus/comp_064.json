@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0361",
+  "choice": "C04",
+  "reason": "C04 Johannes Frederik Klopper of Somerset matches the full given names and the declared Somerset district. C03 (Lourens Johannes, 'sv JFr') is consistent with being his son."
+ },
+ {
+  "case_id": "P0046",
+  "choice": "NONE",
+  "reason": "No candidate is named Christoffel Francois. C03 Jan Christoffel has a different first name, and the other candidates are unrelated names."
+ },
+ {
+  "case_id": "P0709",
+  "choice": "NONE",
+  "reason": "No owner is Barend Petrus. The only Barend (C11) is tied to SJ Esterhuizen, which conflicts with his recorded marriage to Hendrina Johanna Marais in 1821."
+ },
+ {
+  "case_id": "P0215",
+  "choice": "NONE",
+  "reason": "No owner is Johannes Hermanus. C07 Johannes Francois differs in the second name, and C02 Jacobus Francois resembles his father's name rather than his."
+ },
+ {
+  "case_id": "P0444",
+  "choice": "NONE",
+  "reason": "The only Uitenhage Nel owners are Willem (son of Louis) and Hendrik Johannes, neither matching Pieter Johannes Lodewyk."
+ },
+ {
+  "case_id": "P0530",
+  "choice": "C14",
+  "reason": "C14 Hercules Albertus Pretorius of Graaff-Reinet exactly matches the given names and district. No other candidate bears these names."
+ },
+ {
+  "case_id": "P0871",
+  "choice": "NONE",
+  "reason": "Both candidates are a woman, Anna Catharina Visagie, in Graaff-Reinet. Neither can be Rudolphus Gerhardus of Somerset."
+ },
+ {
+  "case_id": "P0566",
+  "choice": "NONE",
+  "reason": "C03 Martinus Petrus is recorded as son of Nicolaas, contradicting the genealogy father Marthinus Petrus. C01 Hendrik Frederik is a different name."
+ },
+ {
+  "case_id": "P0052",
+  "choice": "NONE",
+  "reason": "No Somerset owner is Pieter Johannes (Hendrik). C09 Petrus Johannes is a common name in a different district (Graaff-Reinet), and C06 Pieter Barend has a different second name."
+ },
+ {
+  "case_id": "P0711",
+  "choice": "NONE",
+  "reason": "No candidate is named Izak/Isaac Johannes Matthys. All listed owners bear clearly different given names or are women."
+ }
+]

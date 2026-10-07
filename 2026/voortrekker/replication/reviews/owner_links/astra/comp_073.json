@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0045",
+  "choice": "NONE",
+  "reason": "None of the Beaufort candidates has given names compatible with Carel Frederik: they are Andries Stephanus, Jacob and Wietsche."
+ },
+ {
+  "case_id": "P0336",
+  "choice": "NONE",
+  "reason": "No candidate has given names matching Jacob Daniel. The shared surname and Somerset district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0523",
+  "choice": "C20",
+  "reason": "Petrus Gerhardus matches both supplied given names in reversed order and is recorded in Graaff-Reinet. This is stronger than C08's additional first name Roelof or C16's Gert alone."
+ },
+ {
+  "case_id": "P0351",
+  "choice": "C03",
+  "reason": "David Johannes Joubert is an exact full-name match. Graaff-Reinet is compatible with the approximate Colesberg designation, since Colesberg was part of Graaff-Reinet."
+ },
+ {
+  "case_id": "P0778",
+  "choice": "NONE",
+  "reason": "The only candidate is Dirk Willem van Rooyen, whose given names contradict Andries Ignatius Marthinus despite the matching Albany district."
+ },
+ {
+  "case_id": "P0234",
+  "choice": "NONE",
+  "reason": "C04 Daniel Johannes and C16 Daniel Jacobus have different second names and fathers recorded as Jacob and Daniel, contradicting Lourens Abraham. C02's father Lourens is compatible, but his given name Coert is not."
+ },
+ {
+  "case_id": "P0470",
+  "choice": "C03",
+  "reason": "Ockert Johannes Stephanus Olivier matches the complete name and Somerset district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0202",
+  "choice": "C05",
+  "reason": "Jacobus Hercules is a spelling-compatible match for Jacobus Herculas, and both records specify Somerset. The note 'sv Simon' presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0686",
+  "choice": "NONE",
+  "reason": "The sole candidate, Pieter Andreas Johannes Swanepoel, has given names incompatible with Jacobus, also called Rooi Koos."
+ },
+ {
+  "case_id": "P0672",
+  "choice": "NONE",
+  "reason": "Jan Lodewyk shares only Jan with David Jan Jacobus and introduces the different name Lodewyk. The matching surname and Beaufort district are insufficient to establish identity."
+ }
+]

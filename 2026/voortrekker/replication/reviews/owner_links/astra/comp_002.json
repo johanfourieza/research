@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0531",
+  "choice": "NONE",
+  "reason": "C08 (Gert) and C15 (Petrus Gerhardus) have parentage notes contradicting the father Marthinus Wessel. C24 shares Gerhardus Petrus but adds the distinct leading name Roelof and is in Graaff-Reinet rather than Somerset, making that match insufficient."
+ },
+ {
+  "case_id": "P0845",
+  "choice": "C03",
+  "reason": "C03 matches Petrus Theodorus Vermaak exactly and is recorded in the declared district, Uitenhage, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0251",
+  "choice": "NONE",
+  "reason": "No candidate has Philippus or a compatible version of Philippus Johannes Lodewicus. Sharing Johannes or the Somerset district does not overcome the different given names."
+ },
+ {
+  "case_id": "P0180",
+  "choice": "C04",
+  "reason": "C04 matches Andries Stephanus du Plessis exactly in Swellendam, whereas C06 matches only Andries. The genealogy supplies no father who would contradict C04's 'sv Willem' note."
+ },
+ {
+  "case_id": "P0826",
+  "choice": "NONE",
+  "reason": "The closest candidate, C11 Barend Johannes, has a potentially related first name but Johannes rather than Gerhardus. No parentage or spouse evidence supports equating him with Bernhardus (Barnard) Gerhardus."
+ },
+ {
+  "case_id": "P0725",
+  "choice": "C38",
+  "reason": "C38 matches David Schalk van der Merwe exactly, and Graaff-Reinet is geographically compatible with Colesberg's former inclusion in that district. No genealogy father is supplied to contradict the parentage notes."
+ },
+ {
+  "case_id": "P0797",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Frederk nor Willem Hendrik is a compatible given-name match for Marthinus Petrus. Their shared surname and Uitenhage district are insufficient."
+ },
+ {
+  "case_id": "P0300",
+  "choice": "C02",
+  "reason": "Johannes Hendrik is the normal equivalent of Jan Hendrik, and C02 is in Somerset. The 'sv M' note does not conflict with any supplied father."
+ },
+ {
+  "case_id": "P0417",
+  "choice": "NONE",
+  "reason": "Joachim Hendrik and Jacobus are different names from Jan Thomas. Both candidates are also recorded in Graaff-Reinet rather than the declared Somerset district."
+ },
+ {
+  "case_id": "P0693",
+  "choice": "C24",
+  "reason": "C24 exactly matches Jacobus Nicolaas Swart in Swellendam, making it the strongest match. The 'jr' designation does not mean minor, and no supplied father contradicts its parentage notes."
+ }
+]

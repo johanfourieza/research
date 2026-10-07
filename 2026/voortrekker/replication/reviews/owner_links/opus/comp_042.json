@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0703",
+  "choice": "NONE",
+  "reason": "C01 Johannes Gerhardus has a contradicting second name. C02 is a bare 'Johannes' in Graaff-Reinet, not Somerset, and could as easily be his father, who was also Johan David, so the match is too weak."
+ },
+ {
+  "case_id": "P0418",
+  "choice": "NONE",
+  "reason": "C02 Joachim Hendrik has a different first name. C01 'Jacobus' shares only his second name, which is too weak to identify Hendrik Jacobus."
+ },
+ {
+  "case_id": "P0570",
+  "choice": "C02",
+  "reason": "Isaac Stephanus Rabie of Graaff-Reinet matches Izaak Stephanus exactly apart from spelling, in the declared district."
+ },
+ {
+  "case_id": "P0257",
+  "choice": "C01",
+  "reason": "Joachim Christoffel Espag of Albany is an exact name and district match."
+ },
+ {
+  "case_id": "P0041",
+  "choice": "C01",
+  "reason": "Andries Stephanus Botes of Beaufort is an exact name and district match; the genealogy records no father to contradict the note 'sv Jacob'."
+ },
+ {
+  "case_id": "P0227",
+  "choice": "NONE",
+  "reason": "No owner is Gerrit Johannes Jacobus. The closest, C02 Gerhardus Cornelis, is noted as son of C., which conflicts with the genealogy father Gerhardus Sr."
+ },
+ {
+  "case_id": "P0670",
+  "choice": "NONE",
+  "reason": "The only candidate, Jan Lodewyk Strydom, has completely different given names from Daniel Jacobus Johannes."
+ },
+ {
+  "case_id": "P0511",
+  "choice": "C05",
+  "reason": "Andries Hendrik Potgieter of Somerset is an exact name and district match."
+ },
+ {
+  "case_id": "P0377",
+  "choice": "C02",
+  "reason": "Andries Jacobus Krugel of Somerset is an exact name and district match."
+ },
+ {
+  "case_id": "P0042",
+  "choice": "NONE",
+  "reason": "No candidate is named Anthonie Johannes. Wietsche, Jacob and Andries Stephanus are all clearly different names, and all are in Beaufort."
+ }
+]

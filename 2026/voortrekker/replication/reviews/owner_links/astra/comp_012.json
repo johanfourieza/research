@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0263",
+  "choice": "NONE",
+  "reason": "The only candidate, C01, is Philip Johannes Fouche, not Stephanus Jacobus. The shared surname and Swellendam district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0482",
+  "choice": "C01",
+  "reason": "Andries Christoffel Piek matches the full personal name and Albany district. The omitted senior designation is not a contradiction, and no competing candidate is supplied."
+ },
+ {
+  "case_id": "P0873",
+  "choice": "NONE",
+  "reason": "None of the Worcester Visser candidates has given names matching Ernestus Jacobus or a plausible variant. There is no supplied parentage or spouse evidence linking him to any candidate."
+ },
+ {
+  "case_id": "P0345",
+  "choice": "NONE",
+  "reason": "C07 is Josua Petrus rather than Josua Francois, and its 'sv Jacobus' note does not securely establish the recorded father Petrus Jacobus. C03 matches the father's name, not the man's, and no candidate has a sufficiently strong identity match."
+ },
+ {
+  "case_id": "P0718",
+  "choice": "C12",
+  "reason": "C12 exactly matches Barend van der Merwe and the Graaff-Reinet district, making it the strongest match over Barend Jacobus and Barend Frederik. Its 'sv Hendrik' note presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0277",
+  "choice": "NONE",
+  "reason": "The candidates are Cornelis, Marthinus and Jurie Hendrik Gouws, none of which matches Pieter Johannes. Their shared Uitenhage district is insufficient to bridge those given-name differences."
+ },
+ {
+  "case_id": "P0691",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Nicolaas candidate matches Nicolaas Johannes: Jacobus and Johannes are different names, not a simple reordering. The other candidates have entirely different given names."
+ },
+ {
+  "case_id": "P0882",
+  "choice": "NONE",
+  "reason": "C08 is Wessel Johannes rather than Wessel Jacobus, with no corroborating parentage evidence. C15 is recorded as a deceased estate in the 1830s, conflicting with the man's death in 1872."
+ },
+ {
+  "case_id": "P0016",
+  "choice": "NONE",
+  "reason": "C01 shares Johannes but has Stephanus instead of Jurgen, with no parentage or spouse evidence supporting identification. C02 is Petrus, a different given name."
+ },
+ {
+  "case_id": "P0325",
+  "choice": "NONE",
+  "reason": "C06 is David Francois, not David Stephanus, and no candidate matches the full name. None supplies parentage linking him to the recorded father David Stephanus Jacobs."
+ }
+]

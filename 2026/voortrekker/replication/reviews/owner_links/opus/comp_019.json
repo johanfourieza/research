@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0710",
+  "choice": "NONE",
+  "reason": "No owner is named Petrus Paulus. C02 Petrus Jacobus (sv Paul) shares only the first name, and his second name differs. C10 and C12 are Paul/Paulus Johannes, so their first name differs."
+ },
+ {
+  "case_id": "P0140",
+  "choice": "NONE",
+  "reason": "No De Beer owner bears the names Adriaan Carel. The Somerset candidates are Johannes Arnoldus, Johannes Matthys and Samuel Pieter, all clearly different given names."
+ },
+ {
+  "case_id": "P0079",
+  "choice": "NONE",
+  "reason": "No owner is named Willem Frederik. C15 Willem Jacobus (sv Pieter B.) and C20 Willem Christiaan share only the first name, with different second names. C20 is also in Graaff-Reinet rather than Somerset."
+ },
+ {
+  "case_id": "P0645",
+  "choice": "NONE",
+  "reason": "No owner is named Barend Willem Jacobus. C02 Jan Harmse is the man's recorded father, not him, and C01 is his brother Thomas Ignatius."
+ },
+ {
+  "case_id": "P0020",
+  "choice": "NONE",
+  "reason": "Neither owner matches Jacobus Petrus: the candidates are Johannes Stephanus and Petrus, both in Uitenhage. The first name differs and the district differs from Somerset-Oos."
+ },
+ {
+  "case_id": "P0094",
+  "choice": "NONE",
+  "reason": "The only owner, Johan Hendrik Breytenbach, has clearly different given names from Johannes Velter Coenraad Cornelis. He matches a different man (P0092)."
+ },
+ {
+  "case_id": "P0837",
+  "choice": "NONE",
+  "reason": "No owner is Cornelis Johannes. C09 Cornelis Tobias shares only the first name with a different second name, which is weak evidence."
+ },
+ {
+  "case_id": "P0217",
+  "choice": "NONE",
+  "reason": "No owner is named Francois Arnoldus. C07 Thomas Arnoldus and C02/C05 Johannes/Jacobus Francois share only one name each, in a different position."
+ },
+ {
+  "case_id": "P0092",
+  "choice": "C01",
+  "reason": "C01 Johan Hendrik Breytenbach matches the given names exactly and is in the same declared district, Uitenhage. He is the only Breytenbach candidate."
+ },
+ {
+  "case_id": "P0646",
+  "choice": "C03",
+  "reason": "C03 Thomas Ignatius Steenkamp matches the given names and district (Somerset). His note 'sv Jan' agrees with the genealogy father, Jan Harmse Steenkamp."
+ }
+]

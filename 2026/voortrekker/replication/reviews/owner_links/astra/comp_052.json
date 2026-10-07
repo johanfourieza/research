@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0823",
+  "choice": "C20",
+  "reason": "Jan Hendrik matches two of Petrus Jan Hendrik's given names and the Somerset district, with Petrus omitted. This is more specific than the candidates recorded only as Pieter, Piet or Petrus."
+ },
+ {
+  "case_id": "P0829",
+  "choice": "C21",
+  "reason": "C21 uniquely matches the full name Jan Adriaan Venter. Somerset rather than Colesberg weakens the match, but the exact name remains strong evidence; the father note 'sv Piet' cannot be checked because no genealogy father is supplied."
+ },
+ {
+  "case_id": "P0378",
+  "choice": "NONE",
+  "reason": "No candidate matches Frans Johannes Christiaan. The candidates named Johannes all have different additional given names, and none supplies corroborating parentage or spouse evidence."
+ },
+ {
+  "case_id": "P0451",
+  "choice": "NONE",
+  "reason": "None of the Albany candidates has given names compatible with Johannes Petrus. Daniel sr's senior designation does not overcome the contradictory given name."
+ },
+ {
+  "case_id": "P0021",
+  "choice": "C02",
+  "reason": "C02 matches Hermanus Jacobus Bester exactly and is recorded in Swellendam. The note 'sv Hermanus' introduces no known contradiction, since the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0669",
+  "choice": "NONE",
+  "reason": "Neither Gerrit Cornelis nor Johannes matches Gideon Lourens. The remaining entry is Pieter's widow, not the man described."
+ },
+ {
+  "case_id": "P0775",
+  "choice": "NONE",
+  "reason": "C03 and C05 are both Cornelis Johannes in Uitenhage and could fit an abbreviated Cornelis. No supplied father, locality or other distinguishing evidence makes either candidate more likely than not."
+ },
+ {
+  "case_id": "P0546",
+  "choice": "C01",
+  "reason": "C01 matches Hendrik Frederik Prinsloo exactly and shares the declared Somerset district. C10 has the same names but is in Uitenhage, and no genealogy father is supplied to favor its different parentage note."
+ },
+ {
+  "case_id": "P0849",
+  "choice": "NONE",
+  "reason": "Neither Jan Gabriel nor Petrus Cornelis matches Sarel or Carel Johannes. Graaff-Reinet's district compatibility with Colesberg cannot overcome these given-name differences."
+ },
+ {
+  "case_id": "P0163",
+  "choice": "NONE",
+  "reason": "Barend Jacobus shares only Jacobus and has a contradictory first name, while Jan Hendrik has different given names entirely. Alida is a widow and cannot be Adriaan Jacobus."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0157",
+  "choice": "NONE",
+  "reason": "Robertus Burnet de Lange, son of Adriaan, has no matching owner. The candidates are Barend Jacobus and Jan Hendrik (both sons of Barend) and the widow Alida."
+ },
+ {
+  "case_id": "P0584",
+  "choice": "NONE",
+  "reason": "The only owner is Johannes Francois Robbertse. His given names clearly differ from Lambertus Nicolaas."
+ },
+ {
+  "case_id": "P0106",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Burger owner is named Jacobus Johannes. The candidates carry different first names or are deceased estates."
+ },
+ {
+  "case_id": "P0535",
+  "choice": "C09",
+  "reason": "C09 Johannes Jacobus Pretorius exactly matches the given names and the Graaff-Reinet district. The man was born in 1798 and married in 1818, so he fits an adult owner in the 1830s; his father is unrecorded, so the 'sv WL' note neither confirms nor contradicts."
+ },
+ {
+  "case_id": "P0354",
+  "choice": "NONE",
+  "reason": "No Joubert owner is named Marthinus Godfried. The Somerset owner is Francois Jacobus, and the others have different names or are women."
+ },
+ {
+  "case_id": "P0563",
+  "choice": "NONE",
+  "reason": "No owner is named Marthinus Lourens. Martinus Petrus (Uitenhage, son of Nicolaas) has a different second name and district, and the other candidates have different first names."
+ },
+ {
+  "case_id": "P0518",
+  "choice": "NONE",
+  "reason": "No Uitenhage Potgieter owner is named Hans Jurgen. All candidates have clearly different given names, such as Hermanus Jacobus, Frederik and Theunis."
+ },
+ {
+  "case_id": "P0880",
+  "choice": "C05",
+  "reason": "C05 Johannes Bernardus Wessels exactly matches the given names and the Swellendam district. The man married in 1817, so he fits an adult owner in the 1830s; the note 'son of Johannes Wilhelmus' is not contradicted, since the genealogy records no father."
+ },
+ {
+  "case_id": "P0633",
+  "choice": "NONE",
+  "reason": "Both Snyman owners are named Johan(nes) Hendrik and are in Graaff-Reinet and Uitenhage. They clearly differ from David Benjamin."
+ },
+ {
+  "case_id": "P0553",
+  "choice": "C06",
+  "reason": "C06 Willem Jacobus Prinsloo of Somerset exactly matches the name and declared district. The man was born in 1808 and married in 1828, so he fits an adult owner in the 1830s."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0348",
+  "choice": "NONE",
+  "reason": "C01 is Pieter Schalk Joubert, matching the genealogy father's name rather than Christoffel Johannes. The shared Uitenhage district does not overcome the different given names."
+ },
+ {
+  "case_id": "P0832",
+  "choice": "NONE",
+  "reason": "No candidate is named Maria Catharina Venter, and none is linked to her recorded spouse Johannes Jacobus Klopper. The shared surname and districts alone are insufficient."
+ },
+ {
+  "case_id": "P0777",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given name Dirk or a normal equivalent. Their names Gerrit, Cornelis Johannes and Martinus contradict the target's given name."
+ },
+ {
+  "case_id": "P0096",
+  "choice": "NONE",
+  "reason": "No candidate matches Christiaan Pieter. Candidates sharing only Pieter's equivalent Petrus have different first names, with no additional identity evidence linking them to the target."
+ },
+ {
+  "case_id": "P0696",
+  "choice": "C02",
+  "reason": "Jacobus Johannes Uys matches the full name and Uitenhage district. The note 's Jacob' also agrees with the recorded father Jacobus Johannes Uys."
+ },
+ {
+  "case_id": "P0713",
+  "choice": "C25",
+  "reason": "C25 exactly matches Hendrik Jacobus van der Merwe in Graaff-Reinet. Its parentage note 'sv WP vd M' cannot be checked because the genealogy supplies no father, but it introduces no known contradiction."
+ },
+ {
+  "case_id": "P0014",
+  "choice": "C01",
+  "reason": "Nicolaas Johannes Basson matches the first two given names and Uitenhage district. The omission of the additional name Salomon is a normal variation, with no conflicting evidence."
+ },
+ {
+  "case_id": "P0881",
+  "choice": "NONE",
+  "reason": "C02 Matthys Johannes and C14 Johannes Mattheus do not match the target's Hendricus, while C15 Martinus Hendricus has a clearly different first name. No parentage or spouse evidence resolves these name conflicts."
+ },
+ {
+  "case_id": "P0727",
+  "choice": "C02",
+  "reason": "Johannes Martinus van der Merwe matches the target's name, with Martinus a spelling variant of Marthinus. The Uitenhage district also agrees."
+ },
+ {
+  "case_id": "P0013",
+  "choice": "NONE",
+  "reason": "C01 is Willem Johannes Basson, whose note names Matthys Michiel as his father rather than as the owner. C02 Willem Diederik also has incompatible given names."
+ }
+]

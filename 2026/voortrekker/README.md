@@ -6,7 +6,7 @@ Replication data and code for Johan Fourie and Calumet Links, "Selection into th
 
 Between 1835 and 1840, some 12,000 to 14,000 Dutch-speaking colonists left the Cape Colony for the southern African interior. The paper links Voortrekker genealogies to the 1825 Cape Colony census (*opgaafrolle*) and to the British slave compensation records of 1833–34 to ask which households left.
 
-Within districts, Trekker households were larger, with more children, but no wealthier, and they held fewer slaves. Much of the demographic difference reflects the overrepresentation of established married households among those who left. Within couples, the differences are smaller and depend on the linkage. Greater emancipation losses do not predict trekking within districts.
+Within districts, linked Trekker households were larger, with more children, similar recorded assets, and fewer slaves, a difference that depends on the linkage. Among linked households, much of the demographic difference reflects the overrepresentation of established married households. Within couples, the differences are smaller and depend on the linkage. Owners with greater emancipation losses were not detectably more likely to trek.
 
 ## Contents
 
@@ -32,7 +32,7 @@ analysis %>% filter(is_voortrekker) %>% count(district)
 
 ## Replicating the paper
 
-Requirements: R 4.5 with tidyverse, data.table, readxl, writexl, janitor, stringdist, randomForest, xgboost, sandwich, lmtest, MatchIt, nnet, broom, stargazer, ggplot2, patchwork, scales, sf, maps and jsonlite. `replication/output/session_info.txt` lists exact package versions after a run.
+Requirements: R 4.5 with tidyverse, clubSandwich, digest, data.table, readxl, writexl, janitor, stringdist, randomForest, xgboost, sandwich, lmtest, MatchIt, nnet, broom, stargazer, ggplot2, patchwork, scales, sf, maps and jsonlite. `replication/output/session_info.txt` lists exact package versions after a run.
 
 From the `2026/voortrekker/replication` folder:
 
@@ -40,13 +40,14 @@ From the `2026/voortrekker/replication` folder:
 Rscript code/run_all.R
 ```
 
-This runs three steps in turn, taking about 15 minutes:
+This runs four steps in turn, taking about 20 minutes:
 
 1. The pipeline with the wife-blind linkage. Outputs go to `output_wife_blind/`.
 2. The pipeline with the final linkage. Outputs go to `output/`: tables in `output/tables/`, LaTeX table fragments in `output/tables/tex/` and figures in `output/figures/`.
 3. The married-household analyses on both linkages. Outputs go to `output/couples_analysis/`.
+4. The exploratory checks reported in the Online Appendix. Outputs go to `output/refine_analyses/`.
 
-The pipeline checks the MD5 checksums of the source workbook and of the link decisions before it estimates anything. To regenerate `data/` from the run, execute `Rscript scripts/build_data_release.R` from the `2026/voortrekker` folder.
+The pipeline checks the checksums of the census workbook and the census link decisions before the census analysis, and those of the compensation scope decisions and the owner-link decisions before the compensation analysis. To regenerate `data/` from the run, execute `Rscript scripts/build_data_release.R` from the `2026/voortrekker` folder.
 
 ## How the linkage works
 
@@ -57,7 +58,9 @@ The linkage is documented in Appendix A of the paper. In brief:
 3. **Classifier.** A random forest (`code/linkage.R`) scores each pair on name similarity, the wives' names, surname frequency and district. It was trained on hand labels that two language models reviewed blind to household characteristics, with the authors deciding disagreements.
 4. **Review.** Proposals and pairs near the threshold were reviewed by the same two models, which saw identity evidence only. A proposal accepted by both models was linked; the authors decided every other pair that at least one model accepted.
 
-`data/linked/link_decisions.csv` records every decision. `replication/reviews/` contains the evidence packets the models saw, their verdicts, and the reconciliation files. `replication/PROTOCOL.md` sets out the linkage protocol, fixed before estimation, and every departure from it.
+5. **Compensation owners.** Every genealogy record with a candidate owner (same surname, relevant districts) was reviewed blind by two language models, which saw identity evidence only and chose one owner or none. A record is linked to the owner both chose; records on which they differ, or whose owner is also chosen for another record, are not linked, and the owners concerned are excluded from the owner sample (`data/inputs/owner_link_decisions.csv`, `owner_exclusions.csv`).
+
+`data/linked/link_decisions.csv` records every census-link decision. `replication/reviews/` contains the evidence packets the models saw, their verdicts, and the reconciliation files. `replication/PROTOCOL.md` sets out the linkage protocol, fixed before estimation, and every departure from it.
 
 A second linkage uses no spouse information: a classifier without spouse features, whose proposals are taken without review. It serves as a sensitivity check (Section 8.3 of the paper) and is run by setting `VT_LINKAGE=blind`.
 

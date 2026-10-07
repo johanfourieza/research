@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0488",
+  "choice": "NONE",
+  "reason": "C01 is Hermanus Johannes, not David Johannes. The shared surname, second name and district do not overcome the conflicting first name."
+ },
+ {
+  "case_id": "P0596",
+  "choice": "NONE",
+  "reason": "C02 shares Gerhardus and the Uitenhage district, but Johannes Adolphus does not match Stephanus. No parentage or spouse evidence supports identifying him as the same man."
+ },
+ {
+  "case_id": "P0305",
+  "choice": "C06",
+  "reason": "C06 matches Christiaan Hattingh in Somerset without an additional given name, making him a stronger match than C04, Christiaan Arnoldus. The genealogy supplies no father against which to check C06's parentage notes."
+ },
+ {
+  "case_id": "P0097",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Willem or a normal equivalent. Their shared surname and Graaff-Reinet district are insufficient against the different given names."
+ },
+ {
+  "case_id": "P0027",
+  "choice": "C02",
+  "reason": "Jan Andries is a normal variant of Johannes Andreas, giving a full-name match. Somerset is compatible with the declared Cradock district under the historical district relationship supplied."
+ },
+ {
+  "case_id": "P0750",
+  "choice": "NONE",
+  "reason": "C03 shares Willem, but Abraham differs from Andreas, and Albany also differs from the declared Somerset district. The other candidates have incompatible given names."
+ },
+ {
+  "case_id": "P0439",
+  "choice": "C02",
+  "reason": "C02 matches Jacobus Phillippus apart from a minor spelling variation and is recorded in Swellendam. His 'sv Jan' note cannot be checked because the genealogy gives no father, but it supplies no contradiction."
+ },
+ {
+  "case_id": "P0145",
+  "choice": "NONE",
+  "reason": "C04 shares Arnoldus, but Johannes Arnoldus is not a full-name match for Arnoldus Stephanus. No candidate has Stephanus or other identifying evidence linking him to this man."
+ },
+ {
+  "case_id": "P0540",
+  "choice": "NONE",
+  "reason": "C02, Willem Sterrenberg, has both a different second name and a conflicting father, Petrus Gerhardus rather than Johannes Andries. C08, Willem Lodewyk, also has a different second name and no corroborating identity evidence."
+ },
+ {
+  "case_id": "P0610",
+  "choice": "NONE",
+  "reason": "None of the candidates has Hendrik Nicolaas or equivalent given names. A shared surname and Somerset district alone do not identify any of them as this man."
+ }
+]

@@ -1,0 +1,14 @@
+You are linking historical records. Each case gives one man from a genealogical record of Voortrekker families: surname, given names, birth and death years, declared district, his father (where the genealogy records one) and his recorded wives with marriage years where known. It also lists every slave owner with the same surname in the relevant districts of the 1830s slave-compensation records, labelled C01, C02, ... in random order: owner surname, given names, compensation district, and where recorded a note (often parentage, e.g. "sv Nicolaas" = seun van, son of Nicolaas; "jr", "sr"; "wed." = widow; "oorlede" = deceased), the localities or farms named in the claims, and flags for owners recorded as minors or as deceased (estates).
+
+Decide which owner, if any, is this man, using ONLY the identity evidence supplied. No slave numbers, valuations or payments are given; do not try to infer them, and do not consult any other source, file or the web.
+
+You must make a call. Choose exactly one:
+- the label of the owner who is this man, or
+- "NONE" if no candidate is more likely than not to be him.
+There is no "uncertain" option.
+
+Evidence to weigh: spelling variation, omitted or reordered middle names, initials, Dutch/English forms (Johannes/Jan, Petrus/Pieter, Jacobus/Koos, Hendrik/Henry) and particles (v. d. = van der) are normal. A clearly different given name (e.g. Hermanus against Hans Jurgen) is a strong contradiction; a shared first name alone with different second names is weak. Parentage notes are strong evidence when they agree or disagree with the genealogy father. A woman owner, a widow, a minor or a deceased estate cannot be this man unless the evidence shows the estate or claim is his. Fathers and sons often share names: use the father, birth years and notes. Declared districts are approximate (Somerset was Cradock in 1823; Colesberg was part of Graaff-Reinet); a different district weakens a weak match.
+
+Return ONLY a JSON array with one object per case, in any order, with keys:
+  case_id (exactly as given), choice (a candidate label such as "C03", or "NONE"),
+  reason (one or two sentences citing the specific evidence).

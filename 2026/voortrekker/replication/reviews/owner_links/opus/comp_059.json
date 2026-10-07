@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0506",
+  "choice": "C12",
+  "reason": "Pieter Jacobus Potgieter in Somerset matches the genealogy's full given names and declared district exactly. No other candidate shares these names."
+ },
+ {
+  "case_id": "P0586",
+  "choice": "C01",
+  "reason": "The only candidate, Johannes Gysbertus Roos of Somerset, matches the full given names and the declared district."
+ },
+ {
+  "case_id": "P0329",
+  "choice": "NONE",
+  "reason": "No Jacobs owner is named Willem Hendrik. The candidates (Christoffel Johannes, Jacobus Johannes, David) all have clearly different given names."
+ },
+ {
+  "case_id": "P0313",
+  "choice": "NONE",
+  "reason": "No owner is Petrus Casparus. The closest, C07 Petrus Jacobus sv Pieter, has a different second name, and a shared first name alone is weak evidence."
+ },
+ {
+  "case_id": "P0742",
+  "choice": "NONE",
+  "reason": "The only Johannes, C08, is recorded as son of Willem, contradicting the genealogy father Jacob Sr. No other candidate matches Johannes Matthys."
+ },
+ {
+  "case_id": "P0116",
+  "choice": "C12",
+  "reason": "Cornelis Gerhardus Coetzee of Somerset matches the full given names and the declared district exactly."
+ },
+ {
+  "case_id": "P0616",
+  "choice": "C01",
+  "reason": "The only candidate, Joachim Scholtz of Graaff-Reinet, matches the first name and the district, and no deceased flag is recorded. The note 'sv Joachim' leaves some risk that this is a son of the same name."
+ },
+ {
+  "case_id": "P0467",
+  "choice": "C01",
+  "reason": "The only candidate, Jacobus Paulus Odendaal of Somerset, matches the full given names and the declared district."
+ },
+ {
+  "case_id": "P0271",
+  "choice": "NONE",
+  "reason": "C03 Johannes is son of Louis, contradicting the genealogy father Petrus Johannes. C06 Louis Johannes is a deceased estate, and C08 Louis is only a partial name, likely of the father generation."
+ },
+ {
+  "case_id": "P0129",
+  "choice": "NONE",
+  "reason": "The only candidate is Michael Combrink, son of Johannes, whose given name clearly differs from Willem Andries."
+ }
+]

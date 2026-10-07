@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0302",
+  "choice": "NONE",
+  "reason": "No Somerset or Graaff-Reinet Hattingh owner is named Jacobus Gerhardus. The candidates are Johannes, Christiaan, Daniel Wilhelm and a widow, all clearly different given names."
+ },
+ {
+  "case_id": "P0269",
+  "choice": "C05",
+  "reason": "C05 Petrus Johannes Fourie of Somerset matches both given names and the declared district exactly. No other candidate carries these names."
+ },
+ {
+  "case_id": "P0782",
+  "choice": "C03",
+  "reason": "C03 Gerrit van Rooyen of Uitenhage matches the first name and district, with no conflicting middle name. C05 Gerrit Rynier has a second name that contradicts Thomas."
+ },
+ {
+  "case_id": "P0213",
+  "choice": "NONE",
+  "reason": "The only Andries owner is C04 Andries Gerhardus, whose second name conflicts with Stephanus, so the match rests on a shared first name alone. The other Beaufort candidates have different given names."
+ },
+ {
+  "case_id": "P0310",
+  "choice": "NONE",
+  "reason": "The only candidate is Pieter Daniel Hugo (sv Daniel). His names do not match Jacobus Johannes Petrus Paulus."
+ },
+ {
+  "case_id": "P0075",
+  "choice": "NONE",
+  "reason": "No George Botha owner is named David Adolph Michiel. The nearest, C11 David Hercules, has a conflicting second name, so a shared first name is too weak."
+ },
+ {
+  "case_id": "P0184",
+  "choice": "NONE",
+  "reason": "No Du Plessis owner is named Lourens or Lourens Marthinus. C10 Martinus Johannes differs in first name and order, so it is not a credible match."
+ },
+ {
+  "case_id": "P0774",
+  "choice": "NONE",
+  "reason": "The only Beaufort owner is Willem Jacobus Janse van Rensburg. Willem Jacobus clearly differs from Petrus Johannes."
+ },
+ {
+  "case_id": "P0660",
+  "choice": "C03",
+  "reason": "C03 Martinus Steyn (sv Jacobus) of Swellendam matches the single given name Marthinus (spelling variant) and the district. No other Martinus owner is listed."
+ },
+ {
+  "case_id": "P0089",
+  "choice": "C01",
+  "reason": "C01 'Piet' Bouwer of Albany (Fish River) is the diminutive of Pieter and matches the declared district. He is the only candidate."
+ }
+]

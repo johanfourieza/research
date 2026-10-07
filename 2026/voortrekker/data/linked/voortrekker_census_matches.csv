@@ -337,12 +337,12 @@ row_id,census_id,vt_surname,vt_name,census_name,census_district,block_type,evide
 168,2005,COETZER,HENDRIK,"Coetzer, Hendrik",Cradock,exact,agrees,0.984,Both models,proposed,ACCEPT,ACCEPT
 170,1772,COETZER,JOHANNES JACOBUS,"Coetzer, Johannes Jacobus",Cradock,exact,not_comparable,0.808,Author adjudicated,review,ACCEPT,UNCERTAIN
 173,2008,COETZER,PHILLIPPUS JEREMIAS JR,"Coetzer, Philippus Jeremias",Cradock,exact,not_comparable,0.686,Author adjudicated,review,ACCEPT,UNCERTAIN
-167,2007,COETZER,PHILLIPPUS JEREMIAS SR,"Coetzer, Philippus Jeremias",Cradock,exact,not_comparable,0.376,Author adjudicated,not proposed (manual-linkage pair),ACCEPT,ACCEPT
+167,2007,COETZER,PHILLIPPUS JEREMIAS SR,"Coetzer, Philippus Jeremias",Cradock,exact,not_comparable,0.376,Author adjudicated,not proposed (supplementary candidate),ACCEPT,ACCEPT
 171,1520,COETZER,WENSEL CHRISTOFFEL,"Coetzee, Wentzel Christoffel",Cradock,fuzzy,agrees,0.954,Author adjudicated,proposed,ACCEPT,ACCEPT
 178,9547,COMBRINK,STEPHANUS LUCAS,"Combrink, Stephanus Lucas",Uitenhage,exact,agrees,0.956,Both models,proposed,ACCEPT,ACCEPT
 196,1757,DE BEER,ADRIAAN CAREL,"de Beer, Adriaan Charel",Cradock,exact,agrees,0.998,Both models,proposed,ACCEPT,ACCEPT
 201,1799,DE BEER,ARNOLDUS STEPHANUS,"de Beer, Arnoldus Stephanus",Cradock,exact,agrees,1,Author adjudicated,proposed,ACCEPT,UNCERTAIN
-208,1788,DE BEER,JOHANNES HENDRIK,"de Beer, Jan Hendrik",Cradock,exact,not_comparable,0.332,Author adjudicated,not proposed (manual-linkage pair),ACCEPT,UNCERTAIN
+208,1788,DE BEER,JOHANNES HENDRIK,"de Beer, Jan Hendrik",Cradock,exact,not_comparable,0.332,Author adjudicated,not proposed (supplementary candidate),ACCEPT,UNCERTAIN
 197,1991,DE BEER,ZACHARIAS CHRISTIAAN SR,"de Beer, Zacharias",Cradock,exact,agrees,0.552,Author adjudicated,review_band,ACCEPT,ACCEPT
 193,9540,DE BEER,ZACHARIAS JOHANNES,"De Beer, Zacharias Johannes",Uitenhage,exact,agrees,0.946,Both models,proposed,ACCEPT,ACCEPT
 210,1998,DE BRUYN,HENDRIK JACOBUS,"de Bruin, Hendrik Johannes",Cradock,fuzzy,agrees,0.758,Author adjudicated,review,ACCEPT,UNCERTAIN
@@ -567,4 +567,4 @@ row_id,census_id,vt_surname,vt_name,census_name,census_district,block_type,evide
 1199,1306,VISAGIE,MARTHINUS DAVID,"Visagie, Marthinus D.",Clanwilliam,cross_district,agrees,0.966,Both models,proposed,ACCEPT,ACCEPT
 1210,8544,WENTZEL,JOHAN DAVID,"Wentzel, Jan David",Swellendam,cross_district,agrees,0.624,Both models,proposed,ACCEPT,ACCEPT
 1220,8692,ZIETSMAN,JOHANNES PHILIP,"Zietsman, Johan Philippus",Swellendam,cross_district,agrees,0.84,Both models,proposed,ACCEPT,ACCEPT
-412,4161,HAVENGA,BAREND PETRUS,"Havenga, Barend Petrus",Graaff-Reinet,decided_pair,agrees,0.994,Author adjudicated,not proposed (manual-linkage pair),ACCEPT,ACCEPT
+412,4161,HAVENGA,BAREND PETRUS,"Havenga, Barend Petrus",Graaff-Reinet,decided_pair,agrees,0.994,Author adjudicated,not proposed (supplementary candidate),ACCEPT,ACCEPT

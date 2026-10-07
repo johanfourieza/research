@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0194",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Helena du Plooy, married in 1796. The only candidate is a man, Roelof sv Michiel, so he cannot be her."
+ },
+ {
+  "case_id": "P0719",
+  "choice": "C17",
+  "reason": "C17 has the exact given names Willem Carel van der Merwe and is in Graaff-Reinet, his declared district. No other candidate shares these names."
+ },
+ {
+  "case_id": "P0012",
+  "choice": "NONE",
+  "reason": "The only candidate is Nicolaas Johannes Basson. His first name clearly differs from Willem Johannes, which is a strong contradiction."
+ },
+ {
+  "case_id": "P0605",
+  "choice": "NONE",
+  "reason": "No Uitenhage Scheepers owner bears Hendrik, Christoffel or Petrus among his names. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0538",
+  "choice": "C06",
+  "reason": "C06 (Johannes sv Marthinus, Graaff-Reinet) is the only candidate whose recorded names fit Johannes Andries without contradiction, assuming the middle name was omitted. The other Johannes candidates carry conflicting middle names (Lodewicus, Lodewyk Wynand)."
+ },
+ {
+  "case_id": "P0303",
+  "choice": "NONE",
+  "reason": "No Hattingh owner is named Hendrik Petrus. C02 is only a son of a Hendrik, and the rest have clearly different given names."
+ },
+ {
+  "case_id": "P0273",
+  "choice": "NONE",
+  "reason": "C15 shares the name Joseph Johannes but is marked 'wed' (widow), so the claim belongs to a deceased man's widow. This man lived until 1882 and his wife was Maria Elizabeth van Eeden, so the widow cannot be his; no other candidate matches."
+ },
+ {
+  "case_id": "P0659",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Steyn, son of Martinus. Hermanus clearly differs from Johannes."
+ },
+ {
+  "case_id": "P0717",
+  "choice": "C30",
+  "reason": "C30 has the exact given names David Schalk van der Merwe and is in Graaff-Reinet, his declared district. C13 (Hendrik Stephanus sv David Schalk) and C26 (sv DS) appear to be his sons."
+ },
+ {
+  "case_id": "P0095",
+  "choice": "NONE",
+  "reason": "No Brits owner is named Jan or Johannes. All five candidates have clearly different given names."
+ }
+]

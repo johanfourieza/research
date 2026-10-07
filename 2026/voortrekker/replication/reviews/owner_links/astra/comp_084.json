@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0063",
+  "choice": "NONE",
+  "reason": "No candidate matches Alwyn Petrus. C01 shares Petrus but has the different name combination Petrus Johannes, while the other candidates have unrelated given names."
+ },
+ {
+  "case_id": "P0386",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Theunis Johannes, and none supplies parentage linking him to Stephanus Johannes Kruger. Sharing Johannes alone does not establish identity."
+ },
+ {
+  "case_id": "P0144",
+  "choice": "NONE",
+  "reason": "None of the De Beer candidates has given names compatible with Christiaan Marthinus. The Somerset district matches cannot overcome these name differences."
+ },
+ {
+  "case_id": "P0668",
+  "choice": "NONE",
+  "reason": "The sole candidate is Abraham Frederik Strauss, a clearly different given-name combination from Johannes Martthias. The historical relationship between Colesberg and Graaff-Reinet does not resolve that contradiction."
+ },
+ {
+  "case_id": "P0798",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederk matches Marthinus Jacobus. C02 shares only Jacobus, and neither candidate provides the recorded father Marthinus Petrus as corroboration."
+ },
+ {
+  "case_id": "P0181",
+  "choice": "C03",
+  "reason": "C03 matches Jan Du Plessis exactly and is recorded in Somerset. The parentage notes cannot be checked because the genealogy supplies no father, but they establish no contradiction."
+ },
+ {
+  "case_id": "P0056",
+  "choice": "C01",
+  "reason": "C01 matches the complete name Theunis Johannes Botha. The Graaff-Reinet rather than Somerset district weakens the match somewhat, but it remains stronger than the candidates with different or less specific given names."
+ },
+ {
+  "case_id": "P0069",
+  "choice": "C13",
+  "reason": "Theunis Botha in Somerset is a compatible shortened form of Theunis Gerhardus Botha, unlike the candidates with conflicting second names. The 'sr; sv Jacobus' note does not contradict any supplied birth or parentage information."
+ },
+ {
+  "case_id": "P0291",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes Hermanus Grobler, not Willem Pieter. The shared surname and Somerset district are insufficient against the clearly different given names."
+ },
+ {
+  "case_id": "P0308",
+  "choice": "NONE",
+  "reason": "Christiaan Servaas shares Christiaan with Johan Christiaan Jacobus but introduces a different name, Servaas, while omitting both Johan and Jacobus. The shared district supplies no further distinguishing evidence."
+ }
+]

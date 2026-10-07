@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0819",
+  "choice": "NONE",
+  "reason": "No Clanwilliam Van Wyk owner is named Henning or Henning Jacobus. The only overlap with any candidate is a shared middle name Jacobus, which is not enough."
+ },
+ {
+  "case_id": "P0111",
+  "choice": "C04",
+  "reason": "Petrus Gerhardus Cilliers in Graaff-Reinet matches his given names exactly. Colesberg was part of Graaff-Reinet, so the district fits."
+ },
+ {
+  "case_id": "P0007",
+  "choice": "C02",
+  "reason": "Casper Hendrik Badenhorst in Somerset matches his name and declared district. The note 'sv Hendrik' fits a father recorded as Casper Hendrik Sr, who could plausibly be called by his second name."
+ },
+ {
+  "case_id": "P0214",
+  "choice": "C03",
+  "reason": "Jacobus Francois Du Toit in Graaff-Reinet has the same two given names in reversed order, a normal variation. Colesberg lay within Graaff-Reinet, and no other candidate shares both names."
+ },
+ {
+  "case_id": "P0655",
+  "choice": "NONE",
+  "reason": "No Steyn owner bears the names Theunis, Frederik or Jacobus. The candidates are Hans Jurgen, Hermanus, Douw Gerbrand and Stephanus Johannes, all clearly different."
+ },
+ {
+  "case_id": "P0673",
+  "choice": "NONE",
+  "reason": "The only Beaufort Strydom owner is Jan Lodewyk, which is a clearly different given name from Pieter Frederik."
+ },
+ {
+  "case_id": "P0104",
+  "choice": "C01",
+  "reason": "Schalk Willem Bruwer in Swellendam matches both his full given names and his declared district exactly. No other candidate shares these names."
+ },
+ {
+  "case_id": "P0630",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Smit owner is named Christiaan or Christiaan Hendrik Stephanus. A plain 'Hendrik' (C07) shares only his second name, which is too weak."
+ },
+ {
+  "case_id": "P0544",
+  "choice": "NONE",
+  "reason": "None of the 23 Graaff-Reinet Pretorius owners is named Daniel or Daniel Petrus."
+ },
+ {
+  "case_id": "P0266",
+  "choice": "NONE",
+  "reason": "No Fourie owner is named Willem or Willem Andries Johannes. The Johannes and Petrus Johannes candidates share only a later name, and C05 is a deceased estate."
+ }
+]

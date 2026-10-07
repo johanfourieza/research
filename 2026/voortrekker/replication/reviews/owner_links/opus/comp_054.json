@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0853",
+  "choice": "NONE",
+  "reason": "No Viljoen owner is named Albertus Johannes. The closest, Jan Albertus (C06) and Hercules Albertus (C02), have a different first name."
+ },
+ {
+  "case_id": "P0567",
+  "choice": "C02",
+  "reason": "C02 is Joachim Johannes Prinsloo, an exact name match in the same district, George. The only other candidate is a deceased estate with a different name."
+ },
+ {
+  "case_id": "P0429",
+  "choice": "C01",
+  "reason": "C01 is Lucas Johannes Meyer, an exact full-name match in Somerset, the declared district. No other candidate shares both names."
+ },
+ {
+  "case_id": "P0675",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Lodewyk Strydom, a clearly different given name from Jacobus despite the same district, Beaufort."
+ },
+ {
+  "case_id": "P0883",
+  "choice": "NONE",
+  "reason": "No Swellendam Wessels owner is named Hermanus Wilhelmus. Pieter Hermanus (C09) shares only a secondary name and has a different first name."
+ },
+ {
+  "case_id": "P0249",
+  "choice": "C11",
+  "reason": "C11 is Lourens Johannes Erasmus, an exact name match in Somerset, the declared district. His death in 1836 is consistent with claims made in the mid-1830s."
+ },
+ {
+  "case_id": "P0801",
+  "choice": "C01",
+  "reason": "Jacob van Straten (C01) matches the first name, with the middle name Abraham omitted, in a rare surname. Graaff-Reinet neighbours Somerset, and the only other owner has a different name."
+ },
+ {
+  "case_id": "P0501",
+  "choice": "NONE",
+  "reason": "C02 is the widow of a Johannes Potgieter, so cannot be this man. No other owner is named Johannes Gerhardus; Matthys Gerhardus (C09) has a different first name."
+ },
+ {
+  "case_id": "P0753",
+  "choice": "NONE",
+  "reason": "The only candidate is Albertus Stephanus van Jaarsveld, whose names clearly differ from Adriaan Johannes Frederik Gustaaf."
+ },
+ {
+  "case_id": "P0757",
+  "choice": "NONE",
+  "reason": "The genealogy subject is Maria Elizabeth van Niekerk, a woman married to Theodorus Potgieter. No owner is named Maria Elizabeth, and the widow entry C03 is for a widow of Gerhardus Laurens."
+ }
+]

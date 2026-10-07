@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0803",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Jacobus van Tonder, which clearly differs from Willem Marthinus. His note also points to a widow, not this man."
+ },
+ {
+  "case_id": "P0785",
+  "choice": "NONE",
+  "reason": "No Uitenhage van Rooyen owner is named Roelof Theunis Johannes. The candidates are Cornelis Johannes, Gerrit Rynier, Martinus and Gerrit."
+ },
+ {
+  "case_id": "P0702",
+  "choice": "NONE",
+  "reason": "Both candidates are named Johannes (Gerhardus), which conflicts with Hendrik Abraham. No Hendrik Abraham van Aswegen appears."
+ },
+ {
+  "case_id": "P0440",
+  "choice": "NONE",
+  "reason": "No owner is named Jan Adriaan. C06 Jacobus Philippus matches the genealogy father, not this man."
+ },
+ {
+  "case_id": "P0770",
+  "choice": "NONE",
+  "reason": "He died in 1823, before the 1830s compensation records. No candidate is named Nicolaas Johannes."
+ },
+ {
+  "case_id": "P0285",
+  "choice": "C02",
+  "reason": "C02 Johannes Arnoldus Greyling matches his full given names exactly. C02 is also in Somerset, his declared district."
+ },
+ {
+  "case_id": "P0524",
+  "choice": "NONE",
+  "reason": "No candidate carries Hendrik Jacobus Matthys Wynand. The only Hendrik, C20 Hendrik Stephanus, has a different second name and is marked as died."
+ },
+ {
+  "case_id": "P0597",
+  "choice": "C06",
+  "reason": "C06 Coenraad Frederik Scheepers has his two given names in reversed order, which is normal variation. C06 is also in Uitenhage, his declared district."
+ },
+ {
+  "case_id": "P0447",
+  "choice": "C10",
+  "reason": "C10 Pieter Willem Nel matches his given names exactly and is in Somerset, his declared district. The note 'sv Pieter W.' does not conflict, since the genealogy records no father."
+ },
+ {
+  "case_id": "P0562",
+  "choice": "NONE",
+  "reason": "No Prinsloo owner is named Hendrik Petrus. The Hendrik Frederik entries (C06, C10) differ in the second name and carry parentage notes not linked to this man."
+ }
+]

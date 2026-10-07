@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0710",
+  "choice": "NONE",
+  "reason": "No candidate matches Petrus Paulus: C02 is Petrus Jacobus, while C10 and C12 are Paul/Paulus Johannes. C02's 'sv Paul' identifies his father, not an additional given name, and the genealogy supplies no father to corroborate it."
+ },
+ {
+  "case_id": "P0140",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names corresponding to Adriaan Carel. The Somerset district matches do not overcome these name differences."
+ },
+ {
+  "case_id": "P0079",
+  "choice": "NONE",
+  "reason": "C15 is Willem Jacobus rather than Willem Frederik, and C20 is Willem Christiaan in a different district. Neither partial name match has supporting parentage or spouse evidence."
+ },
+ {
+  "case_id": "P0645",
+  "choice": "NONE",
+  "reason": "C02 matches the recorded father, Jan Harmse, rather than Barend Willem Jacobus. C01 has different given names, Thomas Ignatius, and C03 is a woman."
+ },
+ {
+  "case_id": "P0020",
+  "choice": "NONE",
+  "reason": "C02 shares only Petrus with Jacobus Petrus and is recorded in Uitenhage rather than Somerset-Oos, with no corroborating identity evidence. C01's Johannes Stephanus is a different name."
+ },
+ {
+  "case_id": "P0094",
+  "choice": "NONE",
+  "reason": "Johan is compatible with Johannes, but C01's Hendrik does not match Velter Coenraad Cornelis. The shared surname and district do not make this partial name match more likely than not."
+ },
+ {
+  "case_id": "P0837",
+  "choice": "NONE",
+  "reason": "C09 shares Cornelis but has Tobias instead of Johannes; the Johannes candidates likewise have different accompanying names. No parentage or spouse evidence links any candidate to Cornelis Johannes."
+ },
+ {
+  "case_id": "P0217",
+  "choice": "NONE",
+  "reason": "C07 is Thomas Arnoldus, not Francois Arnoldus, while C02 and C05 pair Francois with Johannes and Jacobus respectively. The compatible Graaff-Reinet district does not resolve these given-name differences."
+ },
+ {
+  "case_id": "P0092",
+  "choice": "C01",
+  "reason": "C01 matches Johan Hendrik Breytenbach exactly and is recorded in the declared district of Uitenhage, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0646",
+  "choice": "C03",
+  "reason": "C03 matches Thomas Ignatius and the Somerset district, with the parentage note 'sv Jan' agreeing with his father Jan Harmse Steenkamp. Omission of the parenthetical Jacobus is compatible with this match."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0025",
+  "choice": "NONE",
+  "reason": "No candidate is named Barnard/Barend Jacobus. The owners are Willem Abraham (son of Barend), Andries and Paul Dirk, whose given names all contradict the genealogy."
+ },
+ {
+  "case_id": "P0864",
+  "choice": "NONE",
+  "reason": "Cornelis Hendricus does not match either Charl or Christoffel. These are clearly different given names, even though the district (Uitenhage) agrees."
+ },
+ {
+  "case_id": "P0478",
+  "choice": "NONE",
+  "reason": "The only owner, Godlieb Rudolph Opperman, has given names entirely different from Johannes Jacobus."
+ },
+ {
+  "case_id": "P0465",
+  "choice": "C03",
+  "reason": "Pieter Willem Nel of George matches the first two given names of Pieter Willem Adriaan Nel, and the declared district (George) agrees. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0311",
+  "choice": "C02",
+  "reason": "Two Uitenhage owners are named Petrus Gerhardus Human. The '1' marking on C02 most plausibly distinguishes the elder of the two, which fits the genealogy's 'SR' (married 1820)."
+ },
+ {
+  "case_id": "P0854",
+  "choice": "NONE",
+  "reason": "No owner is named Albertus Johannes. The nearest, Jan Albertus (Somerset), has the names in reversed order and a different district from Colesberg/Graaff-Reinet, which is too weak to be more likely than not."
+ },
+ {
+  "case_id": "P0018",
+  "choice": "NONE",
+  "reason": "Adriaan Bekker does not match Martinus Johannes or Johannes Hendrik. The given names clearly contradict."
+ },
+ {
+  "case_id": "P0247",
+  "choice": "NONE",
+  "reason": "None of the 21 Erasmus owners is named Willem Jacobus. Every candidate has clearly different first names, and C06 is a woman."
+ },
+ {
+  "case_id": "P0438",
+  "choice": "C02",
+  "reason": "Petrus Lafras Moolman of Uitenhage (Gamtoosrivier) is an exact match for the genealogy's distinctive name and declared district."
+ },
+ {
+  "case_id": "P0779",
+  "choice": "NONE",
+  "reason": "No owner is named Gysbertus van Rooyen. All candidates have different given names and are in Uitenhage or Albany rather than Somerset."
+ }
+]

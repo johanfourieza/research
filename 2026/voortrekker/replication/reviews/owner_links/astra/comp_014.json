@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0194",
+  "choice": "NONE",
+  "reason": "The only candidate is Roelof du Plooy, whose given name is incompatible with Helena. The shared surname and Somerset district do not establish identity."
+ },
+ {
+  "case_id": "P0719",
+  "choice": "C17",
+  "reason": "C17 exactly matches Willem Carel van der Merwe and the Graaff-Reinet district. His 1808 birth is consistent with adult ownership in the 1830s."
+ },
+ {
+  "case_id": "P0012",
+  "choice": "NONE",
+  "reason": "C01 is Nicolaas Johannes Basson, not Willem Johannes Basson. The shared middle name and district do not outweigh the different first names."
+ },
+ {
+  "case_id": "P0605",
+  "choice": "NONE",
+  "reason": "No candidate has given names matching Hendrik Christoffel Petrus. Johannes Henricus in C03 offers only a partial name resemblance, with no supporting identity evidence."
+ },
+ {
+  "case_id": "P0538",
+  "choice": "C06",
+  "reason": "C06 matches Johannes Pretorius in Graaff-Reinet, with Andries plausibly omitted rather than replaced by a conflicting middle name. The note 'sv Marthinus' does not contradict any supplied genealogy parentage."
+ },
+ {
+  "case_id": "P0303",
+  "choice": "NONE",
+  "reason": "None of the candidates matches Hendrik Petrus Hattingh. C05 is Johannes Hendrik, sharing only Hendrik while supplying a different additional name and no corroborating evidence."
+ },
+ {
+  "case_id": "P0273",
+  "choice": "C07",
+  "reason": "C07's Johannes (Joe) is compatible with Joseph Johannes through the shared Johannes and the nickname Joe for Joseph, in the same district. The exact-name C15 is marked 'wed.', incompatible with this man living until 1882."
+ },
+ {
+  "case_id": "P0659",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Steyn, son of Martinus, rather than Johannes Steyn. The matching Beaufort district does not overcome the clearly different given name."
+ },
+ {
+  "case_id": "P0717",
+  "choice": "C30",
+  "reason": "C30 exactly matches David Schalk van der Merwe and the Graaff-Reinet district. No genealogy father is supplied to establish a contradiction with the parentage notes."
+ },
+ {
+  "case_id": "P0095",
+  "choice": "NONE",
+  "reason": "No candidate is named Jan or simply Johannes Brits. C05's Rudolph Johannes provides only a partial match through Johannes/Jan, and the additional Rudolph is unsupported despite the compatible Colesberg–Graaff-Reinet geography."
+ }
+]

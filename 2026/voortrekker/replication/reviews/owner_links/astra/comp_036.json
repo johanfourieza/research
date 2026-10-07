@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0245",
+  "choice": "C19",
+  "reason": "C19 matches Johannes Jacobus Erasmus exactly and is recorded in Somerset, the declared district."
+ },
+ {
+  "case_id": "P0122",
+  "choice": "C04",
+  "reason": "Wentzel Christoffel is a normal spelling variant of Wensel Christoffel, and C04 is in Somerset. The senior and parentage notes introduce no known contradiction."
+ },
+ {
+  "case_id": "P0388",
+  "choice": "C02",
+  "reason": "C02 matches Casper Labuschagne in Somerset, with the parenthetical Jeremias omitted. The senior designation is consistent with a man married in 1795."
+ },
+ {
+  "case_id": "P0205",
+  "choice": "NONE",
+  "reason": "No candidate has the name Roelof or a compatible rendering of Roelof Johannes. Johannes Andries in C02 has a different name combination, despite sharing Johannes and the district."
+ },
+ {
+  "case_id": "P0848",
+  "choice": "C08",
+  "reason": "C08 matches Coenraad Marthinus Vermaak in Uitenhage, with only the normal Marthinus/Martinus spelling variation."
+ },
+ {
+  "case_id": "P0306",
+  "choice": "NONE",
+  "reason": "C01 is explicitly a widow's entry. Nothing identifies the widow as Anna Elizabeth Retief or otherwise establishes that this is a claim for Johannes Dewald(t) Hattingh."
+ },
+ {
+  "case_id": "P0764",
+  "choice": "NONE",
+  "reason": "The sole candidate is Frederik Roelof Janse van Rensburg, not Nicolaas Janse van Rensburg. The shared Janse and Albany district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0517",
+  "choice": "NONE",
+  "reason": "The closest candidate, C03, is Martinus Jacobus rather than Marthinus Johannes and is recorded in Uitenhage rather than Somerset. No candidate supplies a sufficiently compatible name."
+ },
+ {
+  "case_id": "P0387",
+  "choice": "C07",
+  "reason": "Johannes Lodewikus is a compatible form of Johannes Lodewyk and is the only close full-name match. Beaufort differs from the tentative Colesberg district, but the name match outweighs that discrepancy and the senior note creates no known contradiction."
+ },
+ {
+  "case_id": "P0654",
+  "choice": "C02",
+  "reason": "C02 matches Hans Jurgen Steyn exactly; the Graaff-Reinet district differs, but there is no contradictory parentage evidence. Hermanus in Somerset is a clearly different given name."
+ }
+]

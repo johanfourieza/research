@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0698",
+  "choice": "C02",
+  "reason": "C02 Petrus Lafras Uys in Uitenhage matches the full given names and declared district. The father had the same name, but a man born 1797 and married 1815 would be an active owner in the 1830s."
+ },
+ {
+  "case_id": "P0160",
+  "choice": "NONE",
+  "reason": "No De Lange owner is named Adriaan. The candidates are a widow (Alida) and sons of Barend with different given names."
+ },
+ {
+  "case_id": "P0606",
+  "choice": "NONE",
+  "reason": "The only Gerhardus is C05, Gerhardus Johannes Adolphus, whose middle names clash with Gerhardus Stephanus. No other candidate shares his given names."
+ },
+ {
+  "case_id": "P0487",
+  "choice": "NONE",
+  "reason": "The only Schalk is C07, Schalk Willem, whose second name differs from Schalk Jacobus. No other candidate fits."
+ },
+ {
+  "case_id": "P0539",
+  "choice": "NONE",
+  "reason": "C05 Johannes Jacobus is recorded as son of WL, which contradicts the genealogy father Johannes Andries. C03 Johannes is son of Marthinus, so no candidate fits."
+ },
+ {
+  "case_id": "P0059",
+  "choice": "NONE",
+  "reason": "No Botha owner in George is named Willem Adriaan or Willem."
+ },
+ {
+  "case_id": "P0480",
+  "choice": "C01",
+  "reason": "C01 has the exact given names Godlieb Rudolph in Somerset. Its note 'sv Alb.' is consistent with the father Philippus Albertus."
+ },
+ {
+  "case_id": "P0791",
+  "choice": "C01",
+  "reason": "C01 'Jacobus Frederk' van Staden in Uitenhage is a spelling variant of Jacobus Frederik and matches the declared district."
+ },
+ {
+  "case_id": "P0409",
+  "choice": "C04",
+  "reason": "C04 Christiaan Jacobus is recorded as son of Barend, matching the genealogy father Barend Godlieb. C05 has the same name but no parentage to confirm it."
+ },
+ {
+  "case_id": "P0471",
+  "choice": "NONE",
+  "reason": "The only candidate is Martinus Oosthuizen, a clearly different given name from Petrus Wilhelm."
+ }
+]

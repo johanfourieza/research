@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0486",
+  "choice": "NONE",
+  "reason": "No owner is named Jacob(us) Arnoldus. Jacobus Johannes (C07) and Petrus Arnoldus (C08) each share only one given name, and neither second name matches."
+ },
+ {
+  "case_id": "P0862",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Susanna Elizabeth Viljoen, wife of Hattingh. Every candidate is a male Viljoen owner, and none of the claims is shown to be hers."
+ },
+ {
+  "case_id": "P0243",
+  "choice": "C07",
+  "reason": "C07 Lourens Johannes Erasmus matches both given names exactly. He is in Somerset, the declared district."
+ },
+ {
+  "case_id": "P0624",
+  "choice": "NONE",
+  "reason": "None of the Beaufort Smit owners (Willem, Christoffel Johannes, Frans Petrus) matches Johannes Hendrik. Christoffel Johannes shares only a second name, in a different position."
+ },
+ {
+  "case_id": "P0603",
+  "choice": "NONE",
+  "reason": "No Scheepers owner bears the names Hendrik Petrus Gerrit. All candidates have clearly different first names."
+ },
+ {
+  "case_id": "P0708",
+  "choice": "NONE",
+  "reason": "No van den Berg owner is named Johannes Nicolaas. Nicolaas Francois shares only one name, in a different position, and the other candidates differ."
+ },
+ {
+  "case_id": "P0806",
+  "choice": "NONE",
+  "reason": "No Swellendam van Tonder owner is named Frederik Johannes. The candidates are Andries, Johannes Petrus and others with different first names."
+ },
+ {
+  "case_id": "P0318",
+  "choice": "NONE",
+  "reason": "No Jacobs owner is named Willem Daniel. Candidates such as Pieter Daniel and Daniel share at most one name."
+ },
+ {
+  "case_id": "P0156",
+  "choice": "C01",
+  "reason": "C01 Jacobus Hercules De la Rey is the same name with only a spelling variant (Herculas/Hercules). He is in Swellendam, the declared district."
+ },
+ {
+  "case_id": "P0598",
+  "choice": "C05",
+  "reason": "The genealogy gives only 'Coenraad', which exactly matches C05 Coenraad (s Gerrit) in Uitenhage. C01 Coenraad Frederik adds a middle name the genealogy lacks, so C05 is the more direct match."
+ }
+]

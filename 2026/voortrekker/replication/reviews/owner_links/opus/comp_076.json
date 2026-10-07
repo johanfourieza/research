@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0070",
+  "choice": "C10",
+  "reason": "Petrus Johannes is the standard form of Pieter Johannes, a full match on both given names, and no Somerset owner carries that name. The owner is listed in Graaff-Reinet, which neighbours Somerset; this weakens the match but does not outweigh the exact name agreement."
+ },
+ {
+  "case_id": "P0382",
+  "choice": "NONE",
+  "reason": "No Kruger owner is named Stephanus Johannes. The nearest, Jacobus Stephanus, has a different first name, and the others are clearly different men."
+ },
+ {
+  "case_id": "P0024",
+  "choice": "C04",
+  "reason": "Andries Bester (sv Paul Michiel) is the only owner with the given name Andries, and he is in Somerset, the declared district."
+ },
+ {
+  "case_id": "P0550",
+  "choice": "NONE",
+  "reason": "The Willem owners are Willem Jacobus and Willem Petrus. Their second names contradict Marthinus, and no owner is named Willem Marthinus."
+ },
+ {
+  "case_id": "P0843",
+  "choice": "C01",
+  "reason": "Johannes Gerhardus Vermaak in Uitenhage matches both given names and the declared district exactly. A Salomon Vermaak, consistent with the recorded father, also appears among the owners there."
+ },
+ {
+  "case_id": "P0636",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hendrik Jacobus Snyman, whose given names are entirely different from Gerhardus."
+ },
+ {
+  "case_id": "P0875",
+  "choice": "NONE",
+  "reason": "No Vorster owner is named Marthinus Christoffel. All candidates have clearly different first names, and C08 is a widow."
+ },
+ {
+  "case_id": "P0665",
+  "choice": "NONE",
+  "reason": "The only candidate, Abraham Frederik Strauss, has given names that clearly differ from David Jacobus."
+ },
+ {
+  "case_id": "P0404",
+  "choice": "C05",
+  "reason": "Abraham Hercules le Roux (sv Abraham) in Swellendam matches both given names and the declared district. He is a living owner, unlike the Abraham estate in C04."
+ },
+ {
+  "case_id": "P0208",
+  "choice": "NONE",
+  "reason": "Both candidates are named Hercules (one a deceased estate), which does not match Daniel Johannes Lodewicus Hermanus."
+ }
+]

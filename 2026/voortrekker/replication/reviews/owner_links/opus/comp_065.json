@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0115",
+  "choice": "C14",
+  "reason": "Hendrik Petrus is the same pair of names as Pieter Hendrik (Petrus = Pieter), only reordered. Graaff-Reinet is adjacent to Somerset. No other candidate carries both names."
+ },
+ {
+  "case_id": "P0009",
+  "choice": "C02",
+  "reason": "Gerhardus Johannes matches his second and third given names, with only the first name omitted. The Somerset district fits Cradock. C01 is son of Hendrik, which contradicts his father Casper Hendrik, and C03 is the father himself."
+ },
+ {
+  "case_id": "P0176",
+  "choice": "NONE",
+  "reason": "No Worcester du Plessis owner bears the given names Wynand or Louw. Every candidate has a clearly different first name."
+ },
+ {
+  "case_id": "P0125",
+  "choice": "NONE",
+  "reason": "The only candidate is Michael Combrink of Beaufort. His given name differs entirely from Jan Christiaan Johannes, and his district differs from Colesberg."
+ },
+ {
+  "case_id": "P0724",
+  "choice": "NONE",
+  "reason": "No van der Merwe owner is named Cornelis Johannes. Carel Johannes (C25) has a different first name, and no other candidate comes close."
+ },
+ {
+  "case_id": "P0846",
+  "choice": "C08",
+  "reason": "Cornelis Tobias Vermaak of Uitenhage matches his full given names and declared district exactly."
+ },
+ {
+  "case_id": "P0188",
+  "choice": "NONE",
+  "reason": "No du Plessis owner is named Lourens Stephanus. All candidates have clearly different given names or are women or estates."
+ },
+ {
+  "case_id": "P0225",
+  "choice": "NONE",
+  "reason": "No Engelbrecht owner is named Eduard. Johannes Cornelis and Johannes Hendrik share only a common second name, and the remaining candidates are a woman, a deceased estate or men with unrelated names."
+ },
+ {
+  "case_id": "P0015",
+  "choice": "C01",
+  "reason": "Johannes Andries Beetge matches his full given names exactly. Graaff-Reinet included the later Colesberg district."
+ },
+ {
+  "case_id": "P0744",
+  "choice": "NONE",
+  "reason": "No van der Westhuizen owner in Beaufort is named Jasper. All candidates have clearly different given names."
+ }
+]

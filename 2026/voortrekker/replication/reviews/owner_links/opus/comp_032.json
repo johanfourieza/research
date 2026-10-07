@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0620",
+  "choice": "NONE",
+  "reason": "No Beaufort Smit owner is named Carel/Sarel Gerhardus. The candidates are Christoffel Johannes, Willem and Frans Petrus, all clearly different given names."
+ },
+ {
+  "case_id": "P0394",
+  "choice": "C03",
+  "reason": "Frans Jacob Labuschagne of Somerset matches Frans Jacobus Labuschagne, declared Somerset, in both given names and district."
+ },
+ {
+  "case_id": "P0877",
+  "choice": "C01",
+  "reason": "Johan David Wentzel of Somerset is an exact name and district match. The genealogy gives no father, so the 'sv Carel David' note does not contradict it."
+ },
+ {
+  "case_id": "P0828",
+  "choice": "NONE",
+  "reason": "The name and district match, but C03 is noted 'sv Jan' while the genealogy father is Jacobus Daniel Venter. This strong parentage contradiction points to a different Jan Louis."
+ },
+ {
+  "case_id": "P0051",
+  "choice": "NONE",
+  "reason": "No Botha owner in Somerset or Graaff-Reinet is named Hercules (Herculas) David. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0483",
+  "choice": "NONE",
+  "reason": "The only Albany owner, Andries Christoffel Piek, carries no jr/sr note. This man's father of the same name, the established older farmer, is at least as likely to be the 1830s owner as the son who married in 1832."
+ },
+ {
+  "case_id": "P0077",
+  "choice": "C05",
+  "reason": "Petrus Johannes Botha of George (Uitkyk) is an exact name and district match. He married in 1801, so he was an established adult by the 1830s."
+ },
+ {
+  "case_id": "P0519",
+  "choice": "NONE",
+  "reason": "No Pretorius owner bears the given names Zacharias Arnoldus Stephanus or anything resembling them."
+ },
+ {
+  "case_id": "P0870",
+  "choice": "NONE",
+  "reason": "Only 'Charl' Viljoen of Uitenhage resembles Carel Johannes, and he has no middle name and is in a different district from the declared Somerset. That is too weak a match to accept."
+ },
+ {
+  "case_id": "P0442",
+  "choice": "NONE",
+  "reason": "No Muller owner is named Johannes Christiaan. The candidates (Thomas, Anthony, Georg, Cornelis, a widow) all have clearly different given names, and none is in Somerset."
+ }
+]

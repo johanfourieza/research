@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0619",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Petrus Smit. C21 is Jacobus Petrus, a different given name, and the other candidates sharing Johannes have different accompanying names."
+ },
+ {
+  "case_id": "P0274",
+  "choice": "C13",
+  "reason": "C13 matches Louis Johannes Fourie exactly in Swellendam. The senior and son-of-Louis notes do not contradict any supplied genealogical information."
+ },
+ {
+  "case_id": "P0200",
+  "choice": "C02",
+  "reason": "C02 matches Leendert Hendrik du Plooy exactly in Beaufort. His son-of-Cornelis note presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0360",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given names Paul Stephanus. The Somerset candidates are Johannes Frederik and Lourens Johannes, which are substantially different names."
+ },
+ {
+  "case_id": "P0168",
+  "choice": "C62",
+  "reason": "C62 matches all three given names, Jacob Pieter Daniel, and explicitly lists Fransche Hoek among his localities. The J zn note does not conflict with a supplied father."
+ },
+ {
+  "case_id": "P0039",
+  "choice": "C05",
+  "reason": "C05 provides an exact, unambiguous match for Hermanus Stephanus Bosman in Stellenbosch. C08's alternative reading, Hermanus / Stephanus, and uncertain senior note make it a weaker match."
+ },
+ {
+  "case_id": "P0771",
+  "choice": "NONE",
+  "reason": "No candidate is named Nicolaas Johannes, and none supplies the matching father or junior designation. The shared Janse element does not overcome the different given names."
+ },
+ {
+  "case_id": "P0628",
+  "choice": "C16",
+  "reason": "C16 is the only exact match for Abraham Johannes Smit, with no contradictory identity notes. The Graaff-Reinet rather than Somerset district weakens but does not outweigh the full-name match."
+ },
+ {
+  "case_id": "P0736",
+  "choice": "C16",
+  "reason": "C16 uniquely matches David Schalk van der Merwe exactly. Although recorded in Graaff-Reinet rather than Somerset, its parentage notes cannot contradict the genealogy's unspecified father."
+ },
+ {
+  "case_id": "P0479",
+  "choice": "NONE",
+  "reason": "The sole candidate is Godlieb Rudolph Opperman, not Philippus Albertus. The sv Alb. note names the candidate's father and does not establish a match to this man."
+ }
+]

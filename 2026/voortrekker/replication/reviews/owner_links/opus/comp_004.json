@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0817",
+  "choice": "C01",
+  "reason": "Adriaan van Wyk in Beaufort matches the first given name and the declared district (Beaufort). He is the only candidate and nothing contradicts the match; the genealogy gives no father to check against 'so Willem'."
+ },
+ {
+  "case_id": "P0185",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem or Willem Abraham. Pieter Abraham shares only a second name, which is too weak."
+ },
+ {
+  "case_id": "P0244",
+  "choice": "C12",
+  "reason": "Petrus Rasmus is an exact full-name match for Pieter Rasmus (Pieter = Petrus), including the distinctive second name Rasmus. The claim is in neighbouring Graaff-Reinet rather than Somerset, but the full-name match outweighs that."
+ },
+ {
+  "case_id": "P0265",
+  "choice": "NONE",
+  "reason": "No Fourie owner is named Bartholomeus or Bartholomeus Jacobus. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0279",
+  "choice": "NONE",
+  "reason": "The Gouws owners are Cornelis, Jurie Hendrik and Marthinus. None matches Petrus Andries."
+ },
+ {
+  "case_id": "P0477",
+  "choice": "NONE",
+  "reason": "The genealogy subject is Barbara Petronella, widow of P.W. Oosthuizen. The only candidate is Martinus Oosthuizen, matching neither her nor her husband."
+ },
+ {
+  "case_id": "P0861",
+  "choice": "NONE",
+  "reason": "No Viljoen owner is named Petrus or Pieter Johannes. All candidates have different first names."
+ },
+ {
+  "case_id": "P0688",
+  "choice": "NONE",
+  "reason": "The only candidate is Pieter Andreas Johannes Swanepoel. His first name clearly contradicts Stephanus Johannes Marthinus."
+ },
+ {
+  "case_id": "P0721",
+  "choice": "NONE",
+  "reason": "No owner is named Pieter or Petrus Willem. The bare Pieter (C15, son of Jacob) and Petrus (C13) are in Graaff-Reinet, not Somerset, and lack the second name, so they are too weak."
+ },
+ {
+  "case_id": "P0847",
+  "choice": "NONE",
+  "reason": "No Vermaak owner is named Nicolaas or Nicolaas Jacobus. All candidates have clearly different given names."
+ }
+]

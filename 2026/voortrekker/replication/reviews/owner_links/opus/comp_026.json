@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0488",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Johannes, which is a clearly different first name from David Johannes. The shared second name is not enough."
+ },
+ {
+  "case_id": "P0596",
+  "choice": "NONE",
+  "reason": "No candidate is named Gerhardus Stephanus. C02, Gerhardus Johannes Adolphus, shares only the first name and has different middle names, so the match is too weak."
+ },
+ {
+  "case_id": "P0305",
+  "choice": "C06",
+  "reason": "C06, plain 'Christiaan' in Somerset, matches the genealogy's undifferentiated Christiaan Sr exactly. C04 carries an extra name, Arnoldus, that the genealogy does not record."
+ },
+ {
+  "case_id": "P0097",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Brits owner is named Willem. All candidates have different given names."
+ },
+ {
+  "case_id": "P0027",
+  "choice": "C02",
+  "reason": "Jan Andries is the Dutch form of Johannes Andreas. Somerset was carved out of Cradock, so the district agrees with the declared district."
+ },
+ {
+  "case_id": "P0750",
+  "choice": "NONE",
+  "reason": "The closest candidate, C03, is Willem Abraham in Albany. Its second name differs from Andreas and its district differs from Somerset, so it is not a likely match."
+ },
+ {
+  "case_id": "P0439",
+  "choice": "C02",
+  "reason": "C02, Jacobus Philippus Moolman in Swellendam, matches both given names and the district. No other candidate shares the name."
+ },
+ {
+  "case_id": "P0145",
+  "choice": "NONE",
+  "reason": "No candidate is named Arnoldus Stephanus. C04, Johannes Arnoldus, has a different first name."
+ },
+ {
+  "case_id": "P0540",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem Jurgen. C02, Willem Sterrenberg, has a different second name and is recorded as son of Petrus Gerhardus, which contradicts the genealogy father Johannes Andries."
+ },
+ {
+  "case_id": "P0610",
+  "choice": "NONE",
+  "reason": "No Somerset Schoeman owner is named Hendrik Nicolaas. All candidates have different given names."
+ }
+]

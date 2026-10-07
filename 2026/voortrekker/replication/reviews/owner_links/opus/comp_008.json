@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0167",
+  "choice": "C02",
+  "reason": "Pieter Josua De Necker of Swellendam matches exactly. The note 'sv Pieter' agrees with the genealogy father Pieter Hendrikus De Necker."
+ },
+ {
+  "case_id": "P0551",
+  "choice": "C08",
+  "reason": "C08 is the only owner named Pieter Willem Prinsloo, and he is in Somerset, the declared district. The 'sr' note fits a man married in 1824 who could have a namesake son."
+ },
+ {
+  "case_id": "P0576",
+  "choice": "C01",
+  "reason": "Petrus Albertus Reyneke of Somerset matches the genealogy's given names and declared district exactly. Nothing in the record contradicts the match."
+ },
+ {
+  "case_id": "P0462",
+  "choice": "C05",
+  "reason": "C05 is the only Jacobus Nel and is in Somerset, the declared district. The missing second name Hercules is an omission, not a contradiction, though the match rests mainly on the first name."
+ },
+ {
+  "case_id": "P0372",
+  "choice": "NONE",
+  "reason": "Gert Ja fits Gerrit Jacobus, but the note links C01 to M.E. Oberholser, apparently his widow, whereas this man married Maria Catharina de Bruyn and lived until 1839. The claim is also in Graaff-Reinet rather than Somerset."
+ },
+ {
+  "case_id": "P0516",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Cornelis nor Theodorus David matches the given names Marthinus Jacobus."
+ },
+ {
+  "case_id": "P0810",
+  "choice": "NONE",
+  "reason": "This person is Hester Janse van Vuuren, widow of Rudolph Bronkhorst. No candidate bears her name; C01 is a widow named Johannes Martinus Janse, a different given name."
+ },
+ {
+  "case_id": "P0529",
+  "choice": "C04",
+  "reason": "C04 matches all three given names, Johannes Lodewyk Wynand, in Graaff-Reinet, the declared district. The surname query mark does not outweigh the exact match."
+ },
+ {
+  "case_id": "P0333",
+  "choice": "NONE",
+  "reason": "The only candidate is Nicolaas Johannes Jacobus Jooste of Graaff-Reinet. The different first name and the different district contradict a match with Francois Jacobus of Somerset."
+ },
+ {
+  "case_id": "P0332",
+  "choice": "NONE",
+  "reason": "The only candidate is Adolph Jonker, a clearly different given name from Johannes."
+ }
+]

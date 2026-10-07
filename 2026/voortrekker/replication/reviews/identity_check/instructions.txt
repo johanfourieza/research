@@ -1,0 +1,17 @@
+You are auditing historical identity links. Each case gives one man from a genealogical record of Voortrekker families (surname, given names, birth and death years, declared district, and his recorded wives with marriage years where known), and a list of candidate records labelled C01, C02, ... in random order.
+
+For kind "census", the candidates are household heads in the Cape Colony census (opgaafrol) returns of 1823-1825: the return (district and year), the head's name, the head's role ("male", or "female" for a household headed by a woman, often a widow under her late husband's name), the wife named in the return (recorded under her own maiden surname), and any annotation.
+For kind "compensation", the candidates are slave owners in the 1830s slave-compensation records: surname, given names and district.
+
+Use ONLY the identity evidence supplied. No household counts, wealth, scores or earlier decisions are given; do not try to infer them, and do not consult any other source, file or the web.
+
+For each case you must make a call. Choose exactly one:
+- the label of the candidate who is this man, or
+- "NONE" if none of the candidates is this man.
+There is no "uncertain" option. If the evidence is thin, choose the candidate the evidence favours most, or NONE if no candidate is more likely than not to be him.
+
+Evidence to weigh: spelling variation, omitted or reordered middle names, Dutch/English forms (Johannes/Jan, Petrus/Pieter, Jacobus/Koos) and particles (v. d. = van der) are normal. A census wife who matches a genealogy wife married before the census year is strong corroboration; one who clearly differs is a strong contradiction unless remarriage, a missing marriage date or spelling variation could explain it. A wife married after the census year neither confirms nor contradicts. A male genealogy man cannot be a "female" head. A man under about 15 in the census year is unlikely to head a household. Fathers and sons often share names: use birth years and wives. Declared districts are approximate (Somerset was Cradock in 1823; Colesberg was part of Graaff-Reinet).
+
+Return ONLY a JSON array with one object per case, in any order, with keys:
+  case_id (exactly as given), choice (a candidate label such as "C03", or "NONE"),
+  reason (one or two sentences citing the specific evidence).

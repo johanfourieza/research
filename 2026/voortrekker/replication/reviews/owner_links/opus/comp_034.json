@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0206",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Petrus. C02 Johannes Lodewikus shares only the first name and has a different second name, and the other candidates (Hermanus Carel, Philippus Jacobus) are clearly different."
+ },
+ {
+  "case_id": "P0526",
+  "choice": "NONE",
+  "reason": "No owner is named Gerhardus Petrus Jacobus, and none is noted as a son of Matthys Wynand. C14 Roelof Gerhardus Petrus has a different first name, and C11 Gert is recorded as sv Johannes, which contradicts the genealogy father."
+ },
+ {
+  "case_id": "P0543",
+  "choice": "C14",
+  "reason": "C14 Petrus Gerhardus matches the given names exactly. Its note 'sv Petrus Gerhardus' agrees with the genealogy father Petrus Gerhardus (Swart Piet), and the district is the same (Graaff-Reinet)."
+ },
+ {
+  "case_id": "P0098",
+  "choice": "NONE",
+  "reason": "Neither Beaufort owner (Gysbert Sybrand, Johannes Gerhardus Stephanus) shares any given name with Lucas Cornelius."
+ },
+ {
+  "case_id": "P0370",
+  "choice": "NONE",
+  "reason": "Neither candidate matches Johannes Lodewyk. C01 is Joachim Marthinus, son of Diederik, and C02 is Gert Ja, listed with a widow note."
+ },
+ {
+  "case_id": "P0469",
+  "choice": "NONE",
+  "reason": "The only candidate is Adriaan Jacobus Jeremias, son of Gerrit, whose names are entirely different from Ockert Andries."
+ },
+ {
+  "case_id": "P0131",
+  "choice": "NONE",
+  "reason": "No Swellendam Crafford owner bears Adolph or Justus, and none bears Johannes as a first name. The candidates are Dirk, Jacobus Martinus and Jacob Daniel."
+ },
+ {
+  "case_id": "P0842",
+  "choice": "NONE",
+  "reason": "C11 has the identical name Jacobus Stephanus in Uitenhage, but its note 's Jac' (son of Jacobus) contradicts the genealogy father Salomon. This parentage disagreement indicates a namesake relative rather than this man."
+ },
+ {
+  "case_id": "P0072",
+  "choice": "NONE",
+  "reason": "No owner is named Frederik Jacobus. C14 Paul Stephanus 'sv Frederik' is at most a son, and no other candidate matches the given names."
+ },
+ {
+  "case_id": "P0358",
+  "choice": "NONE",
+  "reason": "No owner is named Balthazar Marthinus. C04 Frederik Martinus 'sv Baltaser' is recorded as a son of a Balthazar, not the man himself, and the other candidates have different names."
+ }
+]

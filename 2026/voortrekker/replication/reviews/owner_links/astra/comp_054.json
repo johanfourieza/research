@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0853",
+  "choice": "C06",
+  "reason": "Jan Albertus corresponds to Albertus Johannes with Jan for Johannes and the given names reordered. The Somerset district differs from Colesberg, but the name match is strong and the genealogy supplies no father contradicting 'sv Willem'."
+ },
+ {
+  "case_id": "P0567",
+  "choice": "C02",
+  "reason": "Joachim Johannes Prinsloo matches the full name exactly, and George matches the declared district."
+ },
+ {
+  "case_id": "P0429",
+  "choice": "C01",
+  "reason": "Lucas Johannes Meyer matches the full name and Somerset district exactly. The 'sv Lucas' note cannot be checked because the genealogy gives no father."
+ },
+ {
+  "case_id": "P0675",
+  "choice": "NONE",
+  "reason": "The sole candidate is Jan Lodewyk Strydom, a clearly different given name from Jacobus despite the matching Beaufort district."
+ },
+ {
+  "case_id": "P0883",
+  "choice": "NONE",
+  "reason": "No candidate matches Hermanus Wilhelmus. Pieter Hermanus (C09) and Johannes Wilhelmus (C15) each share only one given name and introduce a different one, with no corroborating identity evidence."
+ },
+ {
+  "case_id": "P0249",
+  "choice": "C11",
+  "reason": "Lourens Johannes Erasmus matches the full name and Somerset district exactly. His death in 1836 is compatible with ownership recorded during the 1830s."
+ },
+ {
+  "case_id": "P0801",
+  "choice": "C01",
+  "reason": "Jacob Van Straten matches with Abraham omitted, a normal naming variation, whereas C02 introduces Willem. The Graaff-Reinet rather than Somerset district weakens but does not outweigh this compatible name match."
+ },
+ {
+  "case_id": "P0501",
+  "choice": "NONE",
+  "reason": "C02 is explicitly a widow, with no evidence linking her claim to this Johannes Gerhardus. The other candidates have different given names, including Matthys rather than Johannes Gerhardus in C09."
+ },
+ {
+  "case_id": "P0753",
+  "choice": "NONE",
+  "reason": "The sole candidate, Albertus Stephanus Van Jaarsveld, has clearly different given names from Adriaan Johannes Frederik Gustaaf."
+ },
+ {
+  "case_id": "P0757",
+  "choice": "NONE",
+  "reason": "No candidate matches Maria Elizabeth Van Niekerk. Adriana Maria and Christina Maria T. share only Maria and have different remaining names, with no evidence connecting either to the recorded spouse Theodorus Potgieter."
+ }
+]

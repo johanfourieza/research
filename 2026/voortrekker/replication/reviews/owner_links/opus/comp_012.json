@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0263",
+  "choice": "NONE",
+  "reason": "The only candidate is Philip Johannes Fouche. Both given names clash with Stephanus Jacobus, even though the district (Swellendam) agrees."
+ },
+ {
+  "case_id": "P0482",
+  "choice": "C01",
+  "reason": "Andries Christoffel Piek in Albany matches the full given names and the declared district exactly. He is the only Piek owner listed."
+ },
+ {
+  "case_id": "P0873",
+  "choice": "NONE",
+  "reason": "No Worcester Visser owner is named Ernestus or Ernestus Jacobus. Every candidate has a clearly different first name."
+ },
+ {
+  "case_id": "P0345",
+  "choice": "NONE",
+  "reason": "The closest candidate, C07 Josua Petrus, has a different second name and is recorded as son of Jacobus, whereas the genealogy father is Petrus Jacobus. C03 Petrus Jacobus carries the father's name, not this man's."
+ },
+ {
+  "case_id": "P0718",
+  "choice": "C12",
+  "reason": "C12 'Barend' (son of Hendrik) in Graaff-Reinet matches the genealogy's given name 'Barend' exactly in the declared district. Barend Jacobus (C01) and Barend Frederik (C14) carry middle names the genealogy does not record, so C12 is the best fit."
+ },
+ {
+  "case_id": "P0277",
+  "choice": "NONE",
+  "reason": "The Uitenhage Gouws owners are Cornelis, Marthinus and Jurie Hendrik. None is compatible with Pieter Johannes."
+ },
+ {
+  "case_id": "P0691",
+  "choice": "NONE",
+  "reason": "No Swart owner is Nicolaas Johannes. Jacobus Nicolaas (C02, C04) has a different first name, and the other candidates differ entirely."
+ },
+ {
+  "case_id": "P0882",
+  "choice": "NONE",
+  "reason": "C08 Wessel Johannes has a different second name from Wessel Jacobus, and no father is known to support him. C15 Wessel is a deceased senior's estate, which this man (died 1872) cannot be."
+ },
+ {
+  "case_id": "P0016",
+  "choice": "NONE",
+  "reason": "Johannes Stephanus (C01) shares only the common first name and differs from Jurgen in the second name. Petrus (C02) differs entirely."
+ },
+ {
+  "case_id": "P0325",
+  "choice": "NONE",
+  "reason": "No Beaufort Jacobs owner is David Stephanus. David Francois (C06) has a different second name, and the other candidates have different first names."
+ }
+]

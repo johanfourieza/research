@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0542",
+  "choice": "C08",
+  "reason": "The full name Willem Sterrenberg matches exactly. The note 'sv Petrus Gerhardus' agrees with the genealogy father, and the district is Graaff-Reinet in both records."
+ },
+ {
+  "case_id": "P0132",
+  "choice": "C02",
+  "reason": "C02 is the only Cornelis Cronje. He is recorded in Somerset, which was part of Cradock, the declared district. The father is unrecorded in the genealogy, so the note 'sv Isaac' cannot contradict him."
+ },
+ {
+  "case_id": "P0869",
+  "choice": "NONE",
+  "reason": "No candidate is named Gideon Petrus or a close variant. All Viljoen owners carry clearly different given names."
+ },
+ {
+  "case_id": "P0317",
+  "choice": "C02",
+  "reason": "C02, David Jacobs of Graaff-Reinet, is the only David among the candidates. An omitted middle name (Stephanus) is normal, and the district matches the declared one."
+ },
+ {
+  "case_id": "P0783",
+  "choice": "NONE",
+  "reason": "C05 Gerrit is noted as son of Cornelis, which contradicts the genealogy father Gerrit Thomas. C04 Gerrit Rynier has a different second name. No Gerrit Thomas appears."
+ },
+ {
+  "case_id": "P0455",
+  "choice": "C06",
+  "reason": "C06 is the only owner named simply Willem, matching exactly. He is a son of Louis, a family with many sons recorded in Somerset, the declared district. C06's adjacent district of Uitenhage is a weaker point than the extra middle name of Albany's Willem Andries."
+ },
+ {
+  "case_id": "P0112",
+  "choice": "NONE",
+  "reason": "C04 Johannes is a deceased estate whose widow is Hester Viljoen, not the recorded wife Hester Hendrina Aletta Venter. The surname conflict means the evidence does not show the estate is his. The other candidates have different given names or are sons of Jan."
+ },
+ {
+  "case_id": "P0867",
+  "choice": "NONE",
+  "reason": "No candidate is named Gerhardus Coenradus or a variant. All Viljoen owners have clearly different given names."
+ },
+ {
+  "case_id": "P0423",
+  "choice": "NONE",
+  "reason": "The only Beaufort Marais owners are Charl Francois and Johannes Stephanus, both clearly different from Gerhardus Petrus."
+ },
+ {
+  "case_id": "P0383",
+  "choice": "NONE",
+  "reason": "C09 Gert is son of Gert, which contradicts the genealogy father Stephanus Johannes. C05 Gert Hendrik has a different second name. No Gerrit Johannes appears."
+ }
+]

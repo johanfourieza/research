@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0179",
+  "choice": "C01",
+  "reason": "C01 matches Francois Jacobus du Plessis exactly and is recorded in Uitenhage, the declared district. No contradictory identity evidence is supplied."
+ },
+ {
+  "case_id": "P0178",
+  "choice": "C03",
+  "reason": "C03 matches Joseph Albertus du Plessis exactly in Uitenhage. His 1800 birth is consistent with being an adult owner in the 1830s."
+ },
+ {
+  "case_id": "P0495",
+  "choice": "NONE",
+  "reason": "No candidate is named Izak, Izaac or an equivalent. C10 shares Hermanus but is Hermanus Jacobus, which is insufficient to identify him as Izak Hermanus."
+ },
+ {
+  "case_id": "P0033",
+  "choice": "NONE",
+  "reason": "Neither male candidate, Gerrit Pieter or Johannes Bezuidenhout, matches Frederik Jacobus. C03 is Anna Catharina, a woman, and cannot be this man."
+ },
+ {
+  "case_id": "P0262",
+  "choice": "NONE",
+  "reason": "The candidates are Paul Johannes, Jacobus Albertus and Johannes Hendrik Fouche, all clearly different from Gustavus Wilhemus. The shared surname and district do not establish identity."
+ },
+ {
+  "case_id": "P0290",
+  "choice": "C01",
+  "reason": "C01 matches Johannes Hermanus Grobler exactly in Somerset. The note 'sv N.' cannot be checked because no genealogy father is supplied; the anomalous genealogy dates do not distinguish another identity."
+ },
+ {
+  "case_id": "P0649",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Christoffel. Jan Andries and Johannes Jacobus share only an equivalent first name, while their different second names and uncheckable parentage notes provide insufficient support."
+ },
+ {
+  "case_id": "P0139",
+  "choice": "C02",
+  "reason": "C02 matches Matthys Andries de Beer exactly in Beaufort. The note 'sv Zacharias' presents no known contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0103",
+  "choice": "C06",
+  "reason": "C06 matches Johannes Hendrik Bruwer exactly in Swellendam, with no contradictory note. The other Johannes candidates have different second names."
+ },
+ {
+  "case_id": "P0855",
+  "choice": "NONE",
+  "reason": "No candidate matches David Schalk Viljoen. C06 shares David but is Hermanus David Jac in Graaff-Reinet, leaving only a weak partial-name match in a different district."
+ }
+]

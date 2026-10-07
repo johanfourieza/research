@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0276",
+  "choice": "NONE",
+  "reason": "C01 is Georg Diederick, not Willem George. The shared surname and Graaff-Reinet district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0513",
+  "choice": "NONE",
+  "reason": "C10 is Jacobus, son of Philip, contradicting the recorded father Jacobus Johannes. C14 is Jacobus Cornelis in Albany, a weak first-name match with a different second name and district; no other candidate fits."
+ },
+ {
+  "case_id": "P0683",
+  "choice": "NONE",
+  "reason": "The sole candidate, C01, is Pieter Andreas Johannes rather than Willem Abraham. The matching surname and district are insufficient against these distinct given names."
+ },
+ {
+  "case_id": "P0212",
+  "choice": "NONE",
+  "reason": "None of the four Beaufort candidates has given names corresponding to Roelof Petrus. Their shared surname and district alone do not establish identity."
+ },
+ {
+  "case_id": "P0064",
+  "choice": "NONE",
+  "reason": "C01's Jan can correspond to Johannes, but Christoffel is not Christiaan, and the district is Graaff-Reinet rather than Somerset. No candidate supplies a sufficiently close full-name match or corroborating identity evidence."
+ },
+ {
+  "case_id": "P0322",
+  "choice": "NONE",
+  "reason": "No candidate is named Salomon. C04 shares only Jacobus and is named Petrus Jacobus, which does not sufficiently match Salomon Jacobus."
+ },
+ {
+  "case_id": "P0396",
+  "choice": "NONE",
+  "reason": "None of the candidates is Gerrit Jacobus. C02 is Frans Jacob, son of Jan, conflicting with both the man's first name and his recorded father Casper Jeremias."
+ },
+ {
+  "case_id": "P0341",
+  "choice": "NONE",
+  "reason": "C02 shares Pieter and the Somerset district, but Johannes differs from Georg. C03 is Johannes Petrus, also not a full-name match, and no additional evidence identifies either as Pieter Georg."
+ },
+ {
+  "case_id": "P0808",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Gerhardus Janse, not Daniel Janse. The shared Janse element, surname and Uitenhage district do not overcome the different personal names."
+ },
+ {
+  "case_id": "P0435",
+  "choice": "C01",
+  "reason": "C01 matches Philip Carel Minnaar and the Graaff-Reinet district exactly. The omitted senior designation is not a contradiction, and the only other candidate has entirely different given names."
+ }
+]

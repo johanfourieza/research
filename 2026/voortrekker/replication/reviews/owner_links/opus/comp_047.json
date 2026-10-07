@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0461",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Hester Nel, widow of Pieter de la Rey. All candidates are male Nel owners with unrelated given names, and none is recorded as her estate or claim."
+ },
+ {
+  "case_id": "P0762",
+  "choice": "NONE",
+  "reason": "No candidate is named Christiaan. The only similar name, Christina Maria T., is a woman, and no other owner's name is compatible."
+ },
+ {
+  "case_id": "P0006",
+  "choice": "C02",
+  "reason": "Casper Hendrik Badenhorst in Somerset matches both given names and the declared district exactly. The note 'sv Hendrik' is consistent with his age (born 1779)."
+ },
+ {
+  "case_id": "P0166",
+  "choice": "C04",
+  "reason": "Daniel Johannes Jacobus has the same three names reordered and is in the same district, Swellendam. The note 'sv Piet' agrees with the genealogy father, Pieter Hendrikus de Necker."
+ },
+ {
+  "case_id": "P0533",
+  "choice": "C12",
+  "reason": "Johannes Petrus Pretorius in Somerset is the only candidate with both given names and matches the declared district. However, he could instead be the father, Jan Sr., so this match is only probable."
+ },
+ {
+  "case_id": "P0287",
+  "choice": "C04",
+  "reason": "Nicolaas Johannes Grobbelaar matches the second and third given names, with only the first name Renier omitted. Somerset is adjacent to the declared Cradock area."
+ },
+ {
+  "case_id": "P0136",
+  "choice": "C01",
+  "reason": "Johannes Christiaan Davel in Uitenhage is an exact match on both given names and district."
+ },
+ {
+  "case_id": "P0504",
+  "choice": "C08",
+  "reason": "Petrus Hendrik Potgieter in Uitenhage matches the first two given names, with only Theunis omitted, and the declared district."
+ },
+ {
+  "case_id": "P0769",
+  "choice": "C18",
+  "reason": "Reynier Janse in Swellendam is an exact name and district match and is a living owner. The other Rynier Jansen (C13) is recorded as a deceased estate, which cannot be this man."
+ },
+ {
+  "case_id": "P0684",
+  "choice": "NONE",
+  "reason": "The only candidate, Pieter Andreas Johannes Swanepoel, has entirely different given names from Willem Barend and a different father, Pieter."
+ }
+]

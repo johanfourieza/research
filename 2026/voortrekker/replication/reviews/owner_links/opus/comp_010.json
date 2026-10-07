@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0865",
+  "choice": "NONE",
+  "reason": "No Christoffel appears among the Viljoen owners. The candidates are Fredrik Jacobus, Jan Hendrik (an estate), Willem, Hermanus David Jac and Willem Jacobus, all clearly different given names."
+ },
+ {
+  "case_id": "P0264",
+  "choice": "C01",
+  "reason": "The single candidate, David Stephanus Fourie of Beaufort, matches the given names and the declared district exactly."
+ },
+ {
+  "case_id": "P0730",
+  "choice": "C22",
+  "reason": "Martinus van der Merwe of Somerset is the only Marthinus/Martinus candidate, and his district agrees with the declared Somerset. Nothing contradicts the match, since the genealogy gives no father."
+ },
+ {
+  "case_id": "P0164",
+  "choice": "C04",
+  "reason": "Pieter Hendrik de Necker of Swellendam matches Pieter Hendrikus and the district. The other De Neckers are recorded as sons of Piet/Pieter, which fits them being his sons."
+ },
+ {
+  "case_id": "P0036",
+  "choice": "NONE",
+  "reason": "No Cornelis Hermanus Zacharias Booysen is listed. The only candidates are Jacobus and Jan Hendrik in Graaff-Reinet, not Somerset."
+ },
+ {
+  "case_id": "P0005",
+  "choice": "NONE",
+  "reason": "Lourens jr's father was Lourens sr. C02 Lourens Petrus is recorded as son of Petrus, which contradicts this, and C05 Lourens sr is the father, not the son."
+ },
+ {
+  "case_id": "P0650",
+  "choice": "C07",
+  "reason": "Petrus Paulus Steyn of Swellendam matches both given names and the district exactly."
+ },
+ {
+  "case_id": "P0385",
+  "choice": "NONE",
+  "reason": "His father was Stephanus Johannes, but C01 Gert is recorded as son of Gert, a contradiction. C07 Gert Hendrik has a different second name, and no candidate matches Gert Stephanus Jacobus."
+ },
+ {
+  "case_id": "P0768",
+  "choice": "NONE",
+  "reason": "No Johannes Jacobus Janse van Rensburg is listed. All candidates carry different first names and are in Uitenhage or Albany rather than Somerset."
+ },
+ {
+  "case_id": "P0248",
+  "choice": "C09",
+  "reason": "Petrus Johannes Erasmus of Somerset matches the name (Pieter/Petrus) and the district. His note 'sv PJ' agrees with the genealogy father, Pieter Johannes."
+ }
+]

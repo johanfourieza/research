@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0754",
+  "choice": "NONE",
+  "reason": "The only candidate, C01, is Albertus Stephanus, not Adriaan Pieter. The shared surname and district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0825",
+  "choice": "C07",
+  "reason": "Pieter Albert is a normal variant of Petrus Albertus, and Graaff-Reinet agrees. This is a closer match than the candidates with additional or conflicting given names."
+ },
+ {
+  "case_id": "P0141",
+  "choice": "NONE",
+  "reason": "C02 shares Zacharias but has Johannes rather than Christiaan and is recorded in Uitenhage rather than Somerset. No candidate provides a sufficiently strong name match."
+ },
+ {
+  "case_id": "P0062",
+  "choice": "C03",
+  "reason": "C03 matches Willem Jacobus Botha exactly. Somerset differs from the declared Colesberg district, but the parentage note cannot contradict a genealogy that supplies no father."
+ },
+ {
+  "case_id": "P0187",
+  "choice": "C24",
+  "reason": "Johannes Petrus corresponds to Jan and Pieter, with the other given names omitted, and Somerset agrees. This is a more specific name match than C09's Jan alone."
+ },
+ {
+  "case_id": "P0634",
+  "choice": "NONE",
+  "reason": "Neither Johan Hendrik nor Johannes Hendrik Jacobus matches Nicolaas. Both candidates also have compensation districts different from Somerset."
+ },
+ {
+  "case_id": "P0298",
+  "choice": "C01",
+  "reason": "Cornelis Harmse matches, with Johannes plausibly omitted from the genealogy. The Beaufort–Colesberg district difference weakens the identification, but there is no conflicting given name, parentage or status."
+ },
+ {
+  "case_id": "P0235",
+  "choice": "C12",
+  "reason": "C12 matches Daniel Jacobus Erasmus exactly, unlike C03's Daniel Johannes. The Uitenhage district and George locality differ from Somerset, but the exact name match remains stronger and the father note is uncontradicted."
+ },
+ {
+  "case_id": "P0043",
+  "choice": "NONE",
+  "reason": "No candidate matches Frederik Johannes Jacobus. C01's Jacob corresponds only to the final given name, which is insufficient without further identifying evidence."
+ },
+ {
+  "case_id": "P0578",
+  "choice": "NONE",
+  "reason": "Johannes is compatible with Jan, but C01 has Francois rather than Hendrik. The shared surname and Somerset district do not sufficiently support identification despite that given-name conflict."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0720",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Theunis Jacobus or a plausible equivalent. The Somerset candidates have clearly different given names, and none supplies another identifying link."
+ },
+ {
+  "case_id": "P0255",
+  "choice": "C19",
+  "reason": "Petrus Johannes is a normal variant of Pieter Johannes, and C19 is recorded in Somerset. The parentage note 'sv PJ' cannot be checked because the genealogy supplies no father, but it presents no stated contradiction."
+ },
+ {
+  "case_id": "P0074",
+  "choice": "NONE",
+  "reason": "No candidate matches Pieter Hendrik. C07 is Petrus Johannes, son of Piet, and C09 is Pieter Barend with a 'sv Chr' note; both differ in second name and recorded parentage from the son of Frederik Jacobus."
+ },
+ {
+  "case_id": "P0607",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given names Marhta/Martha Magdalena. All have clearly different given names, and none supplies a connection to the recorded spouse Gerhardus Oosthuizen."
+ },
+ {
+  "case_id": "P0169",
+  "choice": "NONE",
+  "reason": "The candidates are Josias, Jacobus Albertus and Jacobus, not Pieter Rudolph. Neither surname nor district agreement overcomes these clearly different given names."
+ },
+ {
+  "case_id": "P0197",
+  "choice": "C02",
+  "reason": "C02 matches Cornelis Michiel exactly and is recorded in Beaufort. The omitted senior designation is not a contradiction; C01 is instead Leendert Hendrik, son of Cornelis."
+ },
+ {
+  "case_id": "P0587",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Gysbertus, a clearly different name from Charl Petrus. Somerset and surname agreement alone are insufficient."
+ },
+ {
+  "case_id": "P0158",
+  "choice": "NONE",
+  "reason": "C01 matches Barend Jacobus and Somerset but explicitly records him as son of Barend, contradicting the genealogy's father Adriaan. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0390",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Willem Adriaan or a plausible equivalent. The candidates named Jan, Jan Hendrik, Frans Jacob and Casper cannot be identified as him from the supplied evidence."
+ },
+ {
+  "case_id": "P0836",
+  "choice": "NONE",
+  "reason": "C06 shares Adriaan but is named Willem, while C05 and C13 have Johannes with different remaining given names. No candidate matches Jan Adriaan or supplies an independent identifying link."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0414",
+  "choice": "NONE",
+  "reason": "The only candidate is Hans Jurie Lombard. That given name clearly contradicts Hermanus Anthonie, so the shared surname and Albany district are not enough."
+ },
+ {
+  "case_id": "P0564",
+  "choice": "C06",
+  "reason": "C06 is Willem Petrus Prinsloo of Somerset, an exact match for both given names and the declared district. No other candidate shares both names."
+ },
+ {
+  "case_id": "P0802",
+  "choice": "NONE",
+  "reason": "The candidates are Willem Jacobus and Jacob van Straten. Neither name is compatible with Francois Cornelius."
+ },
+ {
+  "case_id": "P0830",
+  "choice": "NONE",
+  "reason": "No Somerset or Graaff-Reinet Venter owner is named Paulus Christoffel or any variant of it. C21 (Marcus Albertus, son of Paul) is at most a son, not this man."
+ },
+ {
+  "case_id": "P0454",
+  "choice": "NONE",
+  "reason": "The Swellendam candidates are Gert Petrus and Isaac Bartolomeus. Neither is compatible with Johannes Paulus; their fathers' names only suggest relatives."
+ },
+ {
+  "case_id": "P0459",
+  "choice": "C07",
+  "reason": "C07 is Philip Rudolph Nel of Somerset, an exact full-name and district match. C11 (Philip, son of Louis) is consistent with the father Louis Jacobus and may be the same man, but C07 matches both given names."
+ },
+ {
+  "case_id": "P0827",
+  "choice": "C02",
+  "reason": "C02 is Jacobus Daniel Venter of Beaufort, an exact match for given names and district. The other Beaufort candidates have different names."
+ },
+ {
+  "case_id": "P0813",
+  "choice": "NONE",
+  "reason": "No candidate is named Daniel Rudolph Janse. C03 Lucas Daniel (son of Daniel) and the Johannes Janse owners have conflicting first names, and C01 is a widow."
+ },
+ {
+  "case_id": "P0335",
+  "choice": "NONE",
+  "reason": "The Jordaan candidates are Gerrit (a deceased estate), Gideon, Johannes Petrus and Pieter Johannes. None is compatible with David Benjamin."
+ },
+ {
+  "case_id": "P0820",
+  "choice": "NONE",
+  "reason": "C03 Gert Matthys Jacobus matches the names, but its '+' marks it as deceased (as with C06 Hendrik Christoffel +), while this man lived until 1859. C08 Gerrit Jacobus has a different second name, and C01 'Gerrit sr' fits poorly for a man born in 1804."
+ }
+]

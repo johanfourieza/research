@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0500",
+  "choice": "NONE",
+  "reason": "No candidate is named Theodorus. C07's Theunis is a different given name, and the shared surname and district alone are insufficient."
+ },
+ {
+  "case_id": "P0809",
+  "choice": "NONE",
+  "reason": "Although Johannes/Johannus Janse is compatible, C01 carries 'Widow' in the supplied locality field. Nothing identifies that widow's claim as belonging to this man, whose death is recorded as 1875."
+ },
+ {
+  "case_id": "P0475",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Maria Elisabeth Oosthuizen, whereas the only candidate is Gert Adriaan Oosthuizen. These are clearly different identities despite the matching surname and district."
+ },
+ {
+  "case_id": "P0457",
+  "choice": "C06",
+  "reason": "C06 matches Louis Jacobus exactly and is recorded in Somerset. The genealogy supplies no father against which the candidate's parentage notes could conflict."
+ },
+ {
+  "case_id": "P0591",
+  "choice": "NONE",
+  "reason": "Petrus and Pieter are equivalent forms, but C01's Johannes differs from Anthonie. With no corroborating parentage or spouse evidence, the shared first name and district do not establish the match."
+ },
+ {
+  "case_id": "P0067",
+  "choice": "C11",
+  "reason": "C11 exactly matches Theunis Louis Botha in Somerset, and its 'sv Theunis' note does not contradict any supplied father. C07's abbreviated name and senior designation are less specific evidence."
+ },
+ {
+  "case_id": "P0595",
+  "choice": "C04",
+  "reason": "C04 matches Jacobus Scheepers in George, with Johannes plausibly omitted. No supplied parentage or status evidence contradicts this identification."
+ },
+ {
+  "case_id": "P0648",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Steyn, son of Martinus, not Hans Jurgen Steyn. The clearly different given name outweighs the matching surname and district."
+ },
+ {
+  "case_id": "P0392",
+  "choice": "NONE",
+  "reason": "No candidate has a sufficiently compatible name for Jacobus Christoffel Johannes. C04's Casper matches the recorded father's name rather than the subject, while the Jan candidates lack the subject's identifying names."
+ },
+ {
+  "case_id": "P0368",
+  "choice": "NONE",
+  "reason": "C02's Joachim Marthinus shares only Marthinus and has no Wessel, with no corroborating identity evidence. C01 has entirely different given names and is marked as a widow's record."
+ }
+]

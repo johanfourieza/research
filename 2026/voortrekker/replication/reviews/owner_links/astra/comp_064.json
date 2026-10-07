@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0361",
+  "choice": "C04",
+  "reason": "C04 matches Johannes Frederik Klopper exactly and is recorded in Somerset, matching the declared district. The note 'sv Henrik' presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0046",
+  "choice": "NONE",
+  "reason": "No candidate matches Christoffel Francois. C03, Jan Christoffel, shares only Christoffel and lacks Francois; the common district does not establish identity."
+ },
+ {
+  "case_id": "P0709",
+  "choice": "NONE",
+  "reason": "The closest name is C11, Barend, but its note identifies widow SJ Esterhuizen, not the recorded wife Hendrina Johanna Marais. Nothing supplied connects that widow's claim to this man, and the remaining candidates have different given names."
+ },
+ {
+  "case_id": "P0215",
+  "choice": "NONE",
+  "reason": "C01 Johannes Stephanus and C07 Johannes Francois have different second names from Johannes Hermanus. C01 also has the conflicting parentage note 'sv A' rather than Francois Jacobus."
+ },
+ {
+  "case_id": "P0444",
+  "choice": "NONE",
+  "reason": "Neither Willem nor Hendrik Johannes matches Pieter Johannes Lodewyk. C02's shared Johannes alone is insufficient despite the matching district."
+ },
+ {
+  "case_id": "P0530",
+  "choice": "C14",
+  "reason": "C14 matches Hercules Albertus Pretorius exactly and is in Graaff-Reinet. Its 'sv Marthinus' note is not contradicted by the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0871",
+  "choice": "NONE",
+  "reason": "Both candidates are recorded as Anna Catharina, a woman, rather than Rudolphus Gerhardus. Neither entry supplies evidence of a claim belonging to him."
+ },
+ {
+  "case_id": "P0566",
+  "choice": "NONE",
+  "reason": "C03 Martinus Petrus is the closest name, but 's Nic.' identifies a father Nicolaas, contradicting the genealogy's father Marthinus Petrus. The other candidates have substantially different given names."
+ },
+ {
+  "case_id": "P0052",
+  "choice": "C09",
+  "reason": "C09 Petrus Johannes matches Pieter Johannes through the normal Petrus/Pieter variation, with Hendrik omitted. The Graaff-Reinet rather than Somerset district weakens the match, but the two-name agreement remains persuasive and no parentage or status contradiction is supplied."
+ },
+ {
+  "case_id": "P0711",
+  "choice": "NONE",
+  "reason": "No candidate matches Izak Johannes Matthys. The entries containing Johannes pair it with different given names, and neither Izak nor Matthys appears among the candidates."
+ }
+]

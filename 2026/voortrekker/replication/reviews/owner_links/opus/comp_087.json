@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0859",
+  "choice": "NONE",
+  "reason": "C04 Willem Jacobus has the right names but is marked [died], so it is an estate, and this man was alive to trek after 1829. C05 Willem Wouter is his father, and the other candidates have different given names or parentage."
+ },
+ {
+  "case_id": "P0613",
+  "choice": "C11",
+  "reason": "C11 Stephanus Johannes Schoeman is an exact full-name match in George, his declared district. No other candidate carries both given names."
+ },
+ {
+  "case_id": "P0161",
+  "choice": "NONE",
+  "reason": "No candidate is named Adriaan. The owners are Jan Hendrik, Barend Jacobus and a widow, Alida."
+ },
+ {
+  "case_id": "P0794",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederik matches Johannes Jurie."
+ },
+ {
+  "case_id": "P0497",
+  "choice": "NONE",
+  "reason": "No candidate is Johannes Hermanus Jacobus. C08 Hermanus Jacobus is son of Evert, not of Johannes Hermanus, and C10 Johannes is a widow's entry."
+ },
+ {
+  "case_id": "P0879",
+  "choice": "NONE",
+  "reason": "No candidate is named Wessel Hendrik. The only owners are a Hermanus widow entry and Hermanus Johannes."
+ },
+ {
+  "case_id": "P0738",
+  "choice": "NONE",
+  "reason": "None of the 33 owners is Johannes Stephanus. The nearest, C20 Nicolaas Johannes Stephanus, has a different first name."
+ },
+ {
+  "case_id": "P0239",
+  "choice": "NONE",
+  "reason": "The only candidate, Jacobus Lourens, has entirely different given names from Daniel Balthazar."
+ },
+ {
+  "case_id": "P0671",
+  "choice": "NONE",
+  "reason": "Jan Lodewyk shares only the first name (Jan/Johannes), and his second name Lodewyk contradicts Matthys."
+ },
+ {
+  "case_id": "P0155",
+  "choice": "C12",
+  "reason": "Louis is a distinctive given name, and C12 Louis Christiaan Albregt in Swellendam matches it, with the genealogy plausibly omitting the middle names. No other Swellendam owner is a Louis, though the match is weak because no father is recorded to check his 'sv Lourens' note."
+ }
+]

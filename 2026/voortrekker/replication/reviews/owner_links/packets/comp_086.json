@@ -1,0 +1,619 @@
+[
+  {
+    "case_id": "P0268",
+    "genealogy": {
+      "surname": "FOURIE",
+      "given_names": "PHILIPPUS JACOBUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "UITENHAGE then SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ANNA BARBARA",
+          "surname": "ROBBERTSE",
+          "marriage_year": "1826"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Fourie",
+        "owner_given_names": "Johannes Hermanus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Boesmansrivier; Swanepoelskraal"
+      }
+    ]
+  },
+  {
+    "case_id": "P0740",
+    "genealogy": {
+      "surname": "VAN DER WESTHUIZEN",
+      "given_names": "NICOLAAS GEORG",
+      "birth_year": "1792",
+      "death_year": "1872",
+      "declared_district": "BEAUFORT",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ELIZABETH MAGDALENA",
+          "surname": "BARNARD",
+          "marriage_year": "1846"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Wietsche",
+        "district": "Beaufort",
+        "note": "sv Johannes",
+        "localities": "plus Olivier"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Pieter",
+        "district": "Beaufort",
+        "note": "so Pieter",
+        "localities": "Louwfontein"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Nicolaas",
+        "district": "Beaufort",
+        "note": "sv Johannes, jr; sv Johannes, sr",
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Petrus Johannes",
+        "district": "Beaufort",
+        "note": "so Johannes",
+        "localities": "Agaat"
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Jacobus",
+        "district": "Beaufort",
+        "note": "sv Nicolaas",
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Wiltsche",
+        "district": "Beaufort",
+        "note": "so W",
+        "localities": "Brakfontein; Steenkampsrivier"
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Johannes",
+        "district": "Beaufort",
+        "note": "sv Willem",
+        "localities": null
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Van der Westhuizen",
+        "owner_given_names": "Isaac",
+        "district": "Beaufort",
+        "note": "so Jan",
+        "localities": "Frisgewaagd"
+      }
+    ]
+  },
+  {
+    "case_id": "P0812",
+    "genealogy": {
+      "surname": "VAN VUUREN",
+      "given_names": "STEPHANUS JOHANNES JANSE SR.",
+      "birth_year": null,
+      "death_year": "1865",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARIA CATHARINA",
+          "surname": "JANSE VAN VUUREN",
+          "marriage_year": "1802"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van Vuuren",
+        "owner_given_names": "Johannes Gerhardus Janse",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Widow"
+      }
+    ]
+  },
+  {
+    "case_id": "P0712",
+    "genealogy": {
+      "surname": "VAN DER LINDE",
+      "given_names": "JOHANNES HENDRIK GERHARDUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MAGDALENA JUDITH",
+          "surname": "AUCAMP",
+          "marriage_year": null
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van der Linde",
+        "owner_given_names": "Gerhardus Leonardus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Kalkfontein"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van der Linde",
+        "owner_given_names": "Jan. sv Gerrit",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0858",
+    "genealogy": {
+      "surname": "VILJOEN",
+      "given_names": "BAREND CHRISTIAAN",
+      "birth_year": "1807",
+      "death_year": "1859",
+      "declared_district": "SOMERSET",
+      "father": "WILLEM WOUTER VILJOEN",
+      "spouses": [
+        {
+          "name": "JUDITH CORNELIA THERESIA (OF ETRESIA)",
+          "surname": "BOOYSEN",
+          "marriage_year": "1829"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Willem Wouter",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Hercules Albertus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Charl",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Jan Albertus",
+        "district": "Somerset",
+        "note": "sv Willem",
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Hermanus David Jac",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Groenvalley"
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Christoffel",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Winterhoek"
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Fredrik Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Hendrik",
+        "localities": "Rietvallei/Uitvlugt"
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Willem Jacobus [died]",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Willem",
+        "district": "Graaff-Reinet",
+        "note": "sv Jan Hendrik",
+        "localities": "Tafelberg"
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Christoffel Jacobus",
+        "district": "Somerset",
+        "note": "sv Charl",
+        "localities": null
+      },
+      {
+        "label": "C11",
+        "owner_surname": "Viljoen",
+        "owner_given_names": "Jan Hendrik",
+        "district": "Graaff-Reinet",
+        "note": "deceased; sv Hendrik",
+        "localities": "Groenvallei op Sneeuberg; Konnenburg",
+        "flag": "recorded as deceased (estate)"
+      }
+    ]
+  },
+  {
+    "case_id": "P0159",
+    "genealogy": {
+      "surname": "DE LANGE",
+      "given_names": "BAREND JACOBUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "PETRONELLA",
+          "surname": "PRINSLOO",
+          "marriage_year": "1817"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "De Lange",
+        "owner_given_names": "Barend Jacobus",
+        "district": "Somerset",
+        "note": "sv Barend",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "De Lange",
+        "owner_given_names": "Jan Hendrik",
+        "district": "Somerset",
+        "note": "sv Barend",
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "De Lange",
+        "owner_given_names": "Alida",
+        "district": "Somerset",
+        "note": "wed v C Engelbrecht",
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0238",
+    "genealogy": {
+      "surname": "ERASMUS",
+      "given_names": "BALTHASAR JOHANNES",
+      "birth_year": null,
+      "death_year": "1868",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARIA MAGDALENA",
+          "surname": "ENSLIN",
+          "marriage_year": "1825"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Petrus Stephanus",
+        "district": "Somerset",
+        "note": "sv Jacob",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Daniel Johannes",
+        "district": "Somerset",
+        "note": "sv Jacob",
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Martha Francina",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Abel Hermanus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Winterhoek"
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Carel Stephanus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Coert",
+        "district": "Somerset",
+        "note": "sv Lourens",
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Lourens Jacobus",
+        "district": "Somerset",
+        "note": "sv Jac.",
+        "localities": null
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Christoffel Petrus Johannes",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Jacobus Lourens",
+        "district": "Albany",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Petrus Lourens",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C11",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Hendrik Ferdinand",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Seekoegat"
+      },
+      {
+        "label": "C12",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Lourens Rasmus sr",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C13",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Lourens Rasmus",
+        "district": "Somerset",
+        "note": "sv Carel C.",
+        "localities": null
+      },
+      {
+        "label": "C14",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Jacob Lourens Carolus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C15",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Lourens Johannes",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C16",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Johannes Jacobus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C17",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Petrus Rasmus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Riviermond"
+      },
+      {
+        "label": "C18",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Petrus Johannes",
+        "district": "Somerset",
+        "note": "sv PJ",
+        "localities": null
+      },
+      {
+        "label": "C19",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Michiel Coenraad",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C20",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Gerrit",
+        "district": "Somerset",
+        "note": "sv Jacob sr",
+        "localities": null
+      },
+      {
+        "label": "C21",
+        "owner_surname": "Erasmus",
+        "owner_given_names": "Daniel Jacobus",
+        "district": "Uitenhage",
+        "note": "s Daniel",
+        "localities": "In George"
+      }
+    ]
+  },
+  {
+    "case_id": "P0772",
+    "genealogy": {
+      "surname": "VAN RENSBURG",
+      "given_names": "HENDRIK JOHANNES JANSE",
+      "birth_year": "1808",
+      "death_year": null,
+      "declared_district": "BEAUFORT",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ANNA JACOBA",
+          "surname": "JANSE VAN RENSBURG",
+          "marriage_year": null
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van Rensburg",
+        "owner_given_names": "Willem Jacobus Janse",
+        "district": "Beaufort",
+        "note": null,
+        "localities": "Gouph; Zoutkuil"
+      }
+    ]
+  },
+  {
+    "case_id": "P0644",
+    "genealogy": {
+      "surname": "STEENKAMP",
+      "given_names": "JAN HARMSE",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ANNA ELIZABETH",
+          "surname": "VAN VUUREN",
+          "marriage_year": "1783"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Steenkamp",
+        "owner_given_names": "Lavina Catharina",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Steenkamp",
+        "owner_given_names": "Thomas Ignatius",
+        "district": "Somerset",
+        "note": "sv Jan",
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Steenkamp",
+        "owner_given_names": "Jan Harmse",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0687",
+    "genealogy": {
+      "surname": "SWANEPOEL",
+      "given_names": "CHRISTIAAN HENDERIK",
+      "birth_year": "1808",
+      "death_year": "1880",
+      "declared_district": "SOMERSET",
+      "father": "JACOBUS (ROOI KOOS) SWANEPOEL",
+      "spouses": [
+        {
+          "name": "ANNA MARIA",
+          "surname": "SWANEPOEL",
+          "marriage_year": "1827"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Swanepoel",
+        "owner_given_names": "Pieter Andreas Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv Pieter",
+        "localities": "Masterfontein"
+      }
+    ]
+  }
+]

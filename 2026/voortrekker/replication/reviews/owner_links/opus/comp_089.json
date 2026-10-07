@@ -1,0 +1,32 @@
+[
+ {
+  "case_id": "P0585",
+  "choice": "NONE",
+  "reason": "Jan corresponds to Johannes, but the only candidate is Johannes Francois while the man's second name is Hendrik. A shared first name with a different second name is too weak, even in the same district (Somerset)."
+ },
+ {
+  "case_id": "P0091",
+  "choice": "NONE",
+  "reason": "The only Albany candidate is Piet Bouwer, a clearly different given name from Dirk."
+ },
+ {
+  "case_id": "P0220",
+  "choice": "NONE",
+  "reason": "No candidate bears the names Christiaan Petrus. Charl (C03, son of Andries B.) and the other Du Toits have different given names."
+ },
+ {
+  "case_id": "P0851",
+  "choice": "NONE",
+  "reason": "No candidate is named Marthinus. The Christoffel and Christoffel Jacobus candidates (C05, C09) lack his first name, and C09's second name is Jacobus where he has none, so the evidence is too weak."
+ },
+ {
+  "case_id": "P0053",
+  "choice": "NONE",
+  "reason": "No candidate is named Frederik Jacobus. C01 Paul Stephanus 'sv Frederik' is at most a son of a Frederik, not this man."
+ },
+ {
+  "case_id": "P0638",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hendrik Jacobus, which differs in first and second names from Jacobus Philippus despite the same district (Uitenhage)."
+ }
+]

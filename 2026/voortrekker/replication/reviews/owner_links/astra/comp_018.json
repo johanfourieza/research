@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0282",
+  "choice": "C01",
+  "reason": "Abraham Carel Greyling matches the full name exactly and is recorded in Albany, the declared district."
+ },
+ {
+  "case_id": "P0747",
+  "choice": "NONE",
+  "reason": "The only candidate is Willem Abraham Van de Venter, whose given names clearly differ from Johannes Lodewykus despite the matching surname and district."
+ },
+ {
+  "case_id": "P0100",
+  "choice": "NONE",
+  "reason": "Neither Gysbert Sybrand nor Johannes Gerhardus Stephanus matches Hendrik Lambertus. The shared surname and Beaufort district do not overcome these given-name contradictions."
+ },
+ {
+  "case_id": "P0035",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Coenraad: the men are Gerrit Pieter and Johannes, while Anna Catharina is a woman."
+ },
+ {
+  "case_id": "P0498",
+  "choice": "C08",
+  "reason": "Matthys Gerhardus matches Mattys Gerhardus with a minor spelling variation, and both records place him in Uitenhage. The omitted senior designation is not a contradiction."
+ },
+ {
+  "case_id": "P0674",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Lodewyk, not Jan Hendrik. A shared first name and district without further corroboration are insufficient to establish identity."
+ },
+ {
+  "case_id": "P0195",
+  "choice": "NONE",
+  "reason": "The candidates are Cornelis Michiel and Leendert Hendrik Du Plooy, neither of whom matches Dirk Wouter."
+ },
+ {
+  "case_id": "P0601",
+  "choice": "C01",
+  "reason": "Johannes Martinus matches Jan (Johannes) Marthinus through the stated Jan/Johannes equivalence and a minor spelling variation. The Uitenhage district also agrees."
+ },
+ {
+  "case_id": "P0344",
+  "choice": "C01",
+  "reason": "Petrus Jacobus Joubert matches the full name, including the recorded Petrus form, and the Beaufort district agrees."
+ },
+ {
+  "case_id": "P0492",
+  "choice": "NONE",
+  "reason": "The only candidate, Hermanus Johannes Pieterse, has clearly different given names from Ferdinandus Albertus. The shared surname and Uitenhage connection do not establish a match."
+ }
+]

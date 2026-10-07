@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0509",
+  "choice": "NONE",
+  "reason": "C02's Philip is compatible with Philippus, but the claim is identified with widow Gerbrecht Vosloo, not this man or his recorded wife Elisabeth du Plessis. No other candidate has a compatible given-name combination."
+ },
+ {
+  "case_id": "P0123",
+  "choice": "C02",
+  "reason": "Johannes Jacobus Coetzer matches the full name and Somerset district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0076",
+  "choice": "C13",
+  "reason": "Petrus Johannes Botha is an exact name match, and Graaff-Reinet is compatible with the declared Colesberg district. The 'sv Piet' note does not conflict with any supplied father."
+ },
+ {
+  "case_id": "P0427",
+  "choice": "C03",
+  "reason": "Johannes Jacobus preserves two of his given names in reversed order, with Phillippus omitted, and matches the George district. This is stronger evidence than C09's Jacobus alone."
+ },
+ {
+  "case_id": "P0446",
+  "choice": "NONE",
+  "reason": "Even treating Pueter as Pieter, C01's Pieter Willem shares only the first name and does not match Schalk Johannes. No candidate supplies a stronger compatible name."
+ },
+ {
+  "case_id": "P0231",
+  "choice": "NONE",
+  "reason": "The only candidate is Jacobus Lourens Erasmus, whose given names contradict Carolus Johannes despite the shared Albany district."
+ },
+ {
+  "case_id": "P0280",
+  "choice": "C01",
+  "reason": "Jacob Martinus matches Jacob Marthinus with a minor spelling variation, and the Swellendam district agrees. The genealogy's contradictory death and marriage years do not provide evidence against this candidate specifically."
+ },
+ {
+  "case_id": "P0493",
+  "choice": "NONE",
+  "reason": "The only candidate, Hermanus Johannes Pieterse, has clearly different given names from Ferdinandus Petrus. The possible Uitenhage district agreement is insufficient."
+ },
+ {
+  "case_id": "P0536",
+  "choice": "C12",
+  "reason": "Willem Lodewyk Pretorius matches the full name and Graaff-Reinet district exactly, with no contradictory note."
+ },
+ {
+  "case_id": "P0191",
+  "choice": "NONE",
+  "reason": "No candidate has Frederik Willem or a compatible abbreviated full name. C26's Francois Jacobus has a different first name and a different district, while the other partial Jacobus matches provide insufficient identity evidence."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0282",
+  "choice": "C01",
+  "reason": "Owner Abraham Carel Greyling of Albany (Winterberg) matches the given names and the declared district Albany exactly. C02 has different given names (Petrus Johannes)."
+ },
+ {
+  "case_id": "P0747",
+  "choice": "NONE",
+  "reason": "The only candidate is Willem Abraham, which clearly contradicts the given names Johannes Lodewykus. A shared surname and district alone are not enough."
+ },
+ {
+  "case_id": "P0100",
+  "choice": "NONE",
+  "reason": "Neither Gysbert Sybrand (sv Gysbert) nor Johannes Gerhardus Stephanus matches Hendrik Lambertus. Both are clearly different given names."
+ },
+ {
+  "case_id": "P0035",
+  "choice": "NONE",
+  "reason": "No candidate is named Coenraad. Gerrit Pieter and Johannes sr are different men, and Anna Catharina is a woman."
+ },
+ {
+  "case_id": "P0498",
+  "choice": "C08",
+  "reason": "Matthys Gerhardus Potgieter of Uitenhage matches Mattys Gerhardus Sr. by name and district. All other candidates have clearly different given names or are a widow."
+ },
+ {
+  "case_id": "P0674",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Lodewyk, while the genealogy gives Jan Hendrik. A shared first name with a different second name is weak, so he is not more likely than not to be this man."
+ },
+ {
+  "case_id": "P0195",
+  "choice": "NONE",
+  "reason": "Cornelis Michiel and Leendert Hendrik (so Cornelis) do not match Dirk Wouter. Both are clearly different given names."
+ },
+ {
+  "case_id": "P0601",
+  "choice": "C01",
+  "reason": "Johannes Martinus Scheepers of Uitenhage matches Jan (Johannes) Marthinus by name and district. A man married in 1798 would plausibly be an owner in the 1830s."
+ },
+ {
+  "case_id": "P0344",
+  "choice": "C01",
+  "reason": "Petrus Jacobus Joubert of Beaufort matches Petrus (Pieter) Jacobus by name and declared district. He died in 1843, so he was alive at the time of the 1830s claims."
+ },
+ {
+  "case_id": "P0492",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Johannes, which clearly contradicts the given names Ferdinandus Albertus."
+ }
+]

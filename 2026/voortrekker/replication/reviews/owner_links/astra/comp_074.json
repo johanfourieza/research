@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0571",
+  "choice": "C01",
+  "reason": "Martinus Nicolaas matches Marthinus Nicolaas with a minor spelling variation, and the district is Clanwilliam. The parentage note cannot be checked because no father is supplied."
+ },
+ {
+  "case_id": "P0561",
+  "choice": "C05",
+  "reason": "Jochemus Johannes matches the recorded Joachim/Joachemus Johannes, with Petrus omitted, and 'sv JJ' agrees with his father Joachim Johannes. The Somerset district also favors C05 over C03 in Uitenhage."
+ },
+ {
+  "case_id": "P0126",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Hendrik, whose given names are clearly different from Gerhardus Hermanus Jacobus. The shared surname and district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0860",
+  "choice": "NONE",
+  "reason": "C02 is the only candidate sharing Jan, but he is recorded as the deceased estate of Jan Hendrik, with no evidence identifying that estate as this man. The remaining candidates have different given names."
+ },
+ {
+  "case_id": "P0400",
+  "choice": "C03",
+  "reason": "Carel is an explicitly recorded variant of Karel, and omission of Pieter is compatible with an abbreviated name. C03 is in the declared Uitenhage district, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0038",
+  "choice": "NONE",
+  "reason": "The sole candidate is Jacobus Boshof, not Willem Hendrik Boshof. A matching surname and district are insufficient against the different given name."
+ },
+ {
+  "case_id": "P0210",
+  "choice": "NONE",
+  "reason": "Both candidates are named Hercules, which conflicts with Pieter Daniel Andreas Salomon; C02's shared Salomon alone is insufficient. C01 is also a deceased estate, whereas the genealogy records this man's death in 1889."
+ },
+ {
+  "case_id": "P0706",
+  "choice": "C02",
+  "reason": "Johannes Daniel matches Johannes Daniël exactly apart from the diacritic, and both records place him in Swellendam. The 'sv Jan' note presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0781",
+  "choice": "NONE",
+  "reason": "No candidate matches Theodorus Cornelis. The Cornelis Johannes candidates share only Cornelis and have a different additional name, while the others are named Gerrit or Martinus."
+ },
+ {
+  "case_id": "P0040",
+  "choice": "NONE",
+  "reason": "None of the candidates' given names—Andries Stephanus, Jacob, or Wietsche—matches Anthonie Johannes Lourens. Their shared surname and Beaufort district do not establish identity."
+ }
+]

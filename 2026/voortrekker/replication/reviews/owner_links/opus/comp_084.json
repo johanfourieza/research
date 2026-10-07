@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0063",
+  "choice": "NONE",
+  "reason": "No candidate is named Alwyn. The owners are Petrus Johannes, Theunis Johannes, Willem Christiaan and Jan Christoffel, all clearly different given names."
+ },
+ {
+  "case_id": "P0386",
+  "choice": "NONE",
+  "reason": "No Kruger owner is named Theunis Johannes. No owner's parentage note points to Stephanus Johannes as father."
+ },
+ {
+  "case_id": "P0144",
+  "choice": "NONE",
+  "reason": "No De Beer owner bears the names Christiaan Marthinus. The candidates are Johannes Matthys, Samuel Pieter, Zacharias Johannes and Johannes Arnoldus."
+ },
+ {
+  "case_id": "P0668",
+  "choice": "NONE",
+  "reason": "The only Strauss owner is Abraham Frederik, which clearly contradicts Johannes Matthias."
+ },
+ {
+  "case_id": "P0798",
+  "choice": "NONE",
+  "reason": "Neither Uitenhage owner (Willem Hendrik, Jacobus Frederik) matches Marthinus Jacobus. Neither has a note linking him to father Marthinus Petrus."
+ },
+ {
+  "case_id": "P0181",
+  "choice": "C03",
+  "reason": "C03 is recorded simply as Jan du Plessis in Somerset, an exact name and district match for the declared Somerset man. No conflicting parentage is recorded in the genealogy."
+ },
+ {
+  "case_id": "P0056",
+  "choice": "C01",
+  "reason": "C01 matches the full name Theunis Johannes Botha exactly. Graaff-Reinet borders Somerset, so the district difference is minor. The Somerset Theunis owners have different or missing middle names."
+ },
+ {
+  "case_id": "P0069",
+  "choice": "NONE",
+  "reason": "No owner is named Theunis Gerhardus. The Somerset Theunis owners carry different middle names (Christoffel, Louis), and the bare 'Theunis sr' (C13) is too ambiguous among several Theunis Bothas to be more likely than not him."
+ },
+ {
+  "case_id": "P0291",
+  "choice": "NONE",
+  "reason": "The only Grobler owner is Johannes Hermanus, which clearly contradicts Willem Pieter."
+ },
+ {
+  "case_id": "P0308",
+  "choice": "NONE",
+  "reason": "The only Herbst owner is Christiaan Servaas. Sharing only 'Christiaan' while the other names (Johan, Jacobus vs Servaas) differ is too weak for a match."
+ }
+]

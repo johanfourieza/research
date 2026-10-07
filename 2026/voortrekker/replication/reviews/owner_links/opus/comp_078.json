@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0758",
+  "choice": "NONE",
+  "reason": "No candidate is named Johannes Wilhelmus. C01 Johannes Stephanus shares only the first name and has a clearly different second name. The rest are other men or women."
+ },
+ {
+  "case_id": "P0151",
+  "choice": "NONE",
+  "reason": "All three De Bruyn owners are named Hendrik, which clearly contradicts Petrus Frederik Barendse."
+ },
+ {
+  "case_id": "P0130",
+  "choice": "C03",
+  "reason": "C03 Jacob Daniel matches the first two given names exactly and is in the declared district, Swellendam. The other candidates have different names (Jacobus Martinus, Dirk Johannes Albertus)."
+ },
+ {
+  "case_id": "P0431",
+  "choice": "C01",
+  "reason": "C01 Petrus matches his second name and the nickname Piet he went by, and is in the declared district, Albany. He is the only Meyer candidate."
+ },
+ {
+  "case_id": "P0729",
+  "choice": "NONE",
+  "reason": "Neither Petrus Jacobus nor Johannes Martinus matches Lucas Johannes."
+ },
+ {
+  "case_id": "P0656",
+  "choice": "C04",
+  "reason": "C04 Hermanus Steyn of Somerset matches both his name and his declared district. The other candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0003",
+  "choice": "NONE",
+  "reason": "The only Aucamp owner, Pieter, clearly contradicts Johan Diederik."
+ },
+ {
+  "case_id": "P0355",
+  "choice": "C02",
+  "reason": "C02 Gerhardus Philip is a normal shortened form of Gerhardus Philippus and is in the declared district, Uitenhage."
+ },
+ {
+  "case_id": "P0189",
+  "choice": "C01",
+  "reason": "C01 Pieter (sr, sv Jan) of Somerset matches his first name and declared district, and records no conflicting second name. The only other Pieter, C21 Pieter Abraham, has a different second name."
+ },
+ {
+  "case_id": "P0330",
+  "choice": "NONE",
+  "reason": "The only candidate, Joachim Jacobus, has entirely different given names from Michiel Christiaan and is in a different district."
+ }
+]

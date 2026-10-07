@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0866",
+  "choice": "NONE",
+  "reason": "Neither owner, Charl (C01) nor Christoffel (C02), matches the given names Stephanus Petrus. The surname and district alone are not enough."
+ },
+ {
+  "case_id": "P0434",
+  "choice": "C05",
+  "reason": "Isaac Johannes Meyer 'Sr' in Uitenhage matches Isak Johannes Sr. exactly, including the senior designation and the district."
+ },
+ {
+  "case_id": "P0651",
+  "choice": "NONE",
+  "reason": "Every Hermanus owner is recorded as son of someone other than Hermanus (Douw, Martinus, Jacobus or Johannes), which contradicts the genealogy father. The only owners recorded as sons of Hermanus are named Jan Andries and Jacobus Johannes."
+ },
+ {
+  "case_id": "P0011",
+  "choice": "NONE",
+  "reason": "No candidate is named Jacobus Petrus. Gerhardus Johannes, Casper Hendrik and Hendrik are all clearly different names."
+ },
+ {
+  "case_id": "P0735",
+  "choice": "C09",
+  "reason": "Willem Carel van der Merwe in Graaff-Reinet matches both given names exactly and the declared district. No other candidate shares the name."
+ },
+ {
+  "case_id": "P0340",
+  "choice": "NONE",
+  "reason": "No Somerset Jordaan owner is named Louis Hosea. The candidates are Gideon, Pieter Johannes, Gerrit (a deceased estate) and Johannes Petrus."
+ },
+ {
+  "case_id": "P0170",
+  "choice": "NONE",
+  "reason": "Neither Isaac Christiaan (Uitenhage) nor Michiel Daniel (Albany) matches Volckert Johannes. Both districts also differ from Somerset."
+ },
+ {
+  "case_id": "P0196",
+  "choice": "NONE",
+  "reason": "The given names Gerhardus Andries match neither Leendert Hendrik nor Cornelis Michiel, despite the shared Beaufort district."
+ },
+ {
+  "case_id": "P0135",
+  "choice": "C11",
+  "reason": "Pieter Cronje (son of Abraham) in Swellendam matches the single given name Pieter exactly and the district. The alternative, Pieter Roelof (C15), carries a middle name the genealogy does not record, so it is a weaker fit."
+ },
+ {
+  "case_id": "P0572",
+  "choice": "NONE",
+  "reason": "No owner is named Hermanus Nicolaas. C01 bears the father's name (Martinus Nicolaas), and C03, Nicolaas Johannes 'so M.', is likely a brother rather than this man."
+ }
+]

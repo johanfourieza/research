@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0874",
+  "choice": "C01",
+  "reason": "C01 matches Floris Visser, with no conflicting status evidence; the genealogy supplies no father against which to check 'sv Jan'. The district difference weakens but does not outweigh the name match."
+ },
+ {
+  "case_id": "P0288",
+  "choice": "C03",
+  "reason": "Paul Johannes is a normal variant of Paulus Johannes, and Swellendam matches one of the declared districts. No supplied evidence contradicts the parentage note 'sv Johannes'."
+ },
+ {
+  "case_id": "P0349",
+  "choice": "C09",
+  "reason": "C09 matches Andries Johannes Joubert exactly in Swellendam. The genealogy provides no father that would contradict 'sv Josua'."
+ },
+ {
+  "case_id": "P0755",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Pieter Johannes or a plausible equivalent. The shared surname and district alone are insufficient."
+ },
+ {
+  "case_id": "P0143",
+  "choice": "NONE",
+  "reason": "No candidate matches Hendrik Stephanus. The candidates have clearly different given names, and none supplies parentage linking him to Zacharias Christiaan."
+ },
+ {
+  "case_id": "P0026",
+  "choice": "C04",
+  "reason": "C04 matches Theunis Christiaan Bester exactly and is recorded in the declared district of Albany, with no contradictory note or status."
+ },
+ {
+  "case_id": "P0838",
+  "choice": "NONE",
+  "reason": "Although C02 matches the full name and district, 's Jac' identifies him as a son of Jacobus, contradicting the genealogy's father Cornelis Johannes. No other candidate has compatible given names."
+ },
+ {
+  "case_id": "P0023",
+  "choice": "C07",
+  "reason": "C07 matches Paul Dirk Bester exactly in Somerset, with no conflicting status. Paul Michiel is a different name and is additionally recorded as deceased in another district."
+ },
+ {
+  "case_id": "P0635",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hendrik Jacobus Snyman, whose given names do not match Theunis. The common surname and district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0800",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederk matches Marthinus Johannes. Neither candidate supplies parentage evidence connecting him to Petrus van Staden."
+ }
+]

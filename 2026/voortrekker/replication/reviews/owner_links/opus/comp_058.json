@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0874",
+  "choice": "C01",
+  "reason": "Floris Visser is the only Floris among the candidates. He is in Graaff-Reinet, which neighbours and overlaps the declared Cradock district. The other candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0288",
+  "choice": "C03",
+  "reason": "Paul Johannes Grobler in Swellendam matches Paulus Johannes, since Paul is a normal short form of Paulus. The district also matches the declared Swellendam."
+ },
+ {
+  "case_id": "P0349",
+  "choice": "C09",
+  "reason": "Andries Johannes Joubert of Swellendam matches both given names and the declared district exactly. No other candidate shares his given names."
+ },
+ {
+  "case_id": "P0755",
+  "choice": "NONE",
+  "reason": "No candidate is named Pieter/Petrus Johannes. The owners are Jan Antony, Cornelis, Guilliam, Gert, Gerrit, a woman and a widow, all clearly different given names."
+ },
+ {
+  "case_id": "P0143",
+  "choice": "NONE",
+  "reason": "No candidate is named Hendrik Stephanus. The De Beer owners (Zacharias Johannes, Samuel Pieter, Johannes Matthys, Johannes Arnoldus) all have different given names, and he married only in 1838."
+ },
+ {
+  "case_id": "P0026",
+  "choice": "C04",
+  "reason": "Theunis Christiaan Bester of Albany (Kat Rivier) matches both given names and the declared Albany district exactly."
+ },
+ {
+  "case_id": "P0838",
+  "choice": "NONE",
+  "reason": "C02 shares the name Jacobus Stephanus and the Uitenhage district, but its note 's Jac' (son of Jacobus) contradicts the genealogy father Cornelis Johannes. This points to a different, same-named relative, and no other candidate matches."
+ },
+ {
+  "case_id": "P0023",
+  "choice": "C07",
+  "reason": "Paul Dirk Bester of Somerset matches both given names and the declared Somerset district exactly. Paul Michiel is a different man."
+ },
+ {
+  "case_id": "P0635",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hendrik Jacobus Snyman, a clearly different given name from Theunis."
+ },
+ {
+  "case_id": "P0800",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederik van Staden matches Marthinus Johannes. Both are clearly different given names."
+ }
+]

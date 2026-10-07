@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0416",
+  "choice": "NONE",
+  "reason": "The only Jan, C01 (Jan sv Joh), is a deceased estate in the 1830s, but this man died in 1867. The other owners are a woman or men with clearly different given names."
+ },
+ {
+  "case_id": "P0240",
+  "choice": "NONE",
+  "reason": "Neither owner, Hendrik Ferdinand nor Petrus Rasmus, matches the given names Lourens Marthinus."
+ },
+ {
+  "case_id": "P0639",
+  "choice": "C02",
+  "reason": "C02 is an exact match on Lodewyk Petrus Spies in the same declared district, Swellendam."
+ },
+ {
+  "case_id": "P0066",
+  "choice": "NONE",
+  "reason": "No Botha owner bears the names Ernst Adriaan Lodewyk. Theodorus Ernst (Albany) differs in first name and district."
+ },
+ {
+  "case_id": "P0541",
+  "choice": "C14",
+  "reason": "C14 is the only owner named Petrus Gerhardus, in his declared district Graaff-Reinet. The note 'sv Petrus Gerhardus' fits the family naming pattern, and C04 (Willem Sterrenberg sv Petrus Gerhardus) is plausibly his son."
+ },
+ {
+  "case_id": "P0237",
+  "choice": "NONE",
+  "reason": "No Erasmus owner is named Antonie or Philippus, or anything resembling those names."
+ },
+ {
+  "case_id": "P0395",
+  "choice": "C02",
+  "reason": "C02 Casper Labuschagne is in Somerset and matches the first name, with the middle name Jeremias omitted. No other Casper is listed."
+ },
+ {
+  "case_id": "P0463",
+  "choice": "C05",
+  "reason": "C05 is the only owner named plain Louis, matching the genealogy exactly; Koonap in Albany lies close to Somerset. The several Somerset owners recorded as 'sv Louis' look like his sons, and C03 Louis Jacobus carries an extra middle name and a son-of-Louis note."
+ },
+ {
+  "case_id": "P0078",
+  "choice": "C14",
+  "reason": "C14 Philip Rudolph Botha in Somerset matches his names and declared district exactly. C12 Rudolph Philip is a deceased estate, whereas this man died in 1875."
+ },
+ {
+  "case_id": "P0548",
+  "choice": "NONE",
+  "reason": "The only Nicolaas, C02, is Nicolaas Martinus in Uitenhage. His second name differs from Jacobus and his district differs from Somerset, so the match is too weak."
+ }
+]

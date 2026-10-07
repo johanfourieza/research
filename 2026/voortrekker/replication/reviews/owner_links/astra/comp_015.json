@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0522",
+  "choice": "NONE",
+  "reason": "C03, Matthys Jacobus, shares only Matthys with Matthys Cornelis and is recorded in Graaff-Reinet rather than Somerset. No candidate has a compatible full or shortened name supported by other identity evidence."
+ },
+ {
+  "case_id": "P0496",
+  "choice": "NONE",
+  "reason": "C05 is explicitly a widow, with no evidence connecting her claim to this man. C03, Hermanus Jacobus, does not match Johannes Hermanus despite sharing one given name."
+ },
+ {
+  "case_id": "P0211",
+  "choice": "NONE",
+  "reason": "No candidate is named Casper or a compatible variant. C03, Philippus Jacobus, shares only Philippus and is in Graaff-Reinet rather than Somerset, without corroborating identity evidence."
+ },
+ {
+  "case_id": "P0822",
+  "choice": "C19",
+  "reason": "Willem van Zyl in Clanwilliam matches the surname, first name and district, with Jacobus plausibly omitted. The 'so Willem' note cannot be checked against the unrecorded genealogy father but creates no contradiction."
+ },
+ {
+  "case_id": "P0484",
+  "choice": "NONE",
+  "reason": "C01 is Andries Christoffel Piek, matching the recorded father's names rather than George Diederik Frederik's. The shared Albany district does not overcome the different given names."
+ },
+ {
+  "case_id": "P0347",
+  "choice": "C01",
+  "reason": "Pieter Schalk Joubert matches the complete name and Uitenhage district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0107",
+  "choice": "NONE",
+  "reason": "C01, Schalk Johannes, shares only Schalk and has a different second name, with no corroborating parentage or spouse evidence. C03, Elsie Sophia, is a woman; similarity to the wife's given names does not establish that her claim is his."
+ },
+ {
+  "case_id": "P0763",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Jacobus Gustavus. The Somerset candidate, C10, is Johannes Albertus, son of Willem, contradicting both the man's names and his recorded father Christiaan."
+ },
+ {
+  "case_id": "P0502",
+  "choice": "NONE",
+  "reason": "None of the candidates has Izak, Isaac or Cornelius as a given name. Their shared surname and Uitenhage district are insufficient against the incompatible given names."
+ },
+ {
+  "case_id": "P0060",
+  "choice": "NONE",
+  "reason": "C01, Jacobus Theodorus, shares only Jacobus, while Theodorus is not a variant of Mathinus. C02, Theunis Jacobus, likewise introduces a different given name, and neither has corroborating identity evidence."
+ }
+]

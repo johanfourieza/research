@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0058",
+  "choice": "C16",
+  "reason": "C16 Petrus Johannes Botha of George matches his full given names in the same order and his declared district. C14 Johannes Petrus has the names reversed, and C10 is a deceased estate."
+ },
+ {
+  "case_id": "P0408",
+  "choice": "NONE",
+  "reason": "No candidate is named Hendrik Frederik. C04 Barend Godlieb is his recorded father, not him, and the others have different given names."
+ },
+ {
+  "case_id": "P0510",
+  "choice": "C10",
+  "reason": "C10 Hermanus Philippus Potgieter is the only Hermanus in Somerset, his declared district. The other Hermanus, C14, is in Uitenhage and is recorded as son of Evert."
+ },
+ {
+  "case_id": "P0589",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Gysbertus Roos, whose given names clearly differ from Paulus Stephanus."
+ },
+ {
+  "case_id": "P0010",
+  "choice": "C03",
+  "reason": "C03 Hendrik Badenhorst of Graaff-Reinet shares his first name, with the middle name omitted. Colesberg was part of Graaff-Reinet, while the other candidates have different first names and are in Somerset."
+ },
+ {
+  "case_id": "P0087",
+  "choice": "NONE",
+  "reason": "C01 is a widow, and C02 Johannes Arnoldus has a different first name from Cornelis Arnoldus and is in Albany."
+ },
+ {
+  "case_id": "P0363",
+  "choice": "NONE",
+  "reason": "No candidate is named Jacobus Marthinus. All four Klopper owners have clearly different given names."
+ },
+ {
+  "case_id": "P0004",
+  "choice": "C03",
+  "reason": "C03 Lourens Badenhorst 'sr' of Swellendam matches his name, his 'Sr' designation and his district. The other Lourens candidates are sons or carry other names."
+ },
+ {
+  "case_id": "P0315",
+  "choice": "C03",
+  "reason": "C03 Christoffel Johannes Jacobs of Graaff-Reinet is an exact match of his given names and declared district."
+ },
+ {
+  "case_id": "P0608",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Sara Johanna, wife of Strydom. All candidates are men with different given names."
+ }
+]

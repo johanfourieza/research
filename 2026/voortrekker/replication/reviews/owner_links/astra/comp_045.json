@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0055",
+  "choice": "NONE",
+  "reason": "None of the Uitenhage owners has the given name Reynier or a plausible variant; Jacobus Theodorus, Theunis Jacobus and Ignatius Michiel are different names."
+ },
+ {
+  "case_id": "P0389",
+  "choice": "NONE",
+  "reason": "C02 shares Jan but has Hendrik rather than Harm. C03 omits the distinguishing name and is in Uitenhage rather than Somerset, with no parentage evidence connecting him to Casper."
+ },
+ {
+  "case_id": "P0323",
+  "choice": "C06",
+  "reason": "C06 records Pieter with the additional name fragment 'Daniel]' in Beaufort, consistent with Daniel Pieter in reversed order. This preserves both names, whereas C03 supplies only Daniel and C01 explicitly names Pieter as father, contradicting Salomon Jacobus."
+ },
+ {
+  "case_id": "P0701",
+  "choice": "NONE",
+  "reason": "Neither Johannes Gerhardus nor Johannes is a plausible name equivalent of Izak Gerrit. The historical district relationship cannot overcome these given-name contradictions."
+ },
+ {
+  "case_id": "P0432",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Elsie Meyer, widow of Paul Hendrik Fick. All candidates have different male given names, and none identifies Elsie or the Fick widow."
+ },
+ {
+  "case_id": "P0558",
+  "choice": "NONE",
+  "reason": "C09 shares Nicolaas but has Martinus rather than Balthasar and is in Uitenhage rather than Somerset. No candidate matches Nicolaas Balthasar or his recorded nickname Klaas."
+ },
+ {
+  "case_id": "P0002",
+  "choice": "NONE",
+  "reason": "C01's Johannes Alberts also exactly matches the genealogy father's name, without any junior designation or parentage distinguishing the son. Johannes Joachim was old enough to own property, but the supplied evidence does not favor him over his father."
+ },
+ {
+  "case_id": "P0464",
+  "choice": "NONE",
+  "reason": "No candidate is named Gabriël or a plausible variant. Several owners are sons of Louis, but matching parentage does not overcome their different given names."
+ },
+ {
+  "case_id": "P0371",
+  "choice": "NONE",
+  "reason": "C01 is Joachim Marthinus, son of Diederik, not Diederik Johannes himself. C02 has different given names and a widow notation, providing no identification with the target."
+ },
+ {
+  "case_id": "P0641",
+  "choice": "C05",
+  "reason": "C05 exactly matches Andries Theodorus Spies and the Swellendam district. Its 'sv Hans' note does not contradict the genealogy, which supplies no father."
+ }
+]

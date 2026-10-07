@@ -1239,7 +1239,7 @@ rm(df, df_stellenbosch, df_gr, df_sw, df_sw_clean, df_al, df_bf, df_ge,
 
 vt_raw <- read_excel("data/raw/Voortrekkers 2.xlsx", sheet = "Main")
 
-# Debug: print column names to identify any issues
+# Column names, for checking the import
 cat("\nVoortrekker file column names (first 40):\n")
 print(head(names(vt_raw), 40))
 
@@ -2255,7 +2255,7 @@ if (sum(train_data$label == 1) >= min_positive && sum(train_data$label == 0) >= 
 
   # ---------- ONE-TO-ONE MATCHING CONSTRAINT ----------
   # If multiple Voortrekkers claim the same census record, keep only the best.
-  # Preserve the accepted implementation: wife corroboration first, then RF score.
+  # Order: wife corroboration first, then RF score.
   # Exact source adjudication below resolves remaining competing identities.
   n_before_dedup <- nrow(best_matches)
   best_matches <- best_matches %>%
@@ -2508,7 +2508,7 @@ if (sum(train_data$label == 1) >= min_positive && sum(train_data$label == 0) >= 
       row_id
     )
 
-  # ---------- B1–B3: Improved manual review xlsx ----------
+  # ---------- B1–B3: Manual review workbook ----------
   # Add census household variables and second-best candidate
 
   # Get second-best candidate per VT
@@ -2754,7 +2754,7 @@ if (sum(best_matches$can_match_wife, na.rm = TRUE) > 0) {
   cat("    Mean RF score:", round(mean(without_wife$match_score, na.rm = TRUE), 3), "\n")
   cat("    Mean husband score:", round(mean(without_wife$husband_score, na.rm = TRUE), 3), "\n")
 
-  # Key comparison: does wife info improve match quality?
+  # Key comparison: match quality with and without wife information
   if (nrow(with_wife) > 0 && nrow(without_wife) > 0) {
     cat("\n  WIFE INFO IMPACT:\n")
     score_diff <- mean(with_wife$match_score, na.rm = TRUE) -
@@ -2934,8 +2934,8 @@ best_matches %>%
 # PART 4B: XGBOOST SUPERVISED MACHINE LEARNING MATCHING (OPTIONAL)
 # ============================================================================
 #
-# NOTE: Part 4 now uses Random Forest as the primary ML method (per Fourie & Green 2018).
-# This XGBoost section is retained for comparison and backward compatibility.
+# NOTE: Part 4 uses Random Forest as the primary ML method (per Fourie & Green 2018).
+# This XGBoost section provides an optional comparison.
 # The Random Forest model in Part 4 should be preferred as it properly incorporates
 # wife information and uses the features described in the published methodology.
 #
@@ -3023,7 +3023,7 @@ xgb_features <- candidates %>%
     soundex_match = as.integer(
       !is.na(vt_first_only) & !is.na(census_first_only) &
       nchar(vt_first_only) > 0 & nchar(census_first_only) > 0
-    )  # Note: R doesn't have built-in soundex, so this is a placeholder
+    )  # Indicator that both first-name strings are nonempty
   ) %>%
   # Handle NAs and Inf values
   mutate(across(where(is.numeric), ~ ifelse(is.na(.) | is.infinite(.), 0, .)))
@@ -3371,7 +3371,7 @@ candidates$label <- train_data$label[match(paste(candidates$row_id, candidates$c
 candidates_for_analysis <- candidates   # Part 15 ablation reads this copy
 # >>> LINKAGE END
 
-# Checkpoint: repaired linkage proposals and exact-pair history for review.
+# Checkpoint: linkage proposals and pair-level review records.
 saveRDS(list(candidates = candidates, best_matches = best_matches,
              vt = vt, vt_adults = vt_adults, all_districts = all_districts,
              train_data = train_data, feature_cols = feature_cols),
@@ -4203,7 +4203,7 @@ save_leap_fig(fig_file, p_coefs_raw, width = 10, height = 6, dpi = 300)
 # ============================================================================
 # PART 12A: HARMONISED MAIN RESULTS ACROSS THE FOUR DESIGNS
 #
-# One harmonised variable set -- now including cattle and sheep -- reported
+# One harmonised variable set, including cattle and sheep, reported
 # identically across (i) row-based nearest neighbour, (ii) district FE,
 # (iii) exact district matching, (iv) district + family-size matching.
 # Feeds the combined main-text table and the per-design appendix tables.
@@ -5310,7 +5310,7 @@ cat(">>> PART 12D ENTERED <<<\n")
 tryCatch({
 
 # Check if move_with and move_to columns exist in vt_adults
-# Debug: show available columns
+# Available columns, for checking the import
 cat("Checking for trek columns in vt_adults...\n")
 cat("  Available columns:", paste(names(vt_adults), collapse = ", "), "\n\n")
 
@@ -7038,7 +7038,7 @@ cat("================================================================\n\n")
 # c) Male + Wife + District (full RF model with district features)
 #
 # The key insight from the paper: "absence of wife makes it far harder to identify a link"
-# We expect to see a meaningful improvement when wife info is included.
+# Compare match rates with and without wife information.
 
 # --------------------------------------------------------------------------
 # 15.1 TRAIN ABLATED RANDOM FOREST MODELS
@@ -7248,7 +7248,7 @@ if (!is.null(candidates) && exists("candidates") && nrow(candidates) > 0 && rf_m
                 match_rate_summary$rate_80[i]))
   }
 
-  # Show improvement from wife info
+  # Show match-rate differences with wife information
   cat("\n--- VALUE OF WIFE INFORMATION ---\n")
   wife_improvement_56 <- match_rate_summary$rate_56[2] - match_rate_summary$rate_56[1]
   wife_improvement_70 <- match_rate_summary$rate_70[2] - match_rate_summary$rate_70[1]
@@ -7487,10 +7487,10 @@ if (!is.null(candidates) && exists("candidates") && nrow(candidates) > 0 && rf_m
   # (output handled by save_leap_fig)
 
   # --------------------------------------------------------------------------
-  # 15.7 CREATE CRITERIA IMPROVEMENT VISUALIZATION
+  # 15.7 MATCH-RATE COMPARISON ACROSS FEATURE SETS
   # --------------------------------------------------------------------------
 
-  # Show how match rates improve as we add criteria
+  # Show match rates as criteria are added
   criteria_progression <- data.frame(
     criteria = factor(c("Male Only", "Male + Wife", "Male + Wife + District"),
                       levels = c("Male Only", "Male + Wife", "Male + Wife + District")),
@@ -7613,12 +7613,12 @@ cat("\n========== MATCH RATE ANALYSIS COMPLETE ==========\n")
 # ============================================================================
 # PART 15B: SELECTION BY LEADER AND DESTINATION
 # ============================================================================
-# NOTE: This section is now superseded by the expanded analysis in PART 12D,
+# NOTE: The leader and destination analysis is in PART 12D;
 # which includes comprehensive leader name cleaning (JW fuzzy matching),
 # representativeness tests, pairwise comparisons, and the Retief narrative test.
 # Skipping to avoid duplicate figure generation.
 
-cat("\n\nPART 15B skipped: Leader/destination analysis now in PART 12D.\n")
+cat("\n\nPART 15B skipped: leader/destination analysis is in PART 12D.\n")
 if (FALSE) {  # Wrapped in if(FALSE) to skip execution
 # This section analyzes whether there was differential selection into the Trek
 # by which leader they followed and where they ultimately settled.
@@ -7838,7 +7838,7 @@ if ("move_to" %in% names(best_matches) || "move_to" %in% names(vt_adults)) {
 }
 
 cat("\n========== LEADER/DESTINATION ANALYSIS COMPLETE ==========\n")
-}  # End of if(FALSE) block wrapping old PART 15B
+}  # End of if(FALSE) block wrapping the disabled PART 15B
 
 
 # ============================================================================
@@ -8505,6 +8505,16 @@ map_to_emancipation_districts <- function(census_dist) {
 matches_emancipation <- list()
 match_idx <- 1
 
+# Owner links are the decisions of a blind review of every candidate owner by two language
+# models (reviews/owner_links/); each genealogy record is linked only to the owner both models
+# chose, and owners in unresolved cases are excluded from the owner sample.
+# The scoring below is kept to report each decided link's similarity score.
+stopifnot(digest_ok <- all(sapply(c("owner_link_decisions", "owner_exclusions"), function(f)
+  tolower(digest::digest(file = file.path("data/inputs", paste0(f, ".csv")), algo = "sha256")) ==
+    trimws(readLines(file.path("data/inputs", paste0(f, "_sha256.txt")), warn = FALSE)))))
+owner_link_decisions <- read.csv("data/inputs/owner_link_decisions.csv", stringsAsFactors = FALSE)
+owner_exclusions <- read.csv("data/inputs/owner_exclusions.csv", stringsAsFactors = FALSE)$owner_key
+
 cat("Starting matching loop (JW with district weighting)...\n")
 
 for (i in 1:nrow(vt_for_emancipation)) {
@@ -8520,7 +8530,10 @@ for (i in 1:nrow(vt_for_emancipation)) {
   # Find candidates with exact surname match in relevant districts
   candidates <- slave_owners %>%
     filter(surname_clean == vt_row$vt_surname_clean,
-           district_std %in% search_dists)
+           district_std %in% search_dists) %>%
+    # only the owner decided for this record
+    filter(paste(surname_std, first_name_std, district_std, sep = "|") %in%
+             owner_link_decisions$owner_key[owner_link_decisions$vt_row_id == vt_row$vt_row_id])
 
   if (nrow(candidates) == 0) next
 
@@ -8568,8 +8581,8 @@ for (i in 1:nrow(vt_for_emancipation)) {
     }
   }
 
-  # Record match if found
-  if (!is.null(best_match) && best_score >= 0.70) {
+  # Record match if found (no score threshold: the decision is the review's)
+  if (!is.null(best_match)) {
     matches_emancipation[[match_idx]] <- data.frame(
       vt_row_id = vt_row$vt_row_id,
       census_id = vt_row$census_id,
@@ -8647,7 +8660,10 @@ if (!is.null(emancipation_matches) && nrow(emancipation_matches) >= 20) {
       owner_key = paste(surname_std, first_name_std, district_std, sep = "|"),
       is_voortrekker = owner_key %in% matched_owner_ids$owner_key,
       is_voortrekker_census = owner_key %in% matched_owner_ids_census$owner_key
-    )
+    ) %>%
+    # owners in unresolved review cases are neither Trekkers nor controls
+    filter(!owner_key %in% owner_exclusions)
+  stopifnot(nrow(emancipation_matches) == nrow(owner_link_decisions))
 
   n_vt_owners <- sum(slave_owners_analysis$is_voortrekker)
   n_non_vt_owners <- sum(!slave_owners_analysis$is_voortrekker)
@@ -8857,7 +8873,6 @@ if (!is.null(emancipation_matches) && nrow(emancipation_matches) >= 20) {
   p_valuation_dist <- ggplot(emancipation_plot_data,
                               aes(x = total_valuation, fill = group)) +
     geom_histogram(aes(y = after_stat(density)), bins = 50, alpha = 0.6, position = "identity") +
-    geom_density(alpha = 0.3) +
     scale_x_continuous(limits = c(0, quantile(emancipation_plot_data$total_valuation, 0.95, na.rm = TRUE))) +
     scale_fill_manual(values = c("Voortrekker" = "#5C2346", "Non-Voortrekker" = "#3D8EB9")) +
     labs(x = "Total Slave Valuation (£)",
@@ -8875,7 +8890,6 @@ if (!is.null(emancipation_matches) && nrow(emancipation_matches) >= 20) {
   p_loss_dist <- ggplot(emancipation_plot_data,
                          aes(x = loss, fill = group)) +
     geom_histogram(aes(y = after_stat(density)), bins = 50, alpha = 0.6, position = "identity") +
-    geom_density(alpha = 0.3) +
     geom_vline(xintercept = 0, linetype = "dashed", color = "#AAAAAA") +
     scale_x_continuous(limits = c(quantile(emancipation_plot_data$loss, 0.01, na.rm = TRUE),
                                    quantile(emancipation_plot_data$loss, 0.95, na.rm = TRUE))) +
@@ -9438,7 +9452,6 @@ if (!is.null(emancipation_matches) && nrow(emancipation_matches) >= 20) {
                            mutate(group = ifelse(is_voortrekker, "Voortrekker", "Non-Voortrekker")),
                          aes(x = compensation_rate, fill = group)) +
     geom_histogram(aes(y = after_stat(density)), binwidth = 0.025, alpha = 0.6, position = "identity") +
-    geom_density(alpha = 0.3) +
     scale_x_continuous(labels = scales::percent_format()) +
     coord_cartesian(xlim=c(0,1.2)) +
     scale_fill_manual(values = c("Voortrekker" = "#5C2346", "Non-Voortrekker" = "#3D8EB9")) +
@@ -9459,11 +9472,9 @@ if (!is.null(emancipation_matches) && nrow(emancipation_matches) >= 20) {
     geom_text(aes(label = sprintf("%.1f%%\n(n=%d)", vt_rate, n_total)),
               vjust = -0.3, size = 3.5, color = "#2D2D2D") +
     geom_hline(yintercept = base_rate * 100, linetype = "dashed", color = "#AAAAAA") +
-    annotate("text", x = 4, y = base_rate * 100,
-             label = sprintf("Overall VT rate: %.1f%%", base_rate * 100),
-             hjust = 1, vjust = -0.5, color = "#5A5A5A", size = 3) +
     labs(x = "Loss Percentage Quartile",
-         y = "Voortrekker Rate (%)") +
+         y = "Voortrekker Rate (%)",
+         subtitle = sprintf("Dashed line: overall Voortrekker rate among owners, %.1f%%", base_rate * 100)) +
     theme_leap() +
     ylim(0, max(quartile_rates$vt_rate) * 1.3)
 
@@ -9760,7 +9771,7 @@ cat("\n================================================================\n")
 cat("                    ANALYSIS COMPLETE                            \n")
 cat("================================================================\n")
 
-# household-level spouse corroboration replaces the district flag
+# household-level indicator of spouse agreement
 # (see the sample without spouse agreement above): TRUE for trekker households whose link has
 # spouse agreement; FALSE for controls and for links without it.
 analysis_dataset_main <- analysis_dataset_main %>%
@@ -10741,7 +10752,7 @@ prov <- best_matches %>% group_by(census_id) %>%
   summarise(state = if (any(evidence_state %in% "agrees")) "agrees" else
                       if (any(evidence_state %in% "contradicts")) "contradicts" else "not_comparable",
             provenance = if (Sys.getenv("VT_LINKAGE", "spouse") == "blind") "classifier_only" else
-                           if (any(grepl("Johan", final_quality))) "adjudicated" else "models_agreed",
+                           if (any(grepl("adjudicated", final_quality))) "adjudicated" else "models_agreed",
             .groups = "drop")
 a8e_base <- a8e_base %>% left_join(prov, by = "census_id")
 ctrl <- a8e_base %>% filter(!is_voortrekker)

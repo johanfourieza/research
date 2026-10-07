@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0179",
+  "choice": "C01",
+  "reason": "C01 Francois Jacobus Du Plessis in Uitenhage matches his full given names and declared district exactly. No other candidate shares his names."
+ },
+ {
+  "case_id": "P0178",
+  "choice": "C03",
+  "reason": "C03 Joseph Albertus Du Plessis in Uitenhage matches his full given names and declared district exactly. All other candidates have different given names."
+ },
+ {
+  "case_id": "P0495",
+  "choice": "NONE",
+  "reason": "No Uitenhage Potgieter owner is named Izak or Izaac. C10 Hermanus Jacobus shares only the second name Hermanus, with a different first name, which is too weak."
+ },
+ {
+  "case_id": "P0033",
+  "choice": "NONE",
+  "reason": "No Beaufort Bezuidenhout owner is named Frederik Jacobus. The candidates are Gerrit Pieter, Johannes sr and a woman, Anna Catharina."
+ },
+ {
+  "case_id": "P0262",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Fouche owner bears the distinctive names Gustavus Wilhelmus. The candidates are Paul Johannes, Jacobus Albertus and Johannes Hendrik."
+ },
+ {
+  "case_id": "P0290",
+  "choice": "C01",
+  "reason": "C01 Johannes Hermanus Grobler in Somerset matches his full names and declared district exactly. The genealogy records no father, so the note 'sv N.' cannot contradict the match."
+ },
+ {
+  "case_id": "P0649",
+  "choice": "NONE",
+  "reason": "No Swellendam Steyn owner is Johannes Christoffel or Hans. C07 Johannes Jacobus shares only the first name and has a different second name, which is weak."
+ },
+ {
+  "case_id": "P0139",
+  "choice": "C02",
+  "reason": "C02 Matthys Andries De Beer in Beaufort matches his full names and declared district exactly. The genealogy records no father to conflict with 'sv Zacharias'."
+ },
+ {
+  "case_id": "P0103",
+  "choice": "C06",
+  "reason": "C06 Johannes Hendrik Bruwer in Swellendam matches his full names and declared district exactly. No other candidate shares both names."
+ },
+ {
+  "case_id": "P0855",
+  "choice": "NONE",
+  "reason": "No Viljoen owner in any listed district is named David Schalk. None of the candidates shares his given names."
+ }
+]

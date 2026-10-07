@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0167",
+  "choice": "C02",
+  "reason": "Pieter Josua matches exactly in Swellendam, and 'sv Pieter' agrees with his father Pieter Hendrikus."
+ },
+ {
+  "case_id": "P0551",
+  "choice": "C08",
+  "reason": "C08 matches Pieter Willem exactly in Somerset, and the 'sr' note does not contradict the genealogy. C10 has the same names reversed but lacks evidence outweighing C08's exact match."
+ },
+ {
+  "case_id": "P0576",
+  "choice": "C01",
+  "reason": "Petrus Albertus matches the genealogy's formal given names exactly, and the district is Somerset. The father note 'sv Adam' presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0462",
+  "choice": "C05",
+  "reason": "C05 matches Jacobus in Somerset, with Hercules plausibly omitted. The 'sv Louis' note is uncontradicted because the genealogy gives no father, and no other candidate has comparably compatible given names."
+ },
+ {
+  "case_id": "P0372",
+  "choice": "NONE",
+  "reason": "Although 'Gert Ja' could represent Gerrit Jacobus, C01's widow note names M.E. Oberholser rather than his recorded wife Maria Catharina de Bruyn, and the district differs. C02 has clearly different given names."
+ },
+ {
+  "case_id": "P0516",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Cornelis nor Theodorus David matches Marthinus Jacobus. The shared district and C01's single shared given name are insufficient."
+ },
+ {
+  "case_id": "P0810",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Hester Janse van Vuuren, widow of Rudolph Johannes Bronkhorst, but no candidate matches her identity. C01's widow entry is under Johannes Martinus Janse van Vuuren, with no evidence connecting it to Hester or Bronkhorst."
+ },
+ {
+  "case_id": "P0529",
+  "choice": "C04",
+  "reason": "All three given names, Johannes Lodewyk Wynand, match exactly in Graaff-Reinet. This is stronger than the partial matches despite the question mark attached to the recorded surname."
+ },
+ {
+  "case_id": "P0333",
+  "choice": "NONE",
+  "reason": "The sole candidate is Nicolaas Johannes Jacobus, not Francois or Frans Jacobus, and is recorded in a different district. Sharing Jacobus and the surname does not establish identity."
+ },
+ {
+  "case_id": "P0332",
+  "choice": "NONE",
+  "reason": "The sole candidate is Adolph Jonker, a clearly different given name from Johannes. The shared Beaufort district does not overcome that contradiction."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0297",
+  "choice": "NONE",
+  "reason": "C01 is Cornelis Johannes, not Christiaan Barend Stephanus, and is recorded in Beaufort rather than Colesberg. The surname alone does not establish identity."
+ },
+ {
+  "case_id": "P0756",
+  "choice": "NONE",
+  "reason": "No candidate has given names corresponding to Lucas Cornelis. C10 shares only Cornelis and has the different first name Pieter."
+ },
+ {
+  "case_id": "P0692",
+  "choice": "C04",
+  "reason": "Wentzel Cornelis closely corresponds to Wessel Cornelis, and both records place him in Somerset. The parentage note 'sv Hans' presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0748",
+  "choice": "C02",
+  "reason": "Gerrit Van Deventer matches the first name, surname and Somerset district. The additional name Albertus is consistent with an omitted middle name in the genealogy."
+ },
+ {
+  "case_id": "P0816",
+  "choice": "NONE",
+  "reason": "C01 shares Adriaan but has Jacobus rather than Pieter and is in a different district. C05's Petrus corresponds to Pieter, but Andries is a different first name from Adriaan, with no corroborating parentage supplied."
+ },
+ {
+  "case_id": "P0406",
+  "choice": "NONE",
+  "reason": "No candidate matches Barend Johannes. C06 shares Barend but has the different second name Godlieb, and there is no additional evidence linking him to this man."
+ },
+ {
+  "case_id": "P0453",
+  "choice": "NONE",
+  "reason": "Neither Gert Petrus nor Isaac Bartolomeus corresponds to Willem Andries. The shared surname and district are insufficient against these given-name differences."
+ },
+ {
+  "case_id": "P0113",
+  "choice": "C16",
+  "reason": "Martin corresponds to Maarten, with the middle names omitted, and 'sv Jan' agrees with his father Johannes. Graaff-Reinet is geographically compatible with the declared Colesberg district."
+ },
+ {
+  "case_id": "P0682",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes, not Pieter Andries, and is explicitly recorded as a deceased estate. Nothing supplied identifies that estate as this man's."
+ },
+ {
+  "case_id": "P0592",
+  "choice": "C01",
+  "reason": "The surname, both given names and Graaff-Reinet district match exactly. The omission of the senior designation does not contradict the identification."
+ }
+]

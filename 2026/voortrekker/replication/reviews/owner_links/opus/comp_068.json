@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0619",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Petrus Smit. The closest Somerset name, C21 Jacobus Petrus, has a different first name."
+ },
+ {
+  "case_id": "P0274",
+  "choice": "C13",
+  "reason": "C13 Louis Johannes Fourie of Swellendam matches both given names exactly and the declared district. The 'sr' note fits a man married in 1820."
+ },
+ {
+  "case_id": "P0200",
+  "choice": "C02",
+  "reason": "C02 Leendert Hendrik du Plooy matches both given names exactly and the Beaufort district. The genealogy gives no father, so the 'so Cornelis' note cannot contradict it."
+ },
+ {
+  "case_id": "P0360",
+  "choice": "NONE",
+  "reason": "No Klopper owner is named Paul Stephanus. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0168",
+  "choice": "C62",
+  "reason": "C62 Jacob Pieter Daniel de Villiers matches all three given names exactly. His claims name Cabriére and Fransche Hoek, matching the declared Franschhoek."
+ },
+ {
+  "case_id": "P0039",
+  "choice": "C05",
+  "reason": "C05 Hermanus Stephanus Bosman of Stellenbosch is an exact full-name and district match. C08 is a garbled 'Hermanus / Stephanus sr (unsure)' entry, which fits less well."
+ },
+ {
+  "case_id": "P0771",
+  "choice": "NONE",
+  "reason": "No Van Rensburg owner is named Nicolaas Johannes Janse. All candidates have different given names and are mostly in Uitenhage or Albany."
+ },
+ {
+  "case_id": "P0628",
+  "choice": "C16",
+  "reason": "C16 is the only Abraham Johannes Smit and matches both given names exactly. His district is Graaff-Reinet (Camdebo) rather than the declared Somerset, but the districts are adjacent."
+ },
+ {
+  "case_id": "P0736",
+  "choice": "C16",
+  "reason": "C16 David Schalk van der Merwe matches both given names exactly and is the only owner of that name. Graaff-Reinet borders the declared Somerset, and C33 is recorded as a son of David Schalk, consistent with this man."
+ },
+ {
+  "case_id": "P0479",
+  "choice": "NONE",
+  "reason": "The only candidate, Godlieb Rudolph Opperman ('sv Alb.'), has entirely different given names. He may be a son but is not Philippus Albertus himself."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0416",
+  "choice": "NONE",
+  "reason": "C01 is the only Jan Lubbe, but he is recorded as deceased in the compensation records, contradicting this man's death in 1867. The other candidates have incompatible given names."
+ },
+ {
+  "case_id": "P0240",
+  "choice": "NONE",
+  "reason": "Neither Hendrik Ferdinand (C01) nor Petrus Rasmus (C02) matches Lourens Marthinus. Their shared surname and Graaff-Reinet district cannot overcome the given-name differences."
+ },
+ {
+  "case_id": "P0639",
+  "choice": "C02",
+  "reason": "C02 matches Lodewyk Petrus Spies exactly and is recorded in Swellendam. The 'sv Hans' note introduces no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0066",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Ernst Adriaan Lodewyk. C12 shares only Lodewyk and C14 only Ernst, while their remaining given names differ substantially."
+ },
+ {
+  "case_id": "P0541",
+  "choice": "C14",
+  "reason": "C14 matches Petrus Gerhardus Pretorius exactly in Graaff-Reinet. His 'sv Petrus Gerhardus' note cannot be checked against an unspecified genealogy father, but there is no conflicting identity evidence."
+ },
+ {
+  "case_id": "P0237",
+  "choice": "NONE",
+  "reason": "None of the candidates has Antonie Philippus or a compatible variant of those given names. Shared surname and district alone are insufficient."
+ },
+ {
+  "case_id": "P0395",
+  "choice": "C02",
+  "reason": "C02 is Casper Labuschagne in Somerset, consistent with omission of the middle name Jeremias. Neither the senior designation nor 'sv Jan' conflicts with the supplied genealogy."
+ },
+ {
+  "case_id": "P0463",
+  "choice": "C05",
+  "reason": "C05 matches the complete recorded name Louis Nel, although Albany rather than Somerset weakens the match. C03 is a plausible alternative with an additional name, Jacobus, but its parentage notes provide no corroboration, leaving C05 the stronger match."
+ },
+ {
+  "case_id": "P0078",
+  "choice": "C14",
+  "reason": "C14 matches Philip Rudolph Botha exactly in Somerset. C12 has the names reversed but is a deceased estate, incompatible with this man's recorded death in 1875."
+ },
+ {
+  "case_id": "P0548",
+  "choice": "NONE",
+  "reason": "C02 shares Nicolaas but has the different second name Martinus and is in Uitenhage rather than Somerset. No candidate matches Nicolaas Jacobus or the supplied nickname Klaas closely enough."
+ }
+]

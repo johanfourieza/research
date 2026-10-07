@@ -1,0 +1,32 @@
+[
+ {
+  "case_id": "P0585",
+  "choice": "NONE",
+  "reason": "C01's Johannes is compatible with Jan, but Francois conflicts with Hendrik. The shared Somerset district does not outweigh that mismatch, and no parentage evidence connects C01 to Lambertus Nicolaas."
+ },
+ {
+  "case_id": "P0091",
+  "choice": "NONE",
+  "reason": "The only candidate, C01, is Piet Bouwer, not Dirk Bouwer. The matching Albany district does not overcome the clearly different given name."
+ },
+ {
+  "case_id": "P0220",
+  "choice": "NONE",
+  "reason": "No candidate has Christiaan or the combination Christiaan Petrus. C09 and C13 share only Petrus and have different accompanying names, which is insufficient despite Graaff-Reinet's compatibility with Colesberg."
+ },
+ {
+  "case_id": "P0851",
+  "choice": "NONE",
+  "reason": "C05 shares only Christoffel and is recorded in Uitenhage rather than Somerset. C09 is in Somerset but is Christoffel Jacobus, not Marthinus Christoffel; neither partial match has corroborating identity evidence."
+ },
+ {
+  "case_id": "P0053",
+  "choice": "NONE",
+  "reason": "None of the owners has the given names Frederik Jacobus. C01's note names Frederik as the father of Paul Stephanus, not as the owner, while candidates sharing Jacobus have different other given names."
+ },
+ {
+  "case_id": "P0638",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Hendrik Jacobus, sharing only Jacobus with Jacobus Philippus and supplying two different given names. The common Uitenhage district alone is insufficient to establish identity."
+ }
+]

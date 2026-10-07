@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0029",
+  "choice": "C02",
+  "reason": "Matthys Gerhardus is a close spelling variant of Mattheus Gerhardus, and both records specify Swellendam. The 'jr' note does not contradict the supplied genealogy."
+ },
+ {
+  "case_id": "P0868",
+  "choice": "NONE",
+  "reason": "C09's Charl is a plausible variant of Carel, but this first-name-only match is in Uitenhage rather than Somerset and has no corroborating identity evidence. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0081",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Arnoldus, not Cornelis Stephanus. C02 is Jacoba Wilhelmina, explicitly recorded as a widow, and cannot be this man."
+ },
+ {
+  "case_id": "P0109",
+  "choice": "NONE",
+  "reason": "C05 shares Charl but has Andries rather than Arnoldus, with no further evidence linking them. C04 is recorded as deceased, incompatible with this man's death in 1871."
+ },
+ {
+  "case_id": "P0260",
+  "choice": "NONE",
+  "reason": "None of the three Stellenbosch owners has given names matching Anthonie Frederik. Their shared surname and district do not overcome those name differences."
+ },
+ {
+  "case_id": "P0133",
+  "choice": "C04",
+  "reason": "C04 matches Andries Cronje in Swellendam without introducing additional given names. The 'sv Jacob' note cannot be checked because the genealogy supplies no father, but it presents no contradiction."
+ },
+ {
+  "case_id": "P0473",
+  "choice": "NONE",
+  "reason": "The sole candidate is Martinus Oosthuizen, a clearly different given name from Johannes Hendricus despite the matching district."
+ },
+ {
+  "case_id": "P0413",
+  "choice": "NONE",
+  "reason": "Both candidates are named Hans Jurie or Hans Jurgen, neither of which matches Barend Jacobus. C02's matching Somerset district does not resolve this contradiction."
+ },
+ {
+  "case_id": "P0581",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes Francois Robbertse, not Daniël Jacobus. The matching surname and Somerset district are insufficient against the different given names."
+ },
+ {
+  "case_id": "P0044",
+  "choice": "C02",
+  "reason": "Wietsche is a plausible spelling variant of Wietse, with Lourens omitted, and the compensation district matches Beaufort. The Worcester transfer annotation does not contradict this identification."
+ }
+]

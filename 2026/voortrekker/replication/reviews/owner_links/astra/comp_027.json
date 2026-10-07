@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0611",
+  "choice": "NONE",
+  "reason": "No candidate is named Frederik. C02 shares only Stephanus, while C08 and C09 have different given-name combinations; nothing independently links them to Frederik Stephanus."
+ },
+ {
+  "case_id": "P0704",
+  "choice": "C03",
+  "reason": "Johannes Daniel Van Coller exactly matches the man's name and Swellendam district. The parentage note 'sv Jan' presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0556",
+  "choice": "NONE",
+  "reason": "C01 is Jochemus Johannes, sharing only the second given name with the man recorded as Johannes. The Somerset district agrees, but no supplied parentage or other identity evidence makes this weak name match more likely than not."
+ },
+ {
+  "case_id": "P0316",
+  "choice": "C03",
+  "reason": "Petrus Jacobus Jacobs matches both given names, surname and Beaufort district exactly. The note 'sv Pieter' does not conflict with any supplied genealogy."
+ },
+ {
+  "case_id": "P0765",
+  "choice": "NONE",
+  "reason": "None of the candidates matches Hendrik Christoffel. C05 shares Hendrik but is Gerhardus Hendrik Janse in Uitenhage, with no evidence connecting him to the Somerset man."
+ },
+ {
+  "case_id": "P0001",
+  "choice": "C01",
+  "reason": "Johannes Alberts matches the name and Swellendam district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0047",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Andries or Hendrik. The shared surname and several Somerset entries do not overcome the incompatible given names."
+ },
+ {
+  "case_id": "P0399",
+  "choice": "NONE",
+  "reason": "The candidates are Frans Jacob, Casper, Jan and Jan Hendrik, none of which matches Leonardus Petrus. Shared surname and district alone are insufficient."
+ },
+ {
+  "case_id": "P0761",
+  "choice": "NONE",
+  "reason": "C03 is Pieter Cornelis rather than Cornelis, providing only a second-name overlap in the correct district. His parentage notes cannot be checked against the genealogy, and no other supplied evidence establishes the identification."
+ },
+ {
+  "case_id": "P0776",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Izak or a spelling equivalent. Cornelis Johannes, Martinus, Gerrit and Gerrit Rynier are different given names despite the shared surname and district."
+ }
+]

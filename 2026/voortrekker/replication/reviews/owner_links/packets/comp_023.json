@@ -1,0 +1,1253 @@
+[
+  {
+    "case_id": "P0086",
+    "genealogy": {
+      "surname": "BOTHMA",
+      "given_names": "PETRUS GERHARDUS",
+      "birth_year": "1781",
+      "death_year": "1864",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ANNA PETRONELLA",
+          "surname": "DE WET",
+          "marriage_year": "1801"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Bothma",
+        "owner_given_names": "Jacoba Wilhelmina",
+        "district": "Somerset",
+        "note": "wed",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Bothma",
+        "owner_given_names": "Johannes Arnoldus",
+        "district": "Albany",
+        "note": null,
+        "localities": "Winterberg"
+      }
+    ]
+  },
+  {
+    "case_id": "P0503",
+    "genealogy": {
+      "surname": "POTGIETER",
+      "given_names": "JOHANNES (THEODORUS)",
+      "birth_year": "1785",
+      "death_year": null,
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": [
+        {
+          "name": "JOHANNA ELISABETH",
+          "surname": "STROEBEL",
+          "marriage_year": "1807"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Evert Frederik",
+        "district": "Uitenhage",
+        "note": "s Evert",
+        "localities": "Boesmansrivier"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Frederik Johannes",
+        "district": "Uitenhage",
+        "note": "s Evert",
+        "localities": "Boesmansrivier"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Theunis",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Kromrivier"
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Frederik",
+        "district": "Uitenhage",
+        "note": "s Jacobus",
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Frederik Johannes Abr.",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Matthys Gerhardus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Johannes",
+        "district": "Uitenhage",
+        "note": "widow",
+        "localities": null
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Martinus Jacobus",
+        "district": "Uitenhage",
+        "note": "s The.",
+        "localities": "Uitenhage Town"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Petrus Hendrik",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Vanstadensrivier"
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Potgieter",
+        "owner_given_names": "Hermanus Jacobus",
+        "district": "Uitenhage",
+        "note": "s Evert",
+        "localities": "Hesselbosch; Tsitsikama"
+      }
+    ]
+  },
+  {
+    "case_id": "P0737",
+    "genealogy": {
+      "surname": "VAN DER MERWE",
+      "given_names": "JOHANNES PETRUS",
+      "birth_year": "1808",
+      "death_year": "1891",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARTHA SOPHIA",
+          "surname": "ELOFF",
+          "marriage_year": "1836"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Valentyn",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Roodefontein"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Paul Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Andries",
+        "localities": "Driefontein"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Petrus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Matjesfontein"
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Aletta Sophia",
+        "district": "Graaff-Reinet",
+        "note": "wid Christoffel J vd M",
+        "localities": "Lower Seekoeirivier"
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Willem Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv DS; sv Schalk Jacobusws",
+        "localities": "Wilgebosch"
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Barend",
+        "district": "Graaff-Reinet",
+        "note": "sv Hendrik vdM",
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Nicolaas",
+        "district": "Graaff-Reinet",
+        "note": "sv David",
+        "localities": "fontein"
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Isaac Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Elandspoort"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Jacob Franciscus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Muisekraal"
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv Carel Johannes; sv Hendrik Schalk; sv P.",
+        "localities": "Klipplaat; Vergelegen"
+      },
+      {
+        "label": "C11",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Stephanus",
+        "district": "Graaff-Reinet",
+        "note": "sv David Schalk",
+        "localities": null
+      },
+      {
+        "label": "C12",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Carel Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Graaff Reinet"
+      },
+      {
+        "label": "C13",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Martinus",
+        "district": "Somerset",
+        "note": "sv Martinus",
+        "localities": null
+      },
+      {
+        "label": "C14",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Barend Frederik",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Dasjesfontein; Voor Sneeuberg"
+      },
+      {
+        "label": "C15",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "David Schalk",
+        "district": "Graaff-Reinet",
+        "note": "sv David; sv Hendrik; sv Roelof",
+        "localities": "Langfontein"
+      },
+      {
+        "label": "C16",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "David Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Carel",
+        "localities": "Uitkomst"
+      },
+      {
+        "label": "C17",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Petrus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C18",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Anries Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv Roelof",
+        "localities": "Schietkraal"
+      },
+      {
+        "label": "C19",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Barend Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv HvdM",
+        "localities": "Elandspoort"
+      },
+      {
+        "label": "C20",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Nicolaas Johannes Stephanus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Rietpoort"
+      },
+      {
+        "label": "C21",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Willem Carel",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C22",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Petrus Jacobus s Piet",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Winterhoek"
+      },
+      {
+        "label": "C23",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Andries Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv HvdM; sv Pieter",
+        "localities": "Agter Sneeuwberg; fontein"
+      },
+      {
+        "label": "C24",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Willem",
+        "district": "Somerset",
+        "note": "sr",
+        "localities": null
+      },
+      {
+        "label": "C25",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Martinus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Baviaanskloof"
+      },
+      {
+        "label": "C26",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Lodewicus",
+        "district": "Graaff-Reinet",
+        "note": "sv DS",
+        "localities": "Quaggasdrift"
+      },
+      {
+        "label": "C27",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Schalk",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg; Zoetvalley"
+      },
+      {
+        "label": "C28",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johanna Catharina",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Bothasfontein"
+      },
+      {
+        "label": "C29",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Roelof Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv David",
+        "localities": "KleinSondagsrivierhoek; Schietkraal; Uitvlugt"
+      },
+      {
+        "label": "C30",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Schalk Jacobus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C31",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Schalk Willem",
+        "district": "Graaff-Reinet",
+        "note": "sv Piet",
+        "localities": "Kust; Mosselbank"
+      },
+      {
+        "label": "C32",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Daniel Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C33",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Gerrit",
+        "district": "Somerset",
+        "note": "sr",
+        "localities": null
+      },
+      {
+        "label": "C34",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik",
+        "district": "Graaff-Reinet",
+        "note": "sv Carel",
+        "localities": "Matjeskraal"
+      },
+      {
+        "label": "C35",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Pieter",
+        "district": "Graaff-Reinet",
+        "note": "sv Jacob; sv Jacobus",
+        "localities": "Camdebo; Krugershoek"
+      },
+      {
+        "label": "C36",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Jan",
+        "district": "Graaff-Reinet",
+        "note": "sv DN",
+        "localities": "Bultfontein"
+      },
+      {
+        "label": "C37",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Anna Sophia",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C38",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv WP vd M",
+        "localities": "Modderfontein"
+      },
+      {
+        "label": "C39",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Andries",
+        "district": "Graaff-Reinet",
+        "note": "sr",
+        "localities": "Driefontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0799",
+    "genealogy": {
+      "surname": "VAN STADEN",
+      "given_names": "PETRUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": [
+        {
+          "name": "HESTER ANTHOINETTA",
+          "surname": "SCHEEPERS",
+          "marriage_year": "1796"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van Staden",
+        "owner_given_names": "Jacobus Frederk",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Baviaanskloof"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van Staden",
+        "owner_given_names": "Willem Hendrik",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Winterhoek"
+      }
+    ]
+  },
+  {
+    "case_id": "P0726",
+    "genealogy": {
+      "surname": "VAN DER MERWE",
+      "given_names": "JAN (JOHANNES) LODEWYK",
+      "birth_year": "1804",
+      "death_year": null,
+      "declared_district": "COLESBERG",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARTHA MAGDALENA",
+          "surname": "PRETORIUS",
+          "marriage_year": "1825"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik",
+        "district": "Graaff-Reinet",
+        "note": "sv Carel",
+        "localities": "Matjeskraal"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Willem Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv DS; sv Schalk Jacobusws",
+        "localities": "Wilgebosch"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Willem Carel",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Gerrit",
+        "district": "Somerset",
+        "note": "sr",
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Andries Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv HvdM; sv Pieter",
+        "localities": "Agter Sneeuwberg; fontein"
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Jacob Franciscus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Muisekraal"
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Schalk Willem",
+        "district": "Graaff-Reinet",
+        "note": "sv Piet",
+        "localities": "Kust; Mosselbank"
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Paul Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Andries",
+        "localities": "Driefontein"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Daniel Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Petrus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C11",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Isaac Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Elandspoort"
+      },
+      {
+        "label": "C12",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "David Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Carel",
+        "localities": "Uitkomst"
+      },
+      {
+        "label": "C13",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Petrus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Matjesfontein"
+      },
+      {
+        "label": "C14",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Schalk Jacobus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C15",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Barend Frederik",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Dasjesfontein; Voor Sneeuberg"
+      },
+      {
+        "label": "C16",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Stephanus",
+        "district": "Graaff-Reinet",
+        "note": "sv David Schalk",
+        "localities": null
+      },
+      {
+        "label": "C17",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv WP vd M",
+        "localities": "Modderfontein"
+      },
+      {
+        "label": "C18",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Anna Sophia",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg"
+      },
+      {
+        "label": "C19",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Pieter",
+        "district": "Graaff-Reinet",
+        "note": "sv Jacob; sv Jacobus",
+        "localities": "Camdebo; Krugershoek"
+      },
+      {
+        "label": "C20",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv Carel Johannes; sv Hendrik Schalk; sv P.",
+        "localities": "Klipplaat; Vergelegen"
+      },
+      {
+        "label": "C21",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "David Schalk",
+        "district": "Graaff-Reinet",
+        "note": "sv David; sv Hendrik; sv Roelof",
+        "localities": "Langfontein"
+      },
+      {
+        "label": "C22",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Barend Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv HvdM",
+        "localities": "Elandspoort"
+      },
+      {
+        "label": "C23",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Jan",
+        "district": "Graaff-Reinet",
+        "note": "sv DN",
+        "localities": "Bultfontein"
+      },
+      {
+        "label": "C24",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Roelof Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv David",
+        "localities": "KleinSondagsrivierhoek; Schietkraal; Uitvlugt"
+      },
+      {
+        "label": "C25",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Nicolaas",
+        "district": "Graaff-Reinet",
+        "note": "sv David",
+        "localities": "fontein"
+      },
+      {
+        "label": "C26",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Carel Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Graaff Reinet"
+      },
+      {
+        "label": "C27",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Jacobus Willem",
+        "district": "Beaufort",
+        "note": null,
+        "localities": "Leeuwfontein ?"
+      },
+      {
+        "label": "C28",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Hendrik Schalk",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Doornberg; Zoetvalley"
+      },
+      {
+        "label": "C29",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johanna Catharina",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Bothasfontein"
+      },
+      {
+        "label": "C30",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Martinus",
+        "district": "Somerset",
+        "note": "sv Martinus",
+        "localities": null
+      },
+      {
+        "label": "C31",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Nicolaas Johannes Stephanus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Rietpoort"
+      },
+      {
+        "label": "C32",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Valentyn",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Roodefontein"
+      },
+      {
+        "label": "C33",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Petrus",
+        "district": "Beaufort",
+        "note": null,
+        "localities": "Harms Poort; Zoutrivier, Gouph"
+      },
+      {
+        "label": "C34",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Barend",
+        "district": "Graaff-Reinet",
+        "note": "sv Hendrik vdM",
+        "localities": null
+      },
+      {
+        "label": "C35",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Anries Petrus",
+        "district": "Graaff-Reinet",
+        "note": "sv Roelof",
+        "localities": "Schietkraal"
+      },
+      {
+        "label": "C36",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Andries",
+        "district": "Graaff-Reinet",
+        "note": "sr",
+        "localities": "Driefontein"
+      },
+      {
+        "label": "C37",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Willem",
+        "district": "Somerset",
+        "note": "sr",
+        "localities": null
+      },
+      {
+        "label": "C38",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Lodewicus",
+        "district": "Graaff-Reinet",
+        "note": "sv DS",
+        "localities": "Quaggasdrift"
+      },
+      {
+        "label": "C39",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Aletta Sophia",
+        "district": "Graaff-Reinet",
+        "note": "wid Christoffel J vd M",
+        "localities": "Lower Seekoeirivier"
+      }
+    ]
+  },
+  {
+    "case_id": "P0527",
+    "genealogy": {
+      "surname": "PRETORIUS",
+      "given_names": "ANDRIES WILHELMUS JACOBUS SR.",
+      "birth_year": "1798",
+      "death_year": "1853",
+      "declared_district": "GRAAFF-REINET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "CHRISTINA PETRONELLA",
+          "surname": "DE WIT",
+          "marriage_year": "1818"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Hercules Albertus",
+        "district": "Graaff-Reinet",
+        "note": "sv Marthinus",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Charl Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv Charl",
+        "localities": "Sevenfontein"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Matthys Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv JL",
+        "localities": "Sondagsrivierhoek; Uitkyk"
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Michiel Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Charles",
+        "localities": "Upper Seacow River"
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Isaac Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv Lodewyk",
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Pretorius ?",
+        "owner_given_names": "Johannes Lodewyk Wynand",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Bronkhorstdrift"
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Andries Wilhelm Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Martinus  W.",
+        "localities": "Brinkaartsdrift"
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Hendrik Stephanus died",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Lodewikus",
+        "district": "Graaff-Reinet",
+        "note": "Died, Widow AJ vd Merwe",
+        "localities": "Graaff Reinet"
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Charles",
+        "district": "Graaff-Reinet",
+        "note": "sv Michiel Jacobus",
+        "localities": "Upper Seacow River"
+      },
+      {
+        "label": "C11",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv Marthinus",
+        "localities": null
+      },
+      {
+        "label": "C12",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Willem Lodewyk",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Petrus Valley; Upper Zeeikoeirivier"
+      },
+      {
+        "label": "C13",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Charl",
+        "district": "Graaff-Reinet",
+        "note": "sv L",
+        "localities": "Driefontein"
+      },
+      {
+        "label": "C14",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Petrus Gerhardus",
+        "district": "Graaff-Reinet",
+        "note": "sv Petrus Gerhardus",
+        "localities": "Brakfontein"
+      },
+      {
+        "label": "C15",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Roelof Gerhardus Petrus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Pretoriuskloof"
+      },
+      {
+        "label": "C16",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Henning Petrus Nicolaas",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C17",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Martinus Wessel",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Driekoppen"
+      },
+      {
+        "label": "C18",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Andries Lodewyk",
+        "district": "Graaff-Reinet",
+        "note": "sv Wynand",
+        "localities": "Zevenfontein"
+      },
+      {
+        "label": "C19",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Johannes Lodewicus",
+        "district": "Graaff-Reinet",
+        "note": "sv Petrus",
+        "localities": "Knoffelvallei"
+      },
+      {
+        "label": "C20",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Petrus Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv Petrus Jacobus; Widow E Kruger",
+        "localities": "Ezelsgat"
+      },
+      {
+        "label": "C21",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Johannes Jacobus",
+        "district": "Graaff-Reinet",
+        "note": "sv WL",
+        "localities": "De Poortje"
+      },
+      {
+        "label": "C22",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Gert",
+        "district": "Graaff-Reinet",
+        "note": "sv Johannes",
+        "localities": "Swartruggens"
+      },
+      {
+        "label": "C23",
+        "owner_surname": "Pretorius",
+        "owner_given_names": "Willem Sterrenberg",
+        "district": "Graaff-Reinet",
+        "note": "sv Petrus Gerhardus",
+        "localities": "Klipfontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0229",
+    "genealogy": {
+      "surname": "ENGELBRECHT",
+      "given_names": "ADRIAAN STEPHANUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "JACOMINA HENDRINA",
+          "surname": "VILJOEN",
+          "marriage_year": "1820"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Johannes Hendrik",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Elizabeth Catharina",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Pieter [deceased]",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Claasensfontein",
+        "flag": "recorded as deceased (estate)"
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Willem Christoffel",
+        "district": "Somerset",
+        "note": "sv Corn.",
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Gerhardus Cornelis",
+        "district": "Somerset",
+        "note": "sv C.",
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Cornelis Philippus",
+        "district": "Somerset",
+        "note": "sv Corn.",
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Engelbrecht",
+        "owner_given_names": "Johannes Cornelis",
+        "district": "Somerset",
+        "note": "sv Corn.",
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0366",
+    "genealogy": {
+      "surname": "KLOPPER",
+      "given_names": "JOHANNES JACOBUS",
+      "birth_year": "1802",
+      "death_year": "1876",
+      "declared_district": "GRAAFF-REINET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "CECILIA JACOMINA",
+          "surname": "NAUDE",
+          "marriage_year": "1826"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Klopper",
+        "owner_given_names": "Frederik Martinus",
+        "district": "Graaff-Reinet",
+        "note": "sv Baltaser",
+        "localities": "Vanderwaltshoek"
+      }
+    ]
+  },
+  {
+    "case_id": "P0884",
+    "genealogy": {
+      "surname": "WILKEN",
+      "given_names": "JOHANNES ADAM",
+      "birth_year": null,
+      "death_year": "1861",
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": []
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Wilken",
+        "owner_given_names": "Johan Adam",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Rietfontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0177",
+    "genealogy": {
+      "surname": "DU PLESSIS",
+      "given_names": "WILLEM",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SWELLENDAM",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ELISABETH HELENA",
+          "surname": "APPEL",
+          "marriage_year": "1801"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Andries Stephanus",
+        "district": "Swellendam",
+        "note": "sv Willem",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Daniel",
+        "district": "Swellendam",
+        "note": "sr",
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Hermanus Barend",
+        "district": "Swellendam",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Wynand",
+        "district": "Swellendam",
+        "note": "sv Daniel",
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Andries",
+        "district": "Swellendam",
+        "note": "sv Andries",
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Helena Aletta",
+        "district": "Swellendam",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Jacobus",
+        "district": "Swellendam",
+        "note": "sv Daniel",
+        "localities": null
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Charles",
+        "district": "Swellendam",
+        "note": "sv Jan",
+        "localities": null
+      }
+    ]
+  }
+]

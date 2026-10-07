@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0419",
+  "choice": "C04",
+  "reason": "C04 matches Jacobus Malan in Somerset. Omission of the senior designation is not a contradiction, and no other candidate matches his given name."
+ },
+ {
+  "case_id": "P0579",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Francois, not Johannes Matthys. The shared first name and district do not outweigh the different second name."
+ },
+ {
+  "case_id": "P0084",
+  "choice": "NONE",
+  "reason": "C01 is a woman recorded as a widow. C02 shares the Jan/Johannes name form but has Arnoldus rather than Daniel and is in Albany rather than Somerset."
+ },
+ {
+  "case_id": "P0171",
+  "choice": "NONE",
+  "reason": "Neither Isaac Christiaan nor Michiel Daniel matches Jacobus Petrus. Both candidates also have districts different from the declared Somerset."
+ },
+ {
+  "case_id": "P0878",
+  "choice": "C01",
+  "reason": "C01 exactly matches Hermanus Johannes Wessels and the Uitenhage district. C02 is explicitly recorded as a widow and cannot be this man."
+ },
+ {
+  "case_id": "P0618",
+  "choice": "NONE",
+  "reason": "None of the Smit candidates has Erasmus or an equivalent given name. The shared surname and Graaff-Reinet district alone do not establish identity."
+ },
+ {
+  "case_id": "P0031",
+  "choice": "NONE",
+  "reason": "No candidate matches Matthys Marthinus. C01's Johannes senior matches the recorded father's name and designation, not the man's own identity."
+ },
+ {
+  "case_id": "P0398",
+  "choice": "C03",
+  "reason": "C03 exactly matches Frans Jacob Labuschagne in Somerset. Its 'sv Jan' parentage note is consistent with the recorded father Jan Hendrik Labuschagne."
+ },
+ {
+  "case_id": "P0657",
+  "choice": "C03",
+  "reason": "C03 is the only candidate matching Hermanus Steyn in Somerset. His father shared the same name, leaving some ambiguity, but no supplied note distinguishes C03 as the father or contradicts the match."
+ },
+ {
+  "case_id": "P0448",
+  "choice": "NONE",
+  "reason": "Neither Isaac Bartolomeus nor Stephanus matches Lucas Marthinus. The shared Nel surname and Beaufort district are insufficient against those different given names."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0443",
+  "choice": "C02",
+  "reason": "Owner Willem Hendrik Neethling of Worcester matches the full given names and the declared district exactly. C01 has different given names (Frederik Jacobus)."
+ },
+ {
+  "case_id": "P0105",
+  "choice": "C02",
+  "reason": "Owner Carel Valentyn Buchner of Uitenhage matches the full given names and the declared district exactly. C01 is Johannes Casparus."
+ },
+ {
+  "case_id": "P0320",
+  "choice": "C04",
+  "reason": "Owner Daniel Jacobs of Beaufort matches the given name and the declared district exactly. The other candidates have different first names; C08 is a Pieter whose note merely mentions Daniel."
+ },
+ {
+  "case_id": "P0307",
+  "choice": "NONE",
+  "reason": "The only candidate is Christiaan Servaas Herbst, whose second name contradicts Frederik. A shared first name alone is too weak to support a match."
+ },
+ {
+  "case_id": "P0241",
+  "choice": "NONE",
+  "reason": "No Erasmus owner is named Barend Christoffel or anything close. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0350",
+  "choice": "C05",
+  "reason": "Josua Joubert is an exact match on the distinctive given name, and no other Josua is listed. Graaff-Reinet is adjacent to the declared Somerset/Cradock, so the district difference only slightly weakens it."
+ },
+ {
+  "case_id": "P0512",
+  "choice": "C09",
+  "reason": "Owner Hermanus Philippus Potgieter of Somerset matches both given names and the declared district. No other candidate shares these names."
+ },
+ {
+  "case_id": "P0714",
+  "choice": "C21",
+  "reason": "Gerrit van der Merwe sr of Somerset matches the first name and the declared district, with the middle name simply omitted. The 'sr' note fits a man born in 1783, and no other Gerrit appears."
+ },
+ {
+  "case_id": "P0034",
+  "choice": "NONE",
+  "reason": "None of the Bezuidenhout owners is named Cornelis Johannes, and one is a woman. All are in Beaufort rather than Colesberg."
+ },
+ {
+  "case_id": "P0784",
+  "choice": "C01",
+  "reason": "Owner Gerrit Rynier van Rooyen of Uitenhage matches Gerrit Reynier apart from spelling, in the same district. C03 shares only the first name and carries a parentage note."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0720",
+  "choice": "NONE",
+  "reason": "No candidate is named Theunis Jacobus. The Somerset owners are Martinus, Gerrit, Willem and Hendrik Petrus, all clearly different given names."
+ },
+ {
+  "case_id": "P0255",
+  "choice": "C19",
+  "reason": "C19 Petrus Johannes is an exact name match (Petrus = Pieter) and is in Somerset, the declared district. The note 'sv PJ' does not conflict, because the genealogy records no father."
+ },
+ {
+  "case_id": "P0074",
+  "choice": "NONE",
+  "reason": "No owner is named Pieter Hendrik. C09 Pieter Barend has a different second name and is 'sv Chr', which conflicts with the father Frederik Jacobus. C11 is a son of Frederik but is named Paul Stephanus."
+ },
+ {
+  "case_id": "P0607",
+  "choice": "NONE",
+  "reason": "The subject is a woman, Martha Magdalena Scheepers (wife of Gerhardus Oosthuizen). All candidates are men with different given names."
+ },
+ {
+  "case_id": "P0169",
+  "choice": "NONE",
+  "reason": "The only De Wet owners are Josias and two named Jacobus. None matches Pieter Rudolph, and none is noted as a son of Pieter."
+ },
+ {
+  "case_id": "P0197",
+  "choice": "C02",
+  "reason": "C02 Cornelis Michiel du Plooy in Beaufort matches the full name and the district. C01 is recorded as a son of Cornelis, which fits him being the senior."
+ },
+ {
+  "case_id": "P0587",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Gysbertus Roos, a clearly different given name from Charl Petrus."
+ },
+ {
+  "case_id": "P0158",
+  "choice": "NONE",
+  "reason": "C01 Barend Jacobus matches the name and district, but it is noted 'sv Barend'. This directly contradicts the genealogy father Adriaan de Lange."
+ },
+ {
+  "case_id": "P0390",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem Adriaan. Jan, Jan Hendrik, Frans Jacob and Casper are all different given names."
+ },
+ {
+  "case_id": "P0836",
+  "choice": "NONE",
+  "reason": "No owner is named Jan Adriaan. C06 Willem Adriaan shares only the second name, and its first name clearly differs."
+ }
+]

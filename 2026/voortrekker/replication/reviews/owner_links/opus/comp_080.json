@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0472",
+  "choice": "NONE",
+  "reason": "The only candidate is Martinus Oosthuizen. That given name clearly differs from Theunis Gerhardus, so it is a strong contradiction."
+ },
+ {
+  "case_id": "P0057",
+  "choice": "NONE",
+  "reason": "Willem Jacobus (C07) is 'sv Pieter B.', which contradicts the genealogy father Frederik Jacobus. Willem Christiaan (C11) is in Graaff-Reinet rather than Somerset and matches only on the first name."
+ },
+ {
+  "case_id": "P0612",
+  "choice": "NONE",
+  "reason": "The genealogy gives only 'Johannes' with no father. Two George owners fit equally well: Johannes Jurie (C04, son of Stephanus) and Johannes Hendrik (C06), so neither is more likely than not."
+ },
+ {
+  "case_id": "P0411",
+  "choice": "C03",
+  "reason": "Georg Frederik Linde in Swellendam matches the full given names and his declared early district exactly. No other candidate shares his names."
+ },
+ {
+  "case_id": "P0232",
+  "choice": "C01",
+  "reason": "Christoffel Petrus Johannes Erasmus in Somerset is an exact match of all three given names and the declared district."
+ },
+ {
+  "case_id": "P0456",
+  "choice": "NONE",
+  "reason": "No Albany Nel owner is named Philip Jacobus. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0549",
+  "choice": "NONE",
+  "reason": "No Prinsloo owner bears the name Balthasar Johannes. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0690",
+  "choice": "C05",
+  "reason": "Gerhardus Jacobus Swart in Somerset matches both given names and the declared district exactly."
+ },
+ {
+  "case_id": "P0629",
+  "choice": "NONE",
+  "reason": "No Smit owner is named Burgert Godlieb. All candidates carry clearly different given names."
+ },
+ {
+  "case_id": "P0365",
+  "choice": "NONE",
+  "reason": "The closest candidate is Lourens Johannes (C03, sv JFr), but Lourens differs from Lucas Cornelis Johannes. No other candidate matches his names."
+ }
+]

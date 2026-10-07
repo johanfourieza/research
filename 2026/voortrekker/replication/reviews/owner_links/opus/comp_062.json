@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0276",
+  "choice": "NONE",
+  "reason": "The only candidate is Georg Diederick Geere. His first name Georg differs from Willem, and Diederick does not match. The shared 'George' element is not enough given the conflicting names."
+ },
+ {
+  "case_id": "P0513",
+  "choice": "NONE",
+  "reason": "No candidate is Jacobus Johannes. C10 Jacobus is 'sv Philip', which contradicts the genealogy father Jacobus Johannes. C14 Jacobus Cornelis has a different second name and is in Albany."
+ },
+ {
+  "case_id": "P0683",
+  "choice": "NONE",
+  "reason": "The only owner is Pieter Andreas Johannes Swanepoel, son of Pieter. This is a clearly different given name from Willem Abraham."
+ },
+ {
+  "case_id": "P0212",
+  "choice": "NONE",
+  "reason": "None of the Beaufort Du Toit owners (Charl, Guilliame, Andries Gerhardus, Gerhardus Johannes) bears the names Roelof Petrus."
+ },
+ {
+  "case_id": "P0064",
+  "choice": "NONE",
+  "reason": "No candidate is Johannes Christiaan. C01 Jan Christoffel has a different second name and is in Graaff-Reinet rather than Somerset. C13 Willem Christiaan has a different first name."
+ },
+ {
+  "case_id": "P0322",
+  "choice": "NONE",
+  "reason": "No Beaufort Jacobs owner is named Salomon Jacobus. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0396",
+  "choice": "NONE",
+  "reason": "No Labuschagne owner is named Gerrit Jacobus. The candidates are Jan, Frans Jacob, Jan Hendrik and Casper son of Jan, none of whom matches him or his father Casper Jeremias."
+ },
+ {
+  "case_id": "P0341",
+  "choice": "NONE",
+  "reason": "C02 Pieter Johannes shares only the first name, with a different second name (Johannes vs Georg). The other owners have clearly different given names."
+ },
+ {
+  "case_id": "P0808",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Gerhardus Janse van Vuuren, marked 'Widow'. This is a different given name, and the claim appears to be a widow's."
+ },
+ {
+  "case_id": "P0435",
+  "choice": "C01",
+  "reason": "Philip Carel Minnaar in Graaff-Reinet (Modderfontein) matches the given names and district exactly. He is the only Philip Carel listed, although the genealogy's 'Sr' leaves a slight father/son ambiguity."
+ }
+]

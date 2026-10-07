@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0086",
+  "choice": "NONE",
+  "reason": "Neither candidate fits Petrus Gerhardus. C01 is a widow, Jacoba Wilhelmina, and C02 has the clearly different given names Johannes Arnoldus."
+ },
+ {
+  "case_id": "P0503",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes (Theodorus) as a living man. C07 is a widow, and C08 Martinus Jacobus 's The.' has a different given name and may be a son of a Theodorus."
+ },
+ {
+  "case_id": "P0737",
+  "choice": "C03",
+  "reason": "C03 Johannes Petrus van der Merwe is the only exact full-name match among the candidates. His Graaff-Reinet district neighbours the declared Somerset, so this is a moderate rather than strong match."
+ },
+ {
+  "case_id": "P0799",
+  "choice": "NONE",
+  "reason": "Neither owner is named Petrus. The candidates are Jacobus Frederik and Willem Hendrik."
+ },
+ {
+  "case_id": "P0726",
+  "choice": "C38",
+  "reason": "C38 Johannes Lodewicus matches Jan (Johannes) Lodewyk, as Lodewicus and Lodewyk are variant forms. The Graaff-Reinet district fits the declared Colesberg, which was then part of Graaff-Reinet."
+ },
+ {
+  "case_id": "P0527",
+  "choice": "C07",
+  "reason": "C07 Andries Wilhelm Jacobus Pretorius of Graaff-Reinet matches the full name and district. His note 'sv Martinus W.' is consistent with this Andries being the son of Marthinus Wessel Pretorius, which he is from general knowledge rather than from the genealogy supplied."
+ },
+ {
+  "case_id": "P0229",
+  "choice": "NONE",
+  "reason": "No owner is named Adriaan Stephanus. The candidates have different given names, and the list also includes a woman and a deceased estate."
+ },
+ {
+  "case_id": "P0366",
+  "choice": "NONE",
+  "reason": "The only candidate, Frederik Martinus, son of Baltaser, has entirely different given names from Johannes Jacobus."
+ },
+ {
+  "case_id": "P0884",
+  "choice": "C01",
+  "reason": "Johan Adam Wilken of Uitenhage matches Johannes Adam Wilken, with Johan as a short form of Johannes. The district agrees."
+ },
+ {
+  "case_id": "P0177",
+  "choice": "NONE",
+  "reason": "No owner is named Willem. C01 Andries Stephanus 'sv Willem' is more likely a son of this man than the man himself."
+ }
+]

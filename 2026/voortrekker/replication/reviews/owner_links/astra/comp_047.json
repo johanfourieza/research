@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0461",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Hester Nel, widow of Pieter de la Rey. All four candidates have different male given names, and none is identified with Hester or that widowhood."
+ },
+ {
+  "case_id": "P0762",
+  "choice": "NONE",
+  "reason": "No candidate is named Christiaan. Christina Maria T. is a different, female name, and the Somerset candidate is Johannes Albertus."
+ },
+ {
+  "case_id": "P0006",
+  "choice": "C02",
+  "reason": "Casper Hendrik Badenhorst matches the full personal name and Somerset district. The note 'sv Hendrik' does not contradict the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0166",
+  "choice": "C04",
+  "reason": "Daniel Johannes Jacobus contains all three given names in a different order and matches Swellendam. The note 'sv Piet' agrees with the recorded father Pieter Hendrikus."
+ },
+ {
+  "case_id": "P0533",
+  "choice": "NONE",
+  "reason": "C12 matches the name and Somerset district, but the man's father was also Johannes Petrus Pretorius. No junior designation, parentage, age or spouse evidence distinguishes this owner as the son rather than his namesake father."
+ },
+ {
+  "case_id": "P0287",
+  "choice": "C04",
+  "reason": "C04 matches the two given names Nicolaas Johannes, with Renier omitted. Somerset is compatible with the supplied Cradock/Somerset district relationship, and there is no contradictory parentage or status note."
+ },
+ {
+  "case_id": "P0136",
+  "choice": "C01",
+  "reason": "Johannes Christiaan Davel is an exact name match in the declared district of Uitenhage, with no contradictory evidence."
+ },
+ {
+  "case_id": "P0504",
+  "choice": "C08",
+  "reason": "Petrus Hendrik Potgieter matches the first two given names and Uitenhage district, with Theunis omitted. No note contradicts the identification."
+ },
+ {
+  "case_id": "P0769",
+  "choice": "C18",
+  "reason": "C18 exactly matches Reynier Janse Van Rensburg in Swellendam, and its parentage note does not conflict with a supplied father. The similar C13 is explicitly a deceased estate, with no evidence linking that estate to this person."
+ },
+ {
+  "case_id": "P0684",
+  "choice": "NONE",
+  "reason": "The sole candidate is Pieter Andreas Johannes Swanepoel, a clearly different given name from Willem Barend. The shared surname and district do not overcome that contradiction."
+ }
+]

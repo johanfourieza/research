@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0698",
+  "choice": "C02",
+  "reason": "Petrus Lafras matches Pertus Lafras with a minor spelling variation, and the district is Uitenhage. Although his father shared the name, no candidate note identifies this owner as the father rather than the adult son."
+ },
+ {
+  "case_id": "P0160",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given name Adriaan. Alida is a widow, while Barend Jacobus and Jan Hendrik have clearly different names."
+ },
+ {
+  "case_id": "P0606",
+  "choice": "NONE",
+  "reason": "C05 shares Gerhardus but has the additional names Johannes Adolphus rather than Stephanus, with no corroborating identity evidence. All other candidates have different given names."
+ },
+ {
+  "case_id": "P0487",
+  "choice": "NONE",
+  "reason": "C07 shares Schalk but is Schalk Willem, not Schalk Jacobus. The genealogy supplies no father to corroborate C07's parentage notes, and the remaining candidates have different given names."
+ },
+ {
+  "case_id": "P0539",
+  "choice": "NONE",
+  "reason": "The closest name match, C05 Johannes Jacobus, is recorded as son of WL, contradicting the genealogy's father Johannes Andries. The other Johannes candidates have conflicting given names or parentage."
+ },
+ {
+  "case_id": "P0059",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem Adriaan or a recognizable variant. The shared surname and George district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0480",
+  "choice": "C01",
+  "reason": "Godlieb Rudolph Opperman matches the full name and Somerset district exactly. The note 'sv Alb.' is compatible with his father Philippus Albertus."
+ },
+ {
+  "case_id": "P0791",
+  "choice": "C01",
+  "reason": "Jacobus Frederk is a minor spelling variant of Jacobus Frederik, and both records place him in Uitenhage. C02 has entirely different given names."
+ },
+ {
+  "case_id": "P0409",
+  "choice": "C04",
+  "reason": "C04 matches Christiaan Jacobus exactly, and 'sv Barend' agrees with his father Barend Godlieb. This parentage evidence distinguishes C04 from the similarly named C05, and Graaff-Reinet fits the declared district."
+ },
+ {
+  "case_id": "P0471",
+  "choice": "NONE",
+  "reason": "The sole candidate is Martinus Oosthuizen, a clearly different given name from Petrus Wilhelm. The shared surname and district are insufficient."
+ }
+]

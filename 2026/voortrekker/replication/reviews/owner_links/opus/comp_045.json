@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0055",
+  "choice": "NONE",
+  "reason": "No candidate is named Reynier. The Uitenhage owners are Jacobus Theodorus, Theunis Jacobus and Ignatius Michiel, all clearly different given names."
+ },
+ {
+  "case_id": "P0389",
+  "choice": "NONE",
+  "reason": "No owner matches Jan Harm. Jan Hendrik (Somerset) has a different second name, and Harm is not a form of Hendrik. Plain Jan is in Uitenhage, not Somerset, and the Casper and Frans Jacob owners are other men."
+ },
+ {
+  "case_id": "P0323",
+  "choice": "C03",
+  "reason": "Daniel Jacobs of Beaufort shares the first name and district and has no contradicting note. Pieter Daniel (C01) has the names reversed and is recorded as son of Pieter, which conflicts with the genealogy father Salomon Jacobus."
+ },
+ {
+  "case_id": "P0701",
+  "choice": "NONE",
+  "reason": "Both owners are Johannes or Johannes Gerhardus van Aswegen, which is incompatible with Izak Gerrit."
+ },
+ {
+  "case_id": "P0432",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Elsie Meyer, widow of P.H. Fick. All the candidates are male Meyers with unrelated given names."
+ },
+ {
+  "case_id": "P0558",
+  "choice": "NONE",
+  "reason": "The only Nicolaas is Nicolaas Martinus in Uitenhage. His second name differs from Balthasar and his district differs from Somerset, and no other owner bears his names."
+ },
+ {
+  "case_id": "P0002",
+  "choice": "C01",
+  "reason": "Johannes Alberts of Swellendam matches the first name and declared district. Johannes Joachim, born 1807 and married in 1826, was an adult householder in the 1830s, though the owner could instead be his father Johannes."
+ },
+ {
+  "case_id": "P0464",
+  "choice": "NONE",
+  "reason": "Several owners are sons of Louis, but none is named Gabriël. Their given names (Daniel, Jacobus, Jurie, Philip, Willem, etc.) contradict his."
+ },
+ {
+  "case_id": "P0371",
+  "choice": "NONE",
+  "reason": "Joachim Marthinus is recorded as son of Diederik, and Gert is a different man. Neither carries the names Diederik Johannes."
+ },
+ {
+  "case_id": "P0641",
+  "choice": "C05",
+  "reason": "Andries Theodorus Spies of Swellendam is an exact match on both given names, surname and district."
+ }
+]

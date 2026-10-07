@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0422",
+  "choice": "NONE",
+  "reason": "C01's Charl may correspond to Sarel, but Francois does not match Johannes Lodewikus. C02's Johannes Stephanus also lacks a convincing given-name match despite the shared Beaufort district."
+ },
+ {
+  "case_id": "P0410",
+  "choice": "NONE",
+  "reason": "No candidate matches Stephanus Rudolph. C01 bears his father's name, while C05's parentage note names Barend but its given names, Christiaan Jacobus, identify a different man."
+ },
+ {
+  "case_id": "P0114",
+  "choice": "NONE",
+  "reason": "No candidate convincingly matches Jan Abraham; C02's Abraham Jacobus has compatible paternal naming but different given names and district. C14's Johannes is a deceased owner whose named widow, Hester Viljoen, does not match Maria Elisabeth Botha."
+ },
+ {
+  "case_id": "P0569",
+  "choice": "NONE",
+  "reason": "Both candidates are named Diederik Johannes, with C02 additionally named Gerhardus. Neither matches Paul Jacobus, regardless of C01's matching Somerset district."
+ },
+ {
+  "case_id": "P0230",
+  "choice": "NONE",
+  "reason": "C02's Jan is compatible with Johan, but Adriaan is not Adam, and its district is Graaff-Reinet rather than Somerset. The other candidates have substantially different given names."
+ },
+ {
+  "case_id": "P0631",
+  "choice": "C01",
+  "reason": "C01 matches Nicolaas and Christoffel in the same positions and the Clanwilliam district. Despite the discrepant middle name Johannes rather than Jacobus, the distinctive two-name agreement makes this more likely than not to be the same man."
+ },
+ {
+  "case_id": "P0621",
+  "choice": "C01",
+  "reason": "C01 exactly matches Gerrit Willem Smit and the Clanwilliam district. Its 'so Piet' note cannot be checked because the genealogy supplies no father, but it presents no contradiction."
+ },
+ {
+  "case_id": "P0609",
+  "choice": "NONE",
+  "reason": "None of the candidates matches Petrus Johannes Christoffel or even includes Petrus. Sharing Johannes and the Uitenhage district is insufficient against the substantially different remaining given names."
+ },
+ {
+  "case_id": "P0437",
+  "choice": "NONE",
+  "reason": "Neither candidate matches Roelof Johannes. C02 instead bears his father's name, Philip Carel, and C01's Jan Stephanus is not a convincing match."
+ },
+ {
+  "case_id": "P0699",
+  "choice": "C01",
+  "reason": "C01 exactly matches Jacobus Johannes Uys and the Uitenhage district. Its 's Jacob' parentage note agrees with the recorded father, Jacobus Johannes Uys."
+ }
+]

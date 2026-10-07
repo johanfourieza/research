@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0245",
+  "choice": "C19",
+  "reason": "C19 is an exact match on both given names, Johannes Jacobus Erasmus, and is in the declared district of Somerset. No other candidate shares both names."
+ },
+ {
+  "case_id": "P0122",
+  "choice": "C04",
+  "reason": "Wentzel Christoffel Coetzer in Somerset is a spelling variant of Wensel Christoffel in the same district. The 'sr' note fits a man married by 1818."
+ },
+ {
+  "case_id": "P0388",
+  "choice": "C02",
+  "reason": "C02 is Casper Labuschagne sr in Somerset, which matches the first name and district. 'Senior' fits a man married in 1795, and no other Casper is listed."
+ },
+ {
+  "case_id": "P0205",
+  "choice": "NONE",
+  "reason": "No Du Preez owner is named Roelof Johannes or anything close. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0848",
+  "choice": "C08",
+  "reason": "Coenraad Martinus Vermaak in Uitenhage matches Coenraad Marthinus by name and district, with only a minor spelling difference."
+ },
+ {
+  "case_id": "P0306",
+  "choice": "NONE",
+  "reason": "The only candidate is the widow of a Johannes Hattingh, a woman claimant, so she cannot be this man. Nothing shows the claim is his own."
+ },
+ {
+  "case_id": "P0764",
+  "choice": "NONE",
+  "reason": "Frederik Roelof Janse van Rensburg has clearly different given names from Nicolaas Janse. Sharing only the 'Janse' element is not enough."
+ },
+ {
+  "case_id": "P0517",
+  "choice": "NONE",
+  "reason": "The closest candidate, Martinus Jacobus (s The.) of Uitenhage, has a different second name and a different district from Marthinus Johannes of Somerset. No candidate matches well."
+ },
+ {
+  "case_id": "P0387",
+  "choice": "C07",
+  "reason": "C07, Johannes Lodewikus Kruger, is the only full match for Johannes Lodewyk. Beaufort, like Colesberg, was carved from Graaff-Reinet territory, though the different district and the 'sr' note leave some doubt."
+ },
+ {
+  "case_id": "P0654",
+  "choice": "C02",
+  "reason": "C02 is an exact match on Hans Jurgen Steyn. The district is Graaff-Reinet rather than Somerset, but the two border each other, and no other candidate shares the name."
+ }
+]

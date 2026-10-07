@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0029",
+  "choice": "C02",
+  "reason": "Matthys Gerhardus is a normal variant of Mattheus Gerhardus, and the owner is in the declared district of Swellendam. The 'jr' note suits a man who married in 1836."
+ },
+ {
+  "case_id": "P0868",
+  "choice": "NONE",
+  "reason": "No owner is named Carel/Charl Marthinus. The only Charl (C09) has no middle name and is in Uitenhage rather than Somerset, which is too weak a match."
+ },
+ {
+  "case_id": "P0081",
+  "choice": "NONE",
+  "reason": "The only candidates are Johannes Arnoldus in Albany and a widow, Jacoba Wilhelmina. Neither can be Cornelis Stephanus."
+ },
+ {
+  "case_id": "P0109",
+  "choice": "C05",
+  "reason": "Charl Andries shares the first name and the initials C.A. and is in Graaff-Reinet, which then included Colesberg. Charl sr (C04) is a deceased estate, and the different second name makes this only a moderate match."
+ },
+ {
+  "case_id": "P0260",
+  "choice": "NONE",
+  "reason": "No owner's given names resemble Anthonie Frederik; the candidates are Abraham Johan, Coenraad Johannes and Johannes Jac Alb Coenraad."
+ },
+ {
+  "case_id": "P0133",
+  "choice": "C04",
+  "reason": "The genealogy records only 'Andries sr', and C04 is the one Swellendam owner recorded simply as Andries. The other Andries owners carry middle names (Lodewicus, Stephanus) that the genealogy does not record."
+ },
+ {
+  "case_id": "P0473",
+  "choice": "NONE",
+  "reason": "The only candidate is Martinus, a clearly different given name from Johannes Hendricus."
+ },
+ {
+  "case_id": "P0413",
+  "choice": "NONE",
+  "reason": "Both candidates are Hans Jurgen/Jurie, which clearly contradicts Barend Jacobus."
+ },
+ {
+  "case_id": "P0581",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Francois, which contradicts Daniël Jacobus."
+ },
+ {
+  "case_id": "P0044",
+  "choice": "C02",
+  "reason": "Wietsche is a spelling of the distinctive name Wietse, and the owner is in the declared district of Beaufort."
+ }
+]

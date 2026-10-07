@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0380",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Christiaan: the Johannes candidates have different second names, and none has a parentage note agreeing with Daniel Frederik. C18 matches his father's given names, not his own."
+ },
+ {
+  "case_id": "P0421",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Maria Petronella Marais, widow of Jesias Esterhuizen. Both candidates are men with entirely different given names."
+ },
+ {
+  "case_id": "P0767",
+  "choice": "NONE",
+  "reason": "The sole candidate is Frederik Roelof Janse, not Willem. The shared surname and Albany district do not overcome the given-name contradiction."
+ },
+ {
+  "case_id": "P0367",
+  "choice": "C01",
+  "reason": "Joachim Marthinus matches both given names exactly and is recorded in Graaff-Reinet. His 'sv Diederik' note does not contradict the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0695",
+  "choice": "C01",
+  "reason": "C01 exactly matches Jacobus Arnoldus Theron. Graaff-Reinet is geographically compatible with the declared Colesberg district, which was formerly part of it."
+ },
+ {
+  "case_id": "P0632",
+  "choice": "C14",
+  "reason": "C14 uniquely matches both given names, Andries Adriaan, and the 'Jr' designation is compatible with a man born in 1797. The different district weakens but does not outweigh this exact name match."
+ },
+ {
+  "case_id": "P0246",
+  "choice": "C03",
+  "reason": "C03 exactly matches Lourens Johannes Erasmus and the Somerset district. The other Lourens candidates have different second names."
+ },
+ {
+  "case_id": "P0152",
+  "choice": "C01",
+  "reason": "Andries is a normal variant of Andreas, and Johannes and the Swellendam district match exactly. The 'sv Christiaan' note introduces no contradiction because the genealogy gives no father."
+ },
+ {
+  "case_id": "P0226",
+  "choice": "C03",
+  "reason": "C03 is the only Gerhardus Engelbrecht and is recorded in the same district, Somerset. Cornelis can be an omitted middle name in the genealogy, and the 'sv C.' note does not conflict with any supplied father."
+ },
+ {
+  "case_id": "P0580",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes Francois rather than Johannes Hendrik. The shared first name and compatible Somerset–Cradock geography are insufficient to overcome the different second name."
+ }
+]

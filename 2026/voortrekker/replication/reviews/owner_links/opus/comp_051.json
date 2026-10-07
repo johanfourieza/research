@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0425",
+  "choice": "C02",
+  "reason": "Matthys Hendrik Marais in Uitenhage matches the given names and declared district exactly."
+ },
+ {
+  "case_id": "P0108",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Cilliers owner is named Johannes Daniel. All four candidates have clearly different given names, and C01 is a deceased estate."
+ },
+ {
+  "case_id": "P0259",
+  "choice": "C12",
+  "reason": "Martinus Gerrit Thomas Ferreira in Uitenhage matches the full three given names and the district. C10 Gerrit Martinus lacks Thomas and reverses the order."
+ },
+ {
+  "case_id": "P0450",
+  "choice": "NONE",
+  "reason": "Neither owner is Pieter Willem. C02 Willem (son of Louis) shares only the second name, and C01 Hendrik Johannes is a different name entirely."
+ },
+ {
+  "case_id": "P0148",
+  "choice": "NONE",
+  "reason": "No owner is named Zacharias Joseph. C01 is recorded as a son of a Zacharias, but he is Matthys Andries, not this man, and C03 is a widow's claim."
+ },
+ {
+  "case_id": "P0299",
+  "choice": "NONE",
+  "reason": "The only Harmse owner is Cornelis Johannes, a clearly different given name from Bartholomeus."
+ },
+ {
+  "case_id": "P0623",
+  "choice": "NONE",
+  "reason": "No Stellenbosch Smit owner is named Christiaan Andreas. The candidates bear different names such as Stephanus Christiaan and Marten Johannes Adriaan."
+ },
+ {
+  "case_id": "P0022",
+  "choice": "C03",
+  "reason": "Andries Bester in Swellendam is compatible with Andries Nicolaas, with only the middle name omitted. The district matches and no parentage or name evidence contradicts it."
+ },
+ {
+  "case_id": "P0183",
+  "choice": "C20",
+  "reason": "Jan du Plessis in Somerset is compatible with Jan Adriaan, with the middle name omitted, and matches the declared district. All other candidates have contradicting given names or are women or estates."
+ },
+ {
+  "case_id": "P0637",
+  "choice": "NONE",
+  "reason": "Neither George Snyman owner matches Gerrit Christoffel. C01 is a widow's claim and C02 is Louis Johannes."
+ }
+]

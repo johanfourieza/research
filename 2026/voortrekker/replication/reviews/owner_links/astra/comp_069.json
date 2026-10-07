@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0866",
+  "choice": "NONE",
+  "reason": "Neither Charl nor Christoffel matches Stephanus Petrus; the shared surname and Uitenhage district do not overcome these given-name contradictions."
+ },
+ {
+  "case_id": "P0434",
+  "choice": "C05",
+  "reason": "Isaac Johannes is a normal spelling variant of Isak Johannes, and C05 also matches the explicit Sr designation and Uitenhage district."
+ },
+ {
+  "case_id": "P0651",
+  "choice": "NONE",
+  "reason": "The genealogy names his father as Hermanus, but every Hermanus candidate has a conflicting father note: Douw, Martinus, Jacobus or Johannes. The candidates recorded as sons of Hermanus have different given names."
+ },
+ {
+  "case_id": "P0011",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Jacobus Petrus. The possible Cradock–Somerset district connection cannot overcome those name differences."
+ },
+ {
+  "case_id": "P0735",
+  "choice": "C09",
+  "reason": "C09 exactly matches Willem Carel van der Merwe and the Graaff-Reinet district, with no contradictory identity note."
+ },
+ {
+  "case_id": "P0340",
+  "choice": "NONE",
+  "reason": "None of Gideon, Pieter Johannes, Gerrit or Johannes Petrus matches Louis Hosea. Gerrit is additionally recorded as deceased, whereas this man lived until 1874."
+ },
+ {
+  "case_id": "P0170",
+  "choice": "NONE",
+  "reason": "Isaac Christiaan and Michiel Daniel are incompatible with Volckert Johannes, and neither candidate is recorded in the declared Somerset district."
+ },
+ {
+  "case_id": "P0196",
+  "choice": "NONE",
+  "reason": "Neither Leendert Hendrik nor Cornelis Michiel matches Gerhardus Andries. Their shared surname and Beaufort district are insufficient against the different given names."
+ },
+ {
+  "case_id": "P0135",
+  "choice": "C11",
+  "reason": "C11 exactly matches Pieter Cronje in Swellendam, while C15 adds the uncorroborated name Roelof. C11's father note, son of Abraham, is not contradicted by the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0572",
+  "choice": "NONE",
+  "reason": "No candidate matches Hermanus Nicolaas. C01 instead matches his father's name, Martinus Nicolaas, while Nicolaas Johannes and Christiaan David have different given names."
+ }
+]

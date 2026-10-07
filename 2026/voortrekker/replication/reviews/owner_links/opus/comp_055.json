@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0346",
+  "choice": "C08",
+  "reason": "C08 is Francois Jacobus Joubert in Somerset, an exact match for both given names and the declared district. C04 (Frans sr) is in Graaff-Reinet and gives only a short first name."
+ },
+ {
+  "case_id": "P0805",
+  "choice": "C04",
+  "reason": "C04 is Andries Johannes van Tonder in Swellendam, an exact match for both given names and the district. No other candidate shares both names."
+ },
+ {
+  "case_id": "P0515",
+  "choice": "NONE",
+  "reason": "No owner is named Nicolaas Johannes. The Somerset Potgieters (Pieter Jacobus, Andries Hendrik, Hermanus Philippus) all have clearly different given names."
+ },
+ {
+  "case_id": "P0054",
+  "choice": "NONE",
+  "reason": "No owner is named Christiaan. C01 is Christoffel, a different name, and is a deceased estate. Other owners only appear as sons of a 'Chr'."
+ },
+ {
+  "case_id": "P0886",
+  "choice": "C01",
+  "reason": "C01 is Johan Philip Zietsman in Uitenhage. Johan is a form of Johannes, so this matches the given names and district, and there is no competing candidate."
+ },
+ {
+  "case_id": "P0559",
+  "choice": "C03",
+  "reason": "C03 is Jochemus Johannes in Somerset; Jochemus is a variant of Joachim, so names and district match. The note 'sv JJ' does not conflict because the genealogy records no father. C08 (Joachim) lacks the second name and is in Uitenhage."
+ },
+ {
+  "case_id": "P0834",
+  "choice": "NONE",
+  "reason": "No owner is named Jan Adriaan. The closest, C11 Willem Adriaan, has a clearly different first name."
+ },
+ {
+  "case_id": "P0640",
+  "choice": "C04",
+  "reason": "C04 is Barend Jacobus Spies in Swellendam, an exact match for both given names and the district. C01 Barend Christoffel has a different second name."
+ },
+ {
+  "case_id": "P0117",
+  "choice": "NONE",
+  "reason": "No owner is named Ockert. Candidates sharing only the second name Jacobus have different first names."
+ },
+ {
+  "case_id": "P0505",
+  "choice": "NONE",
+  "reason": "No owner is named Willem Frederik. None of the Somerset or other Potgieter candidates shares his first name."
+ }
+]

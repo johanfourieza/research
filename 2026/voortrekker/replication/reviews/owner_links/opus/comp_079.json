@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0804",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Jacobus, which conflicts with Adriaan Jacobus. The 'wed.' note points to a widow's claim, not this man."
+ },
+ {
+  "case_id": "P0590",
+  "choice": "NONE",
+  "reason": "Several owners are recorded as children of Frans/Francois: Magdalena, Tielman Johannes, Gerhardus Jacobus and Pieter Gysbert. Frans Jacobus is also noted 'Frans zn', marking him as a son of Frans rather than Francois himself, so no candidate is this man."
+ },
+ {
+  "case_id": "P0833",
+  "choice": "C10",
+  "reason": "Marcus Albertus Venter in Graaff-Reinet matches the full given names and declared district exactly. The 'sv Paul' note does not conflict with any recorded father."
+ },
+ {
+  "case_id": "P0331",
+  "choice": "NONE",
+  "reason": "The only candidate is Adolph Jonker 'sv Pieter', a son of a Pieter, not Pieter himself. Adolph is a different given name."
+ },
+ {
+  "case_id": "P0402",
+  "choice": "C03",
+  "reason": "Willem Landman in Uitenhage matches the first name and declared district, and there is no contradiction. This man was born in 1809 and married in 1829, so he is plausibly an adult owner in the 1830s."
+ },
+ {
+  "case_id": "P0236",
+  "choice": "C15",
+  "reason": "Petrus Stephanus Erasmus in Somerset carries the same two given names in reversed order, which is a normal variation. The district matches his declared Somerset, and no recorded father contradicts the 'sv Jacob' note."
+ },
+ {
+  "case_id": "P0381",
+  "choice": "C08",
+  "reason": "Casper Jan Hendrik Kruger in Somerset is an exact full-name match. Somerset was formerly part of Cradock, his declared district."
+ },
+ {
+  "case_id": "P0199",
+  "choice": "NONE",
+  "reason": "The only candidate is Roelof du Plooy, a clearly different given name from Cornelis Johannes Frederik."
+ },
+ {
+  "case_id": "P0642",
+  "choice": "C09",
+  "reason": "Petrus Johannes Dirkse Steenkamp in Clanwilliam matches the distinctive full name and the declared district exactly."
+ },
+ {
+  "case_id": "P0101",
+  "choice": "NONE",
+  "reason": "Neither candidate fits Johannes Jacob. Gysbert Sybrand is a different name, and Johannes Gerhardus Stephanus shares only the first name, with different following names."
+ }
+]

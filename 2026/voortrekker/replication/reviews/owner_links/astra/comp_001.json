@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0209",
+  "choice": "NONE",
+  "reason": "Both candidates are named Hercules, with or without Salomon, rather than Johannes Lodewicus. C02 is also a deceased estate, whereas the genealogical man lived until 1849."
+ },
+ {
+  "case_id": "P0127",
+  "choice": "NONE",
+  "reason": "The only candidate is Jan Hendrik, not Frederik Johannes. The shared surname and district do not overcome the given-name mismatch."
+ },
+ {
+  "case_id": "P0507",
+  "choice": "NONE",
+  "reason": "C05 is Jacobus Cornelis rather than Jacobus Christoffel and is in Albany. C06 could omit Christoffel, but its Graaff-Reinet district and uncorroborated 'sv Philip' note leave insufficient evidence to identify him as this man."
+ },
+ {
+  "case_id": "P0224",
+  "choice": "C03",
+  "reason": "Frederik Els matches the surname, first given name and Somerset district. Omission of Nicolaas is a normal shortened-name variation, with no contradictory evidence supplied."
+ },
+ {
+  "case_id": "P0147",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Jacobus Frederik. C01 additionally represents Samuel's widow rather than this man."
+ },
+ {
+  "case_id": "P0099",
+  "choice": "C01",
+  "reason": "C01 matches the full name Johannes Gerhardus Stephanus Bronkhorst and the Beaufort district exactly, with no conflicting identity evidence."
+ },
+ {
+  "case_id": "P0149",
+  "choice": "NONE",
+  "reason": "The Somerset candidates Johannes Arnoldus and Johannes Matthys have different second names from Johannes Hendrik. No parentage or other evidence supports identifying either as him."
+ },
+ {
+  "case_id": "P0162",
+  "choice": "NONE",
+  "reason": "Neither Barend Jacobus nor Jan Hendrik matches Adriaan. Alida is explicitly a widow and cannot be this man."
+ },
+ {
+  "case_id": "P0008",
+  "choice": "NONE",
+  "reason": "No candidate is named Petrus Jacobus. C03's Casper Hendrik matches the father's given names instead, not those of the man being linked."
+ },
+ {
+  "case_id": "P0705",
+  "choice": "NONE",
+  "reason": "C01 matches the man's full name and district, but its 'sv Jan' parentage conflicts with the recorded father Adolph Johannes. With father and son sharing the full name, that match alone is insufficient to identify C01 as the son."
+ }
+]

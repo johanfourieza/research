@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0823",
+  "choice": "C01",
+  "reason": "Pieter Venter of Somerset is the Dutch form of Petrus and is recorded in the man's declared district. The other Somerset candidates conflict: Petrus Stephanus has a different second name, and Jan Hendrik lacks the first name. This is a weak, first-name-only match."
+ },
+ {
+  "case_id": "P0829",
+  "choice": "C21",
+  "reason": "Jan Adriaan Venter (sv Piet) matches both given names exactly. He is recorded in Somerset, which is adjacent to the Graaff-Reinet/Colesberg area, and no other candidate bears these names."
+ },
+ {
+  "case_id": "P0378",
+  "choice": "NONE",
+  "reason": "No Kruger owner is named Frans, Johannes Christiaan or any close variant. All the candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0451",
+  "choice": "NONE",
+  "reason": "No Albany Nel owner is named Johannes Petrus or Jan/Pieter. Gerrit, Daniel, Gert, Louis and Willem Andries are all different names."
+ },
+ {
+  "case_id": "P0021",
+  "choice": "C02",
+  "reason": "Hermanus Jacobus Bester of Swellendam matches the full name and the declared district exactly."
+ },
+ {
+  "case_id": "P0669",
+  "choice": "NONE",
+  "reason": "No Strydom owner is named Gideon Lourens. The candidates are Gerrit Cornelis, Johannes and a widow."
+ },
+ {
+  "case_id": "P0775",
+  "choice": "C05",
+  "reason": "Cornelis Johannes van Rooyen '1' of Uitenhage shares the first name, and the numbering suggests the elder of two namesakes. That fits a man married in 1809, whereas C03 is explicitly a son of CJ and so a younger man."
+ },
+ {
+  "case_id": "P0546",
+  "choice": "C01",
+  "reason": "Hendrik Frederik Prinsloo of Somerset matches the full name and the declared district. The Uitenhage namesake (s M) is in a different district."
+ },
+ {
+  "case_id": "P0849",
+  "choice": "NONE",
+  "reason": "Neither Vermeulen owner, Jan Gabriel or Petrus Cornelis, matches Sarel/Carel Johannes."
+ },
+ {
+  "case_id": "P0163",
+  "choice": "NONE",
+  "reason": "No De Lange owner is named Adriaan Jacobus. The candidates are Barend Jacobus, Jan Hendrik and the widow Alida."
+ }
+]

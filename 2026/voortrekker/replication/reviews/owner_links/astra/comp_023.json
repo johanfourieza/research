@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0086",
+  "choice": "NONE",
+  "reason": "Neither candidate matches Petrus Gerhardus: C01 is Jacoba Wilhelmina, a widow, and C02 is Johannes Arnoldus in Albany."
+ },
+ {
+  "case_id": "P0503",
+  "choice": "NONE",
+  "reason": "C07 is recorded as a widow, not the man Johannes (Theodorus). The other candidates have different given names, with no additional evidence linking them to him."
+ },
+ {
+  "case_id": "P0737",
+  "choice": "C03",
+  "reason": "C03 exactly matches Johannes Petrus van der Merwe and has no contradictory status or parentage note. This full-name match outweighs the difference between the declared Somerset district and Graaff-Reinet."
+ },
+ {
+  "case_id": "P0799",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Frederk nor Willem Hendrik matches Petrus; the shared surname and Uitenhage district are insufficient."
+ },
+ {
+  "case_id": "P0726",
+  "choice": "C38",
+  "reason": "Johannes Lodewicus matches Jan (Johannes) Lodewyk through normal given-name variants. Graaff-Reinet is compatible with the declared Colesberg district, which formerly belonged to it."
+ },
+ {
+  "case_id": "P0527",
+  "choice": "C07",
+  "reason": "C07 matches all three given names, with Wilhelm a variant of Wilhelmus, and is recorded in Graaff-Reinet. The genealogy supplies no father against which the note 'sv Martinus W.' could conflict."
+ },
+ {
+  "case_id": "P0229",
+  "choice": "NONE",
+  "reason": "No candidate has given names matching Adriaan Stephanus. The shared surname and district do not overcome these given-name differences."
+ },
+ {
+  "case_id": "P0366",
+  "choice": "NONE",
+  "reason": "The sole candidate is Frederik Martinus Klopper, whose given names clearly differ from Johannes Jacobus despite the matching district."
+ },
+ {
+  "case_id": "P0884",
+  "choice": "C01",
+  "reason": "Johan Adam is a normal variant of Johannes Adam, and both records give the surname Wilken and district Uitenhage."
+ },
+ {
+  "case_id": "P0177",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem. C01's note 'sv Willem' identifies Andries Stephanus's father, not the owner himself."
+ }
+]

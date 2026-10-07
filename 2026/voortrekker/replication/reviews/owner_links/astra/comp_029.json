@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0819",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Henning Jacobus. Hendrik Christoffel and the various owners sharing Jacobus have substantially different names, despite matching the district."
+ },
+ {
+  "case_id": "P0111",
+  "choice": "C04",
+  "reason": "Petrus Gerhardus Cilliers is an exact name match, and Graaff-Reinet is geographically compatible with the declared Colesberg district. The genealogy supplies no father to contradict the note 'sv Charles'."
+ },
+ {
+  "case_id": "P0007",
+  "choice": "NONE",
+  "reason": "C02 matches Casper Hendrik and Somerset, but its parentage note identifies the father as Hendrik rather than Casper Hendrik Sr. This is a substantial discrepancy when distinguishing the junior man from a namesake in another generation."
+ },
+ {
+  "case_id": "P0214",
+  "choice": "C03",
+  "reason": "Jacobus Francois matches both given names in reversed order. Graaff-Reinet is compatible with Colesberg's historical district affiliation, and no conflicting identity evidence is supplied."
+ },
+ {
+  "case_id": "P0655",
+  "choice": "NONE",
+  "reason": "None of the four candidates has given names matching Theunis Frederik Jacobus. The Somerset candidates Hermanus and Douw Gerbrand have clearly different names."
+ },
+ {
+  "case_id": "P0673",
+  "choice": "NONE",
+  "reason": "The sole candidate is Jan Lodewyk Strydom, whose given names conflict with Pieter Frederik. The shared surname and Beaufort district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0104",
+  "choice": "C01",
+  "reason": "Schalk Willem Bruwer is an exact name and district match. The note 'sv Joh.' does not conflict with the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0630",
+  "choice": "NONE",
+  "reason": "No candidate matches Christiaan Hendrik Stephanus. C07 shares only Hendrik, while C04 and C09 have different name combinations; the common district provides insufficient additional evidence."
+ },
+ {
+  "case_id": "P0544",
+  "choice": "NONE",
+  "reason": "No candidate is named Daniel or Daniel Petrus. Several share Petrus but have otherwise different given names, with no supplied evidence connecting them to this man."
+ },
+ {
+  "case_id": "P0266",
+  "choice": "NONE",
+  "reason": "No candidate matches Willem Andries Johannes. C04 shares only Johannes, while the other Johannes-bearing candidates have conflicting given names; none has supporting parentage or spouse evidence."
+ }
+]

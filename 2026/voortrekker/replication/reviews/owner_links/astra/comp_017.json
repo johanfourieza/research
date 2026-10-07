@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0025",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Barnard Jacobus. Willem Abraham, Andries and Paul Dirk are materially different names."
+ },
+ {
+  "case_id": "P0864",
+  "choice": "NONE",
+  "reason": "Neither Charl nor Christoffel is a normal variant of Cornelis Hendricus. The shared surname and Uitenhage district do not overcome these name contradictions."
+ },
+ {
+  "case_id": "P0478",
+  "choice": "NONE",
+  "reason": "The sole candidate is Godlieb Rudolph, whose given names contradict Johannes Jacobus. The compatible Somerset/Cradock geography is insufficient."
+ },
+ {
+  "case_id": "P0465",
+  "choice": "C03",
+  "reason": "Pieter Willem matches the first two given names exactly, with Adriaan plausibly omitted. C03 also matches the declared George district."
+ },
+ {
+  "case_id": "P0311",
+  "choice": "NONE",
+  "reason": "C01 and C02 both match Petrus Gerhardus in Uitenhage, but neither has parentage or an explicit senior designation distinguishing him. The unexplained '1' on C02 does not establish that he is the senior man, so neither candidate is more likely than not."
+ },
+ {
+  "case_id": "P0854",
+  "choice": "C04",
+  "reason": "Jan Albertus matches the given-name components in reversed order, with Jan a normal form of Johannes. The Somerset rather than Colesberg district weakens the match, but there is no contradictory parentage evidence and no other candidate matches both names."
+ },
+ {
+  "case_id": "P0018",
+  "choice": "NONE",
+  "reason": "Neither Martinus Johannes nor Johannes Hendrik matches Adriaan. Their shared surname and George district are insufficient to identify either as this man."
+ },
+ {
+  "case_id": "P0247",
+  "choice": "NONE",
+  "reason": "No candidate has Willem or a supplied equivalent among his given names. Candidates sharing Jacobus have different accompanying names and no additional identity evidence linking them to Willem Jacobus."
+ },
+ {
+  "case_id": "P0438",
+  "choice": "C02",
+  "reason": "C02 matches Petrus Lafras exactly and is recorded in the declared Uitenhage district. The 's J' parentage note cannot be checked because the genealogy supplies no father, but it creates no contradiction."
+ },
+ {
+  "case_id": "P0779",
+  "choice": "NONE",
+  "reason": "None of the candidates has Gysbertus or a normal equivalent; Gerrit is a different given name. The candidates also lack a matching Somerset district or other identifying evidence."
+ }
+]

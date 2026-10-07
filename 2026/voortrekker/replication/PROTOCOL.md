@@ -1,6 +1,6 @@
 # Linkage protocol and departures from it
 
-The protocol below was written and locked before any estimate with the final links was computed. Like the analysis code and every link decision, it was hashed (SHA-256 and MD5). It is a protocol for this linkage, not a preregistration of the study's hypotheses. The pipeline checks two checksums before it estimates anything: the census workbook (`data/inputs/source_md5.txt`) and the link decisions (`data/linkage/link_decisions_md5.txt`).
+The protocol below was written and locked before any estimate with the final links was computed. Like the analysis code and every link decision, it was hashed (SHA-256 and MD5). It is a protocol for this linkage, not a preregistration of the study's hypotheses. The pipeline checks the checksums of the census workbook (`data/inputs/source_md5.txt`) and the census link decisions (`data/linkage/link_decisions_md5.txt`) before the census analysis, and those of the compensation scope decisions and the owner-link decisions before the compensation analysis.
 
 ## Protocol
 
@@ -37,23 +37,26 @@ The protocol below was written and locked before any estimate with the final lin
    - the cross-district pass covers men with no in-district candidate;
    - heads are standardised with the same function as wives, and fuzzy blocking compares surnames without particles;
    - the robustness analysis reports the three spouse-evidence states separately;
-   - the review queue covers supplementary candidate pairs and changed partners, and finalisation enforces one person per census head;
+   - the review queue covers supplementary candidate pairs and alternative candidates for the same person, and finalisation enforces one person per census head;
    - during the linkage, estimation checked the locked inputs and required regenerated proposals to match the locked ones (the public code checks the checksums of the census workbook and the link decisions).
 4. **Scope of author adjudication.** Of the 458 pairs queued for the authors, they decided only the 230 that at least one model accepted. The 228 that no model accepted are not linked.
 5. **Men recorded twice.** Five linked men appear in two census records: four moved between the 1823 and 1825 enumerations, and one is a double entry. Each is linked to one record, the 1825 record for the four movers. The other record is excluded from the comparison group (`data/linkage/duplicate_households.csv`).
-6. **Analyses added after estimation.** The married-household analyses (`code/couples_analysis.R`) were added after the estimation runs. They do not use outcomes to change any link.
-7. **Changes to the analysis code and tables after estimation.** None of these changes any link:
-   - The leader and destination analyses use every link: an inherited score filter (at least 0.70) that dropped 66 links was removed. With nine qualifying leaders, a chart's colour palette was extended.
-   - Presentation only, with no estimate changed:
+6. **Analyses added after estimation.** The married-household analyses (`code/couples_analysis.R`) and the exploratory checks of the Online Appendix (`code/refine_analyses.R`) were added after the estimation runs. They do not use outcomes to change any link.
+7. **Analysis and presentation specifications.** None of these affects any link:
+   - The leader and destination analyses use every link, and the leader charts distinguish all nine qualifying leaders.
+   - Figures and tables:
      - the variable-importance figure is drawn from the linkage classifier;
      - the score histogram marks only the classifier threshold;
      - the six-method table prints a dash where a p-value is undefined;
      - the timing figure's axis is labelled "Census District";
-     - where the pipeline draws a figure twice, the paper uses the later output.
+     - the emancipation distributions are shown as histograms, without density curves;
+     - in the loss-quartile figure the overall rate is given in the subtitle;
+     - where the pipeline draws a figure twice, the paper uses the final output in `output/figures/`.
    - In the paper's tables:
      - the male-headed-controls table reports the full sample, male-headed controls, and classifier-proposed links against male-headed controls;
      - the clustered-inference table reports the full sample, classifier-proposed links and married couples.
      Further samples computed by the pipeline are not shown.
+8. **Compensation-owner linkage.** The owner links are the decisions of a blind review. Two language models (Claude Opus 5.5 and GPT-6 Astra) each reviewed all 886 genealogy records that have a same-surname owner in their search set (7,404 candidate pairs), seeing identity evidence only (no slave numbers, valuations or payments), and chose one owner or none. They agree on 850 records. A record is linked to the owner both chose. The 112 records on which they differ, or whose agreed owner is also chosen for another record, are not linked; the 72 owners chosen by either model in these cases are excluded from the owner sample, which also removes 11 otherwise agreed links. The 229 decisions and the exclusions were hashed before any estimate with them was computed, and the pipeline checks the hashes (`data/inputs/owner_link_decisions.csv`, `owner_exclusions.csv`; reviews in `reviews/owner_links/`).
 
 ## Records
 

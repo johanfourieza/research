@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0433",
+  "choice": "C01",
+  "reason": "Johan is a form of Johannes, and C01 Johannes Meyer is in Uitenhage, the declared district. The missing 'George' is an omitted middle name, so this is a modest match. Every other candidate has a clearly different first name."
+ },
+ {
+  "case_id": "P0745",
+  "choice": "C01",
+  "reason": "C01 is the only candidate with exactly the given name Johannes, and he is in Beaufort, the declared district. The genealogy records no father, so his note 'sv Willem' cannot be contradicted. The other candidates have different names or are sons of a Johannes."
+ },
+ {
+  "case_id": "P0835",
+  "choice": "NONE",
+  "reason": "No candidate is named Paulus Stephanus. C12 Marcus Albertus 'sv Paul' appears to be a son of this man, not the man himself."
+ },
+ {
+  "case_id": "P0283",
+  "choice": "NONE",
+  "reason": "C01 Petrus Johannes shares only the first name (Petrus/Pieter) and has a different second name (Johannes against Jacobus), which is weak evidence. C02 Abraham Carel is clearly different."
+ },
+ {
+  "case_id": "P0198",
+  "choice": "NONE",
+  "reason": "C02 Cornelis Michiel carries no Jr note, and the man's father Cornelis Michiel Sr has the identical name. The son only married in 1833, so the single established owner at Nelspoort is at least as likely to be the father. C01 is a different man, a son of Cornelis."
+ },
+ {
+  "case_id": "P0857",
+  "choice": "C11",
+  "reason": "C11 Jan Albertus 'sv Willem' in Somerset matches the given names, the declared district and the genealogy father Willem Wouter. The father himself appears separately as C08."
+ },
+ {
+  "case_id": "P0574",
+  "choice": "C03",
+  "reason": "C03 Christiaan David Ras in Clanwilliam is an exact match of given names and district."
+ },
+ {
+  "case_id": "P0664",
+  "choice": "C07",
+  "reason": "C07 Hermanus Jacobus 'sv Douw' in Swellendam matches both the given names and the genealogy's own note 'Douw seun'."
+ },
+ {
+  "case_id": "P0468",
+  "choice": "C01",
+  "reason": "C01 Adriaan Jacobus Jeremias Olivier in Beaufort matches the distinctive full given names and the declared district exactly. The genealogy records no father to conflict with 'so Gerrit'."
+ },
+ {
+  "case_id": "P0876",
+  "choice": "C02",
+  "reason": "C02 Roelof Weideman in Beaufort matches the given name and the declared district. The genealogy records no father to conflict with 'sv Jacob', and C01 has a different name."
+ }
+]

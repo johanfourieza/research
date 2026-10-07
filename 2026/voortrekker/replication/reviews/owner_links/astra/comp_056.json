@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0058",
+  "choice": "C16",
+  "reason": "C16 exactly matches Petrus Johannes Botha in George. C14 has the names reversed, making it less direct a match than C16."
+ },
+ {
+  "case_id": "P0408",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Hendrik Frederik. C04 matches his father's name, Barend Godlieb, rather than his own."
+ },
+ {
+  "case_id": "P0510",
+  "choice": "C10",
+  "reason": "Hermanus Philippus matches the given name Hermanus and the declared Somerset district, with Philippus potentially omitted from the genealogy. The other Hermanus candidate is in Uitenhage, and no supplied note contradicts C10 being the senior man."
+ },
+ {
+  "case_id": "P0589",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes Gysbertus Roos, whose given names contradict Paulus Stephanus despite the matching district."
+ },
+ {
+  "case_id": "P0010",
+  "choice": "C03",
+  "reason": "Hendrik is compatible with Hendrik Johannes through omission of the middle name, and Graaff-Reinet is geographically compatible with Colesberg. The 'sv Hendrik' note presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0087",
+  "choice": "NONE",
+  "reason": "C01 is a widow named Jacoba Wilhelmina. C02 shares Arnoldus but has the different first name Johannes rather than Cornelis and is recorded in Albany rather than Somerset."
+ },
+ {
+  "case_id": "P0363",
+  "choice": "NONE",
+  "reason": "No candidate matches Jacobus Marthinus. C04's Martinus is compatible with Marthinus, but Frederik is a different first name and the Graaff-Reinet district provides no supporting match."
+ },
+ {
+  "case_id": "P0004",
+  "choice": "C03",
+  "reason": "C03 matches Lourens Badenhorst, Swellendam, and the explicit 'sr' designation. The senior designation is also consistent with the genealogy's 1775 birth year."
+ },
+ {
+  "case_id": "P0315",
+  "choice": "C03",
+  "reason": "C03 exactly matches Christoffel Johannes Jacobs in Graaff-Reinet, with no contradictory identity notes."
+ },
+ {
+  "case_id": "P0608",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Sara Johanna (Catharina). The shared surname and Uitenhage district do not overcome these given-name contradictions."
+ }
+]

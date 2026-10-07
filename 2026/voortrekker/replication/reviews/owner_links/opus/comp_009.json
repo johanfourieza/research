@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0625",
+  "choice": "NONE",
+  "reason": "No owner is named Willem Jacobus. C03 (Willem, sv Jacobus) matches only on the first name and is in Beaufort rather than Graaff-Reinet/Colesberg. C17 (Willem Stephanus) has a conflicting second name."
+ },
+ {
+  "case_id": "P0258",
+  "choice": "C03",
+  "reason": "C03 is Jan Christoffel Esterhuizen, an exact match on both given names, in the same declared district of Beaufort."
+ },
+ {
+  "case_id": "P0818",
+  "choice": "C01",
+  "reason": "C01 is Roelof Daniel van Wyk, an exact match on both given names, in Swellendam, the declared district. No other candidate shares his given names."
+ },
+ {
+  "case_id": "P0373",
+  "choice": "NONE",
+  "reason": "The only candidate is Christiaan Burgert Kotze, whose given names are entirely different from Jacobus Johannes Jurgen."
+ },
+ {
+  "case_id": "P0120",
+  "choice": "NONE",
+  "reason": "No Somerset Coetzer owner is named Hendrik. The candidates (Johannes Jacobus, Pieter Willem, Jacob Jeremias, Wentzel Christoffel) all have different given names."
+ },
+ {
+  "case_id": "P0588",
+  "choice": "NONE",
+  "reason": "The single owner Johannes Gysbertus Roos (Somerset, no jr/sr note) shares names with both this man and his father Johannes Gysbertus Sr. The son only married in 1832, so the established father is at least as likely to be the 1830s owner."
+ },
+ {
+  "case_id": "P0281",
+  "choice": "C01",
+  "reason": "C01 is Cornelis Gouws in Uitenhage, matching his given name and declared district. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0466",
+  "choice": "NONE",
+  "reason": "The only candidate is Petrus Jacobus Niemand, whose given names clearly differ from Izak Johannes."
+ },
+ {
+  "case_id": "P0061",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Lodewicus Petrus. C03 (Petrus Johannes, sv Piet) shares only common names in a different combination, and the other candidates differ entirely."
+ },
+ {
+  "case_id": "P0653",
+  "choice": "NONE",
+  "reason": "No Steyn owner is named Lucas Cornelis. All four candidates (Stephanus Johannes, Douw Gerbrand, Hermanus, Hans Jurgen) have clearly different given names."
+ }
+]

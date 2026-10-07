@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0182",
+  "choice": "C01",
+  "reason": "Barend Christoffel Du Plessis matches the full name and Somerset district exactly. The note 'sv BC' does not conflict with any supplied parentage, since his father is unrecorded."
+ },
+ {
+  "case_id": "P0328",
+  "choice": "C01",
+  "reason": "Daniel Jacobs matches the first name, surname and Beaufort district, with Roelof and the senior designation plausibly omitted. No other candidate has a compatible given-name combination."
+ },
+ {
+  "case_id": "P0795",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederk is a compatible name for Philippus Theunis. Their shared surname and Uitenhage district do not overcome these given-name contradictions."
+ },
+ {
+  "case_id": "P0602",
+  "choice": "NONE",
+  "reason": "C02 is explicitly a son of Gerrit, contradicting the recorded father Jan Marthinus, while C01 has the conflicting second name Frederik. The man died in 1823, and no candidate is identified as his estate or claim."
+ },
+ {
+  "case_id": "P0552",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Anthonie Christoffel. Shared surname and district alone are insufficient."
+ },
+ {
+  "case_id": "P0275",
+  "choice": "NONE",
+  "reason": "The only candidate is a woman, Anna Catharina Fourie, not Marcus Johannes. Her partial given-name resemblance to his wife does not establish that the claim is his."
+ },
+ {
+  "case_id": "P0032",
+  "choice": "NONE",
+  "reason": "Neither male candidate has names compatible with Wynand Carel; Johannes senior instead matches his recorded father's name and designation. Anna Catharina is a woman and cannot be identified as this man."
+ },
+ {
+  "case_id": "P0441",
+  "choice": "C01",
+  "reason": "Johannes Petrus Muller matches the full name and Swellendam district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0622",
+  "choice": "C07",
+  "reason": "Nicolaas Wilhelmus Smit is an exact full-name match, outweighing the difference between the declared Tulbagh district and Worcester. The note 'sv Pieter' cannot be checked against an unrecorded father but supplies no contradiction."
+ },
+ {
+  "case_id": "P0146",
+  "choice": "NONE",
+  "reason": "Jan Andries, Samuel and Matthys Andries are all incompatible with Hendrik Petrus Jacobus. C02 also carries a widow designation, with no evidence connecting that claim to this man."
+ }
+]

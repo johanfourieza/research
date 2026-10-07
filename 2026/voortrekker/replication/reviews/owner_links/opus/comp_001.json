@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0209",
+  "choice": "NONE",
+  "reason": "Both George owners are named Hercules (C02 is a deceased estate), which clearly contradicts Johannes Lodewicus."
+ },
+ {
+  "case_id": "P0127",
+  "choice": "NONE",
+  "reason": "The only Uitenhage owner is Jan Hendrik Combrink, whose given names differ entirely from Frederik Johannes."
+ },
+ {
+  "case_id": "P0507",
+  "choice": "NONE",
+  "reason": "No owner is Jacobus Christoffel. C05 Jacobus Cornelis (Albany) has a conflicting second name, and C06 Jacobus sv Philip is a first-name-only match in Graaff-Reinet rather than Somerset, so neither is more likely than not."
+ },
+ {
+  "case_id": "P0224",
+  "choice": "C03",
+  "reason": "Frederik Els in Somerset matches the first given name and the declared district; omitting the middle name Nicolaas is normal and nothing contradicts it."
+ },
+ {
+  "case_id": "P0147",
+  "choice": "NONE",
+  "reason": "The Beaufort owners are Samuel (a widow's claim), Jan Andries and Matthys Andries, and none fits Jacobus Frederik."
+ },
+ {
+  "case_id": "P0099",
+  "choice": "C01",
+  "reason": "Exact match on all three given names, Johannes Gerhardus Stephanus, in the declared district of Beaufort."
+ },
+ {
+  "case_id": "P0149",
+  "choice": "NONE",
+  "reason": "The Johannes owners carry second names Arnoldus and Matthys, not Hendrik. A shared first name with different second names is only weak evidence."
+ },
+ {
+  "case_id": "P0162",
+  "choice": "NONE",
+  "reason": "No owner is named Adriaan: C01 is a widow, and C02 and C03 are sons of Barend with different names."
+ },
+ {
+  "case_id": "P0008",
+  "choice": "NONE",
+  "reason": "No owner is named Petrus Jacobus. C03 Casper Hendrik shares the father's name but is not this man."
+ },
+ {
+  "case_id": "P0705",
+  "choice": "C01",
+  "reason": "Exact name match, Adolph Johannes, in Swellendam. The note 'sv Jan' is consistent with the genealogy father Adolph Johannes, plausibly known as Jan, a Dutch form of Johannes."
+ }
+]

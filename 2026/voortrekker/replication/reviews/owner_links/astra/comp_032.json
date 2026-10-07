@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0620",
+  "choice": "NONE",
+  "reason": "None of the Beaufort candidates has given names corresponding to Carel/Sarel Gerhardus; Christoffel Johannes, Willem and Frans Petrus are different names."
+ },
+ {
+  "case_id": "P0394",
+  "choice": "C03",
+  "reason": "Frans Jacob is a normal variant of Frans Jacobus, and the Somerset district agrees. The note 'sv Jan' does not contradict any supplied father information."
+ },
+ {
+  "case_id": "P0877",
+  "choice": "C01",
+  "reason": "Johan David Wentzel matches the full name and Somerset district exactly. No supplied evidence contradicts the parentage note."
+ },
+ {
+  "case_id": "P0828",
+  "choice": "NONE",
+  "reason": "C03 matches Jan Louis and Beaufort, but 'sv Jan' contradicts the recorded father Jacobus Daniel Sr. Neither other candidate has the man's given names."
+ },
+ {
+  "case_id": "P0051",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names corresponding to Herculas David. The shared surname and relevant districts cannot overcome these given-name differences."
+ },
+ {
+  "case_id": "P0483",
+  "choice": "C01",
+  "reason": "C01 matches Andries Christoffel Piek and the Albany district exactly. Although his father shared the name, the owner record has no senior designation or parentage note pointing to the father rather than this man."
+ },
+ {
+  "case_id": "P0077",
+  "choice": "C05",
+  "reason": "C05 matches Petrus Johannes Botha exactly in George. C12 has the names reversed, but C05's exact ordering makes it the stronger match without contradictory evidence."
+ },
+ {
+  "case_id": "P0519",
+  "choice": "NONE",
+  "reason": "No candidate matches Zacharias Arnoldus Stephanus. The Hendrik Stephanus entries share only Stephanus and have a clearly different first name."
+ },
+ {
+  "case_id": "P0870",
+  "choice": "NONE",
+  "reason": "C02's Charl could correspond to Carel, but Johannes is absent and the district is Uitenhage rather than Somerset. Without corroborating parentage or other identity evidence, this partial match is insufficient."
+ },
+ {
+  "case_id": "P0442",
+  "choice": "NONE",
+  "reason": "No candidate has given names corresponding to Johannes Christiaan. Cornelius/Cornelis Johannes is a different name combination, and those entries are in Uitenhage rather than Somerset."
+ }
+]

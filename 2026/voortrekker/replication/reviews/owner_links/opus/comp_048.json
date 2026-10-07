@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0343",
+  "choice": "NONE",
+  "reason": "No candidate is named Jan Abraham. The Joubert owners have clearly different given names (Josua, Francois, Pieter Schalk, David Johannes, etc.) or are women."
+ },
+ {
+  "case_id": "P0661",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus, son of Martinus. Hermanus is a clearly different first name from Jacobus Marthinus, even though the district (Beaufort) agrees."
+ },
+ {
+  "case_id": "P0678",
+  "choice": "C03",
+  "reason": "C03 'Johannes s Matthys' in Uitenhage matches the given name and declared district. The other candidates are a widow and Gerrit Cornelis."
+ },
+ {
+  "case_id": "P0790",
+  "choice": "NONE",
+  "reason": "Neither candidate (Willem Hendrik, Jacobus Frederik) matches the given names Petrus Johannes."
+ },
+ {
+  "case_id": "P0627",
+  "choice": "C01",
+  "reason": "Frans Petrus is the Dutch short form of Francois Petrus, and the district (Beaufort) agrees. No genealogy father contradicts the 'sv Willem' note."
+ },
+ {
+  "case_id": "P0407",
+  "choice": "C02",
+  "reason": "C02 Barend Godlieb in Graaff-Reinet is an exact name and district match. C04 is noted as son of Barend, which fits as his son."
+ },
+ {
+  "case_id": "P0428",
+  "choice": "C03",
+  "reason": "C03 Lucas Johannes in Somerset is an exact match on given names and declared district."
+ },
+ {
+  "case_id": "P0514",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem Jacobus. C02 Hermanus Philippus could relate to his father Hermanus but is not him."
+ },
+ {
+  "case_id": "P0242",
+  "choice": "C17",
+  "reason": "C17 Jacob Lourens Carolus in Somerset shares the first name Jacob and the declared district; omitted middle names are normal. The other Jacob references are sons ('sv Jacob') or a Jacobus in Albany."
+ },
+ {
+  "case_id": "P0593",
+  "choice": "NONE",
+  "reason": "The only candidate is Stephanus Johannes, which matches the genealogy father, not Gerrit Hendrik himself."
+ }
+]

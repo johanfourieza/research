@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0865",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Christoffel; all have clearly different given names despite sharing the surname and district."
+ },
+ {
+  "case_id": "P0264",
+  "choice": "C01",
+  "reason": "David Stephanus Fourie matches the full given names and Beaufort district. The omitted senior designation introduces no contradiction."
+ },
+ {
+  "case_id": "P0730",
+  "choice": "C22",
+  "reason": "Martinus is a normal spelling variant of Marthinus, and C22 matches the Somerset district. The genealogy supplies no father to contradict the note 'sv Martinus'."
+ },
+ {
+  "case_id": "P0164",
+  "choice": "C04",
+  "reason": "Pieter Hendrik matches Pieter Hendrikus through a normal name-form variation, and both records place him in Swellendam."
+ },
+ {
+  "case_id": "P0036",
+  "choice": "NONE",
+  "reason": "Neither Jacobus nor Jan Hendrik matches Cornelis Hermanus Zacharias. Both candidates also have a different recorded district."
+ },
+ {
+  "case_id": "P0005",
+  "choice": "NONE",
+  "reason": "C05 is explicitly Lourens senior, fitting the recorded father rather than Lourens junior born in 1800. C02 is a son of Petrus, contradicting the genealogy's father Lourens."
+ },
+ {
+  "case_id": "P0650",
+  "choice": "C07",
+  "reason": "C07 matches Petrus Paulus Steyn exactly and is recorded in Swellendam. His 'sv Petrus' note is not contradicted by the genealogy, which gives no father."
+ },
+ {
+  "case_id": "P0385",
+  "choice": "NONE",
+  "reason": "C01's father Gert contradicts Stephanus Johannes, while C07 has the different second name Hendrik. C04 shares the reordered middle names Jacobus and Stephanus but lacks Gert and any corroborating parentage, making that match insufficient."
+ },
+ {
+  "case_id": "P0768",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Jacobus or his nickname Hans. The shared Janse element does not overcome their clearly different given names."
+ },
+ {
+  "case_id": "P0248",
+  "choice": "C09",
+  "reason": "Petrus Johannes is equivalent to Pieter Johannes, and C09 matches the Somerset district. The note 'sv PJ' also agrees with his father Pieter Johannes Erasmus."
+ }
+]

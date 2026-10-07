@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0733",
+  "choice": "C07",
+  "reason": "Jacob Franciscus is a normal name-form variation of Jacobus Francois. The surname and Graaff-Reinet district also match, with no contradictory evidence."
+ },
+ {
+  "case_id": "P0474",
+  "choice": "C01",
+  "reason": "Martinus and Marthinus are spelling variants, and both records place him in Uitenhage. His death in 1838 is compatible with ownership in the 1830s."
+ },
+ {
+  "case_id": "P0788",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Frederik nor Martinus Jacobus matches Johannes Hendrik. C01 additionally represents a widow rather than this man."
+ },
+ {
+  "case_id": "P0739",
+  "choice": "NONE",
+  "reason": "C04 is a deceased Willem, with no supplied evidence identifying the estate as this man's. C05 shares Bartholomeus in variant spelling but is Bartolomeus Jacobus, not Willem Bartholomeus, and lacks corroborating evidence."
+ },
+ {
+  "case_id": "P0807",
+  "choice": "C01",
+  "reason": "Johannes Janse Van Vuuren matches the complete recorded name exactly, and the George district also agrees."
+ },
+ {
+  "case_id": "P0537",
+  "choice": "NONE",
+  "reason": "No candidate matches Sybrand Gerhardus. The partial Gerhardus or Gert matches lack corroborating identity evidence and are insufficient to identify this man."
+ },
+ {
+  "case_id": "P0204",
+  "choice": "NONE",
+  "reason": "C08 is Johannes Andries rather than Johannes Stephanus, so the shared first name and district provide only weak evidence. C06 shares Stephanus but has the different first name Hercules."
+ },
+ {
+  "case_id": "P0294",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hermanus Grobler, whose given names contradict Pieter. The matching surname and district do not overcome that difference."
+ },
+ {
+  "case_id": "P0221",
+  "choice": "C11",
+  "reason": "Thomas Arnoldus Du Toit is an exact full-name match. Graaff-Reinet is geographically compatible with the declared Colesberg district, which was formerly part of it."
+ },
+ {
+  "case_id": "P0485",
+  "choice": "C05",
+  "reason": "Petrus Arnoldus Pienaar is an exact full-name match, and Graaff-Reinet is compatible with the declared Colesberg district. The parentage note 'sv JJ' cannot be checked because the genealogy supplies no father, but it introduces no known contradiction."
+ }
+]

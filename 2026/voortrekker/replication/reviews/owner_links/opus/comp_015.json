@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0522",
+  "choice": "NONE",
+  "reason": "No owner is named Matthys Cornelis. The nearest, C03 Matthys Jacobus (sv JL), has a different second name and is in Graaff-Reinet, not Somerset."
+ },
+ {
+  "case_id": "P0496",
+  "choice": "NONE",
+  "reason": "No male owner is named Johannes Hermanus. C05 is only the widow of a Johannes, and nothing shows that claim belongs to this man."
+ },
+ {
+  "case_id": "P0211",
+  "choice": "NONE",
+  "reason": "No owner is named Casper Philippus. The Somerset candidates are Louis (deceased, sv Philip) and Jacobus Hercules (sv Simon), both clearly different names."
+ },
+ {
+  "case_id": "P0822",
+  "choice": "C19",
+  "reason": "C19 Willem (so Willem) is the only Willem among the Clanwilliam owners and matches the declared district; the omitted middle name Jacobus is not a contradiction. The match rests on the first name alone, so it is weak but uncontradicted."
+ },
+ {
+  "case_id": "P0484",
+  "choice": "NONE",
+  "reason": "The only candidate, Andries Christoffel Piek, has the name of this man's recorded father (Andries Christoffel Sr.), not his own names George Diederik Frederik."
+ },
+ {
+  "case_id": "P0347",
+  "choice": "C01",
+  "reason": "Exact name match, Pieter Schalk Joubert, in the same declared district of Uitenhage."
+ },
+ {
+  "case_id": "P0107",
+  "choice": "C03",
+  "reason": "No male owner is named Schalk Willem Petrus; C01 Schalk Johannes (sv Barend) has a different second name. C03 Elsie Sophia Burger exactly matches his wife Elsje Sophia (née Lubbe, married 1810) in Worcester, and he was alive until 1868, so this claim most likely belongs to his household."
+ },
+ {
+  "case_id": "P0763",
+  "choice": "NONE",
+  "reason": "No owner is named Jacobus Gustavus or recorded as a son of Christiaan. The only Somerset owner is Johannes Albertus (sv Wm)."
+ },
+ {
+  "case_id": "P0502",
+  "choice": "NONE",
+  "reason": "No Potgieter owner is named Izak or Isaac Cornelius; all candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0060",
+  "choice": "NONE",
+  "reason": "No owner is named Jacobus Marthinus. C01 Jacobus Theodorus shares only the first name and has a different second name."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0811",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Gerhardus Janse, not Hendrik Lourens Janse, and is recorded in Uitenhage rather than Somerset. The shared surname and Janse do not overcome the different given names."
+ },
+ {
+  "case_id": "P0525",
+  "choice": "NONE",
+  "reason": "C05 shares Matthys and the Graaff-Reinet district, but his second name is Jacobus rather than Wynand. No candidate matches Matthys Wynand, and no supplied evidence connects C05 to him."
+ },
+ {
+  "case_id": "P0557",
+  "choice": "NONE",
+  "reason": "The closest Somerset candidates are Willem Jacobus (C04) and Willem Petrus (C09), neither of whom matches Willem Johannes. Neither has a parentage note confirming the genealogy father Johannes."
+ },
+ {
+  "case_id": "P0460",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Cecilia Johanna Jacoba. C03's name Louis resembles the genealogy father's name, not the target individual's."
+ },
+ {
+  "case_id": "P0321",
+  "choice": "NONE",
+  "reason": "C02 shares Johannes and the Beaufort district, but Stephanus is a different second name from Jacobus. C01 is Petrus Jacobus rather than Johannes Jacobus, and neither candidate has additional evidence establishing the match."
+ },
+ {
+  "case_id": "P0174",
+  "choice": "C02",
+  "reason": "C02 exactly matches Roelof Petrus Gerhardus Dreyer and the declared district Somerset. There is no conflicting identity evidence."
+ },
+ {
+  "case_id": "P0766",
+  "choice": "NONE",
+  "reason": "C01 is Frederik Roelof Janse rather than Lucas Willem Janse. The shared surname, Janse and Albany district do not overcome the clearly different given names."
+ },
+ {
+  "case_id": "P0760",
+  "choice": "NONE",
+  "reason": "C02 and C04 share Gerhardus but have Laurens/Lourens rather than Jozua, with no supporting evidence connecting them to the target. No candidate matches Gerhardus Jozua or Gert Sr."
+ },
+ {
+  "case_id": "P0175",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Andries Stephanus. C02's note 'sv Andries' identifies his father as Andries; the owner himself is Petrus Francois."
+ },
+ {
+  "case_id": "P0121",
+  "choice": "C04",
+  "reason": "C04 exactly matches Johannes Jacobus Coetzer and the Somerset district. His parentage is unspecified, so there is no contradiction with the genealogy father Gerrit."
+ }
+]

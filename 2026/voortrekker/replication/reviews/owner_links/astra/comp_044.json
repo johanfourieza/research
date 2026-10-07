@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0803",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Jacobus Van Tonder, not Willem Marthinus. The different given names and lack of corroborating identity evidence rule out a likely match."
+ },
+ {
+  "case_id": "P0785",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names corresponding to Roelof Theunis Johannes. Their shared surname and Uitenhage district are insufficient against these name differences."
+ },
+ {
+  "case_id": "P0702",
+  "choice": "NONE",
+  "reason": "Both candidates are named Johannes, one with the additional name Gerhardus, rather than Hendrik Abraham. Neither has parentage evidence linking him to the recorded father Hendrik Abraham."
+ },
+ {
+  "case_id": "P0440",
+  "choice": "NONE",
+  "reason": "No candidate matches Jan Adriaan; C06 instead matches his father's name, Jacobus Philippus. C03 Hans Jurie also has incompatible recorded parentage, being son of Pieter."
+ },
+ {
+  "case_id": "P0770",
+  "choice": "NONE",
+  "reason": "None of the candidates matches Nicolaas Johannes Janse. He died in 1823, and no supplied candidate is identified as his estate or claim."
+ },
+ {
+  "case_id": "P0285",
+  "choice": "C02",
+  "reason": "C02 matches Johannes Arnoldus Greyling exactly and is recorded in Somerset, the declared district. There is no supplied contradictory identity evidence."
+ },
+ {
+  "case_id": "P0524",
+  "choice": "NONE",
+  "reason": "C07 Matthys Jacobus shares two internal given names but lacks Hendrik and Wynand, with no independent corroboration sufficient to establish the identity. C20 Hendrik Stephanus has a different second name and is recorded as deceased, conflicting with the man's death in 1892."
+ },
+ {
+  "case_id": "P0597",
+  "choice": "C06",
+  "reason": "C06 Coenraad Frederik Scheepers matches both given names in reversed order and the Uitenhage district. This is substantially stronger than C01, who shares only Coenraad."
+ },
+ {
+  "case_id": "P0447",
+  "choice": "C10",
+  "reason": "C10 matches Pieter Willem Nel exactly and is recorded in Somerset. The note identifying his father as Pieter W. does not conflict with the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0562",
+  "choice": "NONE",
+  "reason": "Neither Hendrik candidate matches Hendrik Petrus: C06 and C10 are both Hendrik Frederik. No candidate supplies the required given-name combination or other evidence identifying him as this man."
+ }
+]

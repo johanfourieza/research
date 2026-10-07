@@ -1,0 +1,498 @@
+[
+  {
+    "case_id": "P0419",
+    "genealogy": {
+      "surname": "MALAN",
+      "given_names": "JACOBUS SR",
+      "birth_year": null,
+      "death_year": "1838",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARIA MARGERAETHA",
+          "surname": "SWART",
+          "marriage_year": "1817"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Malan",
+        "owner_given_names": "Hercules",
+        "district": "Albany",
+        "note": null,
+        "localities": "Winterberg"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Malan",
+        "owner_given_names": "David Eduard",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Malan",
+        "owner_given_names": "Elisabeth",
+        "district": "Somerset",
+        "note": "wed David M.",
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Malan",
+        "owner_given_names": "Jacobus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Malan",
+        "owner_given_names": "Daniel Jacobus",
+        "district": "Somerset",
+        "note": "sv David",
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Malan",
+        "owner_given_names": "Stephanus Willem",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Malan",
+        "owner_given_names": "Hercules Philippus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Malan",
+        "owner_given_names": "Pieter",
+        "district": "Graaff-Reinet",
+        "note": "sv Daniel",
+        "localities": "Bultfontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0579",
+    "genealogy": {
+      "surname": "ROBBERTSE",
+      "given_names": "JOHANNES MATTHYS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "SOPHIA JACOBA",
+          "surname": "VERY",
+          "marriage_year": null
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Robbertse",
+        "owner_given_names": "Johannes Francois",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0084",
+    "genealogy": {
+      "surname": "BOTHMA",
+      "given_names": "JAN DANIEL",
+      "birth_year": "1807",
+      "death_year": "1871",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MAGDADLENA ELISABETH ANNA MARIA",
+          "surname": "BOTES",
+          "marriage_year": null
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Bothma",
+        "owner_given_names": "Jacoba Wilhelmina",
+        "district": "Somerset",
+        "note": "wed",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Bothma",
+        "owner_given_names": "Johannes Arnoldus",
+        "district": "Albany",
+        "note": null,
+        "localities": "Winterberg"
+      }
+    ]
+  },
+  {
+    "case_id": "P0171",
+    "genealogy": {
+      "surname": "DELPORT",
+      "given_names": "JACOBUS PETRUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ELIZABETH JACOBA",
+          "surname": "SMIT",
+          "marriage_year": "1817"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Delport",
+        "owner_given_names": "Isaac Christiaan",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Buffelsfontein; Swartruggens"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Delport",
+        "owner_given_names": "Michiel Daniel",
+        "district": "Albany",
+        "note": null,
+        "localities": "Modderfontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0878",
+    "genealogy": {
+      "surname": "WESSELS",
+      "given_names": "HERMANUS JOHANNES",
+      "birth_year": null,
+      "death_year": "1859",
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": [
+        {
+          "name": "CATHARINA ELIZABETH",
+          "surname": "HUMAN",
+          "marriage_year": "1824"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Wessels",
+        "owner_given_names": "Hermanus Johannes",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Boesmansrivier"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Wessels",
+        "owner_given_names": "Hermanus",
+        "district": "Uitenhage",
+        "note": "widow",
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0618",
+    "genealogy": {
+      "surname": "SMIT",
+      "given_names": "ERASMUS",
+      "birth_year": "1778",
+      "death_year": "1863",
+      "declared_district": "GRAAFF-REINET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "SUSANNA CATHARINA",
+          "surname": "MARITZ",
+          "marriage_year": null
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Smit",
+        "owner_given_names": "Abraham Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Camdebo; Heiligertskraal; Wagfontein"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Smit",
+        "owner_given_names": "Hendrik Adriaan",
+        "district": "Graaff-Reinet",
+        "note": "sv Jacobus",
+        "localities": "Camdebo; Doordrift"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Smit",
+        "owner_given_names": "Hendrik",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Smit",
+        "owner_given_names": "Andries Adriaan Jr",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Smit",
+        "owner_given_names": "Willem Stephanus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Smit",
+        "owner_given_names": "Nicolaas Jacobus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Smit",
+        "owner_given_names": "Francois Alwyn",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Graaff Reinet"
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Smit",
+        "owner_given_names": "Jurgen",
+        "district": "Graaff-Reinet",
+        "note": "sv Jurgen",
+        "localities": "Badsfontein; Swartruggens"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Smit",
+        "owner_given_names": "Anna",
+        "district": "Graaff-Reinet",
+        "note": "wid MC Dippenaar",
+        "localities": "Rietvallei"
+      }
+    ]
+  },
+  {
+    "case_id": "P0031",
+    "genealogy": {
+      "surname": "BEZUIDENHOUT",
+      "given_names": "MATTHYS MARTHINUS",
+      "birth_year": "1806",
+      "death_year": null,
+      "declared_district": "COLESBERG",
+      "father": "JOHANNES SR BEZUIDENHOUT",
+      "spouses": [
+        {
+          "name": "LEA",
+          "surname": "BEZUIDENHOUT",
+          "marriage_year": "1807"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Bezuidenhout",
+        "owner_given_names": "Johannes",
+        "district": "Beaufort",
+        "note": "sr",
+        "localities": "Gouph; Kookfontein"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Bezuidenhout",
+        "owner_given_names": "Gerrit Pieter",
+        "district": "Beaufort",
+        "note": "sv Gerrit",
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Bezuidenhout",
+        "owner_given_names": "Anna Catharina",
+        "district": "Beaufort",
+        "note": null,
+        "localities": "Klein Lourie Fontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0398",
+    "genealogy": {
+      "surname": "LABUSCHAGNE",
+      "given_names": "FRANS JACOB",
+      "birth_year": null,
+      "death_year": "1838",
+      "declared_district": "SOMERSET",
+      "father": "JAN HENDRIK LABUSCHAGNE",
+      "spouses": [
+        {
+          "name": "JACOBA ADRIANA JACOMINA",
+          "surname": "COETZER",
+          "marriage_year": "1829"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Labuschagne",
+        "owner_given_names": "Jan Hendrik",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Labuschagne",
+        "owner_given_names": "Jan",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Klipfontein"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Labuschagne",
+        "owner_given_names": "Frans Jacob",
+        "district": "Somerset",
+        "note": "sv Jan",
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Labuschagne",
+        "owner_given_names": "Casper",
+        "district": "Somerset",
+        "note": "sr, sv Jan",
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0657",
+    "genealogy": {
+      "surname": "STEYN",
+      "given_names": "HERMANUS",
+      "birth_year": null,
+      "death_year": "1882",
+      "declared_district": "SOMERSET",
+      "father": "HERMANUS STEYN",
+      "spouses": [
+        {
+          "name": "MARIA CATHARINA MARGARETHA",
+          "surname": "KRUGER",
+          "marriage_year": "1829"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Douw Gerbrand",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Stephanus Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Kweekkraal"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Hermanus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Hans Jurgen",
+        "district": "Graaff-Reinet",
+        "note": "sv Douw",
+        "localities": "Groenekloof; Vogelfontein"
+      }
+    ]
+  },
+  {
+    "case_id": "P0448",
+    "genealogy": {
+      "surname": "NEL",
+      "given_names": "LUCAS MARTHINUS",
+      "birth_year": "1790",
+      "death_year": "1867",
+      "declared_district": "BEAUFORT",
+      "father": null,
+      "spouses": [
+        {
+          "name": "CORNELIA CAROLINA ELISABETH",
+          "surname": "ERASMUS",
+          "marriage_year": "1819"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Nel",
+        "owner_given_names": "Isaac Bartolomeus",
+        "district": "Beaufort",
+        "note": "so Jan",
+        "localities": "Putfontein"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Nel",
+        "owner_given_names": "Stephanus",
+        "district": "Beaufort",
+        "note": "sv Piet",
+        "localities": null
+      }
+    ]
+  }
+]

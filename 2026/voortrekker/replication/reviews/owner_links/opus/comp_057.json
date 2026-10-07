@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0689",
+  "choice": "NONE",
+  "reason": "The only candidate is Pieter Andreas Johannes Swanepoel. His given names are entirely different from Hendrik Frederik, so he is not this man."
+ },
+ {
+  "case_id": "P0256",
+  "choice": "C01",
+  "reason": "Andries Johannes Erwee of Swellendam is an exact match on full name and district, and there is no competing candidate."
+ },
+ {
+  "case_id": "P0643",
+  "choice": "C05",
+  "reason": "Willem Steenkamp of Clanwilliam matches the genealogy's single given name exactly, in the same district. Willem Jacobus (C08) carries an extra unrecorded name, and the other Willem-related entries are sons of a Willem."
+ },
+ {
+  "case_id": "P0342",
+  "choice": "C01",
+  "reason": "Johannes Petrus Jordaan of Somerset matches the second and third names of Christoffel Johannes Petrus in the same order and district. Omitting a first name is plausible, and no other candidate fits better."
+ },
+ {
+  "case_id": "P0599",
+  "choice": "NONE",
+  "reason": "No Uitenhage Scheepers owner is named Marthinus Easias. Johannes Martinus has a different first name and lacks Easias, which is too weak to count as a match."
+ },
+ {
+  "case_id": "P0532",
+  "choice": "C17",
+  "reason": "Johannes Petrus Pretorius of Somerset is an exact match on given names and declared district. That fits the elder Jan Sr., married in 1804."
+ },
+ {
+  "case_id": "P0254",
+  "choice": "NONE",
+  "reason": "The only Hendrik is Hendrik Ferdinand of Graaff-Reinet. His second name, Ferdinand, contradicts Johannes, and a shared first name alone is weak, so no candidate is more likely than not."
+ },
+ {
+  "case_id": "P0326",
+  "choice": "C06",
+  "reason": "Pieter Daniel Jacobs of Beaufort is noted as son of Pieter (Pieter jr). This agrees with the genealogy father, Pieter Daniel Sr., and with the man being the junior."
+ },
+ {
+  "case_id": "P0353",
+  "choice": "C04",
+  "reason": "Jacobus Francois Joubert of Swellendam is an exact name and district match, and he is the only candidate with these given names."
+ },
+ {
+  "case_id": "P0068",
+  "choice": "C10",
+  "reason": "Christoffel Jacobus Botha of Somerset matches the first two names and the district, with the third name simply omitted. C02's third name, Lodewyk, contradicts Theunis."
+ }
+]

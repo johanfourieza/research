@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0666",
+  "choice": "NONE",
+  "reason": "The only candidate, C01, is Abraham Frederik Strauss, whose given names contradict David Christiaan Dirk."
+ },
+ {
+  "case_id": "P0403",
+  "choice": "C01",
+  "reason": "Johannes Abraham Landman matches the full name exactly and is recorded in the declared district of Uitenhage."
+ },
+ {
+  "case_id": "P0773",
+  "choice": "NONE",
+  "reason": "C01 is Willem Jacobus Janse van Rensburg, not Johannes Nicolaas Janse. The shared Janse and Beaufort district do not overcome the different given names."
+ },
+ {
+  "case_id": "P0715",
+  "choice": "C13",
+  "reason": "Johannes Lodewicus is a close spelling match to Johannes Lodevicus, and both records specify Graaff-Reinet. The genealogy supplies no father against which to check the candidate's 'sv DS' note."
+ },
+ {
+  "case_id": "P0207",
+  "choice": "NONE",
+  "reason": "None of the candidates matches Petrus Johannes. C02, Johannes Lodewikus, has a different second name and a father note 'sv H' that conflicts with Johannes Petrus."
+ },
+ {
+  "case_id": "P0821",
+  "choice": "NONE",
+  "reason": "No candidate has given names matching Cornelis Johannes; the Somerset candidates are Jacobus Benjamen, Gideon and Jacobus."
+ },
+ {
+  "case_id": "P0172",
+  "choice": "NONE",
+  "reason": "The only candidate is Joseph Theodorus Dorfling, whose given names are clearly different from Jacob Bernard despite the matching district."
+ },
+ {
+  "case_id": "P0663",
+  "choice": "C02",
+  "reason": "Pieter Wouter Steyn matches the full name and Swellendam district exactly. His 'sv Douw' note cannot be checked because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0786",
+  "choice": "NONE",
+  "reason": "None of the Uitenhage candidates has given names matching Christiaan Stephanus; they are recorded as Gerrit, Gerrit Rynier, Martinus or Cornelis Johannes."
+ },
+ {
+  "case_id": "P0173",
+  "choice": "NONE",
+  "reason": "The only candidate, Johannes Philippus Dreyer, has clearly different given names from Christiaan Lourens despite the matching Albany district."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0754",
+  "choice": "NONE",
+  "reason": "The only candidate is Albertus Stephanus. His given names are entirely different from Adriaan Pieter, a strong contradiction even though the district matches."
+ },
+ {
+  "case_id": "P0825",
+  "choice": "C07",
+  "reason": "Pieter Albert is the Dutch/short form of Petrus Albertus and is in the matching district of Graaff-Reinet. The other Petrus/Pieter owners carry different second names (Jacobus) or none at all."
+ },
+ {
+  "case_id": "P0141",
+  "choice": "NONE",
+  "reason": "The only Zacharias, C02, is Zacharias Johannes, which conflicts with Zacharias Christiaan. He is also in Uitenhage rather than Somerset, and no other candidate shares the given names."
+ },
+ {
+  "case_id": "P0062",
+  "choice": "C03",
+  "reason": "C03 is the only exact full-name match (Willem Jacobus Botha). Somerset adjoins the Colesberg/Graaff-Reinet area, so the district difference is only a minor weakening."
+ },
+ {
+  "case_id": "P0187",
+  "choice": "C09",
+  "reason": "The genealogy's first name is Jan, and C09 is the only owner recorded simply as Jan du Plessis in Somerset, the declared district. No other name in the record contradicts the match."
+ },
+ {
+  "case_id": "P0634",
+  "choice": "NONE",
+  "reason": "Both Snyman owners are Johan(nes) Hendrik. That clearly contradicts the given name Nicolaas, and neither is in Somerset."
+ },
+ {
+  "case_id": "P0298",
+  "choice": "C01",
+  "reason": "Cornelis matches, and the extra middle name Johannes is a normal omission. Harmse is a rare surname, and Beaufort borders the Colesberg region."
+ },
+ {
+  "case_id": "P0235",
+  "choice": "C03",
+  "reason": "Daniel Johannes, son of Jacob, is in Somerset, the declared district; Johannes/Jacobus is a plausible recording slip. The exact-name C12 is the son of a Daniel with claims located in George (Uitenhage), far from the Somerset family."
+ },
+ {
+  "case_id": "P0043",
+  "choice": "NONE",
+  "reason": "None of the Beaufort Botes owners (Jacob, Andries Stephanus, Wietsche) shares the given names Frederik Johannes Jacobus."
+ },
+ {
+  "case_id": "P0578",
+  "choice": "NONE",
+  "reason": "Johannes matches Jan, but the second name Francois conflicts with Hendrik. A shared first name alone is too weak to make the match more likely than not."
+ }
+]

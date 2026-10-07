@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0575",
+  "choice": "NONE",
+  "reason": "The only candidate, C01, is Petrus Jacobus Retief, not Francois Retief. The matching district does not overcome the clearly different given names."
+ },
+ {
+  "case_id": "P0289",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Hermanus Grobler, whose given names do not match Hendrik Christoffel Ignatius. Somerset alone is insufficient evidence of identity."
+ },
+ {
+  "case_id": "P0080",
+  "choice": "NONE",
+  "reason": "No candidate matches Jacobus Frederik Botha. C06 is Jacobus Petrus and C21 is Jacobus Theodorus; their shared first name does not resolve the conflicting second names."
+ },
+ {
+  "case_id": "P0491",
+  "choice": "NONE",
+  "reason": "C01 is Hermanus Johannes Pieterse, not Hendrik Jesaias or Hendrik Josephus. These are different given names despite the matching surname and district."
+ },
+ {
+  "case_id": "P0138",
+  "choice": "C02",
+  "reason": "C02 exactly matches Zacharias Johannes De Beer, with no contradictory parentage or status note. The Uitenhage–Somerset district difference weakens but does not outweigh the full-name match."
+ },
+ {
+  "case_id": "P0250",
+  "choice": "C19",
+  "reason": "C19 exactly matches Michiel Coenraad Erasmus in Somerset, with no conflicting identity evidence."
+ },
+ {
+  "case_id": "P0369",
+  "choice": "NONE",
+  "reason": "Neither Gert Ja nor Joachim Marthinus matches Jacobus Mattys Wynand Koekemoer. The historical connection between Colesberg and Graaff-Reinet cannot overcome these given-name differences."
+ },
+ {
+  "case_id": "P0615",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given names Stephanus Johannes: they are Daniel Joachim, Christoffel Andries, and Jacobus Gustaaf. No candidate supplies a matching paternal identification either."
+ },
+ {
+  "case_id": "P0253",
+  "choice": "C07",
+  "reason": "C07 exactly matches Coert Erasmus in Somerset. The note identifying him as Lourens's son cannot be verified because the genealogy supplies no father, but it creates no contradiction."
+ },
+ {
+  "case_id": "P0555",
+  "choice": "C02",
+  "reason": "C02's Martinus matches Marthinus by normal spelling variation, with Petrus plausibly omitted from the genealogy. The district difference weakens the match, but this is the strongest name correspondence and there is no contradictory parentage or status evidence."
+ }
+]

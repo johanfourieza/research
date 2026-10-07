@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0449",
+  "choice": "C02",
+  "reason": "Hendrik Johannes Nel has the same given names in reversed order and matches the Uitenhage district. No supplied evidence contradicts the identification."
+ },
+ {
+  "case_id": "P0677",
+  "choice": "NONE",
+  "reason": "C03 is the only plausible name match, but records only Johannes and is in Uitenhage rather than Somerset. Its identification as son of Matthys cannot be checked against the supplied genealogy, leaving insufficient evidence for a more-likely-than-not match."
+ },
+ {
+  "case_id": "P0401",
+  "choice": "C02",
+  "reason": "Johannes Abraham Landman matches the complete name and Uitenhage district exactly, with no contradictory evidence."
+ },
+ {
+  "case_id": "P0840",
+  "choice": "NONE",
+  "reason": "No candidate has Izaak or a compatible version of Izaak Cornelis Johannes. The occasional overlap in Cornelis or Johannes is accompanied by different given names and no corroborating parentage."
+ },
+ {
+  "case_id": "P0793",
+  "choice": "NONE",
+  "reason": "C02 matches Jacobus Frederik and Beaufort but explicitly identifies a widow, not the man himself. C01 has the different given names Martinus Jacobus."
+ },
+ {
+  "case_id": "P0839",
+  "choice": "NONE",
+  "reason": "The Johannes candidates have the different second names Gerhardus, Adrianus and Rynier, while Cornelis Tobias also does not match Johannes Cornelis. None supplies parentage connecting him to Cornelis Johannes Vermaak."
+ },
+ {
+  "case_id": "P0489",
+  "choice": "NONE",
+  "reason": "The sole candidate is Hermanus Johannes Pieterse, whose given names clearly differ from Nicolaas Theodorus despite the matching district."
+ },
+ {
+  "case_id": "P0824",
+  "choice": "NONE",
+  "reason": "No candidate has Christiaan Willem or a compatible abbreviated form. C10 shares only Willem, adds the different name Adriaan, and is recorded in Graaff-Reinet rather than Somerset."
+ },
+ {
+  "case_id": "P0697",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Johannes nor Petrus Lafras matches Cornelis Janse Uys. The shared surname and district do not overcome these distinct given names."
+ },
+ {
+  "case_id": "P0700",
+  "choice": "NONE",
+  "reason": "C07 matches Johannes Gerhardus Uys and Swellendam, but explicitly names his father as Cornelis, contradicting the genealogy's father Johannes Gerhardus Uys. The other candidates have different given names."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0614",
+  "choice": "NONE",
+  "reason": "C01 shares Gustaaf and the Somerset district, but Jacobus is a different given name from Carolus. Neither other candidate has compatible given names."
+ },
+ {
+  "case_id": "P0359",
+  "choice": "NONE",
+  "reason": "C01 agrees on Somerset and the father's first name, Henrik/Hendrik, but Johannes Frederik conflicts with Johan Christiaan. The partial name and parentage agreement does not sufficiently establish that they are the same man."
+ },
+ {
+  "case_id": "P0090",
+  "choice": "NONE",
+  "reason": "The only candidate is Piet Bouwer, whose given name is incompatible with Jeremias Jesaias despite the matching Albany district."
+ },
+ {
+  "case_id": "P0850",
+  "choice": "C02",
+  "reason": "Jan Gabriel Vermeulen matches the full name and Graaff-Reinet district exactly. The note identifying his father as Pieter does not contradict any supplied genealogy information."
+ },
+ {
+  "case_id": "P0476",
+  "choice": "NONE",
+  "reason": "C02's Gert is compatible with Gerhardus, but Adriaan conflicts with Jacobus and the district differs. C04 shares Jacobus and Somerset but has the incompatible first name Johannes."
+ },
+ {
+  "case_id": "P0296",
+  "choice": "NONE",
+  "reason": "The genealogy identifies Martha Margaretha Haasbroek, whereas both candidates have distinctly different male given names. The shared surname and Swellendam district do not establish a match."
+ },
+ {
+  "case_id": "P0681",
+  "choice": "NONE",
+  "reason": "Neither Johannes nor Gerrit Cornelis matches Coenraad Jacobus Stephanus. C02 is recorded as Pieter's widow and cannot be this man."
+ },
+ {
+  "case_id": "P0017",
+  "choice": "NONE",
+  "reason": "C02 shares Johannes and Uitenhage, but Stephanus conflicts with Jurgen and there is no corroborating junior or parentage note. C01's Petrus is also incompatible."
+ },
+ {
+  "case_id": "P0815",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Jacob Pieter. C04's Adriaan Jacobus shares only the Jacob/Jacobus element; the historical district relationship does not resolve the name mismatch."
+ },
+ {
+  "case_id": "P0694",
+  "choice": "C03",
+  "reason": "Thomas Francois Theron matches the full name and Graaff-Reinet district exactly. The parentage note 'sv J' introduces no contradiction because the genealogy supplies no father."
+ }
+]

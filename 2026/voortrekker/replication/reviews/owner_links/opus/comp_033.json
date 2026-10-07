@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0458",
+  "choice": "NONE",
+  "reason": "No candidate is named Johannes Petrus. C01 Louis Nel matches the name of his father, Louis Jacobus Sr., not him."
+ },
+ {
+  "case_id": "P0083",
+  "choice": "NONE",
+  "reason": "C01 Johannes Arnoldus has a clearly different given name and is in Albany. C02 is a widow, Jacoba Wilhelmina, so neither can be Abraham Carel Bothma."
+ },
+ {
+  "case_id": "P0314",
+  "choice": "NONE",
+  "reason": "No Beaufort Jacobs owner is named Carel Philippus. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0286",
+  "choice": "NONE",
+  "reason": "No candidate is named Barend Christiaan. C07 Abraham Carel 'sv Barend' is recorded as a son of a Barend, so he is likely this man's son rather than the man himself."
+ },
+ {
+  "case_id": "P0420",
+  "choice": "C02",
+  "reason": "C02 Daniel Petrus Marais exactly matches both given names and the declared district of Uitenhage."
+ },
+ {
+  "case_id": "P0792",
+  "choice": "NONE",
+  "reason": "Neither candidate is named Nicolaas Hermanus. C01 is a widow's claim and C02 is Martinus Jacobus."
+ },
+ {
+  "case_id": "P0490",
+  "choice": "NONE",
+  "reason": "The only candidate, Hermanus Johannes Pieterse, has a clearly different given name from Frederik."
+ },
+ {
+  "case_id": "P0137",
+  "choice": "C02",
+  "reason": "C02 matches the distinctive full name Zacharias Johannes de Beer exactly. The owner's district, Uitenhage, differs from the declared Somerset but is a neighbouring district, and the other candidates have different names."
+ },
+ {
+  "case_id": "P0872",
+  "choice": "NONE",
+  "reason": "None of the Graaff-Reinet Visser owners (Gerrit Petrus, Floris, Cornelis Johannes) matches Christoffel Jacobus."
+ },
+ {
+  "case_id": "P0626",
+  "choice": "NONE",
+  "reason": "No Smit owner is named Samuel Jacobus. All candidates carry clearly different given names, or are women or deceased estates."
+ }
+]

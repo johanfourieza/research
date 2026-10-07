@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0268",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hermanus Fourie, whose given names clearly differ from Philippus Jacobus. No other Fourie owner is listed."
+ },
+ {
+  "case_id": "P0740",
+  "choice": "C03",
+  "reason": "C03 is the only Nicolaas van der Westhuizen in Beaufort, which matches his first name and declared district; omitting the middle name Georg is normal. His father is not recorded, so the 'sv Johannes' note neither confirms nor contradicts, and the other candidates have different given names."
+ },
+ {
+  "case_id": "P0812",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Gerhardus Janse van Vuuren in Uitenhage, linked to a widow. Both the given names (against Stephanus Johannes) and the district (against Somerset) differ."
+ },
+ {
+  "case_id": "P0712",
+  "choice": "C02",
+  "reason": "C02, 'Jan sv Gerrit' in Somerset, matches his first name (Jan = Johannes) and his declared district. C01, Gerhardus Leonardus in Graaff-Reinet, has a different first name and district."
+ },
+ {
+  "case_id": "P0858",
+  "choice": "NONE",
+  "reason": "No candidate is named Barend Christiaan. C01, Willem Wouter, is his recorded father, not him, and the other owners have clearly different given names."
+ },
+ {
+  "case_id": "P0159",
+  "choice": "C01",
+  "reason": "C01, Barend Jacobus de Lange in Somerset, matches his full given names and declared district exactly. The other candidates are Jan Hendrik and a widow."
+ },
+ {
+  "case_id": "P0238",
+  "choice": "NONE",
+  "reason": "None of the 21 Erasmus owners is named Balthasar. All have clearly different first names."
+ },
+ {
+  "case_id": "P0772",
+  "choice": "NONE",
+  "reason": "The only candidate is Willem Jacobus Janse van Rensburg, whose given names clearly differ from Hendrik Johannes."
+ },
+ {
+  "case_id": "P0644",
+  "choice": "C03",
+  "reason": "C03, Jan Harmse Steenkamp in Somerset, matches his exact given names and district. C02, Thomas Ignatius 'sv Jan', is plausibly his son, and C01 is a woman."
+ },
+ {
+  "case_id": "P0687",
+  "choice": "NONE",
+  "reason": "The only candidate is Pieter Andreas Johannes Swanepoel, son of Pieter, in Graaff-Reinet. His names, father and district all conflict with Christiaan Henderik, son of Jacobus, in Somerset."
+ }
+]

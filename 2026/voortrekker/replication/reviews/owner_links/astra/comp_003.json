@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0301",
+  "choice": "C01",
+  "reason": "Christiaan Hattingh matches the first name, surname and Somerset district, with Jacobus plausibly omitted. C03 instead records the different second name Arnoldus; C01's parentage note cannot be checked because no genealogy father is supplied."
+ },
+ {
+  "case_id": "P0118",
+  "choice": "NONE",
+  "reason": "C15 shares Stephanus and the Somerset district, but records Johannes rather than Hermanus. No parentage or spouse evidence connects him to the genealogy man, and all other candidates have different given names."
+ },
+ {
+  "case_id": "P0752",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Michiel. The sole Somerset candidate, C04, is Gerrit Albertus, a clearly different given name."
+ },
+ {
+  "case_id": "P0430",
+  "choice": "NONE",
+  "reason": "C05 matches the father's name, Lucas Johannes, rather than the man's name, Adriaan Willem Petrus. C08 shares only Petrus and is recorded in Albany, leaving no sufficiently supported match."
+ },
+ {
+  "case_id": "P0312",
+  "choice": "NONE",
+  "reason": "C02 and C03 share Johannes but pair it with Jacobus and Christoffel respectively, not Philippus. The shared district does not overcome these name differences without additional identity evidence."
+ },
+ {
+  "case_id": "P0852",
+  "choice": "NONE",
+  "reason": "C05's Jan is compatible with Johannes, but Hendrik differs from Hercules, and the owner is a deceased estate with no evidence linking it to this man. The remaining candidates have different given names."
+ },
+ {
+  "case_id": "P0863",
+  "choice": "NONE",
+  "reason": "No candidate matches Christiaan Rudolph. C01 is Christoffel Jacobus, not a spelling variation of the supplied given names, and is recorded in Somerset rather than Colesberg."
+ },
+ {
+  "case_id": "P0222",
+  "choice": "NONE",
+  "reason": "None of the four owners has given names compatible with Cornelis Wilhelmus. The Somerset candidates are Johannes Christoffel and Frederik."
+ },
+ {
+  "case_id": "P0293",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Hermanus, sharing only Johannes with Frederik Johannes Nicolaas Andries and introducing the different name Hermanus. The Somerset district match alone is insufficient, and the genealogy supplies no father to corroborate 'sv N.'"
+ },
+ {
+  "case_id": "P0142",
+  "choice": "NONE",
+  "reason": "C02 shares Zacharias but has Johannes rather than Christiaan and is recorded in Uitenhage rather than Somerset. No candidate supplies the matching name or parentage needed to identify Zacharias Christiaan junior."
+ }
+]

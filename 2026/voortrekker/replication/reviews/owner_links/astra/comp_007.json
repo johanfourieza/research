@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0192",
+  "choice": "NONE",
+  "reason": "No candidate is named Frederik. The shared surname and Somerset district cannot overcome the different given names."
+ },
+ {
+  "case_id": "P0304",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given names Dewald Lambertus. Daniel Wilhelm (C01) is a different name, and the remaining owners provide no closer match."
+ },
+ {
+  "case_id": "P0124",
+  "choice": "NONE",
+  "reason": "No candidate is named Phillippus Jeremias or a plausible abbreviated form. C01 shares Jeremias but is named Jacob, with no parentage evidence connecting him to Phillippus Jeremias Sr."
+ },
+ {
+  "case_id": "P0219",
+  "choice": "C01",
+  "reason": "Thomas Arnoldus Du Toit is an exact full-name match. Graaff-Reinet is compatible with the declared Colesberg district, which was formerly part of it."
+ },
+ {
+  "case_id": "P0789",
+  "choice": "C02",
+  "reason": "Jacobus Frederk is a minor spelling variation of Jacobus Frederik, and the surname and Uitenhage district match."
+ },
+ {
+  "case_id": "P0376",
+  "choice": "C01",
+  "reason": "Pieter Hendrik Kritzinger matches the full name and Uitenhage district exactly, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0364",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem Frederik. Johannes Frederik (C04) and Frederik Martinus (C03) share only Frederik and have different accompanying given names."
+ },
+ {
+  "case_id": "P0716",
+  "choice": "C28",
+  "reason": "Schalk Willem Van der Merwe matches the full name and Graaff-Reinet district exactly. The note identifying his father as Piet does not conflict with the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0679",
+  "choice": "NONE",
+  "reason": "None of the candidates has the given names Stephanus Jacobus. C01 is also explicitly a widow, while C02 and C03 have clearly different given names."
+ },
+ {
+  "case_id": "P0218",
+  "choice": "NONE",
+  "reason": "C03, Jacobus Francois, and C13, Petrus Jacobus, are competing partial-name matches in the compatible Graaff-Reinet district. Neither has parentage, spouse, or other distinguishing evidence sufficient to make him more likely than not to be Francois Petrus Jacobus."
+ }
+]

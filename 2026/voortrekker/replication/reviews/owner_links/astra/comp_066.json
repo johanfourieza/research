@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0751",
+  "choice": "C01",
+  "reason": "Gideon Gerhardus Van Deventer matches the full name exactly, and the compensation district is Swellendam."
+ },
+ {
+  "case_id": "P0583",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Francois Robbertse, whose given names do not match Gerrit despite the shared Somerset district."
+ },
+ {
+  "case_id": "P0528",
+  "choice": "C14",
+  "reason": "Henning Petrus Nicolaas Pretorius is an exact match to all three formal given names and the Graaff-Reinet district."
+ },
+ {
+  "case_id": "P0652",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Steyn, son of Martinus, not Douw Petrus Jacobus. The shared district does not overcome the incompatible given names."
+ },
+ {
+  "case_id": "P0362",
+  "choice": "NONE",
+  "reason": "Hendrik Petrus Klopper has different given names from Johannes Frederik Klopper. Albany alone is insufficient to establish identity."
+ },
+ {
+  "case_id": "P0037",
+  "choice": "NONE",
+  "reason": "Jacobus Boshof could be an abbreviated match, but the genealogy gives the father the same full name as the son. With no junior designation, parentage or age information, C01 cannot be assigned more likely than not to the son."
+ },
+ {
+  "case_id": "P0494",
+  "choice": "NONE",
+  "reason": "Theodorus David shares only Theodorus with Johannes Petrus Theodorus and introduces the different name David; Jacobus Cornelis does not match. Neither candidate has corroborating identity evidence."
+ },
+ {
+  "case_id": "P0662",
+  "choice": "C01",
+  "reason": "Hermanus is one of Petrus Hermanus Steyn's recorded given names, and Beaufort matches, making an abbreviated name plausible. The owner's identification as son of Martinus does not conflict with any supplied genealogy parentage."
+ },
+ {
+  "case_id": "P0594",
+  "choice": "C01",
+  "reason": "Gideon Scheepers matches the given name and surname exactly and is recorded in the declared district of George."
+ },
+ {
+  "case_id": "P0577",
+  "choice": "NONE",
+  "reason": "Jan and Johannes are equivalent forms, but Hendrik and Francois are different given names. The shared surname and Somerset district do not sufficiently support this match."
+ }
+]

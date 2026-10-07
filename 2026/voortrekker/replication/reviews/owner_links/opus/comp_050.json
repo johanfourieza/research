@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0348",
+  "choice": "NONE",
+  "reason": "The only candidate, Pieter Schalk Joubert of Uitenhage, carries the name of this man's recorded father. No owner is named Christoffel Johannes."
+ },
+ {
+  "case_id": "P0832",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Maria Catharina Venter, wife of Johannes Jacobus Klopper. No candidate bears her name and all listed owners are men with different given names."
+ },
+ {
+  "case_id": "P0777",
+  "choice": "NONE",
+  "reason": "No Uitenhage Van Rooyen owner is named Dirk. The candidates are Gerrit, Cornelis Johannes, Gerrit Rynier and Martinus, which are clearly different given names."
+ },
+ {
+  "case_id": "P0096",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Brits owner is named Christiaan Pieter. All candidates have different first names (Gerhardus, Ockert, Rudolph, Andries, Gert)."
+ },
+ {
+  "case_id": "P0696",
+  "choice": "C02",
+  "reason": "C02 Jacobus Johannes Uys of Uitenhage matches the full given names and district. The note 's Jacob' agrees with the genealogy father Jacobus Johannes Uys."
+ },
+ {
+  "case_id": "P0713",
+  "choice": "C25",
+  "reason": "C25 Hendrik Jacobus van der Merwe of Graaff-Reinet exactly matches the given names and declared district. No other candidate carries both names."
+ },
+ {
+  "case_id": "P0014",
+  "choice": "C01",
+  "reason": "C01 Nicolaas Johannes Basson of Uitenhage matches the first two given names and the district. Omitting the third name Salomon is normal."
+ },
+ {
+  "case_id": "P0881",
+  "choice": "NONE",
+  "reason": "No owner is Mattheus Hendricus. Martinus Hendricus (C15) has a different first name, and Matthys Johannes (C02) shares only a first-name form with a different second name, so neither is more likely than not to be him."
+ },
+ {
+  "case_id": "P0727",
+  "choice": "C02",
+  "reason": "C02 Johannes Martinus van der Merwe of Uitenhage matches the given names (Marthinus/Martinus spelling variant) and the declared district."
+ },
+ {
+  "case_id": "P0013",
+  "choice": "NONE",
+  "reason": "Neither owner is named Matthys Michiel. C01 Willem Johannes is recorded as 'sv Matthys Michiel', i.e. a son of a man of this name, not the man himself."
+ }
+]

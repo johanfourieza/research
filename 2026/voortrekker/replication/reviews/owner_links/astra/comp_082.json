@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0110",
+  "choice": "NONE",
+  "reason": "Neither Abraham Albertus nor Gert Adriaan matches Jan Gabriel's given names. Dorothea Johanna is a female minor, not this man."
+ },
+ {
+  "case_id": "P0412",
+  "choice": "NONE",
+  "reason": "Hans Jurgen and Hans Jurie are not variants of Hermanus Stephanus. The shared surname and C01's Somerset district do not overcome the given-name contradiction."
+ },
+ {
+  "case_id": "P0814",
+  "choice": "NONE",
+  "reason": "C03 matches the name but explicitly identifies a widow, whereas this man lived until 1877. C01 and C04 have different middle names, Petrus and Cornelis, with no further identifying support."
+ },
+ {
+  "case_id": "P0746",
+  "choice": "C03",
+  "reason": "C03 matches Gerrit Albertus Van Deventer exactly and is recorded in Somerset. There is no contradictory status or parentage note."
+ },
+ {
+  "case_id": "P0019",
+  "choice": "NONE",
+  "reason": "Johannes Hendrik and Martinus Johannes do not match Rynier Johannes. Sharing Johannes and the George district is insufficient given the conflicting other names."
+ },
+ {
+  "case_id": "P0680",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names matching Barend Hendrik Josephus. The Pieter entry is also explicitly a widow."
+ },
+ {
+  "case_id": "P0731",
+  "choice": "C13",
+  "reason": "Martinus is a normal spelling variant of Marthinus, with Stephanus omitted, and the district matches Somerset. The note 'sv Martinus' agrees with his recorded father Marthinus Van der Merwe."
+ },
+ {
+  "case_id": "P0732",
+  "choice": "C38",
+  "reason": "C38 matches Marthinus Van der Merwe, allowing the normal Martinus spelling, and is in Somerset. The note 'sv Martinus' does not conflict with the genealogy, which gives no father."
+ },
+ {
+  "case_id": "P0856",
+  "choice": "C02",
+  "reason": "C02 matches Willem Wouter Viljoen's full name and Somerset district exactly. C04 supplies only Willem in a different district, making it a substantially weaker match."
+ },
+ {
+  "case_id": "P0749",
+  "choice": "NONE",
+  "reason": "C03 shares Jan but records Frederik rather than Gerritse and is in Uitenhage rather than Somerset. The Somerset candidate, Gerrit Albertus, has different given names, and no candidate has additional evidence linking him to this man."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0575",
+  "choice": "NONE",
+  "reason": "The only candidate is Petrus Jacobus Retief. His given names are entirely different from Francois, so he is not this man."
+ },
+ {
+  "case_id": "P0289",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hermanus Grobler (sv N.). His names clearly differ from Hendrik Christoffel Ignatius."
+ },
+ {
+  "case_id": "P0080",
+  "choice": "NONE",
+  "reason": "No owner is named Jacobus Frederik Botha. The nearest are Jacobus Petrus (Somerset) and Jacobus Theodorus (Uitenhage), and both have a different second name, which is only a weak shared-first-name match."
+ },
+ {
+  "case_id": "P0491",
+  "choice": "NONE",
+  "reason": "The only candidate is Hermanus Johannes Pieterse. His names do not match Hendrik Jesaias/Josephus."
+ },
+ {
+  "case_id": "P0138",
+  "choice": "C02",
+  "reason": "Zacharias Johannes De Beer is an exact match on both given names, which are distinctive. The claim is in neighbouring Uitenhage (Rietrivier) rather than Somerset, and no Somerset De Beer has these names."
+ },
+ {
+  "case_id": "P0250",
+  "choice": "C19",
+  "reason": "Michiel Coenraad Erasmus is an exact full-name match. The claim is in Somerset, the declared district."
+ },
+ {
+  "case_id": "P0369",
+  "choice": "NONE",
+  "reason": "The candidates are Gert Ja (connected with a widow) and Joachim Marthinus (sv Diederik). Neither matches Jacobus Mattys Wynand."
+ },
+ {
+  "case_id": "P0615",
+  "choice": "NONE",
+  "reason": "No Schoeman owner is named Stephanus Johannes. The candidates Daniel Joachim, Christoffel Andries and Jacobus Gustaaf all have different names."
+ },
+ {
+  "case_id": "P0253",
+  "choice": "C07",
+  "reason": "Coert Erasmus (sv Lourens) of Somerset matches the distinctive given name and the declared district. He is the only Coert among the candidates."
+ },
+ {
+  "case_id": "P0555",
+  "choice": "NONE",
+  "reason": "The only Marthinus is Martinus Petrus (s Nic.), whose claim is at Winterhoek in Uitenhage rather than Somerset. A shared first name alone in a different district is too weak to be more likely than not."
+ }
+]

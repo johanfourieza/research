@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0500",
+  "choice": "NONE",
+  "reason": "No Uitenhage owner is named Theodorus. C10 is recorded as a son of a 'The.', so he cannot be this man, born 1805. Theunis (C07) is a different given name."
+ },
+ {
+  "case_id": "P0809",
+  "choice": "NONE",
+  "reason": "The only candidate carries a 'Widow' entry, which points to a widow's claim. This man lived until 1875, so the claim is not his. The candidate also has an extra name, Gerhardus, that the genealogy does not record."
+ },
+ {
+  "case_id": "P0475",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Maria Elisabeth Oosthuizen. The only candidate is a man, Gert Adriaan, so the names flatly contradict each other."
+ },
+ {
+  "case_id": "P0457",
+  "choice": "C06",
+  "reason": "C06 is the only Somerset owner named Louis Jacobus Nel, matching both the full name and the declared district. Several other Somerset owners are recorded as sons of Louis, which fits a senior Louis Jacobus with grown sons. The mixed parentage note on C06 adds some uncertainty."
+ },
+ {
+  "case_id": "P0591",
+  "choice": "NONE",
+  "reason": "Petrus Johannes, son of Jan, differs in the second given name from Pieter Anthonie. The shared first name alone is weak evidence."
+ },
+ {
+  "case_id": "P0067",
+  "choice": "C11",
+  "reason": "C11 is an exact full-name match, Theunis Louis Botha, in the declared district of Somerset. No other candidate fits as well."
+ },
+ {
+  "case_id": "P0595",
+  "choice": "C04",
+  "reason": "Jacobus Scheepers of George matches the first name and district. The father, Gideon, also appears as a separate George owner (C02), which supports C04 being his son."
+ },
+ {
+  "case_id": "P0648",
+  "choice": "NONE",
+  "reason": "Hermanus, son of Martinus, is a clearly different given name from Hans Jurgen."
+ },
+ {
+  "case_id": "P0392",
+  "choice": "NONE",
+  "reason": "No candidate is named Jacobus Christoffel Johannes. Casper (C04) shares the name of the genealogy father and is not this man."
+ },
+ {
+  "case_id": "P0368",
+  "choice": "NONE",
+  "reason": "Joachim Marthinus, son of Diederik, does not match Marthinus Wessel and is in a different district (Graaff-Reinet rather than Colesberg). The other candidate, Gert Ja, is recorded with a widow (ME Oberholser) and has unrelated names."
+ }
+]

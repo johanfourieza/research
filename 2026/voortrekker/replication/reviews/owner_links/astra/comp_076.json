@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0070",
+  "choice": "C10",
+  "reason": "Petrus Johannes is a normal equivalent of Pieter Johannes and is the only full given-name match. The Graaff-Reinet district differs from Somerset, but the stronger name evidence is uncontradicted; the genealogy supplies no father to test against 'sv Piet'."
+ },
+ {
+  "case_id": "P0382",
+  "choice": "NONE",
+  "reason": "No candidate matches Stephanus Johannes. Jacobus Stephanus and the several Johannes candidates have different given-name combinations, with no parentage or spouse evidence linking them to this man."
+ },
+ {
+  "case_id": "P0024",
+  "choice": "C04",
+  "reason": "Andries Bester matches the given name, surname and Somerset district exactly. The 'sv Paul Michiel' note is not contradicted by the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0550",
+  "choice": "NONE",
+  "reason": "The Willem candidates have Jacobus or Petrus rather than Marthinus, while the Martinus candidates have different accompanying given names. A shared name component and district are insufficient to identify any as Willem Marthinus."
+ },
+ {
+  "case_id": "P0843",
+  "choice": "C01",
+  "reason": "Johannes Gerhardus Vermaak matches the full name and Uitenhage district exactly, without contradictory notes. C08 has the father's name, Salomon, rather than the man's own name."
+ },
+ {
+  "case_id": "P0636",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes Hendrik Jacobus Snyman, a clearly different given-name combination from Gerhardus. The shared surname and Uitenhage district do not overcome that contradiction."
+ },
+ {
+  "case_id": "P0875",
+  "choice": "NONE",
+  "reason": "No candidate has Marthinus or an equivalent given name. Barend Christoffel shares only Christoffel and has a clearly different first name, with no additional identity evidence linking him to this man."
+ },
+ {
+  "case_id": "P0665",
+  "choice": "NONE",
+  "reason": "The only candidate, Abraham Frederik Strauss, has entirely different given names from David Jacobus. Matching surname and district alone are insufficient."
+ },
+ {
+  "case_id": "P0404",
+  "choice": "C05",
+  "reason": "Abraham Hercules Le Roux matches the full name and Swellendam district exactly; 'sv Abraham' is uncontradicted because no genealogy father is supplied. C04 is a deceased Abraham associated with Hester Conradie, incompatible with this man's 1883 death and recorded wife."
+ },
+ {
+  "case_id": "P0208",
+  "choice": "NONE",
+  "reason": "Neither Hercules nor Hercules Salomon matches Daniel Johannes Lodewicus Hermanus; Hercules is not a spelling variant of Hermanus. C01 is also a deceased estate with no evidence identifying it as this man's."
+ }
+]

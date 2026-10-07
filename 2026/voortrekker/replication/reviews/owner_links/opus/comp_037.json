@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0614",
+  "choice": "NONE",
+  "reason": "No candidate is Carolus Gustaaf. C01 shares only the second name Gustaaf, and its first name Jacobus clearly differs. The other owners, Christoffel Andries and Daniel Joachim, are different names."
+ },
+ {
+  "case_id": "P0359",
+  "choice": "NONE",
+  "reason": "C01 Johannes Frederik sv Henrik shares the first name and a father named Hendrik, but Frederik contradicts Christiaan. C04 is recorded as 'sv JFr', so Johannes Frederik already had an adult son and was likely too old to be the man born in 1809. The other owners have unrelated names."
+ },
+ {
+  "case_id": "P0090",
+  "choice": "NONE",
+  "reason": "The only candidate, Piet Bouwer, has a completely different given name from Jeremias Jesaias."
+ },
+ {
+  "case_id": "P0850",
+  "choice": "C02",
+  "reason": "C02 Jan Gabriel Vermeulen matches the full given names exactly and is in the same Graaff-Reinet district. No genealogy father is recorded to contradict 'sv Pieter'."
+ },
+ {
+  "case_id": "P0476",
+  "choice": "NONE",
+  "reason": "None of the owners (Martinus, Gert Adriaan, Andries, Johannes Jacobus) matches Gerhardus Jacobus. The shared second name Jacobus is outweighed by the different first name Johannes."
+ },
+ {
+  "case_id": "P0296",
+  "choice": "NONE",
+  "reason": "The genealogy subject is a woman, Martha Margaretha, married to a Joubert. Both candidates are men with different given names."
+ },
+ {
+  "case_id": "P0681",
+  "choice": "NONE",
+  "reason": "No owner's given names resemble Coenraad Jacobus Stephanus. C02 is in any case a widow's claim."
+ },
+ {
+  "case_id": "P0017",
+  "choice": "NONE",
+  "reason": "C02 Johannes Stephanus shares only the first name, and Stephanus contradicts Jurgen. C01 Petrus is a different name."
+ },
+ {
+  "case_id": "P0815",
+  "choice": "NONE",
+  "reason": "No candidate is named Jacob Pieter. The listed owners (Andries Petrus, Stephanus Johannes, Adriaan, Adriaan Jacobus, Johannes Hendrik, Louis Johan) all have clearly different given names."
+ },
+ {
+  "case_id": "P0694",
+  "choice": "C03",
+  "reason": "C03 Thomas Francois Theron matches the given names exactly and is in the declared district of Graaff-Reinet. No genealogy father is recorded to conflict with 'sv J'."
+ }
+]

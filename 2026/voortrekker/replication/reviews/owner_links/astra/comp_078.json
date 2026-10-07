@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0758",
+  "choice": "NONE",
+  "reason": "C01 shares Johannes and the Uitenhage district, but Stephanus differs from Wilhelmus, with no corroborating identity evidence. No other candidate has compatible given names."
+ },
+ {
+  "case_id": "P0151",
+  "choice": "NONE",
+  "reason": "All candidates are named Hendrik, with or without additional names, rather than Petrus Frederik Barendse. The district matches do not overcome this given-name contradiction."
+ },
+ {
+  "case_id": "P0130",
+  "choice": "C03",
+  "reason": "Jacob Daniel matches the first two given names exactly, with Adriaan plausibly omitted, and the Swellendam district agrees. The 'sv Dirk' note cannot be checked because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0431",
+  "choice": "C01",
+  "reason": "Petrus matches his recorded middle name and is consistent with his nickname Piet, with Willem omitted. The surname and Albany district also agree."
+ },
+ {
+  "case_id": "P0729",
+  "choice": "NONE",
+  "reason": "Neither candidate matches Lucas Johannes. C02 shares only Johannes and introduces Martinus, while C01 has entirely different given names."
+ },
+ {
+  "case_id": "P0656",
+  "choice": "C04",
+  "reason": "C04 matches Hermanus Steyn exactly and is recorded in the declared district of Somerset, with no contradictory note."
+ },
+ {
+  "case_id": "P0003",
+  "choice": "NONE",
+  "reason": "The sole candidate is Pieter Aucamp, whose given name is incompatible with Johan Diederik. The matching surname and district are insufficient."
+ },
+ {
+  "case_id": "P0355",
+  "choice": "C02",
+  "reason": "Gerhardus Philip is a compatible form of Gerhardus Philippus, and both records place him in Uitenhage. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0189",
+  "choice": "C01",
+  "reason": "C01 matches Pieter and the Somerset district, with Ignatius plausibly omitted rather than replaced by a different middle name. The 'sr; sv Jan' note presents no established contradiction because the genealogy supplies neither a birth year nor a father."
+ },
+ {
+  "case_id": "P0330",
+  "choice": "NONE",
+  "reason": "Jacobsz is a compatible surname spelling, but Joachim Jacobus does not match Michiel Christiaan. The candidate is also recorded in Graaff-Reinet rather than Somerset."
+ }
+]

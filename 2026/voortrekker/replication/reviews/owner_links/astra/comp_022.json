@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0201",
+  "choice": "NONE",
+  "reason": "C01 has the father's name, Leendert Hendrik, rather than Christoffel Cornelis. C02 is Cornelis Michiel, sharing only Cornelis and supplying a different given name."
+ },
+ {
+  "case_id": "P0780",
+  "choice": "C03",
+  "reason": "C03 matches Gerrit Van Rooyen exactly in Uitenhage, whereas C04 adds the distinguishing name Rynier. C03's parentage note does not conflict with any supplied genealogy evidence."
+ },
+ {
+  "case_id": "P0685",
+  "choice": "C02",
+  "reason": "Jan Abraham contains two matching name components, since Jan is a form of Johannes, with Christoffel omitted and the names reordered. The Beaufort district also agrees, with no contradictory identity note."
+ },
+ {
+  "case_id": "P0082",
+  "choice": "NONE",
+  "reason": "C01 is a woman recorded as a widow, not Cornelis Christoffel. C02 has the incompatible names Johannes Arnoldus and is recorded in Albany rather than Somerset."
+ },
+ {
+  "case_id": "P0278",
+  "choice": "NONE",
+  "reason": "None of the candidates is named Willem: they are Cornelis, Jurie Hendrik and Marthinus. All are also recorded in Uitenhage rather than the declared Somerset district."
+ },
+ {
+  "case_id": "P0339",
+  "choice": "NONE",
+  "reason": "C02 is the only Gerrit, but he is explicitly recorded as deceased in the compensation records, whereas Gerrit Jacobus lived until 1866. The other candidates have incompatible given names."
+ },
+ {
+  "case_id": "P0658",
+  "choice": "C01",
+  "reason": "Hermanus Steyn and the Beaufort district match exactly. The genealogy's 'M. seun' is consistent with C01's identification as the son of Martinus."
+ },
+ {
+  "case_id": "P0734",
+  "choice": "NONE",
+  "reason": "No candidate has a compatible combination of Francois and Anroldus. C29's Franciscus may correspond to Francois, but Jacob is a different name and there is no further evidence linking him to this man."
+ },
+ {
+  "case_id": "P0153",
+  "choice": "C01",
+  "reason": "C01 matches Christiaan De Jager in Swellendam, with Lodewikus plausibly omitted. C02 has a different second name and explicitly names Jacobus as his father, contradicting Andreas Johannes."
+ },
+ {
+  "case_id": "P0647",
+  "choice": "NONE",
+  "reason": "C03 bears the father's name, Jan Harmse, rather than Philippus Lourens. C01 is Thomas Ignatius and C02 is a woman named Lavina Catharina, so neither matches."
+ }
+]

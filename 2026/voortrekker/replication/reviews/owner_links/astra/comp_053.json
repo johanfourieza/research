@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0223",
+  "choice": "C03",
+  "reason": "Frederik Els matches the surname and first given name in the declared Somerset district. Omission of the middle name Christiaan is a normal variation, and no contradictory evidence is supplied."
+ },
+ {
+  "case_id": "P0787",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederk matches Philippus Theunis. Their shared surname and Uitenhage district cannot overcome the different given names."
+ },
+ {
+  "case_id": "P0831",
+  "choice": "NONE",
+  "reason": "C02 shares Albertus and Johannes but is recorded as Johannes Petrus Albertus, with a different first-name arrangement and an additional Petrus. Its 'sv Jan Albert' note cannot be checked against the unrecorded father, leaving insufficient evidence to make this identification more likely than not."
+ },
+ {
+  "case_id": "P0445",
+  "choice": "NONE",
+  "reason": "The candidates are Willem and Hendrik Johannes, neither of whom matches Frederik Daniël. The common surname and district are insufficient."
+ },
+ {
+  "case_id": "P0375",
+  "choice": "NONE",
+  "reason": "The sole candidate is Pieter Hendrik, matching the genealogy father's name rather than Johan Jacob's. There is no evidence identifying this owner as the son."
+ },
+ {
+  "case_id": "P0545",
+  "choice": "C03",
+  "reason": "C03 is an exact Willem Pretorius match in Somerset, consistent with the declared Somerset/Cradock area. The other Willem candidates have additional names and are recorded in Graaff-Reinet."
+ },
+ {
+  "case_id": "P0424",
+  "choice": "NONE",
+  "reason": "C06 shares only Jacobus and the Somerset district, without the distinguishing given name David. Its 'sv Charles' note has no corresponding father information in the genealogy, so the identification is not sufficiently supported."
+ },
+ {
+  "case_id": "P0885",
+  "choice": "C01",
+  "reason": "Fredrik Gerhardus Wolmarans matches Frederik Gerhardus Wolmarans with a minor spelling variation. The George district also agrees, and no contradictory evidence is supplied."
+ },
+ {
+  "case_id": "P0270",
+  "choice": "NONE",
+  "reason": "The sole candidate, Johannes Hermanus Fourie, has clearly different given names from Louis Theunis. The shared surname and Uitenhage connection do not establish identity."
+ },
+ {
+  "case_id": "P0722",
+  "choice": "NONE",
+  "reason": "No candidate matches the distinctive given name Diedelof. David Jacobus in C03 is not a normal equivalent of Diedelof Jacobus and is also recorded in a different district; the Somerset candidates likewise have different given names."
+ }
+]

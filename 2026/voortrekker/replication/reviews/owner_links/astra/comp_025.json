@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0203",
+  "choice": "C06",
+  "reason": "Salomon Du Preez matches the distinctive first name and Uitenhage district, with Johannes plausibly omitted. No other candidate has matching given names."
+ },
+ {
+  "case_id": "P0568",
+  "choice": "C03",
+  "reason": "Martinus is a normal spelling variant of Marthinus, and C03 matches the Swellendam district without an additional given name. C01's additional Hendrik makes it a weaker match."
+ },
+ {
+  "case_id": "P0334",
+  "choice": "NONE",
+  "reason": "The only candidate is Nicolaas Johannes Jacobus Jooste, whose given names differ substantially from Francois/Frans Jacobus. The shared Jacobus and surname do not establish identity."
+ },
+ {
+  "case_id": "P0397",
+  "choice": "C01",
+  "reason": "C01 matches Jan Hendrik Labuschagne exactly and is recorded in Somerset. C02 omits Hendrik and is in Uitenhage, making it a weaker alternative."
+ },
+ {
+  "case_id": "P0085",
+  "choice": "NONE",
+  "reason": "Johannes Arnoldus has clearly different given names from Gerhardus Cornelis. Jacoba Wilhelmina is a widow, with no evidence that her claim represents this man."
+ },
+ {
+  "case_id": "P0088",
+  "choice": "NONE",
+  "reason": "Neither candidate matches Pieter Gerhardus: C01 is a woman recorded as a widow, and C02 is Johannes Arnoldus. Neither supplies a connection to his recorded father, Petrus Gerhardus."
+ },
+ {
+  "case_id": "P0324",
+  "choice": "C01",
+  "reason": "C01 records Pieter in Beaufort with 'Daniel]' in the note, supporting the full name Pieter Daniel. C07's notes identifying a son of Pieter, including 'sv Pieter jr', favor a younger-generation namesake rather than the recorded senior."
+ },
+ {
+  "case_id": "P0374",
+  "choice": "NONE",
+  "reason": "Neither Johannes David nor Theodorus Louis matches Jacobus Albertus. C01's reference to Jacobus identifies his father, not the owner's own given name."
+ },
+ {
+  "case_id": "P0534",
+  "choice": "C02",
+  "reason": "C02 matches Johannes Jacobus Pretorius exactly in Graaff-Reinet, consistent with the declared Graaff-Reinet/Colesberg district. The 'sv WL' parentage note presents no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0119",
+  "choice": "NONE",
+  "reason": "No candidate is named Philippus or a recognizable variant. Jacob Jeremias shares only the middle name and has a clearly different first name."
+ }
+]

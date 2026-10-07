@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0405",
+  "choice": "NONE",
+  "reason": "C01 and C05 both match Christiaan Jacobus in Graaff-Reinet, allowing the minor spelling variation. No father or matching locality is supplied to distinguish them, so neither is more likely than not."
+ },
+ {
+  "case_id": "P0352",
+  "choice": "C05",
+  "reason": "Frans corresponds to Francois, and C05 agrees with both the senior designation and Graaff-Reinet district. Willem is omitted, but there is no conflicting given name or other supplied contradiction."
+ },
+ {
+  "case_id": "P0357",
+  "choice": "NONE",
+  "reason": "C01 agrees with Somerset and the father's first name, Hendrik, but records Johannes Frederik rather than Johannes Jacobus. That partial parentage agreement does not sufficiently resolve the conflicting second name."
+ },
+ {
+  "case_id": "P0073",
+  "choice": "NONE",
+  "reason": "No candidate matches Frederik Christoffel. C21 has a compatible paternal name, Frederik, but is named Paul Stephanus; C22 is a Christoffel estate with no evidence identifying it as this man's."
+ },
+ {
+  "case_id": "P0193",
+  "choice": "NONE",
+  "reason": "Neither Beaufort candidate is named Jacobus: C01 is Leendert Hendrik and C02 is Cornelis Michiel. Their given names contradict the genealogy."
+ },
+ {
+  "case_id": "P0190",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Casper Jeremias. C01's paternal initials CJ describe his father, not the owner Hendrik Johannes."
+ },
+ {
+  "case_id": "P0452",
+  "choice": "NONE",
+  "reason": "None of the Albany candidates is named Johannes Petrus or a compatible variant. There is also no parentage evidence linking any candidate to Johannes Petrus senior."
+ },
+ {
+  "case_id": "P0165",
+  "choice": "C01",
+  "reason": "C01 exactly matches Adriaan Francois De Necker in Swellendam. The note 'sv Pieter' also agrees with his father Pieter Hendrikus."
+ },
+ {
+  "case_id": "P0565",
+  "choice": "C02",
+  "reason": "Martinus Petrus is a normal spelling variant of Marthinus Petrus, and the Uitenhage district matches. The paternal note 's Nic.' does not conflict with any supplied genealogy evidence."
+ },
+ {
+  "case_id": "P0520",
+  "choice": "NONE",
+  "reason": "No candidate records Dewald or a compatible variant. C18 shares only Johannes, with no supplied father or other identifying evidence connecting him to Dewald Johannes."
+ }
+]

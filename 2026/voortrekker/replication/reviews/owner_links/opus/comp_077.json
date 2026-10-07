@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0449",
+  "choice": "C02",
+  "reason": "Hendrik Johannes Nel is the same two given names as Johannes Hendrik in reversed order. He is in the same Uitenhage district, and C01 Willem s Louis is a clearly different name."
+ },
+ {
+  "case_id": "P0677",
+  "choice": "NONE",
+  "reason": "No Somerset owner is named Johannes Petrus. The only Johannes is C03, recorded in Uitenhage with no middle name and father Matthys, which is too weak given the different district."
+ },
+ {
+  "case_id": "P0401",
+  "choice": "C02",
+  "reason": "Johannes Abraham Landman of Uitenhage matches the full given names and the declared district exactly. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0840",
+  "choice": "NONE",
+  "reason": "No Vermaak owner is named Izaak Cornelis Johannes or anything close. Every candidate's given names clearly differ."
+ },
+ {
+  "case_id": "P0793",
+  "choice": "NONE",
+  "reason": "C02 has the matching name Jacobus Frederik in Beaufort but is recorded as a widow's claim. Nothing shows the claim is his own, and C01 Martinus Jacobus has a different first name."
+ },
+ {
+  "case_id": "P0839",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Cornelis Vermaak. The Johannes candidates have different second names (Gerhardus, Adrianus, Rynier), and the Cornelis candidate is Cornelis Tobias."
+ },
+ {
+  "case_id": "P0489",
+  "choice": "NONE",
+  "reason": "The only candidate, Hermanus Johannes Pieterse, has given names clearly different from Nicolaas Theodorus."
+ },
+ {
+  "case_id": "P0824",
+  "choice": "NONE",
+  "reason": "None of the 24 Venter owners is named Christiaan or Willem Christiaan. All given names differ clearly from Christiaan Willem."
+ },
+ {
+  "case_id": "P0697",
+  "choice": "NONE",
+  "reason": "The candidates, Jacobus Johannes s Jacob and Petrus Lafras, have names clearly different from Cornelis Janse. No Cornelis Janse Uys appears among the Uitenhage owners."
+ },
+ {
+  "case_id": "P0700",
+  "choice": "NONE",
+  "reason": "C07 Johannes Gerhardus Uys of Swellendam matches the name and district but is noted as son of Cornelis. The genealogy gives his father as Johannes Gerhardus, a strong parentage contradiction."
+ }
+]

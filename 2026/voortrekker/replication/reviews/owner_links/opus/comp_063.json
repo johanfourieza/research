@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0030",
+  "choice": "C03",
+  "reason": "C03 is Johannes Bezuidenhout 'sr' of Beaufort. That matches the genealogy's Johannes Sr, born 1777, declared Beaufort. The other candidates are a woman and a Gerrit Pieter son of Gerrit."
+ },
+ {
+  "case_id": "P0573",
+  "choice": "NONE",
+  "reason": "No owner is named Hendrik Willem. C01, Martinus Nicolaas, carries his father's name. C02 Christiaan David and C03 Nicolaas Johannes have clearly different given names."
+ },
+ {
+  "case_id": "P0327",
+  "choice": "NONE",
+  "reason": "No owner is named Gert Petrus. Gabriel Gerhardus (sv Pieter) has a different first name, and the other sons of Pieter (Pieter Daniel, Johannes Stephanus, Petrus Jacobus) have different names too."
+ },
+ {
+  "case_id": "P0521",
+  "choice": "NONE",
+  "reason": "No owner is Wynand Johannes. The closest, C06 Johannes Lodewyk Wynand, has a different name order and an extra name and is surname-queried. C10 is a son of Wynand named Andries Lodewyk."
+ },
+ {
+  "case_id": "P0796",
+  "choice": "C02",
+  "reason": "C02 is Jacobus Frederk van Staden of Uitenhage, a spelling variant of Jacobus Frederik. This matches the genealogy's name and declared district."
+ },
+ {
+  "case_id": "P0728",
+  "choice": "NONE",
+  "reason": "Neither owner is Stephanus Petrus. C01, Johannes Martinus, matches his father's name, and C02 is Petrus Jacobus son of Piet."
+ },
+ {
+  "case_id": "P0707",
+  "choice": "C03",
+  "reason": "C03 is Johannes Daniel van Coller of Swellendam, an exact name and district match. No other Johannes Daniel is listed. The man was born 1783, so he was an adult landholder in the 1830s, and the 'sv Jan' note does not conflict with the genealogy, which gives no father."
+ },
+ {
+  "case_id": "P0547",
+  "choice": "NONE",
+  "reason": "No Prinsloo owner in Somerset or Uitenhage bears the names Arie Jacobus. The candidates are Willem, Hendrik, Pieter, Petrus, Jochemus, Nicolaas and Martinus forms."
+ },
+ {
+  "case_id": "P0050",
+  "choice": "NONE",
+  "reason": "No Botha owner is Johannes Jurgen. Joseph Johannes and the other Somerset candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0319",
+  "choice": "NONE",
+  "reason": "No owner is Pieter Johannes. The candidates are Christoffel Johannes, David and Jacobus Johannes (sv P), all with different first names."
+ }
+]

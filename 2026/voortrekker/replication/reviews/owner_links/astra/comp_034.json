@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0206",
+  "choice": "NONE",
+  "reason": "C02 shares Johannes but has Lodewikus rather than Petrus, with no additional evidence linking him to this man. The other candidates have different given names."
+ },
+ {
+  "case_id": "P0526",
+  "choice": "NONE",
+  "reason": "The closest partial-name candidates C05, C10 and C11 have father notes inconsistent with Matthys Wynand. C14 is Roelof Gerhardus Petrus, not Gerhardus Petrus Jacobus, and has no corroborating identity evidence."
+ },
+ {
+  "case_id": "P0543",
+  "choice": "C14",
+  "reason": "Petrus Gerhardus matches the full name and Graaff-Reinet district, and 'sv Petrus Gerhardus' exactly agrees with the genealogy father. His 1807 birth is consistent with being an adult owner in the 1830s."
+ },
+ {
+  "case_id": "P0098",
+  "choice": "NONE",
+  "reason": "Neither Gysbert Sybrand nor Johannes Gerhardus Stephanus matches Lucas Cornelius. The shared surname and Beaufort district do not overcome these given-name contradictions."
+ },
+ {
+  "case_id": "P0370",
+  "choice": "NONE",
+  "reason": "Joachim Marthinus and Gert Ja are not name variants of Johannes Lodewyk. The historical district connection between Colesberg and Graaff-Reinet does not resolve the name mismatches."
+ },
+ {
+  "case_id": "P0469",
+  "choice": "NONE",
+  "reason": "The sole candidate is Adriaan Jacobus Jeremias, whose given names clearly differ from Ockert Andries despite the matching surname and district."
+ },
+ {
+  "case_id": "P0131",
+  "choice": "NONE",
+  "reason": "None of the candidates matches Adolph Johannes Justus. C01 and C02 share only Johannes while supplying different first and additional names; C03 and C04 also have incompatible given names."
+ },
+ {
+  "case_id": "P0842",
+  "choice": "NONE",
+  "reason": "C11 matches Jacobus Stephanus and Uitenhage, but its parentage note 's Jac' indicates a father Jacobus, contradicting the recorded father Salomon. No other candidate matches the man's given names."
+ },
+ {
+  "case_id": "P0072",
+  "choice": "NONE",
+  "reason": "No candidate is named Frederik Jacobus. C14's note 'sv Frederik' names the father of owner Paul Stephanus, not the owner himself."
+ },
+ {
+  "case_id": "P0358",
+  "choice": "NONE",
+  "reason": "No candidate matches Balthazar Marthinus. C04 is Frederik Martinus, son of Baltaser, rather than Balthazar Marthinus, son of Hendrik Coenraad; C01's compatible father name does not overcome its different given names."
+ }
+]

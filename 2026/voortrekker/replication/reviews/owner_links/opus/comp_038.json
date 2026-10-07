@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0666",
+  "choice": "NONE",
+  "reason": "The only candidate is Abraham Frederik Strauss. His given names clearly contradict David Christiaan Dirk."
+ },
+ {
+  "case_id": "P0403",
+  "choice": "C01",
+  "reason": "Johannes Abraham Landman of Uitenhage matches the genealogy's given names and declared district exactly. The other Landman owners have different given names."
+ },
+ {
+  "case_id": "P0773",
+  "choice": "NONE",
+  "reason": "The only candidate is Willem Jacobus Janse van Rensburg. Willem Jacobus clearly contradicts Johannes Nicolaas, and the shared 'Janse' and Beaufort district are not enough."
+ },
+ {
+  "case_id": "P0715",
+  "choice": "C13",
+  "reason": "Johannes Lodewicus van der Merwe of Graaff-Reinet matches Johannes Lodevicus apart from spelling, in the declared district. No other candidate shares these given names, and the 'sv DS' note does not conflict because the genealogy records no father."
+ },
+ {
+  "case_id": "P0207",
+  "choice": "NONE",
+  "reason": "No candidate is named Petrus Johannes. Philippus Jacobus, Johannes Lodewikus (son of H, not of Johannes Petrus) and Hermanus Carel all contradict him."
+ },
+ {
+  "case_id": "P0821",
+  "choice": "NONE",
+  "reason": "No Van Zyl owner is named Cornelis Johannes. Andries, Jacobus Benjamen, Gideon, Adriaan Jacobus and Jacobus are all different given names."
+ },
+ {
+  "case_id": "P0172",
+  "choice": "NONE",
+  "reason": "The only candidate is Joseph Theodorus Dorfling. His given names clearly differ from Jacob Bernard."
+ },
+ {
+  "case_id": "P0663",
+  "choice": "C02",
+  "reason": "Pieter Wouter Steyn of Swellendam matches the genealogy's given names and declared district exactly. No other candidate shares this name combination."
+ },
+ {
+  "case_id": "P0786",
+  "choice": "NONE",
+  "reason": "No Van Rooyen owner is named Christiaan Stephanus. All candidates are Gerrit, Cornelis Johannes or Martinus."
+ },
+ {
+  "case_id": "P0173",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Philippus Dreyer. His given names clearly contradict Christiaan Lourens, despite the shared Albany district."
+ }
+]

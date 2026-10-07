@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0582",
+  "choice": "C01",
+  "reason": "The owner's given names, Johannes Francois Robbertse, match exactly. The district, Somerset, is the same as his declared district."
+ },
+ {
+  "case_id": "P0233",
+  "choice": "NONE",
+  "reason": "Several owners are named Lourens Erasmus, but their second names (Jacobus, Rasmus, Johannes) all differ from Abraham. Coert sv Lourens could be his son, not him."
+ },
+ {
+  "case_id": "P0028",
+  "choice": "NONE",
+  "reason": "Neither owner is named Jacobus Cornelis. Jan Andries Beukes matches his father, Johannes Andreas, rather than him."
+ },
+ {
+  "case_id": "P0384",
+  "choice": "NONE",
+  "reason": "No Kruger owner is named Casper. Johannes Hendrik and Gert Hendrik have different first names."
+ },
+ {
+  "case_id": "P0261",
+  "choice": "NONE",
+  "reason": "Jacobus Albertus has a different second name from Jacobus Paulus. Paul Johannes and Johannes Hendrik are clearly different given names."
+ },
+ {
+  "case_id": "P0065",
+  "choice": "C19",
+  "reason": "Philip Rudolph Botha of Somerset has his two given names in reversed order, which is a normal variation. The Rudolph Philip estate (C02) is recorded as deceased, while this man lived until 1869."
+ },
+ {
+  "case_id": "P0272",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Hermanus, a clearly different first name from Hermanus Nicolaas."
+ },
+ {
+  "case_id": "P0393",
+  "choice": "NONE",
+  "reason": "Jan Hendrik differs from Jan Harm in the second name, since Harm is a form of Hermanus, not Hendrik. The plain Jan is in Uitenhage, not Somerset, and the 'sv Jan' owners are sons, not him."
+ },
+ {
+  "case_id": "P0048",
+  "choice": "NONE",
+  "reason": "No owner is named Lourens Rasmus Botha. Theunis Louis sv Theunis (C05) matches his father, not him."
+ },
+ {
+  "case_id": "P0723",
+  "choice": "NONE",
+  "reason": "No Van der Merwe owner carries the names Jacobus Johannes Rudolph or a close variant. The few Somerset owners (Willem, Martinus, Hendrik Petrus, Gerrit) have clearly different names."
+ }
+]

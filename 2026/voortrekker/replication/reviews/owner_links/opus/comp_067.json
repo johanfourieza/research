@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0419",
+  "choice": "C04",
+  "reason": "Jacobus Malan in Somerset matches the given name and declared district of Jacobus Sr (married 1817, died 1838). The other Somerset Malans have different given names or are a widow."
+ },
+ {
+  "case_id": "P0579",
+  "choice": "NONE",
+  "reason": "The only candidate is Johannes Francois, while the genealogy gives Johannes Matthys. A shared first name with a different second name is weak, so the match is not more likely than not."
+ },
+ {
+  "case_id": "P0084",
+  "choice": "NONE",
+  "reason": "C01 is a widow and C02 is Johannes Arnoldus in Albany. Neither fits Jan Daniel of Somerset."
+ },
+ {
+  "case_id": "P0171",
+  "choice": "NONE",
+  "reason": "The candidates are Isaac Christiaan (Uitenhage) and Michiel Daniel (Albany). Both given names clearly differ from Jacobus Petrus of Somerset."
+ },
+ {
+  "case_id": "P0878",
+  "choice": "C01",
+  "reason": "C01 matches the full name Hermanus Johannes and the district, Uitenhage. C02 is recorded as a widow."
+ },
+ {
+  "case_id": "P0618",
+  "choice": "NONE",
+  "reason": "No Graaff-Reinet Smit owner is named Erasmus. All candidates have clearly different given names, or are a widow."
+ },
+ {
+  "case_id": "P0031",
+  "choice": "NONE",
+  "reason": "No candidate is named Matthys Marthinus. C01, Johannes Sr, matches his father rather than him, C02 is Gerrit Pieter son of Gerrit, and C03 is a woman."
+ },
+ {
+  "case_id": "P0398",
+  "choice": "C03",
+  "reason": "C03 matches the exact name Frans Jacob and the district, Somerset. Its note 'sv Jan' agrees with the genealogy father Jan Hendrik Labuschagne."
+ },
+ {
+  "case_id": "P0657",
+  "choice": "C03",
+  "reason": "C03 Hermanus Steyn in Somerset matches the name and district. He married in 1829, so he would have been an adult householder in the 1830s. His father of the same name is a possible alternative, but no note distinguishes them."
+ },
+ {
+  "case_id": "P0448",
+  "choice": "NONE",
+  "reason": "The Beaufort candidates are Isaac Bartolomeus son of Jan and Stephanus son of Piet. Neither name fits Lucas Marthinus."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0486",
+  "choice": "NONE",
+  "reason": "No candidate matches Jacob Arnoldus: C07 is Jacobus Johannes, while C08 is Petrus Arnoldus. These partial name overlaps lack supporting identity evidence, despite Graaff-Reinet being compatible with Colesberg."
+ },
+ {
+  "case_id": "P0862",
+  "choice": "NONE",
+  "reason": "The genealogy names Susanna Elizabeth Viljoen, spouse of Johannes Dewald Hattingh. Every candidate has different, male given names, and none is identified as her claim."
+ },
+ {
+  "case_id": "P0243",
+  "choice": "C07",
+  "reason": "C07 matches Lourens Johannes Erasmus exactly and is recorded in Somerset, the declared district."
+ },
+ {
+  "case_id": "P0624",
+  "choice": "NONE",
+  "reason": "None of the Beaufort candidates matches Johannes Hendrik. C02 shares Johannes but is Christoffel Johannes, with no supporting evidence connecting him to the genealogy."
+ },
+ {
+  "case_id": "P0603",
+  "choice": "NONE",
+  "reason": "No candidate has a compatible match to Hendrik Petrus Gerrit. C02's Johannes Henricus overlaps only through Henricus/Hendrik, while the remaining given names differ."
+ },
+ {
+  "case_id": "P0708",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Nicolaas. C01 is Nicolaas Francois, and the candidates containing Johannes have other distinct given names; the shared district alone is insufficient."
+ },
+ {
+  "case_id": "P0806",
+  "choice": "NONE",
+  "reason": "None of the candidates records Frederik. The owners sharing Johannes have different additional given names, with no parentage or spouse evidence supporting a match."
+ },
+ {
+  "case_id": "P0318",
+  "choice": "NONE",
+  "reason": "No candidate records Willem Daniel or Willem. C06 shares only Daniel and is in Beaufort rather than the declared Colesberg district, leaving insufficient evidence for identification."
+ },
+ {
+  "case_id": "P0156",
+  "choice": "C01",
+  "reason": "Jacobus Hercules is a close spelling match to Jacobus Herculas, and both records place De la Rey in Swellendam. No contradictory identity evidence is supplied."
+ },
+ {
+  "case_id": "P0598",
+  "choice": "C05",
+  "reason": "C05 matches Coenraad Scheepers exactly in Uitenhage, making him a stronger match than C01, Coenraad Frederik. The note naming Gerrit as his father cannot be checked because the genealogy supplies no father."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0859",
+  "choice": "NONE",
+  "reason": "C04 matches Willem Jacobus but is marked deceased in Graaff-Reinet, with no evidence identifying that estate as this man. C05 bears his father's name, Willem Wouter, while C03 names a conflicting father, Jan Hendrik."
+ },
+ {
+  "case_id": "P0613",
+  "choice": "C11",
+  "reason": "C11 exactly matches Stephanus Johannes Schoeman and the George district, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0161",
+  "choice": "NONE",
+  "reason": "Neither Jan Hendrik nor Barend Jacobus matches Adriaan. C03 is Alida, a widow, not the recorded man."
+ },
+ {
+  "case_id": "P0794",
+  "choice": "NONE",
+  "reason": "Both candidates match the surname and district, but Willem Hendrik and Jacobus Frederk are clearly different given names from Johannes Jurie."
+ },
+ {
+  "case_id": "P0497",
+  "choice": "NONE",
+  "reason": "C08 shares Hermanus Jacobus but is explicitly the son of Evert, contradicting the recorded father Johannes Hermanus. C10 is a widow, and the remaining candidates have different given names."
+ },
+ {
+  "case_id": "P0879",
+  "choice": "NONE",
+  "reason": "C01 represents a widow, while C02 is Hermanus Johannes rather than Wessel Hendrik. Neither provides a compatible personal-name match."
+ },
+ {
+  "case_id": "P0738",
+  "choice": "C20",
+  "reason": "C20 contains both given names, Johannes Stephanus, and matches Graaff-Reinet. The additional Nicolaas is a plausible fuller-name variation, making this stronger than Jan alone or Johannes paired with a different second name."
+ },
+ {
+  "case_id": "P0239",
+  "choice": "NONE",
+  "reason": "The sole candidate is Jacobus Lourens Erasmus, whose given names do not match Daniel Balthazar despite the matching district."
+ },
+ {
+  "case_id": "P0671",
+  "choice": "NONE",
+  "reason": "Jan is compatible with Johannes, but Lodewyk differs from Matthys. The shared first name and Beaufort district do not outweigh that mismatch."
+ },
+ {
+  "case_id": "P0155",
+  "choice": "C12",
+  "reason": "C12 matches Louis de Jager in Swellendam, with Christiaan Albregt plausibly omitted from the genealogy's shorter name. The father note, son of Lourens, does not contradict any supplied genealogy evidence."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0292",
+  "choice": "NONE",
+  "reason": "The genealogy names Martha Johanna Grobler, while the sole candidate is Johannes Hermanus Grobler. These are clearly different given names despite the shared surname and district."
+ },
+ {
+  "case_id": "P0134",
+  "choice": "NONE",
+  "reason": "No candidate matches Johannes Daniel Cronje. Johannes Isaac and Jan Hermanus have different second names and fathers recorded as Isaac and Abraham, respectively, contradicting the genealogy's father Andries."
+ },
+ {
+  "case_id": "P0743",
+  "choice": "C04",
+  "reason": "C04 uniquely matches Nicolaas van der Westhuizen in Beaufort. The parentage note cannot be checked because the genealogy supplies no father, but it introduces no established contradiction."
+ },
+ {
+  "case_id": "P0049",
+  "choice": "C11",
+  "reason": "C11 exactly matches Christoffel Jacobus Botha and the Somerset district, making it preferable to C04 with the additional name Lodew. Its 'sv CJ' note does not contradict any supplied parentage."
+ },
+ {
+  "case_id": "P0309",
+  "choice": "C01",
+  "reason": "The sole candidate exactly matches Michiel Frederik Horn in Graaff-Reinet, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0499",
+  "choice": "C04",
+  "reason": "C04 exactly matches Evert Frederik Potgieter in Uitenhage. The note identifying him as a son of Evert does not conflict with the genealogy's senior designation or any supplied father."
+ },
+ {
+  "case_id": "P0554",
+  "choice": "C08",
+  "reason": "C08 matches both Hendrik Frederik Prinsloo and Somerset, whereas the other exact-name candidate, C07, is in Uitenhage. No genealogy father is supplied to distinguish their parentage notes."
+ },
+ {
+  "case_id": "P0252",
+  "choice": "C13",
+  "reason": "C13 exactly matches all three given names, Jacob Lourens Carolus, the surname Erasmus, and the Somerset district."
+ },
+ {
+  "case_id": "P0154",
+  "choice": "C08",
+  "reason": "C08 uniquely matches Lourens de Jager in Swellendam. The 'sv Lourens' note is not contradicted by the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0128",
+  "choice": "NONE",
+  "reason": "The sole candidate is Jan Hendrik Combrink, not Stephanus Lucas Combrink, and is recorded in Uitenhage rather than Somerset. The clearly different given names rule out the match."
+ }
+]

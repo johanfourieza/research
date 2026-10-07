@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0422",
+  "choice": "NONE",
+  "reason": "Neither Charl Francois nor Johannes Stephanus Marais matches the given names Sarel Johannes Lodewikus."
+ },
+ {
+  "case_id": "P0410",
+  "choice": "NONE",
+  "reason": "No owner is named Stephanus Rudolph. C01 Barend Godlieb is his father's name, not his own, and the other owners have different given names or are a widow."
+ },
+ {
+  "case_id": "P0114",
+  "choice": "NONE",
+  "reason": "No owner is Jan Abraham. C02 Abraham Jacobus sv Jan fits the father, but its second name differs and it is in Somerset rather than Colesberg. C14 Johannes is a deceased estate, probably his father's."
+ },
+ {
+  "case_id": "P0569",
+  "choice": "NONE",
+  "reason": "Both owners are Diederik Johannes (Gerhardus) Putter, which clearly contradicts Paul Jacobus."
+ },
+ {
+  "case_id": "P0230",
+  "choice": "NONE",
+  "reason": "No Johan Adam Enslin appears. C02 Jan Adriaan shares Jan/Johan, but Adriaan differs from Adam and the district is Graaff-Reinet, not Somerset."
+ },
+ {
+  "case_id": "P0631",
+  "choice": "C01",
+  "reason": "Nicolaas Johannes Christoffel Smit of Clanwilliam matches Nicolaas Jacobus Christoffel on first and third names in the same district. The middle-name variance is minor."
+ },
+ {
+  "case_id": "P0621",
+  "choice": "C01",
+  "reason": "Gerrit Willem Smit of Clanwilliam is an exact name match in the declared district. No genealogy father contradicts the note 'so Piet'."
+ },
+ {
+  "case_id": "P0609",
+  "choice": "NONE",
+  "reason": "No Scheepers owner in Uitenhage is named Petrus Johannes Christoffel. All candidates have clearly different given names."
+ },
+ {
+  "case_id": "P0437",
+  "choice": "NONE",
+  "reason": "C02 Philip Carel Minnaar is his father's name, and C01 Jan Stephanus does not match Roelof Johannes."
+ },
+ {
+  "case_id": "P0699",
+  "choice": "C01",
+  "reason": "Jacobus Johannes Uys of Uitenhage matches exactly. The note 's Jacob' agrees with his father Jacobus Johannes Uys."
+ }
+]

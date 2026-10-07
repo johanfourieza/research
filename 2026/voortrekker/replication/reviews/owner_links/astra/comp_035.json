@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0433",
+  "choice": "C01",
+  "reason": "Johannes is compatible with Johan, with George omitted, and C01 is in the declared district of Uitenhage. No other candidate has a comparably matching given name."
+ },
+ {
+  "case_id": "P0745",
+  "choice": "C01",
+  "reason": "C01 matches Johannes van der Westhuizen exactly in Beaufort. The note identifying his father as Willem does not conflict with any supplied genealogy evidence."
+ },
+ {
+  "case_id": "P0835",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Paulus Stephanus. C12's note 'sv Paul' identifies Marcus Albertus as Paul's son, not as Paulus himself."
+ },
+ {
+  "case_id": "P0283",
+  "choice": "NONE",
+  "reason": "C01's Petrus is compatible with Pieter, but Johannes differs from Jacobus. The shared first name and district alone do not make this identification more likely than not."
+ },
+ {
+  "case_id": "P0198",
+  "choice": "NONE",
+  "reason": "C02 matches the names and district, but those same names also belong to the man's explicitly recorded father. No junior designation, age, or parentage note distinguishes C02 as the son rather than the father."
+ },
+ {
+  "case_id": "P0857",
+  "choice": "C11",
+  "reason": "C11 matches Jan Albertus Viljoen in Somerset, and 'sv Willem' agrees with his father Willem Wouter. C08 instead bears the father's names."
+ },
+ {
+  "case_id": "P0574",
+  "choice": "C03",
+  "reason": "C03 matches Christiaan David Ras exactly in Clanwilliam, with no contradictory identity evidence."
+ },
+ {
+  "case_id": "P0664",
+  "choice": "C07",
+  "reason": "C07 matches Hermanus Jacobus Steyn exactly in Swellendam. Its 'sv Douw' note also matches the genealogy's explicit 'Douw seun' designation."
+ },
+ {
+  "case_id": "P0468",
+  "choice": "C01",
+  "reason": "C01 matches all three given names, the surname, and Beaufort district. The 'so Gerrit' note introduces no contradiction because the genealogy supplies no father."
+ },
+ {
+  "case_id": "P0876",
+  "choice": "C02",
+  "reason": "C02 matches Roelof Weideman exactly in Beaufort. Its 'sv Jacob' note does not conflict with the supplied genealogy, which gives no father."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0157",
+  "choice": "NONE",
+  "reason": "Neither male candidate has given names compatible with Robertus Burnet, and both are recorded as sons of Barend rather than Adriaan. C02 is Alida, a widow."
+ },
+ {
+  "case_id": "P0584",
+  "choice": "NONE",
+  "reason": "The sole candidate is Johannes Francois Robbertse, whose given names clearly differ from Lambertus Nicolaas despite the matching district."
+ },
+ {
+  "case_id": "P0106",
+  "choice": "NONE",
+  "reason": "No candidate has the given names Jacobus Johannes. C04 shares Johannes and the senior designation but is Barend Johannes, while the other candidates also have incompatible names."
+ },
+ {
+  "case_id": "P0535",
+  "choice": "C09",
+  "reason": "C09 exactly matches Johannes Jacobus Pretorius and the Graaff-Reinet district. The parentage note 'sv WL' cannot be checked because the genealogy supplies no father, but it introduces no known contradiction."
+ },
+ {
+  "case_id": "P0354",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Marthinus Godfried. The only Somerset candidate, C07, is Francois Jacobus."
+ },
+ {
+  "case_id": "P0563",
+  "choice": "NONE",
+  "reason": "C09's Martinus is compatible with Marthinus, but Petrus differs from Lourens and the candidate is in Uitenhage rather than Somerset. No candidate provides a sufficiently strong name match."
+ },
+ {
+  "case_id": "P0518",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Hans Jurgen; Hermanus Jacobus in C05 is a different name. C02 is explicitly a widow, with no evidence connecting that claim to this man."
+ },
+ {
+  "case_id": "P0880",
+  "choice": "C05",
+  "reason": "C05 exactly matches Johannes Bernardus Wessels and the Swellendam district. The note identifying his father as Johannes Wilhelmus does not conflict with the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0633",
+  "choice": "NONE",
+  "reason": "Both candidates have given names clearly different from David Benjamin: Johan Hendrik and Johannes Hendrik Jacobus. Neither is recorded in the declared Somerset district."
+ },
+ {
+  "case_id": "P0553",
+  "choice": "C06",
+  "reason": "C06 exactly matches Willem Jacobus Prinsloo and the Somerset district, with no contradictory notes. His 1808 birth places him in adulthood during the 1830s."
+ }
+]

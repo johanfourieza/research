@@ -1,0 +1,643 @@
+[
+  {
+    "case_id": "P0758",
+    "genealogy": {
+      "surname": "VAN NIEKERK",
+      "given_names": "JOHANNES WILHELMUS",
+      "birth_year": "1780",
+      "death_year": "1863",
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARGARETHA MARIA",
+          "surname": "SPIES",
+          "marriage_year": "1805"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Johannes Stephanus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Vanstadensrivier"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Isaac Abraham",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Pieter Cornelis",
+        "district": "Uitenhage",
+        "note": "s Gert; s Isaac; s JS",
+        "localities": "Kommandosdrif; Sondagsrivier; Van Stadensrivier; Vanstadensrivier"
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Martha Jacoba",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Driefontein; Tsitsikama"
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Gerhardus Lourens",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Chelsea; Port Elizabeth"
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Gerhardus Laurens",
+        "district": "Uitenhage",
+        "note": "wid",
+        "localities": "Vanstadensrivier"
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Stephanus Ignatius",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Margaretha Susanna",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Vanstadensrivier"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Christina Maria T.",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Van Niekerk",
+        "owner_given_names": "Adriana Maria",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Van Stadensrivier"
+      }
+    ]
+  },
+  {
+    "case_id": "P0151",
+    "genealogy": {
+      "surname": "DE BRUYN",
+      "given_names": "PETRUS FREDERIK BARENDSE",
+      "birth_year": "1799",
+      "death_year": "1890",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "PHILIPINA MARIA CHARLOTTA",
+          "surname": "SCHUTTE",
+          "marriage_year": "1818"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "De Bruyn",
+        "owner_given_names": "Hendrik Jeremias",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "De Bruyn",
+        "owner_given_names": "Hendrik",
+        "district": "Somerset",
+        "note": "sv Hendrik",
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "De Bruyn",
+        "owner_given_names": "Hendrik Jacobus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0130",
+    "genealogy": {
+      "surname": "CRAFFORD",
+      "given_names": "JACOB DANIEL ADRIAAN",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SWELLENDAM",
+      "father": null,
+      "spouses": [
+        {
+          "name": "SUSARA ELISABETH JOHANNA",
+          "surname": "JOUBERT",
+          "marriage_year": "1831"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Crafford",
+        "owner_given_names": "Jacobus Martinus",
+        "district": "Swellendam",
+        "note": "sv Dirk",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Crafford",
+        "owner_given_names": "Dirk Johannes Albertus",
+        "district": "Swellendam",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Crafford",
+        "owner_given_names": "Jacob Daniel",
+        "district": "Swellendam",
+        "note": "sv Dirk",
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Crafford",
+        "owner_given_names": "Dirk Johannes Albertus Gerhardus",
+        "district": "Swellendam",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0431",
+    "genealogy": {
+      "surname": "MEYER",
+      "given_names": "WILLEM PETRUS (PIET)",
+      "birth_year": "1797",
+      "death_year": null,
+      "declared_district": "ALBANY",
+      "father": null,
+      "spouses": [
+        {
+          "name": "CORNELIA JOHANNA",
+          "surname": "DE LANGE",
+          "marriage_year": null
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Meyer",
+        "owner_given_names": "Petrus",
+        "district": "Albany",
+        "note": null,
+        "localities": "Knora Bosch"
+      }
+    ]
+  },
+  {
+    "case_id": "P0729",
+    "genealogy": {
+      "surname": "VAN DER MERWE",
+      "given_names": "LUCAS JOHANNES",
+      "birth_year": "1795",
+      "death_year": "1870",
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARIA ELIZABETH",
+          "surname": "VILJOEN",
+          "marriage_year": "1818"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Petrus Jacobus s Piet",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Winterhoek"
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Van der Merwe",
+        "owner_given_names": "Johannes Martinus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Baviaanskloof"
+      }
+    ]
+  },
+  {
+    "case_id": "P0656",
+    "genealogy": {
+      "surname": "STEYN",
+      "given_names": "HERMANUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "JOHANNA HENDRINA",
+          "surname": "FOURIE",
+          "marriage_year": "1808"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Douw Gerbrand",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Hans Jurgen",
+        "district": "Graaff-Reinet",
+        "note": "sv Douw",
+        "localities": "Groenekloof; Vogelfontein"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Stephanus Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Kweekkraal"
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Steyn",
+        "owner_given_names": "Hermanus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0003",
+    "genealogy": {
+      "surname": "AUCAMP",
+      "given_names": "JOHAN DIEDERIK",
+      "birth_year": "1800",
+      "death_year": "1838",
+      "declared_district": "GRAAFF-REINET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "GEERTRUIDA MARTHA",
+          "surname": "NAUDE",
+          "marriage_year": "1825"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Aucamp",
+        "owner_given_names": "Pieter",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Twistkraal"
+      }
+    ]
+  },
+  {
+    "case_id": "P0355",
+    "genealogy": {
+      "surname": "KEMP",
+      "given_names": "GERHARDUS PHILIPPUS",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "UITENHAGE",
+      "father": null,
+      "spouses": [
+        {
+          "name": "MARIA MAGDALENA",
+          "surname": "POTGIETER",
+          "marriage_year": "1814"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Kemp",
+        "owner_given_names": "Petrus",
+        "district": "Uitenhage",
+        "note": "s Piet",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Kemp",
+        "owner_given_names": "Gerhardus Philip",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Kemp",
+        "owner_given_names": "Jurie Johannes",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0189",
+    "genealogy": {
+      "surname": "DU PLESSIS",
+      "given_names": "PIETER IGNATIUS",
+      "birth_year": null,
+      "death_year": "1879",
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "ENGELA PETRONELLA",
+          "surname": "DU PLESSIS",
+          "marriage_year": "1817"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Pieter",
+        "district": "Somerset",
+        "note": "sr; sv Jan",
+        "localities": null
+      },
+      {
+        "label": "C02",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Charl Jacob",
+        "district": "Graaff-Reinet",
+        "note": "sv Charl",
+        "localities": "Rietvallei"
+      },
+      {
+        "label": "C03",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Jan",
+        "district": "Somerset",
+        "note": "sv Barend; sv Jan",
+        "localities": null
+      },
+      {
+        "label": "C04",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Petrus Johannes",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "valley"
+      },
+      {
+        "label": "C05",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Hendrik Francois",
+        "district": "Somerset",
+        "note": "sv Fr.",
+        "localities": null
+      },
+      {
+        "label": "C06",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Jan Gabriel",
+        "district": "Graaff-Reinet",
+        "note": "sv Jan Gabriel; sv JG",
+        "localities": "Lemoenkloof; Oppermanskraal"
+      },
+      {
+        "label": "C07",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Jacobus",
+        "district": "Uitenhage",
+        "note": "s Jacobus",
+        "localities": "Langefontein; Tsitsikama"
+      },
+      {
+        "label": "C08",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Philippus Arnoldus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Komskloof"
+      },
+      {
+        "label": "C09",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Magdalena Johanna Maria",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C10",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Jacobus Johannes",
+        "district": "Uitenhage",
+        "note": "s Jacob",
+        "localities": "Tsitsikama"
+      },
+      {
+        "label": "C11",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Martinus Johannes",
+        "district": "Somerset",
+        "note": "sv Jan",
+        "localities": null
+      },
+      {
+        "label": "C12",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Philippus Jacobus",
+        "district": "Somerset",
+        "note": "oorlede",
+        "localities": null,
+        "flag": "recorded as deceased (estate)"
+      },
+      {
+        "label": "C13",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Paul Jacobus",
+        "district": "Somerset",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C14",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Hendrik Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv CJ",
+        "localities": "Beschuitfontein ?"
+      },
+      {
+        "label": "C15",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Daniel",
+        "district": "Somerset",
+        "note": "sv Daniel",
+        "localities": null
+      },
+      {
+        "label": "C16",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Theodorus Daniel",
+        "district": "Uitenhage",
+        "note": "s Jac.",
+        "localities": "Tsitsikama"
+      },
+      {
+        "label": "C17",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Charl Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv Charl",
+        "localities": "Katgat"
+      },
+      {
+        "label": "C18",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Johannes Petrus",
+        "district": "Somerset",
+        "note": "sv P; sv PJ",
+        "localities": null
+      },
+      {
+        "label": "C19",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Barend Christoffel",
+        "district": "Somerset",
+        "note": "sv BC",
+        "localities": null
+      },
+      {
+        "label": "C20",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Daniel Johannes",
+        "district": "Graaff-Reinet",
+        "note": "sv Jan",
+        "localities": "Seekoeirivier"
+      },
+      {
+        "label": "C21",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Pieter Abraham",
+        "district": "Somerset",
+        "note": "sv Joh.",
+        "localities": null
+      },
+      {
+        "label": "C22",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Joseph Albertus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": null
+      },
+      {
+        "label": "C23",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Petrus Francois",
+        "district": "Somerset",
+        "note": "sv Andries",
+        "localities": null
+      },
+      {
+        "label": "C24",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Hendrik Christoffel",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Komskloof"
+      },
+      {
+        "label": "C25",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Francois Jacobus",
+        "district": "Uitenhage",
+        "note": null,
+        "localities": "Abrahamskraal; Winterhoek"
+      },
+      {
+        "label": "C26",
+        "owner_surname": "Du Plessis",
+        "owner_given_names": "Maria Jacoba",
+        "district": "Somerset",
+        "note": "sep.",
+        "localities": null
+      }
+    ]
+  },
+  {
+    "case_id": "P0330",
+    "genealogy": {
+      "surname": "JACOBS(Z)",
+      "given_names": "MICHIEL CHRISTIAAN",
+      "birth_year": null,
+      "death_year": null,
+      "declared_district": "SOMERSET",
+      "father": null,
+      "spouses": [
+        {
+          "name": "SARA MARIA",
+          "surname": "CRONJE",
+          "marriage_year": "1811"
+        }
+      ]
+    },
+    "candidates": [
+      {
+        "label": "C01",
+        "owner_surname": "Jacobsz",
+        "owner_given_names": "Joachim Jacobus",
+        "district": "Graaff-Reinet",
+        "note": null,
+        "localities": "Graaff Reinet"
+      }
+    ]
+  }
+]

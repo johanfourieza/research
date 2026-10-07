@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0343",
+  "choice": "NONE",
+  "reason": "No candidate has Jan Abraham or a compatible given-name variant. The Somerset owner, C02, is Francois Jacobus, a clearly different name."
+ },
+ {
+  "case_id": "P0661",
+  "choice": "NONE",
+  "reason": "The sole candidate is Hermanus, son of Martinus, not Jacobus Marthinus. The shared Beaufort district does not overcome this given-name contradiction."
+ },
+ {
+  "case_id": "P0678",
+  "choice": "C03",
+  "reason": "C03 matches Johannes Strydom and the Uitenhage district. His parentage designation, son of Matthys, does not contradict the genealogy, which supplies no father."
+ },
+ {
+  "case_id": "P0790",
+  "choice": "NONE",
+  "reason": "Neither Willem Hendrik nor Jacobus Frederik matches Petrus Johannes. Their shared Uitenhage district is insufficient against these different given names."
+ },
+ {
+  "case_id": "P0627",
+  "choice": "C01",
+  "reason": "Frans Petrus is a compatible form of Francois Petrus, and C01 is in Beaufort. The note identifying him as Willem's son is uncontradicted because the genealogy gives no father."
+ },
+ {
+  "case_id": "P0407",
+  "choice": "C02",
+  "reason": "C02 exactly matches Barend Godlieb Liebenberg in Graaff-Reinet. No supplied parentage or status evidence contradicts the identification."
+ },
+ {
+  "case_id": "P0428",
+  "choice": "C03",
+  "reason": "C03 exactly matches Lucas Johannes Meyer and the Somerset district. The father note, son of Lucas, is not contradicted by the genealogy."
+ },
+ {
+  "case_id": "P0514",
+  "choice": "NONE",
+  "reason": "No candidate is named Willem Jacobus or a compatible variant. Pieter Jacobus in Somerset shares only Jacobus, while the other candidates also have different given names."
+ },
+ {
+  "case_id": "P0242",
+  "choice": "C17",
+  "reason": "C17 matches Jacob Erasmus in Somerset, with Lourens Carolus plausibly omitted from the genealogy. The other first-name match, Jacobus Lourens at C04, is less supported geographically because he is recorded in Albany."
+ },
+ {
+  "case_id": "P0593",
+  "choice": "NONE",
+  "reason": "The sole owner is Stephanus Johannes Scheepers, matching the genealogy father's name rather than Gerrit Hendrik's. The shared district does not resolve that clear given-name contradiction."
+ }
+]

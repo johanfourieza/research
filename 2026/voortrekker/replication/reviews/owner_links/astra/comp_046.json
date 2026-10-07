@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0542",
+  "choice": "C08",
+  "reason": "Willem Sterrenberg Pretorius matches exactly in Graaff-Reinet, and 'sv Petrus Gerhardus' agrees with his recorded father."
+ },
+ {
+  "case_id": "P0132",
+  "choice": "C02",
+  "reason": "Cornelis Cronje is an exact name match, and Somerset is compatible with the historical Cradock district designation. The father note cannot be checked but supplies no contradiction."
+ },
+ {
+  "case_id": "P0869",
+  "choice": "NONE",
+  "reason": "None of the candidates has given names compatible with Gideon Petrus. The Somerset candidates all have clearly different names."
+ },
+ {
+  "case_id": "P0317",
+  "choice": "C02",
+  "reason": "David Jacobs matches the surname and first name in Graaff-Reinet, with Stephanus plausibly omitted. Neither other candidate has compatible given names."
+ },
+ {
+  "case_id": "P0783",
+  "choice": "NONE",
+  "reason": "C05's 's Cornelis' contradicts the recorded father Gerrit Thomas. C04 is Gerrit Rynier rather than Gerrit Thomas, so the shared first name is insufficient."
+ },
+ {
+  "case_id": "P0455",
+  "choice": "C06",
+  "reason": "C06 matches Willem Nel exactly, and its father note supplies no contradiction because the genealogy names no father. Despite the Uitenhage/Somerset difference, this is stronger than the alternatives Willem Andries and Pieter Willem."
+ },
+ {
+  "case_id": "P0112",
+  "choice": "NONE",
+  "reason": "The exact-name candidate C04 is deceased with widow Hester Viljoen, not the recorded wife Hester Hendrina Aletta Venter. The other Johannes-bearing candidates lack corroborating identity evidence sufficient to identify this man."
+ },
+ {
+  "case_id": "P0867",
+  "choice": "NONE",
+  "reason": "No candidate has given names compatible with Gerhardus Coenradus. Shared surname and district cannot overcome the clearly different names."
+ },
+ {
+  "case_id": "P0423",
+  "choice": "NONE",
+  "reason": "Both Beaufort candidates have clearly different given names: Charl Francois and Johannes Stephanus, rather than Gerhardus Petrus."
+ },
+ {
+  "case_id": "P0383",
+  "choice": "NONE",
+  "reason": "C09's 'sv Gert' contradicts the recorded father Stephanus Johannes. C05 is Gert Hendrik rather than Gerrit Johannes, and no other candidate offers a compatible name match."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0741",
+  "choice": "C06",
+  "reason": "Jacobus is the standard form of Jacob, and C06 is in the same district, Beaufort. He is the only candidate with this given name. The genealogy gives no father, so the 'sv Nicolaas' note can neither confirm nor contradict the link."
+ },
+ {
+  "case_id": "P0338",
+  "choice": "NONE",
+  "reason": "No owner is named Johannes Jacobus. The closest, C01 Johannes Petrus sv Piet, shares only the first name and has a different second name, which is weak evidence."
+ },
+ {
+  "case_id": "P0759",
+  "choice": "NONE",
+  "reason": "No Uitenhage owner is Johannes Jacobus. C05 Johannes Stephanus has a different second name, and nothing links any candidate to his father Johannes Wilhelmus."
+ },
+ {
+  "case_id": "P0841",
+  "choice": "C01",
+  "reason": "C01's name, Salomon Vermaak, matches exactly, and he is in the declared district of Uitenhage. He is the only Salomon among the candidates."
+ },
+ {
+  "case_id": "P0617",
+  "choice": "NONE",
+  "reason": "No owner is named Stephanus Philippus. C02 'Philip' matches only his second name and C03 Philippus Jacobus Wilhelmus has a different name pattern, so neither is more likely than not."
+ },
+ {
+  "case_id": "P0600",
+  "choice": "C05",
+  "reason": "C05's full name, Gerhardus Johannes Adolphus Scheepers, matches exactly, and he is in the declared district of Uitenhage."
+ },
+ {
+  "case_id": "P0560",
+  "choice": "NONE",
+  "reason": "The only Nicolaas, C10 Nicolaas Martinus, is in Uitenhage rather than Somerset. He appears to be the father of slave-owning C04 Martinus Petrus ('s Nic.', same farm Winterhoek), so he is likely older than Klaas, who married in 1832."
+ },
+ {
+  "case_id": "P0337",
+  "choice": "NONE",
+  "reason": "No owner is named Pieter Willem. C03 Pieter Johannes has a different second name, and the 'sv Piet' owners (C02, C04) are sons of a Piet, not the man himself."
+ },
+ {
+  "case_id": "P0426",
+  "choice": "NONE",
+  "reason": "C02 Petrus Gerhardus shares only the first name and has a different second name (Gerhardus against Johannes). C01 Georg Frederik does not match at all."
+ },
+ {
+  "case_id": "P0508",
+  "choice": "NONE",
+  "reason": "No Potgieter owner is named Hans Jurgen or any variant of it. Every candidate has a clearly different given name."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0458",
+  "choice": "NONE",
+  "reason": "None of the Albany candidates has given names matching Johannes Petrus. C01 is Louis, which resembles his father's name rather than his own."
+ },
+ {
+  "case_id": "P0083",
+  "choice": "NONE",
+  "reason": "C01 is Johannes Arnoldus, not Abraham Carel. C02 is the widow Jacoba Wilhelmina, with no evidence connecting her claim to this man."
+ },
+ {
+  "case_id": "P0314",
+  "choice": "NONE",
+  "reason": "None of the Beaufort candidates has given names compatible with Carel Philippus. The shared surname and district alone do not establish identity."
+ },
+ {
+  "case_id": "P0286",
+  "choice": "NONE",
+  "reason": "No candidate is named Barend Christiaan. C07's note 'sv Barend' identifies Abraham Carel as a son of Barend, not as Barend himself."
+ },
+ {
+  "case_id": "P0420",
+  "choice": "C02",
+  "reason": "Daniel Petrus Marais matches Daniël Petrus Marais exactly apart from the diacritic, and both records specify Uitenhage."
+ },
+ {
+  "case_id": "P0792",
+  "choice": "NONE",
+  "reason": "Neither Jacobus Frederik nor Martinus Jacobus matches Nicolaas Hermanus. C01 is also marked as a widow, with no evidence that the claim belongs to this man."
+ },
+ {
+  "case_id": "P0490",
+  "choice": "NONE",
+  "reason": "The sole candidate is Hermanus Johannes Pieterse, a clearly different given name from Frederik despite the matching district."
+ },
+ {
+  "case_id": "P0137",
+  "choice": "C02",
+  "reason": "C02 uniquely matches the full name Zacharias Johannes De Beer. The Uitenhage versus Somerset district difference weakens the match but does not outweigh the exact name agreement."
+ },
+ {
+  "case_id": "P0872",
+  "choice": "NONE",
+  "reason": "All three candidates have clearly different given names from Christoffel Jacobus. Even Cornelis Johannes in C03 is not a spelling variant of his name."
+ },
+ {
+  "case_id": "P0626",
+  "choice": "NONE",
+  "reason": "No candidate is named Samuel or Samuel Jacobus. Candidates sharing Jacobus have different additional names, and none has supporting identity evidence linking him to this man."
+ }
+]

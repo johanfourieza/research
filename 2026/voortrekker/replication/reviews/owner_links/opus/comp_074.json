@@ -1,0 +1,52 @@
+[
+ {
+  "case_id": "P0571",
+  "choice": "C01",
+  "reason": "Martinus Nicolaas Ras of Clanwilliam matches the full given names (Marthinus/Martinus) and the declared district. No other candidate fits."
+ },
+ {
+  "case_id": "P0561",
+  "choice": "C05",
+  "reason": "Jochemus Johannes Prinsloo of Somerset, 'sv JJ', matches the given names Joachim/Jochemus Johannes and the declared district. The note agrees with his genealogy father Joachim Johannes."
+ },
+ {
+  "case_id": "P0126",
+  "choice": "NONE",
+  "reason": "The only owner is Jan Hendrik Combrink, whose given names contradict Gerhardus Hermanus Jacobus entirely."
+ },
+ {
+  "case_id": "P0860",
+  "choice": "NONE",
+  "reason": "The only Jan, Jan Hendrik (C02), is a deceased estate with a father noted as Hendrik. Nothing shows this estate is the 1806-born Jan's, and the other owners have different given names."
+ },
+ {
+  "case_id": "P0400",
+  "choice": "C03",
+  "reason": "Carel Landman of Uitenhage matches Karel/Carel Pieter, with only the middle name omitted, and the declared district matches. The other owners have different given names."
+ },
+ {
+  "case_id": "P0038",
+  "choice": "NONE",
+  "reason": "The only owner is Jacobus Boshof, whose name contradicts Willem Hendrik."
+ },
+ {
+  "case_id": "P0210",
+  "choice": "NONE",
+  "reason": "Both owners are named Hercules, which contradicts Pieter Daniel Andreas Salomon. C01 is also a deceased estate."
+ },
+ {
+  "case_id": "P0706",
+  "choice": "C02",
+  "reason": "Johannes Daniel van Coller of Swellendam exactly matches the given names and the declared district."
+ },
+ {
+  "case_id": "P0781",
+  "choice": "NONE",
+  "reason": "No owner is named Theodorus. Gerrit, Cornelis Johannes and Martinus all contradict Theodorus Cornelis."
+ },
+ {
+  "case_id": "P0040",
+  "choice": "NONE",
+  "reason": "Andries Stephanus, Jacob and Wietsche all contradict Anthonie Johannes Lourens Botes."
+ }
+]
