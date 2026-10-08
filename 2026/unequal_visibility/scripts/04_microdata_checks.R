@@ -298,11 +298,12 @@ for (v in c("ratio_low_high", "equal_mortality_threshold"))
   same(paste("Identity scenarios", v), cmp[[v]], cmp[[paste0(v, ".agg")]], TOL6)
 id_label <- c(unassigned = "Unassigned", older_candidate = "Older Michiel", younger_candidate = "Younger Michiel")
 scen_tex <- scen |> mutate(o = match(roemond_assignment, names(id_label))) |> arrange(o, lombart_added)
+# round(., 9): 27/8 = 3.375 is 3.37499999... in floating point and must print as 3.38
 same("Identity rows in the manuscript",
      sprintf("%s%s & %d/%d & %d/%d & %d/%d & %s & %s \\\\", id_label[scen_tex$roemond_assignment],
              if_else(scen_tex$lombart_added, " + Lombart", ""), scen_tex$events_low, t1$men[1],
              scen_tex$events_middle, t1$men[2], scen_tex$events_high, t1$men[3],
-             fmt(scen_tex$ratio_low_high, 3), fmt(scen_tex$equal_mortality_threshold, 2)),
+             fmt(scen_tex$ratio_low_high, 3), fmt(round(scen_tex$equal_mortality_threshold, 9), 2)),
      tex_rows("identity_rows.tex"))
 same("Identity macros",
      c(fmt(min(scen$ratio_low_high), 3), fmt(max(scen$ratio_low_high), 3),

@@ -40,10 +40,12 @@ writeLines(c(current_macro('IdentityRatioLo',current_fmt(min(rows$ratio),3)),
  current_macro('IdentityThresholdLo',current_fmt(min(rows$equality_multiple),2)),
  current_macro('IdentityThresholdHi',current_fmt(max(rows$equality_multiple),2))),
  file.path(CURRENT_GEN,'identity_macros.tex'))
+# round(.,9) before formatting: 1/(8/27) is 3.37499999... in floating point but
+# exactly 27/8 = 3.375, which must print as 3.38
 writeLines(vapply(seq_len(nrow(rows)),function(i){d<-rows[i]
  label<-if(d$romond_assignment==0)'Unassigned' else if(d$romond_assignment==5688)'Older Michiel' else 'Younger Michiel'
  paste0(label,if(d$lombart_added)' + Lombart' else '', ' & ',d$low_events,'/243 & ',
  d$middle_events,'/60 & ',d$high_events,'/45 & ',current_fmt(d$ratio,3),' & ',
- current_fmt(d$equality_multiple,2),' \\\\')},character(1)),
+ current_fmt(round(d$equality_multiple,9),2),' \\\\')},character(1)),
  file.path(CURRENT_GEN,'identity_rows.tex'))
 cat('Mutually exclusive identity scenarios generated.\n');print(rows)
