@@ -1,0 +1,7 @@
+﻿district,group,child_net_change,adult_net_change,child_change_if_adult_proportional,child_shortfall_relative_to_adult_change,description
+Cape,settler,-140.0,-52.0,-47.21052631578948,92.78947368421052,Descriptive benchmark only; shared proportional enumeration/flows not established
+Cape,slave,-35.0,-3.0,-0.39071038251366164,34.609289617486326,Descriptive benchmark only; shared proportional enumeration/flows not established
+StelDrak,settler,-146.0,-141.0,-145.97031539888684,0.029684601113160625,Descriptive benchmark only; shared proportional enumeration/flows not established
+StelDrak,slave,-21.0,3.0,0.4251592356687848,21.425159235668787,Descriptive benchmark only; shared proportional enumeration/flows not established
+Pooled,settler,-286.0,-193.0,-188.5386934673367,97.46130653266334,Descriptive benchmark only; shared proportional enumeration/flows not established
+Pooled,slave,-56.0,0.0,0.0,56.0,Descriptive benchmark only; shared proportional enumeration/flows not established

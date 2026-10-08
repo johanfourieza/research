@@ -1,0 +1,17 @@
+{
+  "scope": "Every supplied 1700-1720 calendar entry; missing text excluded from denominators",
+  "nets": {
+    "pox": "\\b(?:\\w*pok\\w*|\\w*pock\\w*|\\w*pocq\\w*|variol\\w*)\\b",
+    "illness": "\\b(?:s[iy]e[ck]+\\w*|z[iy]e[ck]+\\w*|siek\\w*|ziek\\w*|krank\\w*|kran[ck]+\\w*|koorts\\w*|besmet\\w*|pest\\w*|epidemi\\w*)\\b",
+    "death": "\\b(?:overle[deefv]\\w*|overlij\\w*|gestorv\\w*|sterf\\w*|sterv\\w*|dood\\w*|doot\\w*|dode\\w*|dooden|doode|lijken|lijkken|lijcken|l[yi]jk|lyck|l[yi]jcken|begra[avf]\\w*|begr[ae]ven\\w*|afgestorv\\w*|wijlen|wylen|omgebragt|omgebracht|moord\\w*|vermoord\\w*|homicid\\w*|geexecute\\w*|geexecut\\w*)\\b",
+    "medicine": "\\b(?:medic\\w*|medec\\w*|genee?[sz]\\w*|(?:opper)?chirurg\\w*|chijrurg\\w*|sirurg\\w*|do[ck]t[oe]r\\w*|doctor\\w*|apot\\w*|remedi\\w*|remedij\\w*|remedie\\w*|(?:ge)?cureer\\w*|curer\\w*|cuur\\w*|kuur\\w*|balsem\\w*|droger\\w*|quaran\\w*|quaren\\w*|inent\\w*|inocul\\w*|recept(?:en)?|saffraan\\w*|poeij[er]\\w*|poeier\\w*|poeder\\w*|(?:ge)?reconval\\w*)\\b",
+    "hospital": "\\b(?:hospit\\w*|hosp[ei]t\\w*|gasthu[yi]s\\w*|sie[ck]+enhu[yi]s\\w*|sie[ck]+hu[yi]s\\w*)\\b",
+    "recovery_care": "\\b(?:herstel\\w*|verple[eg]\\w*|oppass\\w*|besorg\\w*|besorging\\w*|gesond\\w*|gezond\\w*|ververs\\w*|verfris\\w*|assist\\w*|onderstand\\w*)\\b",
+    "khoesan": "hottent|son[ckq]+ua|bosjesman|bossiesman|\\bwilden\\b",
+    "enslaved": "\\b(?:sla[av]+\\w*|lij[fv]e[yi]g\\w*|lijve[yi]g\\w*|lyfeyg\\w*|mancip\\w*)\\b",
+    "settler": "\\b(?:burger\\w*|burgher\\w*|coloni\\w*|ingeset\\w*|ingezet\\w*|inwoond\\w*|inwoon\\w*|vrijman\\w*|vrijlieden\\w*)\\b",
+    "maritime": "\\b(?:schip\\w*|scheep\\w*|schep\\w*|matro\\w*|solda\\w*|bootsg\\w*|equipag\\w*|scheepsvolk\\w*)\\b",
+    "batavia": "\\bbatavia\\w*\\b"
+  },
+  "interpretation": "Lexical retrieval only; co-occurrence is not group-specific attribution; expanded pox net intentionally retains capok negatives; the death net ignores dead-calm weather phrases; Affricaan and inboorling denote Cape-born people in this period and are not Khoesan terms."
+}

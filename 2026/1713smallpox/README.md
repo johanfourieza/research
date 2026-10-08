@@ -1,107 +1,41 @@
-# 2026/1713smallpox
+# 2026/1713smallpox (version 2, revised manuscript)
 
-Replication data and code for:
+Replication materials for:
 
-> Fourie, J. (2026). *A Disease Never Seen Here: Measuring the Severity of the
-> 1713 Smallpox Epidemic at the Cape.* (Submitted to *The History of the Family*.)
+> Fourie, J. (2026). *A disease never seen here: Smallpox and family reconstruction at the Cape, 1713–1714.* Revised manuscript, *The History of the Family*.
 
-The paper measures the severity of the 1713 Cape smallpox epidemic for the groups
-the colony actually counted — settlers and the Dutch East India Company's slaves,
-by age — using the annual tax censuses (*opgaafrolle*), the probate inventories of
-the Orphan Chamber, and the daily journal (*dagregister*), and places the Cape in
-the comparative demography of smallpox.
+**This version replaces the July 2026 release** that accompanied the submitted manuscript (*Measuring the Severity of the 1713 Smallpox Epidemic at the Cape*). The submitted version's validated-classifier estimates, corrected journal shares, group shares, and mortality-comparison table are withdrawn. In particular, the submitted manuscript's statement that two human readers agreed with the reference labels on all 79 re-coded entries was incorrect; `data/validation/validation_agreement.csv` reports the actual comparisons.
 
-This package holds **only what is needed to reproduce the figures, tables, and
-headline numbers**, at an **aggregate level with no personal data**. The raw,
-individual-level sources (which carry names) are not redistributed; see *Sources*.
+The package is aggregate-level. Individual-level opgaaf rows and probate registers, which carry names, are not redistributed. The underlying transcriptions remain governed by their custodians (see *Sources*).
 
 ## Contents
 
 ```
-data/
-  slave_crosssection_by_district_year.csv   settler & slave counts by district x year x age/sex (opgaaf)
-  raw_stocks_by_year.csv                     colony-wide enslaved/settler stocks by year
-  balanced_enslaved_change.csv               balanced-panel enslaved change, epidemic window
-  epidemic_window_summary.csv                baseline vs 1712->1713 growth summary
-  age_structure_change.csv                   1712->1714 change by group x age x district
-  age_structure_indexed.csv                  indexed series (1712=100), 1708-1718
-  dagregister_year_counts.csv                journal entries per year by theme (disease, smallpox, ...)
-  primary_labels_1700_1720.csv               machine labels for all 7,670 journal entries (V1,V3,V4,who)
-  gold_labels.csv                            393 hand-coded gold labels (validation sample)
-  primary_year_rates.csv                     yearly disease/smallpox rates (cheap classifier)
-  debiased_estimates.csv                     validation-debiased estimates + precision/recall
-  mortality_comparison.csv                   Cape mortality beside comparable epidemics (Table 1 / Fig 4)
-  probate_by_year.csv                        Orphan Chamber probate inventories per year (Fig 1)
-  journal_labelling_codebook.md              frozen codebook for the journal labels (V1-V4, who)
-  journal_1700_1720/                         the daily journal (dagregister) entries, 1700-1720 (one .md per year)
-scripts/
-  06_debias.py, 07_figures.py, 08_mortality_comparison.py, 11_age_structure.py
-                                             reproduce the debiased estimates and Figures 1-4 from data/
-  source_pipeline/                           the upstream builders (need the archival sources; see below)
-docs/
-  variable_definitions.csv                   machine-readable data dictionary
-output/                                       figures/tables land here when the scripts run
-CODEBOOK.md, LICENSE
+data/census/       recorded tax-unit stocks by district and year (census_annual.csv), two-year changes,
+                   adult-proportional child benchmark, missing-cell counts, the enslaved-girls ('Meijsies')
+                   mapping ledger and the release reconciliation
+data/probate/      Orphan Chamber (MOOC8) documents per heading year, 1695-1720, and baseline ratios
+data/journal/      full-corpus lexical counts per year (1700-1720), the 18 smallpox candidates with decisions,
+                   the 17-entry chronology, 94 medical candidates, care-context register, image concordance,
+                   retrieval protocol (exact expressions) and summary results
+data/company/      the Company stock-flow ledger from the 26 August 1713 journal entry
+data/validation/   hand-coded sample compared with the reference labels
+figures/           Figures 1-3 of the article and Figure A1 of the supplement (PDF and PNG)
+scripts/           the full pipeline (run_revision.py calls 01, 02, 04, 05, 10, 11 and 06)
 ```
-
-See `CODEBOOK.md` and `docs/variable_definitions.csv` for every column.
 
 ## Reproduce
 
-Requirements: **Python 3.9+** and **matplotlib** (the scripts use only the standard
-library plus matplotlib — no pandas/numpy needed). From the `scripts/` folder:
+The scripts are the exact pipeline used for the paper. They read the custodial source files (opgaaf workbooks, Households v1 release, MOOC8 XML, journal workbook), which are not included; input paths and SHA-256 hashes are recorded in the scripts' manifests. With those inputs in place, `python -X utf8 scripts/run_revision.py` rebuilds every table and figure. Python 3.13; packages in `scripts/requirements.txt`.
 
-```
-python 07_figures.py               # Figure 1 (probate) and Figure 2 (dagregister)
-python 11_age_structure.py         # Figure 3 (age structure) + age_structure_*.csv
-python 08_mortality_comparison.py  # Figure 4 + mortality_comparison.csv (Table 1)
-python 06_debias.py                # validation-debiased estimates + precision/recall
-```
+Headline values: 1713 probate documents 54 (1714: 36; 1708–1712 mean 10.8). Recorded settlers, Cape District and Stellenbosch–Drakenstein combined, 1,967 (1712) → 1,488 (1714). Privately enslaved children 143 → 108 (Cape) and 89 → 68 (Stellenbosch–Drakenstein). Journal: 7,670 daily identifiers, 7,666 usable texts; 18 smallpox candidates, 17 retained (16 in 1713, one in February 1714).
 
-Outputs (PNG + PDF figures, and regenerated CSVs) are written to `output/`. Key
-numbers that should appear: 1713 probate = 54; Company slaves ≈ 35% population
-mortality (implied CFR 37–59%); enslaved children −24.5% (Cape) / −23.6%
-(Stellenbosch–Drakenstein); naive disease attention 45.9% corrected to 12.6%;
-journal disease entries 71% ship crews, 19% Company slaves, 4% settlers, 1.9% Khoesan.
+## Sources
 
-The method follows Ludwig, Mullainathan, and Rambachan (2026, *Annual Review of
-Economics*): a cheap classifier over the whole journal corrected against the
-hand-coded gold sample (`06_debias.py`).
-
-## Sources (raw data not redistributed here)
-
-The aggregate tables above are derived from these individual-level sources, which
-contain personal names and are **not** included in this release:
-
-- **Tax censuses (*opgaafrolle*)** — the Cape and Stellenbosch–Drakenstein
-  annual returns, from the Cape of Good Hope Panel (Fourie & Green, 2018,
-  *The History of the Family* 23(3), 493–502) and the Hague & Cape archives.
-- **Probate inventories** — the MOOC8 series of the Cape Orphan Chamber, Western
-  Cape Archives and Records Service, transcribed via the TANAP project.
-- **Daily journal (*dagregister*)** — the Council of Policy journal, Cape of Good
-  Hope; Western Cape Archives and Records Service / Nationaal Archief, The Hague;
-  transcriptions via TANAP (www.tanap.net). The `data/journal_1700_1720/` corpus
-  is the author's cleaned compilation of the 1700–1720 entries of this public
-  archival record; the CC BY licence covers this compilation, not the underlying
-  archival text.
-
-The scripts in `scripts/source_pipeline/` document how the aggregates were built
-from these sources; they require the archival files (not shipped) to run.
-
-## Excluded (privacy / minimality)
-
-Deliberately omitted: the individual-level opgaaf workbooks (settler names), the
-MOOC8 probate transcriptions (names of the deceased and heirs), the linked
-longitudinal genealogy panel (South African Families), and the free-text `evidence`
-column of the machine labels. All named individuals are from the early eighteenth
-century, but the linked genealogy is a redistribution-restricted third-party dataset
-and is excluded on that basis.
+- **Tax returns (*opgaafrolle*)**: Cape of Good Hope Panel transcriptions (Fourie & Green, 2018, *The History of the Family* 23(3), 493–502; Fourie et al., 2024, *South African Historical Journal* 76(4)); archival originals NA, VOC 4068 and 4073.
+- **Estate papers (MOOC8)**: transcribed by the TEPC Transcription Project (2004–2008) at the Western Cape Archives and Records Service; public rendering by GLOBALISE (TANAP Resources).
+- **Daily journal (*dagregister*)**: transcription by the Tracing History Trust, shared by Helena Liebenberg; originals NA, VOC 1.04.02, inv. 10730–10733.
 
 ## Licence
 
-Creative Commons Attribution 4.0 International (CC BY 4.0); see `LICENSE`.
-
-## Contact
-
-Johan Fourie — johanf@sun.ac.za — https://www.johanfourie.com
-ORCID: https://orcid.org/0000-0002-7341-017X
+Code and derived data: CC BY 4.0 (see `LICENSE`). Quoted source passages remain subject to the custodians' terms.

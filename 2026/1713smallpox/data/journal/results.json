@@ -1,0 +1,16 @@
+{
+  "supplied_rows": 7670,
+  "usable_texts": 7666,
+  "missing_texts": 4,
+  "whitespace_words": 857732,
+  "pox_candidates": 18,
+  "pox_references": 17,
+  "pox_1713": 16,
+  "pox_1714": 1,
+  "medical_candidates": 94,
+  "illness_lexical_entries": 644,
+  "illness_and_maritime_lexical_entries": 557,
+  "hospital_lexical_entries": 250,
+  "interpretation": "Exact lexical counts in the supplied transcription; reviewed pox references. No estimate of total semantic health attention or mortality.",
+  "negative_search": "No corroborating passage located for selective import of smallpox medicines from Batavia; not proof of no treatment, equal access or no unrecorded transaction."
+}
