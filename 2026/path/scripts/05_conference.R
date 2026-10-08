@@ -1,14 +1,13 @@
 # =============================================================================
-# 05_conference.R -- conference presentation and citations (published version)
+# 05_conference.R -- conference presentation and citations
 # -----------------------------------------------------------------------------
 # Scope: presentations at the EHA (Economic History Association) and EHS
 # (Economic History Society) annual meetings. The EHES biennial meeting is not
 # covered; the conference variable is "presented at EHA or EHS" and the paper
 # states this scope explicitly (Section 3.3).
 #
-# Linkage (Appendix E of the published article). Programme entries are linked
-# to corpus articles by a reviewed ledger rather than by the automated fuzzy
-# matcher used in the accepted manuscript:
+# Linkage (Appendix E of the article). Programme entries are linked to corpus
+# articles by a reviewed ledger:
 #   * data/raw/conference_programme_records.csv holds every programme entry
 #     from the corrected re-extraction (case/accent normalisation, separate EHS
 #     title and author fields, recovered EHS 2021 and 2022 programmes) with the
@@ -20,7 +19,6 @@
 #     authors only, never citation outcomes.
 #   * EHS 2023-2024 archive summary pages (prize announcements, not paper
 #     sessions) and the unverified EHA 2025 records are excluded from exposure.
-# The superseded automated matcher is kept, unused, in scripts/archive/.
 #
 # 5.1 Reviewed linkage (ledger -> matched_id)
 # 5.2 Paper-level conference variables

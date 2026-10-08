@@ -8,16 +8,9 @@ This package reproduces every table, figure and in-text statistic in
 Canonical public home of this package:
 https://github.com/johanfourieza/research/tree/main/2026/path
 
-**Version 2.0 (October 2026) matches the published article.** It supersedes
-the accepted-manuscript package (commit `49e0afc`, tag
-`2026-path-accepted-2026-08`), which is preserved in the repository history.
-See `CHANGELOG.md` for what changed and why. In short: a replication audit
-during proof correction found errors in the automated conference matching and
-inaccuracies in the description of two auxiliary datasets; the conference
-analysis now rests on a reviewed match ledger, the citation-source analysis on
-a metadata-screened network, and a final script checks the regenerated
-results against the published numbers. The main persistence results are
-unchanged.
+The conference analysis rests on a reviewed match ledger, the citation-source
+analysis on a metadata-screened network, and a final script checks the
+regenerated results against the published numbers.
 
 The paper documents strong persistence between a journal article's early
 citations and its long-run citations in the four core economic history
@@ -29,7 +22,6 @@ observable fundamentals.
 ```
 2026/path/
 ├── README.md            this file
-├── CHANGELOG.md         version history (what changed between accepted and published)
 ├── CODEBOOK.md          variable-level documentation for every data file
 ├── LICENSE              MIT (code) + CC BY 4.0 (data)
 ├── run_all.R            one-command reproduction (Rscript run_all.R)
@@ -50,12 +42,11 @@ observable fundamentals.
 │       ├── citing_field_data.rds       discipline of 37,853 citing works
 │       ├── citing_field_linked.rds     link-level discipline merge
 │       ├── repec_author_data.rds       RePEc author seniority / h-index
-│       ├── conference_parsed_data.rds  EHA + EHS programmes as parsed for the accepted
-│       │                               version (used only by the archived matcher)
+│       ├── conference_parsed_data.rds  EHA + EHS programmes as first parsed (00c);
+│       │                               not used by the pipeline (see CODEBOOK)
 │       ├── prize_paper_data.rds        Cole / Ashton / Figuerola matches
 │       └── prize_dissertation_data.rds Gerschenkron / Nevins recipients
 ├── scripts/             the pipeline (see "Script map" below)
-│   ├── archive/         the accepted version's automated conference matcher (not run)
 │   └── provenance/      audit scripts that built the reviewed records and the screen (not run)
 ├── results/             intermediate .rds objects (created by the run)
 └── output/
@@ -106,7 +97,7 @@ script-by-script and independent of run order.
 |---|---|---|
 | `00_data_collection.R` | one-time API collection (OpenAlex, RePEc, conference programmes, prizes). NOT needed to replicate; requires `OPENALEX_EMAIL` (+ optional `OPENALEX_API_KEY`) and `REPEC_API_KEY` environment variables | the files in `data/cache/` |
 | `00b_citing_fields.R` | one-time OpenAlex discipline query for all citing works | `citing_field_data.rds` |
-| `00c_rebuild_conference_cache.R` | offline rebuild of the accepted version's conference cache from the EHA workbook + parsed EHS rows | `conference_parsed_data.rds`, `prize_dissertation_data.rds` |
+| `00c_rebuild_conference_cache.R` | offline rebuild of the first-pass conference cache from the EHA workbook + parsed EHS rows (the pipeline uses the reviewed records instead) | `conference_parsed_data.rds`, `prize_dissertation_data.rds` |
 | `01_build_sample.R` | variables, estimation sample, attrition table, topic dictionary, OpenAlex linkage diagnostics | Table 5 (attrition), Table 6 (topic dictionary), linkage statistics |
 | `02_main_results.R` | summary statistics and main regressions | Table 1, Table 2 |
 | `03_robustness.R` | leave-one-out, bootstrap, thresholds, extended sample, growth outcome, PPML, keep-"other" topics, no-top-institution | Section 4.3, Appendix B |
@@ -127,7 +118,7 @@ Output file names keep the manuscript's working names. Published numbering:
 `TableA1_Attrition` = Table 5, `TableA2_TopicDictionary` = Table 6,
 `TableC*` = Table 7, `Table4_WithinAuthor` = Table 8.
 
-## Conference linkage in the published version
+## Conference linkage
 
 The indicator "presented at EHA or EHS" is built in `05_conference.R` from two
 shipped files, not from a matching algorithm run at replication time:

@@ -11,7 +11,7 @@
 #
 # Outputs: output/tables/Table4_WithinAuthor.tex (= Table 8 in the published
 #          article); results/res_09_panel.rds
-# The "author" fixed effects are first-listed-author fixed effects (author1).
+# The author fixed effects are first-listed-author fixed effects (author1).
 # =============================================================================
 
 local({

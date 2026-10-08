@@ -137,7 +137,7 @@ the reviewed `matched_id`, to `results/conference_programme_records_used.csv`.
 | `citing_field_data.rds` | one row per unique citing work (37,853) | `citing_oa_id`, `type` (article / book-chapter / preprint / ...), `pt_field` / `pt_subfield` / `pt_domain` (OpenAlex primary-topic taxonomy), `l0_concepts` (semicolon-separated level-0 concept names), `venue` |
 | `citing_field_linked.rds` | link-level merge of the two files above | |
 | `repec_author_data.rds` | one row per matched author | `author_name`, `first_pub_year`, `hindex`, `has_nber_wp` |
-| `conference_parsed_data.rds` | one row per programme entry as parsed for the accepted version (3,627: EHA 1,006 + EHS 2,621). Used only by the archived matcher in `scripts/archive/`; the published pipeline uses `data/raw/conference_programme_records.csv` instead | `conference`, `year`, `title`, `authors`, `affiliations`, `session_order`, `pre_lunch`, `post_lunch`, `begin_time` (EHA only) |
+| `conference_parsed_data.rds` | one row per programme entry from the first-pass parse (3,627: EHA 1,006 + EHS 2,621). Not used by the pipeline, which reads `data/raw/conference_programme_records.csv`; retained as the output of `00c_rebuild_conference_cache.R` | `conference`, `year`, `title`, `authors`, `affiliations`, `session_order`, `pre_lunch`, `post_lunch`, `begin_time` (EHA only) |
 | `prize_paper_data.rds` | one row per paper-prize award | `prize_name`, `paper_title`, `prize_year`, `matched_id` |
 | `prize_dissertation_data.rds` | one row per dissertation-prize award | `prize_name`, `recipient`, `recipient_clean`, `prize_year` |
 

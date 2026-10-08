@@ -10,8 +10,7 @@
 #    articles flagged by the OpenAlex metadata screen (published Section 6.2
 #    and Appendix A.3). The screen removes 230 links to 14 source articles;
 #    72,465 links to 1,610 corpus articles published 1997-2018 remain.
-# 6b-6d use the unscreened within-corpus network, as in the published text
-#    (the Section 6.4 numbers are unchanged from the accepted version).
+# 6b-6d use the unscreened within-corpus network, as in the published text.
 # 6b Self-citation analysis (within-dataset links)
 # 6c Citation cascade depth (within-dataset citation network)
 # 6d Citation concentration over time (Herfindahl index)
