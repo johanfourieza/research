@@ -76,3 +76,116 @@ asset_column_coverage_1712.csv,district,Stellenbosch or Drakenstein,string
 asset_column_coverage_1712.csv,variable,Asset column in the 1712 transcription,string
 asset_column_coverage_1712.csv,positive_entries,Cells with a positive entry,integer
 asset_column_coverage_1712.csv,nonmissing,Non-missing cells,integer
+microdata/cohort_1712.csv,hhobs,Panel row identifier of the 1712 entry (linkage key),integer
+microdata/cohort_1712.csv,roll_year,Roll year (1712),integer
+microdata/cohort_1712.csv,district,Stellenbosch or Drakenstein,string
+microdata/cohort_1712.csv,folio,Folio of the entry in the roll,integer
+microdata/cohort_1712.csv,source_workbook,Transcription workbook of the entry,string
+microdata/cohort_1712.csv,source_sheet,Workbook sheet,string
+microdata/cohort_1712.csv,raw_excel_row,Spreadsheet row of the entry in the workbook,integer
+microdata/cohort_1712.csv,archive_reference,Archival reference of the roll,string
+microdata/cohort_1712.csv,name,The man's name as transcribed,string
+microdata/cohort_1712.csv,wife_named,"1 if a wife is recorded on the entry (an entry, not a marriage record)",integer
+microdata/cohort_1712.csv,wife_name,The wife's name as transcribed; blank if none,string
+microdata/cohort_1712.csv,slave_men,Adult enslaved men recorded (blank coded 0),numeric
+microdata/cohort_1712.csv,slave_women,Adult enslaved women recorded (blank coded 0),numeric
+microdata/cohort_1712.csv,adult_slaves,slave_men + slave_women,numeric
+microdata/cohort_1712.csv,cattle_cows,Cows (blank coded 0),numeric
+microdata/cohort_1712.csv,cattle_work,Oxen (blank coded 0),numeric
+microdata/cohort_1712.csv,cattle,cattle_cows + cattle_work,numeric
+microdata/cohort_1712.csv,horses,Horses (blank coded 0),numeric
+microdata/cohort_1712.csv,sheep,Sheep (blank coded 0),numeric
+microdata/cohort_1712.csv,blank_asset_cells,Asset columns blank in the transcription and coded 0 (semicolon-separated),string
+microdata/cohort_1712.csv,resource_group,"low (0 adult slaves), middle (1-4) or high (5+)",string
+microdata/cohort_1712.csv,resource_index,adult_slaves + 0.5 x (cattle + horses) + 0.1 x sheep,numeric
+microdata/cohort_1712.csv,resource_index_group,"Empirical third of resource_index: low (<= 0.5), middle (<= 20), high (> 20)",string
+microdata/cohort_1712.csv,probate_record,1 if an accepted estate-document link dated 1713-14 (MOOC8 or Stellenbosch compilation; own estate or incidental mention) confirms his death,integer
+microdata/cohort_1712.csv,widow_record,1 if an accepted 1713 or 1714 widow entry is his widow,integer
+microdata/cohort_1712.csv,any_record,probate_record or widow_record (combined death record),integer
+microdata/cohort_1712.csv,earliest_evidence_date,Earliest accepted evidence of death (YYYY-MM-DD or YYYY); not a date of death,string
+microdata/cohort_1712.csv,date_precision,day or year,string
+microdata/cohort_1712.csv,earliest_document_date,Earliest day-dated MOOC8 document among accepted links (YYYY-MM-DD),string
+microdata/cohort_1712.csv,event_interval,after1712_by1714 for men with a death record,string
+microdata/baseline_rows.csv,nr,Row number in the register,integer
+microdata/baseline_rows.csv,names_men,Male name as transcribed,string
+microdata/baseline_rows.csv,names_women,Female name as transcribed,string
+microdata/baseline_rows.csv,raw_order,Order of the row in the roll,integer
+microdata/baseline_rows.csv,hhobs,Panel row identifier,integer
+microdata/baseline_rows.csv,h_key,Normalised name key,string
+microdata/baseline_rows.csv,group,"low, middle or high (adult slaves recorded)",string
+microdata/baseline_rows.csv,slaves,Adult slaves recorded,numeric
+microdata/baseline_rows.csv,raw_excel_row,Spreadsheet row in the workbook,integer
+microdata/baseline_rows.csv,district,Stellenbosch or Drakenstein,string
+microdata/baseline_rows.csv,folio,Folio of the entry,integer
+microdata/baseline_rows.csv,decision,"include, exclude_joint, exclude_proxy or exclude_identity_unresolved",string
+microdata/baseline_rows.csv,duplicate_set,"Unresolved repeated-name pair, where relevant",string
+microdata/baseline_rows.csv,evidence,Reason for the decision,string
+microdata/baseline_rows.csv,source_workbook,Transcription workbook,string
+microdata/baseline_rows.csv,source_sheet,Workbook sheet,string
+microdata/baseline_rows.csv,archive,Archival reference of the roll,string
+microdata/death_links.csv,baseline_hhobs,Panel row identifier of the baseline man,integer
+microdata/death_links.csv,head,The man as named in the 1712 roll,string
+microdata/death_links.csv,baseline_wife,His wife as named in the 1712 roll,string
+microdata/death_links.csv,channel,"probate (own estate), probate_incidental (death mentioned in another estate) or widow",string
+microdata/death_links.csv,source_file,Source file (MOOC8 documents and widow entries); blank for widow links,string
+microdata/death_links.csv,div_id,MOOC8 div_id (e.g. MOOC8/3.56),string
+microdata/death_links.csv,date_value,"Document date YYYYMMDD, or year (YYYY) for widow entries",string
+microdata/death_links.csv,widow_hhobs,Panel row identifier of the widow entry,integer
+microdata/death_links.csv,decision,"accept, ambiguous or reject",string
+microdata/death_links.csv,evidence,Short note of what the source says (not a transcription),string
+microdata/death_links.csv,event_interval,"after1712_by1714 (accepted), prebaseline_widow, not_head_death, wrong_person or timing_uncertain",string
+microdata/stellenbosch_death_links.csv,baseline_hhobs,Panel row identifier of the baseline man,integer
+microdata/stellenbosch_death_links.csv,head,The man as named in the 1712 roll,string
+microdata/stellenbosch_death_links.csv,baseline_wife,His wife as named in the 1712 roll,string
+microdata/stellenbosch_death_links.csv,channel,"probate (own estate), probate_incidental (death mentioned in another estate) or widow",string
+microdata/stellenbosch_death_links.csv,source_file,Source file (Stellenbosch compilation schedules); blank for widow links,string
+microdata/stellenbosch_death_links.csv,div_id,Compilation record identifier (STBVR_...; not a MOOC8 id),string
+microdata/stellenbosch_death_links.csv,date_value,Schedule year (YYYY),string
+microdata/stellenbosch_death_links.csv,widow_hhobs,Panel row identifier of the widow entry,integer
+microdata/stellenbosch_death_links.csv,decision,"accept, ambiguous or reject",string
+microdata/stellenbosch_death_links.csv,evidence,Short note of what the source says (not a transcription),string
+microdata/stellenbosch_death_links.csv,event_interval,"after1712_by1714 (accepted), prebaseline_widow, not_head_death, wrong_person or timing_uncertain",string
+microdata/document_screening.csv,source_file,MOOC8 XML file,string
+microdata/document_screening.csv,div_id,MOOC8 div_id,string
+microdata/document_screening.csv,date_value,Document date YYYYMMDD,string
+microdata/document_screening.csv,head,Opening words of the document heading,string
+microdata/document_screening.csv,screened,TRUE when read,logical
+microdata/document_screening.csv,screen,Screening disposition,string
+microdata/stellenbosch_document_screening.csv,record_id,Compilation record identifier (STBVR_...; not a MOOC8 id),string
+microdata/stellenbosch_document_screening.csv,year,Schedule year,integer
+microdata/stellenbosch_document_screening.csv,subject,Estate subject as indexed,string
+microdata/stellenbosch_document_screening.csv,screened,True when read,logical
+microdata/stellenbosch_document_screening.csv,accepted_hhobs,Baseline men accepted,string
+microdata/stellenbosch_document_screening.csv,rejected_hhobs,Baseline men rejected,string
+microdata/stellenbosch_document_screening.csv,disposition,Reading of the schedule,string
+microdata/stellenbosch_document_screening.csv,start_line_id,First line of the schedule in the compilation (STBV_..._P..._L...),string
+microdata/stellenbosch_document_screening.csv,end_line_id,Last line of the schedule in the compilation,string
+microdata/widow_screening.csv,year,Roll year (1713 or 1714),integer
+microdata/widow_screening.csv,hhobs,Panel row identifier of the widow entry,integer
+microdata/widow_screening.csv,names_women,Widow entry as transcribed,string
+microdata/widow_screening.csv,widow_of,Husband's name as given,string
+microdata/widow_screening.csv,screened,TRUE when read,logical
+microdata/widow_screening.csv,screen,"Disposition, citing baseline hhobs accepted, rejected or ambiguous",string
+microdata/additional_widow_candidates.csv,widow_hhobs,Panel row identifier of the surname-only widow entry,integer
+microdata/additional_widow_candidates.csv,year,Roll year,integer
+microdata/additional_widow_candidates.csv,baseline_hhobs,Candidate husband in the 1712 roll,integer
+microdata/additional_widow_candidates.csv,candidate,Candidate name,string
+microdata/additional_widow_candidates.csv,decision,ambiguous,string
+microdata/additional_widow_candidates.csv,evidence,Reason the assignment stays unresolved,string
+microdata/continuation_panel.csv,specification,"primary, three_year_baseline, long_search or three_year_baseline_long_search",string
+microdata/continuation_panel.csv,window,"Window year: 1709, 1710, 1713, 1718 or 1721",integer
+microdata/continuation_panel.csv,baseline_year,Roll year of the baseline entry,integer
+microdata/continuation_panel.csv,hhobs,Panel row identifier of the baseline entry,integer
+microdata/continuation_panel.csv,name,Male name as transcribed,string
+microdata/continuation_panel.csv,cluster_key,Normalised full-name key (cluster for standard errors),string
+microdata/continuation_panel.csv,adult_slaves,Adult slaves recorded on the baseline entry,numeric
+microdata/continuation_panel.csv,group,low (no adult slaves) or owner (at least one),string
+microdata/continuation_panel.csv,flag_guarded_names,1 if no later name met the guarded-name criterion (not a death),integer
+microdata/continuation_panel.csv,flag_permissive_fallback,1 if no continuation under guarded names or the permissive fallback (not a death),integer
+microdata/continuation_panel.csv,flag_unique_target,1 unless exactly one distinct candidate name key was found (not a death),integer
+microdata/continuation_panel.csv,name_candidate_keys,Distinct name keys meeting the guarded-name rule,integer
+microdata/continuation_panel.csv,name_candidate_rows,Rows meeting the guarded-name rule,integer
+microdata/continuation_panel.csv,fallback_candidate_keys,Distinct name keys meeting the permissive fallback,integer
+microdata/continuation_panel.csv,fallback_candidate_rows,Rows meeting the permissive fallback,integer
+microdata/continuation_panel.csv,name_candidate_examples,Up to five guarded-name candidate keys (semicolon-separated),string
+microdata/continuation_panel.csv,fallback_candidate_examples,Up to five fallback candidate keys (semicolon-separated),string

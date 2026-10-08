@@ -1,4 +1,4 @@
-# Name parser: keeps full given names and qualifiers (de jonge, de oude).
+# Current name parser. Historical helper remains unchanged for archived analyses.
 # Requires R/00_setup.R (standardize_names and data.table).
 current_names <- function(x) {
   raw <- as.character(x)

@@ -10,13 +10,14 @@
 #  INPUTS   cohort from 04; widow candidate register
 #  OUTPUTS  data/identity_scenarios.csv
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
-# Mutually exclusive assignments of one surname-only widow, added in the final source review.
+# Mutually exclusive assignments of one surname-only widow, first reviewed in v6.
 # This supplements the legacy personwise ambiguity output; it changes no confirmed link.
 source('R/helpers/current_reporting.R')
 A<-readRDS(file.path(CURRENT_OUT,'current_cohort.rds'))

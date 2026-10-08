@@ -10,10 +10,11 @@
 #  INPUTS   MOOC8 XML transcriptions (TEPC/TANAP)
 #  OUTPUTS  mooc8_inventories.rds, annual counts
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
 ## Clean mortality signal: probate (MOOC8) inventory counts by year.
@@ -21,7 +22,8 @@
 suppressMessages({library(xml2); library(data.table)})
 source("R/helpers/xml_helpers.R")
 
-xml_dir <- "../sources/data/XML files"
+source('R/00_setup.R')
+xml_dir <- MOOC_XML_DIR
 files <- list.files(xml_dir, pattern="MOOC8.*\\.xml$", full.names=TRUE)
 cat("MOOC8 files:", length(files), "\n")
 if (!length(files)) stop("No MOOC8 XML source files found: ", xml_dir)

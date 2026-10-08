@@ -1,0 +1,34 @@
+year,hhobs,names_women,widow_of,screened,screen
+1713,6058,"wed Van Wyk, Cornelia Helms",wyk,TRUE,5755 accept
+1713,6060,"wed Gerrit Cloete, Catharina Lodewykse",gerrit cloete,TRUE,5685 reject; 5814 reject
+1713,6069,"wed Ferdinand Appel, Sophia Cloete",ferdinand appel,TRUE,5798 ambiguous
+1713,6076,"wed Isacq Schryver ?, Anna Hoeks",isacq schryver,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6079,"wed Guilliam du Toit, Sara Couchet",guilliam du toit,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6080,"wed Barend van den Brink, Jannetje van Heyninge",barend van den brink,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6101,"wed Matthys Groef?, Sara Coetze",matthys groef,TRUE,5977 accept
+1713,6116,"wed Jan Jansz Swart, Grietje Claas Koen",jan jansz swart,TRUE,5711 reject
+1713,6127,"wed Laurens Jansz, Agnieta Pietersz",laurens jansz,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6146,"wed Pieter Robberts, Sophia van der Merwe",pieter robberts,TRUE,5786 accept
+1713,6185,"wed Maurits van Staden, Johanna van den Bos",maurits van staden,TRUE,5871 reject; 5877 accept
+1713,6188,"wed Henningh Villion, Margareta Savoy",henningh villion,TRUE,5841 accept
+1713,6191,"wed Bastiaan Pyl, Susanna Putters",bastiaan pyl,TRUE,5852 accept
+1713,6208,"wed Guilliam Haas ?, Maria Durier",guilliam haas,TRUE,5889 accept
+1713,6213,"wed Izaacq Talifer, Susanna Bruzet",izaacq talifer,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6220,"wed Cornelis Oliveir, Anna Catharina van der Wy",cornelis oliveir,TRUE,5971 reject; 6009 accept
+1713,6249,"wed Charles Marai, Anna de Revel ?",charles marai,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6255,"wed Gidion Malerbe, Maria Grillion",gidion malerbe,TRUE,5919 accept
+1713,6275,wed Pieter Bekker; Johanna de Clercq,pieter bekker,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6281,"wed Pieter du Mont?, Cecilia Datis",pieter du mont,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1713,6284,"wed Abraham Vivier, Jacomina du Pree",abraham vivier,TRUE,6017 accept
+1714,6344,wed Ferdinandus Appel,ferdinandus appel,TRUE,5798 accept
+1714,6350,wed Roemond,roemond,TRUE,Surname-only widow Roemond: possible older Michiel Romond5688 or younger Michiel5691; cannot assign securely. See additional_widow_candidates.csv and mutually exclusive current_identity_scenarios.csv. Earlier generic no-candidate disposition corrected in v6.
+1714,6368,wed Robbertsz,robbertsz,TRUE,5786 accept
+1714,6369,wed Isaacq Schrijver,isaacq schrijver,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1714,6485,wed Taillefert,taillefert,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1714,6492,wed Henning Viljon,henning viljon,TRUE,5841 accept
+1714,6499,wed Anthony Lombaar,anthony lombaar,TRUE,5863 reject; 5862 ambiguous
+1714,6515,wed Pieter du Mont,pieter du mont,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1714,6549,wed Charles de Marais,charles de marais,TRUE,No matching male baselineentry identified; pre-existing widows are not incident deaths.
+1714,6565,wed Gidion Mallerbe,gidion mallerbe,TRUE,5919 accept
+1714,6581,wed Guilliam de Hase,guilliam de hase,TRUE,5889 accept
+1714,6602,wed Mathys Greef,mathys greef,TRUE,5977 accept

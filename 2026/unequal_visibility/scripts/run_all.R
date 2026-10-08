@@ -1,6 +1,7 @@
 # =============================================================================
 #  run_all.R  -  Reproduce every table, figure and headline number in the
-#  paper from the aggregate files in data/.
+#  paper from the aggregate files in data/, then rebuild the person-level
+#  results from data/microdata/ and check them against both.
 #
 #  Usage, from the package root:
 #     Rscript scripts/run_all.R
@@ -13,7 +14,7 @@
 .file <- sub("^--file=", "", .args[grep("^--file=", .args)])
 SCRIPTS <- if (length(.file)) dirname(normalizePath(.file)) else file.path(getwd(), "scripts")
 
-for (step in c("01_tables.R", "02_figures.R", "03_continuation.R")) {
+for (step in c("01_tables.R", "02_figures.R", "03_continuation.R", "04_microdata_checks.R")) {
   cat("\n==========", step, "==========\n")
   status <- system2(file.path(R.home("bin"), "Rscript"),
                     c("--vanilla", shQuote(file.path(SCRIPTS, step))))

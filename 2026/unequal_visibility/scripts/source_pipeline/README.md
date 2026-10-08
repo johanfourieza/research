@@ -2,10 +2,11 @@
 
 These are the scripts that built the files in `data/` from the individual-level
 sources. They are included for transparency: they show every rule and check
-that stands between the archival records and the released aggregates. They
-cannot run from this package, because the sources carry names and are not
-redistributed (see the main `README.md`). File paths refer to the author's
-working layout.
+that stands between the archival records and the released files. They cannot
+run from this package, because they also read inputs that are not
+redistributed: the full linked tax-roll panel (which carries South African
+Families identifiers), the genealogy itself and the source transcriptions (see
+the main `README.md`). File paths refer to the author's working layout.
 
 | Order | Script | What it does |
 |---|---|---|
@@ -24,14 +25,20 @@ exclusions (`death_record_checks.R`) and the MOOC8 XML parser (`xml_helpers.R`).
 
 ## How the death register was built
 
-The central inputs are not in these scripts but in four **decision registers**
-that record a reviewed judgment for every source-person link: the retained
-baseline rows, the accepted, rejected and unresolved death links, and the
-screening disposition of all 90 MOOC8 documents dated 1713–14 and all 33 widow
-entries. `04_static_analysis.R` reads those registers as inputs and never
-infers a death from a fuzzy name match or from the order of names in a
-document heading. The registers name each man, his wife and the linked
-documents, so they are withheld with the other individual-level material.
+The central inputs are not in these scripts but in seven **decision
+registers** that record a reviewed judgment for every source-person link: the
+retained baseline rows; the accepted, rejected and unresolved death links in
+two source frames (the MOOC8 estate documents and the schedules of the
+Stellenbosch compilation, Vol. I–V); the screening disposition of all 90 MOOC8
+documents and all 41 Stellenbosch schedules dated 1713–14 and of all 33 widow
+entries; and the alternative candidates for one surname-only widow.
+`04_static_analysis.R` reads those registers as inputs and never infers a death
+from a fuzzy name match or from the order of names in a document heading. The
+registers are released in `data/microdata/`, with any genealogical identifier
+in their notes replaced by `[genealogical identifier removed]`; the cohort and
+the continuation panel built by `04_static_analysis.R` and
+`06_continuation_panel.R` are released there too, each written from an
+explicit list of columns.
 
 ## Checks built into the pipeline
 

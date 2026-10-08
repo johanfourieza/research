@@ -11,10 +11,11 @@
 #  INPUTS   1712 opgaaf workbook; linked panel; baseline decision register
 #  OUTPUTS  data/asset_column_coverage_1712.csv; source checks
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
 # Reconcile the fixed decision registers to the original supplied sources.
@@ -51,8 +52,16 @@ dkey<-function(d)paste(d$source_file,d$div_id,d$date_value,sep='|')
 stopifnot(nrow(docs)==90L,all(docs$screened),!anyDuplicated(dkey(docs)),
  setequal(dkey(docs),dkey(inv)),nrow(wid)==33L,all(wid$screened),
  !anyDuplicated(wid$hhobs),setequal(wid$hhobs,P[year%in%1713:1714&widow==1,hhobs]))
+stb<-fread(STELLENBOSCH_REGISTER,colClasses=c(date_value='character'))
+stb_screen<-fread('R/decisions/stellenbosch_document_screening.csv')
+stb_links<-fread('R/decisions/stellenbosch_death_links.csv',colClasses=c(date_value='character'))
+stopifnot(nrow(stb)==41L,nrow(stb_screen)==41L,all(stb_screen$screened),
+ !anyDuplicated(stb$div_id),!anyDuplicated(stb_screen$record_id),
+ setequal(stb$div_id,stb_screen$record_id),all(stb_links$div_id%in%stb$div_id),
+ all(dkey(stb_links)%in%dkey(stb)),all(stb_links$baseline_hhobs%in%B$hhobs))
+manifest<-fread(file.path(PROBATE_UPDATE,'source_manifest.csv'))
 inputs<-c(PANEL_GZ,SAF_GZ,wb,file.path(DATA,'vc_datastel (v3).xlsx'),
- list.files(file.path(DATA,'XML files'),pattern='\\.xml$',full.names=TRUE),
+ manifest$snapshot,STELLENBOSCH_REGISTER,
  list.files('R/decisions',pattern='\\.csv$',full.names=TRUE))
 stopifnot(all(file.exists(inputs)))
 hashes<-data.table(path=normalizePath(inputs,winslash='/'),md5=unname(tools::md5sum(inputs)))
@@ -60,6 +69,7 @@ fwrite(hashes,'revision/output/current_input_hashes.csv')
 writeLines(c('Every baseline row reconciles to original workbook number and names.',
  'All six asset columns reconcile to the linked panel and are recorded in each district.',
  'All 90 probate documents and all 33 widow entries have screening dispositions.',
+ 'All 41 additional Stellenbosch compilation schedules have source-reading dispositions.',
  'Input and decision-register MD5 hashes saved for this run.'),
  'revision/output/current_source_checks.txt')
 cat('Source reconciliation and screening-coverage checks passed.\n')

@@ -10,14 +10,15 @@
 #  INPUTS   none (sourced by the other scripts)
 #  OUTPUTS  none
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
 ## =============================================================================
-## 00_setup.R — paths, packages, helpers
+## 00_setup.R — paths, packages, helpers for the Fourie_Smallpox project
 ## =============================================================================
 suppressMessages({
   library(data.table)
@@ -26,14 +27,20 @@ suppressMessages({
 })
 
 ## --- paths -------------------------------------------------------------------
-## PROJ is the project root; the restricted raw sources live in ../sources/data.
+## PROJ is this paper's project folder; raw data lives in the shared
+## ../sources/data folder.
 PROJ   <- normalizePath(getwd(), winslash="/", mustWork=TRUE)
 if (!file.exists(file.path(PROJ, "R/00_setup.R")))
   stop("Run R from the project root.")
+SIB    <- "C:/Users/johanf/Dropbox/0Claude0/1Research/FourieMcCantsWalters_Probates"
 DATA   <- normalizePath(file.path(PROJ, "..", "sources", "data"), mustWork = FALSE)
 PANEL_GZ <- file.path(DATA, "stel-L-L/stellenbosch_long_linked_wsaf_fixed_feb2026_.csv.gz")
 SAF_GZ   <- file.path(DATA, "stel-L-L/saf4spouselinkage_clean.csv.gz")
 PROBATE_RDS <- file.path(PROJ, "R/explore/mooc8_inventories.rds")
+PROBATE_UPDATE <- file.path(PROJ, 'revision/probate_update_2026-09-28')
+MOOC_XML_DIR <- file.path(PROBATE_UPDATE, 'inputs/data/sources/probate/MOOC8')
+if (!dir.exists(MOOC_XML_DIR)) stop('Missing frozen current probate sources; run python R/prepare_probate_update.py.')
+STELLENBOSCH_REGISTER <- file.path(PROBATE_UPDATE, 'stellenbosch_inventory_register.csv')
 OUT <- file.path(PROJ, "output"); dir.create(OUT, showWarnings = FALSE)
 
 ## --- helpers (name standardisation; vendored locally so the package is

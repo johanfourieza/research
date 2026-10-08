@@ -9,12 +9,14 @@
 #
 #  INPUTS   linked opgaaf panel 1705-1725
 #  OUTPUTS  data/continuation_cells.csv; data/continuation_estimates.csv;
-#  data/continuation_windows.csv
+#  data/continuation_windows.csv; the entry-level panel exported as
+#  data/microdata/continuation_panel.csv
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
 # Record-continuation diagnostic. This is not a mortality estimator or a

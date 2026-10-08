@@ -9,10 +9,11 @@
 #  INPUTS   mooc8_inventories.rds; linked opgaaf panel
 #  OUTPUTS  data/probate_documents_by_year.csv; data/widow_entries_by_year.csv
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
 # Rebuild the two unlinked descriptive series from source-derived inputs.

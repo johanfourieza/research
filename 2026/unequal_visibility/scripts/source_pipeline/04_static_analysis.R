@@ -9,16 +9,19 @@
 #  resource groups, and computes Tables 1-2, the wife-named comparison, the
 #  recording model, the resource index and the source-rule checks.
 #
-#  INPUTS   linked panel; decision registers for baseline rows, death links,
-#  document and widow screening
+#  INPUTS   linked panel; decision registers for baseline rows, MOOC8 and
+#  Stellenbosch-compilation death links, document and widow screening; the
+#  MOOC8 document inventory and the Stellenbosch compilation schedule register
 #  OUTPUTS  data/cohort_by_resource_group.csv; data/death_records_by_group.csv;
 #  data/resource_index_death_records.csv; data/source_rule_death_records.csv;
-#  data/denominator_sensitivity.csv
+#  data/denominator_sensitivity.csv; the cohort file exported as
+#  data/microdata/cohort_1712.csv
 #
-#  This is the script that produced the released aggregates. It needs the
-#  restricted individual-level sources and decision registers, which are not
-#  redistributed, so it cannot run from this package. File paths refer to the
-#  author's working layout. See scripts/source_pipeline/README.md.
+#  This is the script that produced the released files. It needs restricted
+#  inputs that are not redistributed (the full linked tax-roll panel, the SAF
+#  genealogy and the source transcriptions), so it cannot run from this
+#  package. The decision registers it reads are released in data/microdata/.
+#  File paths refer to the author's working layout. See scripts/source_pipeline/README.md.
 # =============================================================================
 
 # Source-adjudicated static analysis. Decisions are inputs, never inferred from
@@ -28,6 +31,8 @@ source('R/helpers/current_names.R');check_current_names()
 B<-fread('R/decisions/baseline_rows.csv',encoding='UTF-8')
 L<-fread('R/decisions/death_links.csv',encoding='UTF-8',
          colClasses=c(source_file='character',div_id='character',date_value='character'))
+L<-rbindlist(list(L,fread('R/decisions/stellenbosch_death_links.csv',encoding='UTF-8',
+         colClasses=c(source_file='character',div_id='character',date_value='character'))),use.names=TRUE)
 P<-fread(PANEL_GZ,select=c('year','hhobs','names_men','names_women','widow',
   'individual_id','slave_men','slave_women','cattle_cows','cattle_work','horses','sheep'),
   encoding='Latin-1',showProgress=FALSE)
@@ -37,7 +42,7 @@ stopifnot(!anyDuplicated(B$hhobs),!anyDuplicated(P$hhobs),
 ar<-merge(P[year==1712],B[,.(hhobs,decision,duplicate_set,raw_excel_row)],by='hhobs')
 stopifnot(nrow(ar)==nrow(B))
 # Source rule: a blank is zero only if the variable is recorded in the census.
-# Coverage is checked by district against the raw workbook in 02_check_sources.R.
+# Coverage is checked by district against the raw workbook in the cohort audit.
 assets<-c('slave_men','slave_women','cattle_cows','cattle_work','horses','sheep')
 stopifnot(all(vapply(assets,function(v)any(!is.na(ar[[v]])),logical(1))))
 ar[,slaves:=adult_slaves(.SD)];ar[,wealth:=wealth_index(.SD)]
@@ -48,6 +53,7 @@ ar[,saf:=!is.na(individual_id)&nzchar(as.character(individual_id))]
 nm<-current_names(ar$names_men);ar[,name_key:=nm$key]
 # Check source existence, year, named baseline and decision completeness.
 inv<-readRDS(PROBATE_RDS)
+inv<-rbindlist(list(inv,fread(STELLENBOSCH_REGISTER,colClasses=c(date_value='character'))),fill=TRUE)
 inv[,document_key:=paste(source_file,div_id,date_value,sep='|')]
 L[,source_year:=as.integer(substr(date_value,1,4))]
 L[,document_key:=fifelse(channel=='widow',paste0('roll|',widow_hhobs),
@@ -198,7 +204,7 @@ p<-ggplot(union_curve,aes(kappa,theta))+
       y='Implied mortality ratio (low / high)')+current_theme()
 current_save_plot(p,'current_capture_sensitivity')
 current_write(curve,'capture_sensitivity')
-# Tables and every repeated number in the paper are generated from these results.
+# Tables and every repeated empirical figure in the manuscript are generated.
 labels<-c(low='0 recorded',middle='1--4',high='5+')
 writeLines(vapply(seq_len(nrow(desc)),function(i){d<-desc[i]
  paste0(labels[as.character(d$group)],' & ',d$n,' & ',current_fmt(100*d$share),' & ',

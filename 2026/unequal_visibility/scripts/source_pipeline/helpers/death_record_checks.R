@@ -1,6 +1,6 @@
-# Source and identity exclusions established in the source audit.
+# Source and identity exclusions established in the 8 September 2026 audit.
 # These repairs are not a claim that all remaining candidate links are adjudicated.
-# The source excerpts supporting each exclusion are held with the restricted sources.
+# See revision/audit_2026-09-08/results/probate_source_excerpts.txt and AUDIT.md.
 head_death_inventories <- function(inv) {
   # The first named person is the surviving husband in these three documents.
   exclude <- (inv$source_file == 'MOOC8_3.01-107_v3.1.00.xml' &
