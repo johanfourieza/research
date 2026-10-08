@@ -1,39 +1,36 @@
 # =============================================================================
-# 05_conference.R -- conference presentation and citations (published version)
+# ARCHIVED -- NOT RUN BY run_all.R
+# This is the automated fuzzy-matching version of 05_conference.R from the
+# accepted manuscript (public commit 49e0afc, 19 August 2026). It produced the
+# 85-presenter coding reported in the accepted version. A replication audit
+# during proof correction found implementation errors (capital letters were
+# removed before lower-casing titles; nested surname lists; malformed EHS
+# author fields; missing EHS 2021-2022 programmes) and demonstrable false
+# links. The published article uses the reviewed ledger in
+# data/raw/conference_match_ledger.csv instead (see scripts/05_conference.R and
+# CHANGELOG.md). Kept for the record; it reads data/cache/conference_parsed_data.rds.
+# =============================================================================
+
+# =============================================================================
+# 05_conference.R -- conference presentation and citations
 # -----------------------------------------------------------------------------
 # Scope: presentations at the EHA (Economic History Association) and EHS
-# (Economic History Society) annual meetings. The EHES biennial meeting is not
-# covered; the conference variable is "presented at EHA or EHS" and the paper
-# states this scope explicitly (Section 3.3).
+# (Economic History Society) annual meetings, the two annual association
+# meetings of the field with programmes that could be recovered reliably
+# (EHA from a hand-transcribed workbook, 2006-2025, with session times;
+# EHS from structured HTML programmes). The EHES biennial meeting is not
+# covered; the conference variable is therefore defined as "presented at
+# EHA or EHS", and the paper states this scope explicitly.
 #
-# Linkage (Appendix E of the published article). Programme entries are linked
-# to corpus articles by a reviewed ledger rather than by the automated fuzzy
-# matcher used in the accepted manuscript:
-#   * data/raw/conference_programme_records.csv holds every programme entry
-#     from the corrected re-extraction (case/accent normalisation, separate EHS
-#     title and author fields, recovered EHS 2021 and 2022 programmes) with the
-#     candidate article nominated by an author-surname overlap and a Jaro title
-#     distance below 0.25 within the window programme year -1 to +5.
-#   * data/raw/conference_match_ledger.csv records the title-and-author review
-#     of all 317 candidates: 278 retained, 20 rejected, 19 uncertain. Only
-#     retained links define the indicator. Decisions used titles and named
-#     authors only, never citation outcomes.
-#   * EHS 2023-2024 archive summary pages (prize announcements, not paper
-#     sessions) and the unverified EHA 2025 records are excluded from exposure.
-# The superseded automated matcher is kept, unused, in scripts/archive/.
-#
-# 5.1 Reviewed linkage (ledger -> matched_id)
+# 5.1 Author-validated fuzzy title matching (conference paper -> journal paper)
 # 5.2 Paper-level conference variables
-# 5.3 Conference premium regression (C1), plus the unconditional association
+# 5.3 Conference premium regression (C1)
 # 5.4 Session-timing balance and power check (EHA begin-times)
 # 5.5 Author-based conference exposure (C2, C3)
-# 5.6 Placebo conference permutation test (one- and two-sided tails)
-# 5.7 Sensitivity to uncertain links and title thresholds
+# 5.6 Placebo conference permutation test
 #
 # Outputs: results/conference_flags.rds  (id-keyed flags for scripts 06/09)
-#          results/res_05_conference.rds (regression, placebo and sensitivity)
-#          results/conference_programme_records_used.csv (records after
-#          exclusions, with the reviewed matched_id)
+#          results/res_05_conference.rds (regression and placebo results)
 # =============================================================================
 
 local({
@@ -50,62 +47,137 @@ ad  <- readRDS(file.path(RESULTS_DIR, "analysis_data.rds"))
 jn  <- ad$jn
 est <- ad$est
 
-# =============================================================================
-# 5.1 Reviewed linkage
-# =============================================================================
-cat("Loading programme records and the reviewed match ledger...\n")
-
-conf_data <- fread(file.path(DATA_RAW, "conference_programme_records.csv"),
-                   encoding = "UTF-8", na.strings = c("", "NA"))
-ledger    <- fread(file.path(DATA_RAW, "conference_match_ledger.csv"),
-                   encoding = "UTF-8", na.strings = c("", "NA"))
-
-cat("  Programme entries:", nrow(conf_data), "\n")
-print(conf_data[, .N, by = .(conference)])
-cat("  Candidate links in ledger:", nrow(ledger), "\n")
-print(ledger[, .N, by = decision])
-
-stopifnot(!anyDuplicated(ledger$row_id),
-          all(ledger$row_id %in% conf_data$row_id),
-          all(ledger$decision %in% c("retain", "reject", "uncertain")))
-
-# Only retained ledger links define a presentation. Candidates that were
-# rejected or left uncertain, and all non-candidates, carry no link.
-retained <- ledger[decision == "retain", .(row_id, ledger_id = matched_id)]
-conf_data[, matched_id := NA_integer_]
-conf_data[retained, on = "row_id", matched_id := as.integer(i.ledger_id)]
-
-# Coverage exclusions (see header).
-n_before <- nrow(conf_data)
-conf_data <- conf_data[!(conference == "EHS" & year %in% 2023:2024) &
-                       !(conference == "EHA" & year == 2025)]
-cat("  Excluded", n_before - nrow(conf_data),
-    "entries (EHS 2023-2024 summary pages; EHA 2025 unverified)\n")
-
-conf_data[, `:=`(conf_title   = title,
-                 conf_authors = authors,
-                 conf_year    = year,
-                 match_dist   = dist,
-                 match_tier   = ifelse(is.na(matched_id), NA_character_, "reviewed"))]
-
-fwrite(conf_data, file.path(RESULTS_DIR, "conference_programme_records_used.csv"))
-
-cat("  Retained programme links:", sum(!is.na(conf_data$matched_id)), "\n")
-cat("  Distinct linked articles:", uniqueN(na.omit(conf_data$matched_id)), "\n\n")
-
-# Surname extraction for the author-exposure measure (5.5). Accents are folded
-# to ASCII before the comparison.
-extract_last_names <- function(x) {
-  if (is.na(x)) return(character())
-  x <- gsub("\\([^)]*\\)", "", x)
-  pieces <- unlist(strsplit(x, "[,;/&]|\\band\\b"))
-  unique(unlist(lapply(pieces, function(p) {
-    p <- tolower(stringi::stri_trans_general(p, "Latin-ASCII"))
-    w <- strsplit(trimws(gsub("[^a-z0-9]+", " ", p)), " +")[[1]]
-    w <- w[nchar(w) > 1]
-    if (length(w)) tail(w, 1) else character()
-  })))
+conf_parsed_file <- file.path(DATA_CACHE, "conference_parsed_data.rds")
+if (!file.exists(conf_parsed_file)) {
+  stop("conference_parsed_data.rds not found in data/cache/.")
 }
+
+conf_data <- readRDS(conf_parsed_file)
+cat("Loaded", nrow(conf_data), "conference papers\n")
+print(conf_data[, .N, by = conference])
+cat("\n")
+
+# Ensure column names
+if ("title" %in% names(conf_data) && !"conf_title" %in% names(conf_data)) {
+  conf_data[, conf_title := title]
+}
+if ("authors" %in% names(conf_data) && !"conf_authors" %in% names(conf_data)) {
+  conf_data[, conf_authors := authors]
+}
+if ("year" %in% names(conf_data) && !"conf_year" %in% names(conf_data)) {
+  conf_data[, conf_year := year]
+}
+
+# =============================================================================
+# 5.1 Fuzzy match conference papers to journal papers
+# =============================================================================
+cat("Matching conference papers to journal dataset...\n")
+
+jn[, title_clean := tolower(gsub("[^a-z0-9 ]", "", title))]
+jn[, title_clean := gsub("\\s+", " ", trimws(title_clean))]
+
+conf_data[, conf_title_clean := tolower(gsub("[^a-z0-9 ]", "", conf_title))]
+conf_data[, conf_title_clean := gsub("\\s+", " ", trimws(conf_title_clean))]
+
+jn[, author1_clean := tolower(gsub("[^a-z ]", "", author1))]
+conf_data[, conf_author_clean := tolower(gsub("[^a-z ]", "", conf_authors))]
+
+# Clean conference titles: remove timestamps and short entries
+conf_data[grepl("[0-9]:[0-9]{2}", conf_title), conf_title_clean := NA_character_]
+conf_data[!is.na(conf_title_clean) & nchar(conf_title_clean) < 15, conf_title_clean := NA_character_]
+
+# Helper: extract surname(s) from an author string. Journal authors are stored
+# "Firstname Lastname"; conference authors may be "; "/"and"-separated. Take the
+# last token of each name.
+extract_last_names <- function(author_str) {
+  if (is.na(author_str) || nchar(trimws(author_str)) < 2) return(character(0))
+  parts <- unlist(strsplit(author_str, "[,;/&]|\\band\\b"))
+  parts <- trimws(parts)
+  parts <- parts[nchar(parts) > 1]
+  last_names <- sapply(parts, function(p) {
+    words <- strsplit(trimws(p), "\\s+")[[1]]
+    words <- words[nchar(words) > 1]
+    if (length(words) == 0) return(NA_character_)
+    tolower(tail(words, 1))
+  }, USE.NAMES = FALSE)
+  last_names <- last_names[!is.na(last_names) & nchar(last_names) > 1]
+  unique(last_names)
+}
+
+# Precompute the surname set of every journal paper ONCE (reused by each match).
+jn[, surnames := mapply(function(a1, a2, a3, a4, a5)
+      list(unique(c(extract_last_names(a1), extract_last_names(a2),
+                    extract_last_names(a3), extract_last_names(a4),
+                    extract_last_names(a5)))),
+    author1, author2, author3, author4, author5, SIMPLIFY = FALSE)]
+# Surnames from the RAW author string (extract_last_names splits on ; & "and";
+# conf_author_clean has those separators stripped, which would collapse a
+# multi-author talk to just its last surname).
+conf_data[, conf_surnames := lapply(conf_authors, extract_last_names)]
+
+# Author-validated matcher. Title drift between a conference presentation and
+# the published version (British/US spelling, subtitle changes) routinely pushes
+# the Jaro-Winkler distance to 0.15-0.25 for the SAME paper. Tiers:
+#   A: title distance < 0.10                    -> accept (near-exact title)
+#   B: title distance < 0.25 AND author overlap -> accept (validated retitle)
+#   C: no conference author info, title < 0.15  -> accept (title only)
+TIER_A_MAX <- 0.10
+TIER_B_MAX <- 0.25
+TIER_C_MAX <- 0.15
+
+find_best_match <- function(ct, conf_lnames, cy, jn_data) {
+  miss <- list(id = NA_integer_, dist = NA_real_, tier = NA_character_)
+  if (is.na(ct) || nchar(ct) < 15) return(miss)
+  cand <- jn_data[year >= cy - 1 & year <= cy + 5]
+  if (nrow(cand) == 0) return(miss)
+  td <- stringdist(ct, cand$title_clean, method = "jw")
+  k <- which.min(td)
+  if (td[k] < TIER_A_MAX) return(list(id = cand$id[k], dist = td[k], tier = "A"))
+  if (length(conf_lnames) > 0) {
+    ov <- vapply(cand$surnames, function(js) any(conf_lnames %in% js), logical(1))
+    idxB <- which(ov & td < TIER_B_MAX)
+    if (length(idxB) > 0) {
+      j <- idxB[which.min(td[idxB])]
+      return(list(id = cand$id[j], dist = td[j], tier = "B"))
+    }
+  } else if (td[k] < TIER_C_MAX) {
+    return(list(id = cand$id[k], dist = td[k], tier = "C"))
+  }
+  list(id = NA_integer_, dist = td[k], tier = NA_character_)
+}
+
+cat("  Running author-validated fuzzy matching...\n")
+conf_data[, matched_id := NA_integer_]
+conf_data[, match_dist := NA_real_]
+conf_data[, match_tier := NA_character_]
+n_skipped_short <- sum(is.na(conf_data$conf_title_clean))
+cat("  Skipping", n_skipped_short, "entries (NA or short titles)\n")
+
+for (i in 1:nrow(conf_data)) {
+  if (!is.na(conf_data$conf_title_clean[i]) && nchar(conf_data$conf_title_clean[i]) >= 15) {
+    r <- find_best_match(conf_data$conf_title_clean[i], conf_data$conf_surnames[[i]],
+                         conf_data$conf_year[i], jn)
+    conf_data[i, `:=`(matched_id = r$id, match_dist = r$dist, match_tier = r$tier)]
+  }
+  if (i %% 1000 == 0) cat("    Processed", i, "entries,",
+                          sum(!is.na(conf_data$matched_id)), "matches so far\n")
+}
+
+cat("\n  Successfully matched", sum(!is.na(conf_data$matched_id)), "conference entries\n")
+cat("  By conference and tier:\n")
+print(conf_data[!is.na(matched_id), .N, by = .(conference, match_tier)][order(conference, match_tier)])
+
+# Print a sample of tier-B (author-validated retitle) matches for verification
+cat("\n  Sample author-validated (tier B) matches for inspection:\n")
+bsamp <- conf_data[match_tier == "B"][order(match_dist)]
+if (nrow(bsamp) > 0) {
+  for (i in seq_len(min(12, nrow(bsamp)))) {
+    jp <- jn[id == bsamp$matched_id[i]]
+    cat(sprintf("    [%.2f] CONF: %.56s\n           JRNL: %.56s\n",
+                bsamp$match_dist[i], bsamp$conf_title[i], jp$title[1]))
+  }
+}
+cat("\n")
 
 # =============================================================================
 # 5.2 Paper-level conference variables
@@ -141,14 +213,13 @@ for (v in c("presented_at_conference", "presented_at_eha", "presented_at_ehs",
 }
 
 cat("  Papers at any conference:", sum(jn$presented_at_conference), "\n")
-cat("    via EHA:", sum(jn$presented_at_eha), "  via EHS:", sum(jn$presented_at_ehs),
-    "  at both:", sum(jn$presented_at_eha * jn$presented_at_ehs), "\n")
+cat("    via EHA:", sum(jn$presented_at_eha), "  via EHS:", sum(jn$presented_at_ehs), "\n")
 cat("  In estimation sample:", sum(est$presented_at_conference), "\n\n")
 
 # =============================================================================
 # 5.3 Conference premium regression
 # =============================================================================
-c1 <- NULL; c1_uncond <- NULL
+c1 <- NULL
 if (sum(est$presented_at_conference) >= 20) {
 
   cat("=== CONFERENCE PREMIUM REGRESSION ===\n\n")
@@ -157,30 +228,17 @@ if (sum(est$presented_at_conference) >= 20) {
                log_article_length + title_nchar + article_position + issue_no |
                journal + year, data = est)
 
-  cat("Model C1: Any conference presentation, conditional on early citations\n")
+  cat("Model C1: Any conference presentation effect (EHA clean + EHS)\n")
   cat("  N presenters:", sum(est$presented_at_conference), "\n")
   cat("  presented_at_conference:", round(coef(c1)["presented_at_conference"], 4),
-      "(robust SE:", round(rob_se(c1, "presented_at_conference"), 4), ")\n")
-  ci <- coef(c1)["presented_at_conference"] + c(-1.96, 1.96) * rob_se(c1, "presented_at_conference")
-  cat(sprintf("  Approximate 95%% interval: %.3f to %.3f log points (upper bound %.1f%% in 1 + citations)\n\n",
-              ci[1], ci[2], 100 * expm1(ci[2])))
-
-  # Same controls and fixed effects without the early-citation control. The
-  # paper reports this as an association that selection and a conference
-  # effect cannot be distinguished within.
-  c1_uncond <- felm(log_longrun ~ presented_at_conference + n_authors + any_top_inst +
-                      log_article_length + title_nchar + article_position + issue_no |
-                      journal + year, data = est)
-  cat("Model C1 without the early-citation control\n")
-  cat("  presented_at_conference:", round(coef(c1_uncond)["presented_at_conference"], 4),
-      "(robust SE:", round(rob_se(c1_uncond, "presented_at_conference"), 4), ")\n\n")
+      "(robust SE:", round(rob_se(c1, "presented_at_conference"), 4), ")\n\n")
 }
 
 # =============================================================================
 # 5.4 Session-timing balance and power check (EHA only)
 # =============================================================================
-# The EHA workbook carries begin-times, so one can ask whether a talk's slot
-# (coded pre-lunch vs post-lunch from session start times) shifts long-run
+# The clean EHA programmes carry exact begin-times, so we can ask whether a
+# talk's slot (last session before lunch vs first after) shifts long-run
 # citations. This is informative ONLY if (a) the slots are balanced on
 # pre-determined covariates and (b) the matched cells are large enough. We GATE
 # on both; an underpowered or imbalanced design is reported as inconclusive.
@@ -238,7 +296,7 @@ if (nrow(eha_est) > 0) {
 # Alternative measure: did ANY author of a published paper present ANYTHING at
 # EHA/EHS in the year before or year of publication? Captures the broader
 # visibility of conference attendance and avoids the title-matching problem
-# (at the cost of surname-collision risk). Not reported in the published text.
+# (at the cost of surname-collision risk, noted in the paper).
 cat("--- Author-based conference exposure ---\n\n")
 
 conf_data[, conf_lnames := lapply(conf_authors, extract_last_names)]
@@ -299,12 +357,8 @@ if (sum(est$author_conf_exposure) >= 30) {
 # =============================================================================
 # 5.6 Placebo conference permutation test
 # =============================================================================
-# Programme-match status is reshuffled within journal-year cohorts. The paper
-# reports the one-sided (upper-tail, positive premium) p-value and the
-# two-sided absolute-coefficient p-value, both with the finite-repetition
-# correction (1 + exceedances) / (1 + permutations).
 N_PERMUTATIONS <- 1000
-placebo_conf_coefs <- NULL; true_conf_coef <- NULL; emp_p_conf <- NULL; emp_p_conf_two_sided <- NULL
+placebo_conf_coefs <- NULL; true_conf_coef <- NULL; emp_p_conf <- NULL
 
 if (sum(est$presented_at_conference, na.rm = TRUE) >= 20) {
 
@@ -317,7 +371,7 @@ if (sum(est$presented_at_conference, na.rm = TRUE) >= 20) {
                             journal + year,
                           data = conf_placebo_data)
   true_conf_coef <- coef(true_conf_model)["presented_at_conference"]
-  cat("Observed conference coefficient:", round(true_conf_coef, 4), "\n")
+  cat("True conference coefficient:", round(true_conf_coef, 4), "\n")
 
   placebo_conf_coefs <- numeric(N_PERMUTATIONS)
 
@@ -336,35 +390,12 @@ if (sum(est$presented_at_conference, na.rm = TRUE) >= 20) {
   }
 
   placebo_conf_coefs <- placebo_conf_coefs[!is.na(placebo_conf_coefs)]
-  emp_p_conf <- (1 + sum(placebo_conf_coefs >= true_conf_coef)) / (1 + length(placebo_conf_coefs))
-  emp_p_conf_two_sided <- (1 + sum(abs(placebo_conf_coefs) >= abs(true_conf_coef))) / (1 + length(placebo_conf_coefs))
+  emp_p_conf <- mean(placebo_conf_coefs >= true_conf_coef)
 
-  cat("One-sided (upper-tail) p-value:", formatC(emp_p_conf, format = "f", digits = 4), "\n")
-  cat("Two-sided (absolute) p-value:  ", formatC(emp_p_conf_two_sided, format = "f", digits = 4), "\n")
+  cat("Empirical p-value:", formatC(emp_p_conf, format = "f", digits = 4), "\n")
   cat("  Mean placebo:", round(mean(placebo_conf_coefs), 4), "\n")
   cat("  SD placebo:", round(sd(placebo_conf_coefs), 4), "\n\n")
 }
-
-# =============================================================================
-# 5.7 Sensitivity of the conditional association to the review decisions
-# =============================================================================
-cat("--- Sensitivity: uncertain links and title thresholds ---\n\n")
-fit_case <- function(ids, label) {
-  d <- copy(ad$est); d[, presented := as.integer(id %in% ids)]
-  fit <- felm(log_longrun ~ presented + log_early + n_authors + any_top_inst +
-                log_article_length + title_nchar + article_position + issue_no |
-                journal + year, data = d)
-  z <- summary(fit, robust = TRUE)$coefficients["presented", ]
-  data.table(scenario = label, presenters = sum(d$presented), coef = z[1], se = z[2], p = z[4])
-}
-sensitivity <- rbindlist(list(
-  fit_case(ledger[decision == "retain", matched_id], "reviewed_conservative"),
-  fit_case(ledger[decision != "reject", matched_id], "include_uncertain"),
-  fit_case(ledger[decision == "retain" & dist < .15, matched_id], "reviewed_distance_below_015"),
-  fit_case(ledger[decision == "retain" & dist < .10, matched_id], "reviewed_distance_below_010")))
-print(sensitivity)
-fwrite(sensitivity, file.path(TAB_DIR, "TableE1_ConferenceSensitivity.csv"))
-cat("\n")
 
 # =============================================================================
 # Save
@@ -382,16 +413,10 @@ res_05 <- list(
   n_conf_papers_loaded = nrow(conf_data),
   n_matched_entries = sum(!is.na(conf_data$matched_id)),
   match_by_tier = conf_data[!is.na(matched_id), .N, by = .(conference, match_tier)],
-  ledger_counts = ledger[, .N, by = decision],
   n_papers_any_conf = sum(jn$presented_at_conference),
-  conference_papers = jn[, .(eha = sum(presented_at_eha), ehs = sum(presented_at_ehs),
-                             both = sum(presented_at_eha * presented_at_ehs))],
   n_presenters_est = sum(est$presented_at_conference),
   c1 = if (!is.null(c1)) list(coef = coef(c1)["presented_at_conference"],
                               se = rob_se(c1, "presented_at_conference"), n = c1$N) else NULL,
-  c1_unconditional = if (!is.null(c1_uncond)) list(
-                              coef = coef(c1_uncond)["presented_at_conference"],
-                              se = rob_se(c1_uncond, "presented_at_conference"), n = c1_uncond$N) else NULL,
   c2 = if (!is.null(c2)) list(coef = coef(c2)["author_conf_exposure"],
                               se = rob_se(c2, "author_conf_exposure"), n = c2$N) else NULL,
   c3 = if (!is.null(c3)) list(conf = coef(c3)["presented_at_conference"],
@@ -402,9 +427,7 @@ res_05 <- list(
                 n_pre = if (exists("n_pre")) n_pre else NA,
                 n_post = if (exists("n_post")) n_post else NA),
   placebo = list(coefs = placebo_conf_coefs, true_coef = true_conf_coef,
-                 emp_p = emp_p_conf, tail = "upper (positive premium)",
-                 emp_p_two_sided = emp_p_conf_two_sided),
-  sensitivity = sensitivity
+                 emp_p = emp_p_conf)
 )
 saveRDS(res_05, file.path(RESULTS_DIR, "res_05_conference.rds"))
 cat("Saved: results/res_05_conference.rds\n")

@@ -6,8 +6,12 @@
 # (data/cache/citing_field_data.rds, built by 00b_citing_fields.R).
 #
 # 6a Citation source decomposition: within-field (economics/history) vs
-#    cross-field counts; does early success shift a paper's audience out of
-#    the field? (It does not.)
+#    cross-field counts, on the citation network after excluding source
+#    articles flagged by the OpenAlex metadata screen (published Section 6.2
+#    and Appendix A.3). The screen removes 230 links to 14 source articles;
+#    72,465 links to 1,610 corpus articles published 1997-2018 remain.
+# 6b-6d use the unscreened within-corpus network, as in the published text
+#    (the Section 6.4 numbers are unchanged from the accepted version).
 # 6b Self-citation analysis (within-dataset links)
 # 6c Citation cascade depth (within-dataset citation network)
 # 6d Citation concentration over time (Herfindahl index)
@@ -82,19 +86,35 @@ cite_raw <- merge(cite_raw,
                   cfd[, .(citing_oa_id, l0_concepts, pt_field, pt_subfield, type)],
                   by.x = "citing_short", by.y = "citing_oa_id", all.x = TRUE)
 
+# Metadata screen: keep links to source articles whose OpenAlex assignment
+# passed the title/year verification (flag == FALSE in the screen file).
+screen_ok <- screened_source_ids()
+n_links_all <- nrow(cite_raw)
+cite_src <- cite_raw[as.integer(cited_id) %in% screen_ok]
+cat("Citation links in the frozen cache:", n_links_all, "\n")
+cat("Links after the metadata screen:", nrow(cite_src),
+    "(removed", n_links_all - nrow(cite_src), ")\n")
+cat("Source articles covered:", uniqueN(cite_src$cited_id),
+    "; citing works:", uniqueN(cite_src$citing_short), "\n")
+cat("Links with primary-field metadata:", sum(!is.na(cite_src$pt_field)),
+    "; with root-concept tags:", sum(!is.na(cite_src$l0_concepts)),
+    "; with document type:", sum(!is.na(cite_src$type)), "\n\n")
+
 within_l0 <- function(s) {
   if (is.na(s)) return(NA)
   p <- trimws(strsplit(s, ";")[[1]])
   any(tolower(p) %in% c("economics", "history"))
 }
-cite_raw[, is_within_field := vapply(l0_concepts, within_l0, logical(1))]
+cite_src[, is_within_field := vapply(l0_concepts, within_l0, logical(1))]
 
-cat("Within-field citations:", sum(cite_raw$is_within_field, na.rm = TRUE),
-    "/", sum(!is.na(cite_raw$is_within_field)),
-    sprintf(" (%.1f%%)\n", 100 * mean(cite_raw$is_within_field, na.rm = TRUE)))
-cat("Cross-field citations:", sum(!cite_raw$is_within_field, na.rm = TRUE), "\n\n")
+cat("Within-field citations:", sum(cite_src$is_within_field, na.rm = TRUE),
+    "/", sum(!is.na(cite_src$is_within_field)),
+    sprintf(" (%.1f%%)\n", 100 * mean(cite_src$is_within_field, na.rm = TRUE)))
+cat("Cross-field citations:", sum(!cite_src$is_within_field, na.rm = TRUE), "\n")
+cat("Non-article share of typed links:",
+    sprintf("%.1f%%\n\n", 100 * mean(cite_src$type != "article", na.rm = TRUE)))
 
-cite_source <- cite_raw[!is.na(is_within_field),
+cite_source <- cite_src[!is.na(is_within_field),
                         .(n_within_cites = sum(is_within_field),
                           n_cross_cites = sum(!is_within_field),
                           n_total_source = .N),
@@ -366,8 +386,16 @@ grab <- function(m, v) if (is.null(m)) NULL else
   list(coef = coef(m)[v], se = summary(m)$coefficients[v, "Std. Error"], n = m$N)
 
 res_06 <- list(
-  within_share = mean(cite_raw$is_within_field, na.rm = TRUE),
-  n_links_classified = sum(!is.na(cite_raw$is_within_field)),
+  network = list(n_links_cache = n_links_all,
+                 n_links_screened = nrow(cite_src),
+                 n_source_articles = uniqueN(cite_src$cited_id),
+                 n_citing_works = uniqueN(cite_src$citing_short),
+                 n_primary_field = sum(!is.na(cite_src$pt_field)),
+                 n_root_tags = sum(!is.na(cite_src$l0_concepts)),
+                 n_typed = sum(!is.na(cite_src$type)),
+                 nonarticle_share = mean(cite_src$type != "article", na.rm = TRUE)),
+  within_share = mean(cite_src$is_within_field, na.rm = TRUE),
+  n_links_classified = sum(!is.na(cite_src$is_within_field)),
   n_source_papers = n_source_papers,
   s1a = grab(s1a, "log_early"), s1b = grab(s1b, "log_early"),
   fs_crossshare = list(coef = fs_co, se = fs_se, n = nrow(fs_dat)),

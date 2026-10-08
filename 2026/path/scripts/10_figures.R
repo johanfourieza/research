@@ -10,12 +10,14 @@
 #   Fig_Unpredictability   explained vs unexplained early-citation components
 #                          against long-run citations (decile means)
 #   Fig_CitationSource     citing works by (a) discipline and (b) document type
+#                          (screened network; = Fig. 3 in the published article)
 # Appendices:
 #   FigB_LOJO                  leave-one-journal-out estimates
 #   FigB_PlaceboFastStarter    permutation distribution vs true estimate
 #   FigB_TopicHeterogeneity    elasticity by topic (forest plot)
 #   FigB_CohortElasticity      elasticity by publication cohort (new)
 #   FigE_PlaceboConference     conference permutation distribution
+#                              (= Fig. 8 in the published article)
 #
 # Each figure is saved as PNG (600 dpi) and PDF in output/figures/.
 # =============================================================================
@@ -137,6 +139,9 @@ save_fig("Fig_Unpredictability", fig_u)
 cat("--- Fig_CitationSource ---\n")
 
 cr <- readRDS(file.path(DATA_CACHE, "network_citation_data.rds")); setDT(cr)
+# Exclude source articles flagged by the OpenAlex metadata screen (as in 06).
+cr <- cr[as.integer(cited_id) %in% screened_source_ids()]
+cat("Screened network:", nrow(cr), "links to", uniqueN(cr$cited_id), "corpus articles\n")
 cr[, cs := gsub("https://openalex.org/", "", citing_oa_id)]
 fd <- readRDS(file.path(DATA_CACHE, "citing_field_data.rds")); setDT(fd)
 lk <- merge(cr, fd, by.x = "cs", by.y = "citing_oa_id", all.x = TRUE)
@@ -172,7 +177,7 @@ pA2 <- ggplot(dd, aes(x = pct, y = disc, fill = group)) +
   geom_text(aes(label = sprintf("%.0f%%", pct)), hjust = -0.15, size = 3.5, colour = "grey20") +
   scale_fill_manual(values = grp_cols) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.16))) +
-  labs(x = "Share of all citations (%)", y = NULL, title = "(a) By discipline") +
+  labs(x = "Share of classified citation links (%)", y = NULL, title = "(a) By discipline") +
   theme_leap() + theme(legend.position = "none")
 
 lk[, fmt := fifelse(type == "article", "Journal article",
@@ -191,13 +196,15 @@ pB2 <- ggplot(ff, aes(x = pct, y = fmt, fill = grp)) +
   scale_fill_manual(values = c("Journal article" = unname(LEAP_COLORS["sage"]),
                                "Other formats"   = unname(LEAP_COLORS["earth"]))) +
   scale_x_continuous(expand = expansion(mult = c(0, 0.16))) +
-  labs(x = "Share of all citations (%)", y = NULL, title = "(b) By document type") +
+  labs(x = "Share of classified citation links (%)", y = NULL, title = "(b) By document type") +
   theme_leap() + theme(legend.position = "none")
 
 save_fig("Fig_CitationSource", pA2 / pB2)
 
-cat("Discipline shares:\n"); print(dd[order(-pct), .(disc, pct = round(pct, 1))])
-cat("\nFormat shares:\n");   print(ff[order(-pct), .(fmt, pct = round(pct, 1))])
+cat("Discipline shares (N =", sum(dd$N), "classified links):\n"); print(dd[order(-pct), .(disc, N, pct = round(pct, 1))])
+cat("\nFormat shares (N =", sum(ff$N), "typed links):\n");   print(ff[order(-pct), .(fmt, N, pct = round(pct, 1))])
+fwrite(dd[order(-pct), .(disc, N, pct)], file.path(TAB_DIR, "Fig3_discipline_data.csv"))
+fwrite(ff[order(-pct), .(fmt, N, pct)],  file.path(TAB_DIR, "Fig3_document_type_data.csv"))
 rm(cr, fd, lk); invisible(gc())
 
 # =============================================================================
@@ -306,15 +313,17 @@ if (!is.null(res05$placebo$coefs)) {
                    colour = NA, alpha = 0.85) +
     geom_vline(xintercept = true_conf_coef, colour = unname(LEAP_COLORS["rose"]),
                linewidth = 1) +
-    annotate("text", x = true_conf_coef, y = Inf,
-             label = paste0("True = ", round(true_conf_coef, 3),
-                            "\np = ", round(res05$placebo$emp_p, 4)),
-             hjust = -0.15, vjust = 1.5, colour = unname(LEAP_COLORS["rose"]),
-             size = 3.5, fontface = "bold") +
-    labs(x = "Placebo conference coefficient", y = "Count") +
+    annotate("text", x = Inf, y = Inf,
+             label = sprintf("Observed = %.3f\nOne-sided p = %.3f\nTwo-sided p = %.3f",
+                             true_conf_coef, res05$placebo$emp_p,
+                             res05$placebo$emp_p_two_sided),
+             hjust = 1.05, vjust = 1.4, colour = unname(LEAP_COLORS["rose"]),
+             size = 3.5) +
+    labs(x = "Permuted conference coefficient", y = "Count") +
     theme_leap()
 
-  save_fig("FigE_PlaceboConference", fige1)
+  save_fig("FigE_PlaceboConference", fige1, width = 8, height = 5)
+  fwrite(placebo_conf_dt, file.path(TAB_DIR, "Fig8_permutation_data.csv"))
 } else {
   cat("  Conference placebo results not available; skipped.\n")
 }

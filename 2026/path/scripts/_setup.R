@@ -43,7 +43,7 @@ for (d in c(RESULTS_DIR, FIG_DIR, TAB_DIR, LOG_DIR)) {
 # output/logs/sessionInfo.txt. Nothing is installed automatically.
 .required <- c("data.table", "lfe", "fixest", "stargazer", "boot",
                "stringdist", "ggplot2", "scales", "igraph", "readxl",
-               "patchwork")
+               "patchwork", "stringi")
 .missing <- .required[!vapply(.required, requireNamespace, logical(1),
                               quietly = TRUE)]
 if (length(.missing)) {
@@ -64,6 +64,15 @@ source(file.path(SCRIPT_DIR, "conference_data_helpers.R"))
 # individually reproducible regardless of run order.
 SEED_BOOT    <- 42   # 03_robustness.R (coefficient bootstrap)
 SEED_PLACEBO <- 42   # 04_placebo.R and 05_conference.R (permutation tests)
+
+# OpenAlex metadata screen (scripts 06 and 10): source articles whose automated
+# OpenAlex assignment failed a title/year verification are excluded from the
+# citation-source analysis. See CODEBOOK.md, data/cache/openalex_metadata_screen.csv.
+screened_source_ids <- function() {
+  md <- fread(file.path(DATA_CACHE, "openalex_metadata_screen.csv"),
+              encoding = "UTF-8", na.strings = c("", "NA"))
+  md[flag == FALSE, as.integer(id)]
+}
 SEED_LUCK    <- 42   # 08_attenuation_luck.R (decomposition bootstrap)
 
 # --- Standard-error helpers -----------------------------------------------------

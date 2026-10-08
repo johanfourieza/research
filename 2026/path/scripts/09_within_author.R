@@ -9,7 +9,9 @@
 # 9.3 Reverse causality: probit of conference presentation on long-run
 #     citations, plus a presenter/non-presenter balance test.
 #
-# Outputs: output/tables/Table4_WithinAuthor.tex; results/res_09_panel.rds
+# Outputs: output/tables/Table4_WithinAuthor.tex (= Table 8 in the published
+#          article); results/res_09_panel.rds
+# The "author" fixed effects are first-listed-author fixed effects (author1).
 # =============================================================================
 
 local({
@@ -148,21 +150,21 @@ if (n_both >= 20) {
     # table environment with caption, label and a notes paragraph (long notes
     # inside the tabular stretch the columns).
     fe_lines <- if (length(model_list) == 2) {
-      list(c("Author FE", "Yes", "No"),
-           c("Author-by-year FE", "No", "Yes"),
+      list(c("First-author FE", "Yes", "No"),
+           c("First-author-by-publication-year FE", "No", "Yes"),
            c("Calendar-year FE", "Yes", "Yes"),
            c("Article-age FE", "Yes", "Yes"))
     } else {
-      list(c("Author FE", "Yes"), c("Calendar-year FE", "Yes"),
+      list(c("First-author FE", "Yes"), c("Calendar-year FE", "Yes"),
            c("Article-age FE", "Yes"))
     }
     stargazer(model_list,
               type = "latex",
               out = file.path(TAB_DIR, "Table4_WithinAuthor.tex"),
               float = FALSE,
-              dep.var.labels = "Log(new citations)",
+              dep.var.labels = "Log(1 + new citations)",
               covariate.labels = c("Presented at conference",
-                                   "Log(lagged citation stock)",
+                                   "Log(1 + lagged citation stock)",
                                    "Number of authors"),
               add.lines = fe_lines,
               omit.stat = c("f", "ser"))
@@ -246,6 +248,11 @@ se2 <- function(m, var) {
 res_09 <- list(
   panel_n = nrow(panel), panel_papers = uniqueN(panel$id),
   n_authors_with_variation = n_both,
+  n_author_years_with_variation = if (exists("n_ay_both")) n_ay_both else NA_integer_,
+  n_author_years_estimated = if (exists("n_ay_both"))
+    panel_author[complete.cases(log_cit_new, log_cit_cum_lag1),
+                 .(varies = uniqueN(presented_at_conference) > 1), by = author_year][, sum(varies)]
+    else NA_integer_,
   wa1 = if (!is.null(within_author)) list(
     conf = coef(within_author)["presented_at_conference"],
     conf_se = se2(within_author, "presented_at_conference"),

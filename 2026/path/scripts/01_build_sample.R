@@ -33,7 +33,7 @@ open_log("01_build_sample")
 # 1. Load raw data
 # =============================================================================
 
-jn <- fread(file.path(DATA_RAW, "Journals_2026_clean.csv"))
+jn <- fread(file.path(DATA_RAW, "Journals_2026_clean.csv"), encoding = "UTF-8")
 
 cat("Loaded clean data:", nrow(jn), "papers\n")
 cat("Journals:", paste(sort(unique(jn$Journal)), collapse = ", "), "\n")

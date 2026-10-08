@@ -19,7 +19,7 @@ stage.
 | [`2026/dismal-science-south-africa/`](2026/dismal-science-south-africa/) | The Dismal State of the Dismal Science in South Africa | Fourie (2026), submitted to the *South African Journal of Economics* |
 | [`2026/follow-on/`](2026/follow-on/) | Do Cricket Captains Maximise Winning? Evidence from 125 Years of the Follow-On Rule | Fourie (2026), working paper |
 | [`2026/handedness/`](2026/handedness/) | Invisible Handedness: The Myth of Left–Right Batting Partnerships | Fourie & Siebrits (2026), *Journal of Sports Economics* (revise and resubmit) |
-| [`2026/path/`](2026/path/) | Testing for Path Dependence in Economic History Publications | Fourie (2026), *Cliometrica* (revise and resubmit) |
+| [`2026/path/`](2026/path/) | Testing for Path Dependence in Economic History Publications | Fourie (2026), *Cliometrica*, [doi:10.1007/s11698-026-00346-w](https://doi.org/10.1007/s11698-026-00346-w) (forthcoming) |
 | [`2026/sac/`](2026/sac/) | Discrimination After Hiring: Within-Firm Sorting, Slow Employer Learning, and the Cost to the Sorted Worker | Fourie, Inwood & Mariotti (2026), submitted to *Labour Economics* |
 | [`2026/unequal_visibility/`](2026/unequal_visibility/) | The Unequal Visibility of Epidemic Death: Smallpox at the Cape, 1713 | Fourie (2026), working paper |
 | [`2026/uprooted/`](2026/uprooted/) | Uprooted: Migration, Coercion, and the Roots of Social Connectedness | Fourie (2026), *Economic Inquiry* (submitted) |

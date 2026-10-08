@@ -59,7 +59,9 @@ at LEAP, Stellenbosch University, since 2013.
 | `author_nber_wp` | 1 if any matched author has an NBER working paper on RePEc |
 | `paper_won_prize` | 1 if the article was matched to a Cole, Ashton or Figuerola prize |
 | `author_won_dissertation_prize` | 1 if any author won the Gerschenkron or Nevins dissertation prize before the article's publication year |
-| `presented_at_conference` | 1 if the article was matched (author-validated fuzzy title match, script 05) to an EHA or EHS programme entry |
+| `presented_at_conference` | 1 if the article has a retained link in `data/raw/conference_match_ledger.csv` to an EHA or EHS programme entry (script 05; see section 3b below). EHS 2023-2024 summary pages and EHA 2025 entries are excluded before aggregation |
+| `presented_at_eha`, `presented_at_ehs`, `n_conference_presentations` | conference identity and number of retained programme links per article |
+| `eha_session_order`, `eha_pre_lunch`, `eha_post_lunch` | earliest EHA session order and the pre-/post-lunch coding from the EHA begin times (EHA links only) |
 | `author_conf_exposure` | 1 if any author surname appears among EHA/EHS presenters in the publication year or the year before |
 
 Missing control values (`log_article_length`, `title_nchar`,
@@ -83,17 +85,59 @@ Sheet **Prizes**: `Prize` (Gerschenkron / Nevins), `Year`, `Author1`
 (recipient), `Title` (dissertation title). Read by
 `read_dissertation_prizes()`.
 
+## 3b. data/raw/conference_programme_records.csv
+
+One row per EHA or EHS programme entry from the corrected re-extraction
+(3,565 rows: EHA 2006-2025 from the hand-transcribed workbook; EHS 2003-2019,
+2021 and 2022 from the archived HTML programmes, the 2021 programme PDF and the
+2022 provisional programme page; EHS 2020 was cancelled). Built by the scripts
+in `scripts/provenance/` (`audit_conference.R`, `recover_missing_years.R`,
+`extend_conference.R`). Candidate links were nominated for entries with an
+author surname overlapping a corpus article and a normalised Jaro title
+distance below 0.25, with the article published from one year before to five
+years after the programme year.
+
+| Column | Description |
+|---|---|
+| `row_id` | Entry identifier (key to the ledger) |
+| `conference`, `year` | `EHA` or `EHS`; programme year |
+| `title`, `authors`, `affiliations`, `author_count` | Programme entry as extracted |
+| `matched_id` | Candidate corpus article `ID` (NA if no candidate; 317 entries have one). Script 05 keeps it only where the ledger decision is `retain` |
+| `dist` | Normalised Jaro distance between the cleaned programme and article titles (0 = identical) |
+| `tier` | Nomination tier: `A` (distance below 0.10) or `B` (below 0.25 with surname overlap) |
+| `overlap` | TRUE if a programme author surname matches an article author surname |
+| `article_title`, `article_authors`, `publication_year`, `in_estimation` | The candidate article's title, authors, year and estimation-sample membership |
+| `day`, `time`, `session`, `session_order`, `city`, `begin_time`, `end_time`, `begin_dec`, `pre_lunch`, `post_lunch` | EHA session details from the workbook (NA for EHS) |
+| `conf_title`, `conf_authors`, `conf_year` | Copies of title, authors, year as used by the matcher |
+| `raw_text` | The raw programme paragraph (EHS re-extraction) |
+| `source_file`, `source_paragraph`, `source_url` | Provenance of each EHS entry (file, paragraph index, archive URL) |
+
+## 3c. data/raw/conference_match_ledger.csv
+
+One row per candidate link (317 rows), with all the columns of the records
+file plus the review:
+
+| Column | Description |
+|---|---|
+| `decision` | `retain` (278), `reject` (20) or `uncertain` (19). Only `retain` defines a presentation |
+| `reason` | Basis for the decision (same normalised title; consistent titles and compatible authors; or the specific reason for rejection/uncertainty) |
+| `review_basis` | Statement that the review used programme and article titles and named authors only, with no inference from citation outcomes |
+
+Script 05 writes the records actually used after the coverage exclusions, with
+the reviewed `matched_id`, to `results/conference_programme_records_used.csv`.
+
 ## 4. data/cache/ (API-derived; shipped for offline reproduction)
 
 | File | Unit | Key columns |
 |---|---|---|
-| `openalex_paper_matches.rds` | one row per matched article; `01_build_sample.R` restricts these to the corpus, where 3,241 of the 3,250 core articles match (99.7%). The cache was built on a wider hand-coded ID range, so it also carries matches for articles outside the four core journals; those are filtered out on load | `id` (article ID), `openalex_id`, `oa_cited_by_count` (OpenAlex citation count at download), `oa_year` |
-| `network_citation_data.rds` | one row per citation link (72,695) | `cited_id` (our article ID), `cited_oa_id`, `citing_oa_id`, `citing_year`, `citing_top_concept`, further citing-work metadata |
+| `openalex_paper_matches.rds` | one row per matched article; `01_build_sample.R` restricts these to the corpus, where 3,241 of the 3,250 core articles were assigned an OpenAlex identifier (99.7%). The cache was built on a wider hand-coded ID range, so it also carries matches for articles outside the four core journals; those are filtered out on load. Assignment is automated and the rate is not a validated correct-link rate | `id` (article ID), `openalex_id`, `oa_cited_by_count` (OpenAlex citation count at download), `oa_year` |
+| `openalex_metadata_screen.csv` | one row per assigned article (3,241): the title, year, DOI, authors and journal that OpenAlex returned for the assigned work in September 2026, compared with the hand-coded record. `flag` is TRUE for 222 records with missing returned metadata, `title_distance` (normalised Jaro) above 0.15 or a publication-year discrepancy above one year. Scripts 06 and 10 drop citation links to flagged source articles (230 links; 72,465 links to 1,610 articles remain) | `id`, `openalex_id`, `oa_cited_by_count`, `oa_year`, `verified_title`, `verified_year`, `doi`, `verified_authors`, `verified_journal`, `year`, `journal`, `title`, `author1`, `title_distance`, `flag` |
+| `network_citation_data.rds` | one row per citation link (72,695, to 1,624 corpus articles published 1997-2018; no links to articles published from 2019 onwards) | `cited_id` (our article ID), `cited_oa_id`, `citing_oa_id`, `citing_year`, `citing_top_concept`, further citing-work metadata |
 | `network_paper_metrics.rds` | one row per article with network metrics | `id`, `pagerank`, `cite_concentration` (Herfindahl of citations across years), further centrality measures |
 | `citing_field_data.rds` | one row per unique citing work (37,853) | `citing_oa_id`, `type` (article / book-chapter / preprint / ...), `pt_field` / `pt_subfield` / `pt_domain` (OpenAlex primary-topic taxonomy), `l0_concepts` (semicolon-separated level-0 concept names), `venue` |
 | `citing_field_linked.rds` | link-level merge of the two files above | |
 | `repec_author_data.rds` | one row per matched author | `author_name`, `first_pub_year`, `hindex`, `has_nber_wp` |
-| `conference_parsed_data.rds` | one row per programme entry (3,627: EHA 1,006 + EHS 2,621) | `conference`, `year`, `title`, `authors`, `affiliations`, `session_order`, `pre_lunch`, `post_lunch`, `begin_time` (EHA only) |
+| `conference_parsed_data.rds` | one row per programme entry as parsed for the accepted version (3,627: EHA 1,006 + EHS 2,621). Used only by the archived matcher in `scripts/archive/`; the published pipeline uses `data/raw/conference_programme_records.csv` instead | `conference`, `year`, `title`, `authors`, `affiliations`, `session_order`, `pre_lunch`, `post_lunch`, `begin_time` (EHA only) |
 | `prize_paper_data.rds` | one row per paper-prize award | `prize_name`, `paper_title`, `prize_year`, `matched_id` |
 | `prize_dissertation_data.rds` | one row per dissertation-prize award | `prize_name`, `recipient`, `recipient_clean`, `prize_year` |
 
@@ -101,7 +145,15 @@ Sheet **Prizes**: `Prize` (Gerschenkron / Nevins), `Year`, `Author1`
 
 `analysis_data.rds` (list: `jn` all core-journal articles, `est` estimation sample,
 `topic_dict`, `top_inst`, `attrition`, `oa_validation`),
-`conference_flags.rds` (id-keyed conference indicators), `mech_data.rds`
+`conference_flags.rds` (id-keyed conference indicators),
+`conference_programme_records_used.csv` (programme records after the coverage
+exclusions, with the reviewed `matched_id`), `mech_data.rds`
 (estimation sample with mechanism variables), and one compact `res_XX_*.rds`
 per analysis script containing the coefficients, standard errors and sample
-sizes reported in the paper.
+sizes reported in the paper. `res_05_conference.rds` also holds the ledger
+counts, the unconditional association, both permutation tails and the
+sensitivity table; `res_06_mechanisms.rds$network` holds the screened-network
+coverage counts quoted in Appendix A.3; `res_09_panel.rds` holds the number of
+first-author-by-publication-year groups with variation in conference status.
+`scripts/11_check_published_numbers.R` reads these objects and compares them
+with the published article.

@@ -1,0 +1,103 @@
+====================================================================
+  11_check_published_numbers -- run date: 2026-10-08 09:05 
+====================================================================
+
+Headline persistence estimate (Section 4.2, Table 2 column 3)
+  [ok] elasticity of long-run on early citations                  published 0.784        run 0.784
+  [ok] robust SE                                                  published 0.02         run 0.020
+
+Conference linkage (Section 3.3, 6.3 and Appendix E)
+  [ok] ledger candidates                                          published 317          run 317
+  [ok] ledger retained                                            published 278          run 278
+  [ok] ledger rejected                                            published 20           run 20
+  [ok] ledger uncertain                                           published 19           run 19
+  [ok] retained programme links used                              published 278          run 278
+  [ok] distinct linked articles                                   published 259          run 259
+  [ok] linked via EHA                                             published 81           run 81
+  [ok] linked via EHS                                             published 195          run 195
+  [ok] linked at both                                             published 17           run 17
+  [ok] estimation-sample presenters                               published 137          run 137
+  [ok] flags agree with retained ledger ids                       published TRUE         run TRUE
+  [ok] conditional coefficient                                    published 0.066        run 0.066
+  [ok] conditional robust SE                                      published 0.043        run 0.043
+  [ok] one-sided permutation p                                    published 0.075        run 0.075
+  [ok] two-sided permutation p                                    published 0.144        run 0.144
+  [ok] permutation draws                                          published 1000         run 1000
+  [ok] coefficient without early-citation control                 published 0.231        run 0.231
+  [ok] its robust SE                                              published 0.072        run 0.072
+  [ok] 95% interval lower bound                                   published -0.018       run -0.018
+  [ok] 95% interval upper bound                                   published 0.15         run 0.150
+  [ok] upper bound in 1 + citations (%)                           published 16           run 16
+  [ok] EHA pre-lunch presenters                                   published 21           run 21
+  [ok] EHA post-lunch presenters                                  published 5            run 5
+  [ok] sensitivity presenters (4 scenarios)                       published 137/143/ 93/ 78 run 137/143/ 93/ 78
+  [ok] sensitivity coefficients range .012-.066                   published 0.012/0.066  run 0.012/0.066
+
+Within-author panel (Appendix D, Table 8)
+  [ok] column 1 conference coefficient                            published 0.051        run 0.051
+  [ok] column 1 cluster SE                                        published 0.027        run 0.027
+  [ok] column 1 lagged-stock coefficient                          published 0.549        run 0.549
+  [ok] column 1 lagged-stock SE                                   published 0.012        run 0.012
+  [ok] column 1 observations                                      published 26999        run 26999
+  [ok] column 2 conference coefficient                            published 0.332        run 0.332
+  [ok] column 2 cluster SE                                        published 0.133        run 0.133
+  [ok] column 2 lagged-stock coefficient                          published 0.1          run 0.100
+  [ok] column 2 observations                                      published 27000        run 27000
+  [ok] first-author-by-year groups with variation                 published 25           run 25
+  [ok] same, among estimated observations                         published 25           run 25
+
+Selection and probits (Appendix E)
+  [ok] early citations, presenters                                published 9.55         run 9.55
+  [ok] early citations, others                                    published 6.82         run 6.82
+  [ok] early citations, p                                         published 0.009        run 0.009
+  [ok] top institution, presenters                                published 0.33         run 0.33
+  [ok] top institution, others                                    published 0.22         run 0.22
+  [ok] top institution, p                                         published 0.008        run 0.008
+  [ok] fast starters, presenters                                  published 0.36         run 0.36
+  [ok] fast starters, others                                      published 0.24         run 0.24
+  [ok] fast starters, p                                           published 0.005        run 0.005
+  [ok] author counts, presenters                                  published 1.85         run 1.85
+  [ok] author counts, others                                      published 1.78         run 1.78
+  [ok] author counts, p                                           published 0.341        run 0.341
+  [ok] probit fast starter -> matched, coef                       published 0.305        run 0.305
+  [ok] probit fast starter -> matched, SE                         published 0.104        run 0.104
+  [ok] probit long-run -> matched, coef                           published 0.207        run 0.207
+  [ok] probit long-run -> matched, SE                             published 0.098        run 0.098
+  [ok] probit long-run -> matched, p                              published 0.034        run 0.034
+
+Citation network after the metadata screen (Section 6.2, Appendix A.3, Fig. 3)
+  [ok] links in frozen cache                                      published 72695        run 72695
+  [ok] links after screen                                         published 72465        run 72465
+  [ok] links removed by screen                                    published 230          run 230
+  [ok] corpus articles covered                                    published 1610         run 1610
+  [ok] citing works                                               published 37767        run 37767
+  [ok] links with primary discipline                              published 72167        run 72167
+  [ok] links with root tags                                       published 72333        run 72333
+  [ok] links with document type                                   published 72465        run 72465
+  [ok] within-field share of root-tagged links (%)                published 78           run 78
+  [ok] non-article share of typed links (%)                       published 41           run 41
+  [ok] estimation articles with classified citers                 published 593          run 593
+  [ok] within-field count elasticity                              published 0.7          run 0.70
+  [ok] cross-field count elasticity                               published 0.51         run 0.51
+  [ok] Fig. 3(a) classified links                                 published 72167        run 72167
+  [ok] Fig. 3(a) economics share (%)                              published 50           run 50
+  [ok] Fig. 3(a) other social sciences (%)                        published 30           run 30
+  [ok] Fig. 3(b) typed links                                      published 72465        run 72465
+  [ok] Fig. 3(b) journal articles (%)                             published 59           run 59
+  [ok] Fig. 3(b) books and chapters (%)                           published 28           run 28
+  [ok] Fig. 3(b) preprints and working papers (%)                 published 8            run 8
+
+Unchanged network-position and self-citation estimates (Section 6.4)
+  [ok] self-citation rate (%)                                     published 16           run 16
+  [ok] cascade depth coefficient                                  published 0.19         run 0.19
+  [ok] cascade depth SE                                           published 0.14         run 0.14
+  [ok] indirect citers coefficient                                published 0.15         run 0.15
+  [ok] indirect citers SE                                         published 0.09         run 0.09
+  [ok] Herfindahl coefficient                                     published 0.011        run 0.011
+  [ok] Herfindahl SE                                              published 0.013        run 0.013
+
+Sample
+  [ok] estimation sample size                                     published 1262         run 1262
+  [ok] corpus size                                                published 3250         run 3250
+
+ALL CHECKS PASSED: the run reproduces the statistics reported in the published article.

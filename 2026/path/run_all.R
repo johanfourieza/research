@@ -5,9 +5,11 @@
 #   Rscript run_all.R
 #
 # Runs scripts/01_build_sample.R through scripts/10_figures.R, each in a fresh
-# R session (so no state leaks between scripts), and writes sessionInfo to
-# output/logs/sessionInfo.txt. Total runtime is roughly 30-60 minutes; the
-# permutation tests (04, 05) and the decomposition bootstrap (08) dominate.
+# R session (so no state leaks between scripts), then 11_check_published_numbers.R,
+# which stops with an error if any statistic reported in the published article
+# is not reproduced. Writes sessionInfo to output/logs/sessionInfo.txt. Runtime
+# is a few minutes; the permutation tests (04, 05) and the decomposition
+# bootstrap (08) dominate.
 #
 # Script 00 (external data collection) is NOT run: every analysis runs offline
 # from the shipped caches in data/cache/. To re-collect from the APIs, set the
@@ -34,7 +36,8 @@ scripts <- c(
   "07_heterogeneity.R",
   "08_attenuation_luck.R",
   "09_within_author.R",
-  "10_figures.R"
+  "10_figures.R",
+  "11_check_published_numbers.R"
 )
 
 t0 <- Sys.time()

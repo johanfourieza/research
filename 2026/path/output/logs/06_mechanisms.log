@@ -1,5 +1,5 @@
 ====================================================================
-  06_mechanisms -- run date: 2026-08-19 04:08 
+  06_mechanisms -- run date: 2026-10-08 09:04 
 ====================================================================
 
 Loading network data...
@@ -10,21 +10,27 @@ Loading network data...
 
 --- 6a: Citation source decomposition ---
 
-Within-field citations: 56305 / 72563  (77.6%)
-Cross-field citations: 16258 
+Citation links in the frozen cache: 72695 
+Links after the metadata screen: 72465 (removed 230 )
+Source articles covered: 1610 ; citing works: 37767 
+Links with primary-field metadata: 72167 ; with root-concept tags: 72333 ; with document type: 72465 
 
-Papers with citation source data: 597 
+Within-field citations: 56130 / 72333  (77.6%)
+Cross-field citations: 16203 
+Non-article share of typed links: 40.9%
 
-Papers with classified citers (count-elasticity subsample): 597 
+Papers with citation source data: 593 
+
+Papers with classified citers (count-elasticity subsample): 593 
 
 S1a: log_early -> log(within-field cites), classified subsample
-  Coef: 0.6886 (SE: 0.0348 , N = 597 )
+  Coef: 0.7015 (SE: 0.0344 , N = 593 )
 
 S1b: log_early -> log(cross-field cites), classified subsample
-  Coef: 0.5048 (SE: 0.0437 , N = 597 )
+  Coef: 0.5113 (SE: 0.0438 , N = 593 )
 
 Fast-starter -> cross-field SHARE (journal-year FE):
-  coef -0.0194 (robust SE 0.0120), N = 597; within/cross count elasticities 0.689 / 0.505
+  coef -0.0191 (robust SE 0.0120), N = 593; within/cross count elasticities 0.702 / 0.511
 
 --- 6b: Self-citation analysis ---
 

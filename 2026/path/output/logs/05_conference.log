@@ -1,107 +1,79 @@
 ====================================================================
-  05_conference -- run date: 2026-08-19 04:07 
+  05_conference -- run date: 2026-10-08 09:03 
 ====================================================================
 
-Loaded 3627 conference papers
+Loading programme records and the reviewed match ledger...
+  Programme entries: 3565 
    conference     N
        <char> <int>
-1:        EHS  2621
-2:        EHA  1006
-
-Matching conference papers to journal dataset...
-  Running author-validated fuzzy matching...
-  Skipping 61 entries (NA or short titles)
-    Processed 1000 entries, 47 matches so far
-    Processed 2000 entries, 92 matches so far
-    Processed 3000 entries, 128 matches so far
-
-  Successfully matched 146 conference entries
-  By conference and tier:
-   conference match_tier     N
-       <char>     <char> <int>
-1:        EHA          A    23
-2:        EHA          B    20
-3:        EHS          A    38
-4:        EHS          B    65
-
-  Sample author-validated (tier B) matches for inspection:
-    [0.10] CONF: Laissez-faire, the Irish Famine, and British financial c
-           JRNL: Laissez-faire, the Irish famine, and British financial c
-    [0.11] CONF: Land Abundance and Economic Institutions: Egba Land and 
-           JRNL: Land Abundance And Economic Institutions: Egba Land And 
-    [0.11] CONF: World War II and the industrialisation of the American S
-           JRNL: World War II and the Industrialization of the American S
-    [0.11] CONF: Ecological Frontiers on the Grasslands of Kansas: Change
-           JRNL: Ecological Frontiers On The Grasslands Of Kansas: Change
-    [0.11] CONF: British Relative Economic Decline Revisited
-           JRNL: British Relative Economic Decline Revisited: The Role Of
-    [0.12] CONF: Winners and Losers: The Asymmetric Impact of Tariff Prot
-           JRNL: Winners and Losers: The Asymmetric Impact of Tariff Prot
-    [0.12] CONF: The Nitrogen Hypothesis and the English Agricultural Rev
-           JRNL: The Nitrogen Hypothesis And The English Agricultural Rev
-    [0.13] CONF: Infant mortality and the health of survivors: Britain, 
-           JRNL: Infant Mortality And The Health Of Survivors: Britain, 1
-    [0.14] CONF: English county populations in the later 18th century
-           JRNL: English County Populations In The Later Eighteenth Centu
-    [0.14] CONF: Female Educational Attainment, Marriage, and Fertility: 
-           JRNL: Women’s educational attainment, marriage, and fertilit
-    [0.14] CONF: The Impact of Female Employment on Male Wages and Career
-           JRNL: The Impact Of Female Employment On Male Salaries And Car
-    [0.14] CONF: Transportation and Health in a Developing Country: The U
-           JRNL: Transportation and Health in the Antebellum United State
+1:        EHA  1006
+2:        EHS  2559
+  Candidate links in ledger: 317 
+    decision     N
+      <char> <int>
+1:    retain   278
+2:    reject    20
+3: uncertain    19
+  Excluded 91 entries (EHS 2023-2024 summary pages; EHA 2025 unverified)
+  Retained programme links: 278 
+  Distinct linked articles: 259 
 
 Creating conference variables...
-  Papers at any conference: 141 
-    via EHA: 43   via EHS: 102 
-  In estimation sample: 85 
+  Papers at any conference: 259 
+    via EHA: 81   via EHS: 195   at both: 17 
+  In estimation sample: 137 
 
 === CONFERENCE PREMIUM REGRESSION ===
 
-Model C1: Any conference presentation effect (EHA clean + EHS)
-  N presenters: 85 
-  presented_at_conference: 0.07 (robust SE: 0.0558 )
+Model C1: Any conference presentation, conditional on early citations
+  N presenters: 137 
+  presented_at_conference: 0.0659 (robust SE: 0.0429 )
+  Approximate 95% interval: -0.018 to 0.150 log points (upper bound 16.2% in 1 + citations)
+
+Model C1 without the early-citation control
+  presented_at_conference: 0.2314 (robust SE: 0.0721 )
 
 === SESSION-TIMING (EHA) BALANCE & POWER CHECK ===
 
-  EHA-matched papers in estimation sample: 28 
+  EHA-matched papers in estimation sample: 49 
   Session-order distribution:
    eha_session_order     N
                <int> <int>
-1:                 1     7
-2:                 2    11
-3:                 3     3
-4:                 4     6
-5:                 5     1
-  Pre-lunch (last AM): 11   Post-lunch (first PM): 3 
+1:                 1    13
+2:                 2    20
+3:                 3     5
+4:                 4     9
+5:                 5     2
+  Pre-lunch (last AM): 21   Post-lunch (first PM): 5 
 
   Balance (normalised mean difference, pre vs post lunch):
-    log_early      NMD = -0.031  (t-test p = 0.948)
-    fast_starter   NMD =  0.826  (t-test p = 0.082)
-    any_top_inst   NMD = -0.304  (t-test p = 0.703)
-    n_authors      NMD =  0.763  (t-test p = 0.104)
+    log_early      NMD = -0.233  (t-test p = 0.703)
+    fast_starter   NMD = -0.327  (t-test p = 0.563)
+    any_top_inst   NMD =  0.188  (t-test p = 0.715)
+    n_authors      NMD = -0.423  (t-test p = 0.442)
 
-  Power gate: pre = 11, post = 3, minimum per cell = 25  ->  UNDERPOWERED
+  Power gate: pre = 21, post = 5, minimum per cell = 25  ->  UNDERPOWERED
   -> Too few matched papers fall in the lunch-adjacent slots for
      inference. Reported as inconclusive in the paper.
 
 --- Author-based conference exposure ---
 
-  Unique presenter last names: 3024 
-  Conference years covered: 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 
-  Papers with author conference exposure: 1049 / 3250 ( 32.3 %)
-  In estimation sample: 542 / 1262 ( 42.9 %)
+  Unique presenter last names: 2365 
+  Conference years covered: 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 
+  Papers with author conference exposure: 1134 / 3250 ( 34.9 %)
+  In estimation sample: 607 / 1262 ( 48.1 %)
 
 === AUTHOR-BASED CONFERENCE EXPOSURE REGRESSIONS ===
 
 Model C2: Author conference exposure (broad measure)
-  author_conf_exposure: 0.0529 (robust SE: 0.0304 )
+  author_conf_exposure: 0.0339 (robust SE: 0.0304 )
 
 Model C3: Title-matched + author exposure (joint)
-  presented_at_conference: 0.0587 (robust SE: 0.0562 )
-  author_conf_exposure: 0.0492 (robust SE: 0.0306 )
+  presented_at_conference: 0.0583 (robust SE: 0.0437 )
+  author_conf_exposure: 0.0274 (robust SE: 0.0309 )
 
 --- Placebo conference ( 1000 permutations) ---
-True conference coefficient: 0.07 
+Observed conference coefficient: 0.0659 
   Permutation 100 / 1000 
   Permutation 200 / 1000 
   Permutation 300 / 1000 
@@ -112,9 +84,19 @@ True conference coefficient: 0.07
   Permutation 800 / 1000 
   Permutation 900 / 1000 
   Permutation 1000 / 1000 
-Empirical p-value: 0.1630 
-  Mean placebo: 0.0112 
-  SD placebo: 0.0597 
+One-sided (upper-tail) p-value: 0.0749 
+Two-sided (absolute) p-value:   0.1439 
+  Mean placebo: 4e-04 
+  SD placebo: 0.0467 
+
+--- Sensitivity: uncertain links and title thresholds ---
+
+                      scenario presenters       coef         se         p
+                        <char>      <int>      <num>      <num>     <num>
+1:       reviewed_conservative        137 0.06588547 0.04292606 0.1250732
+2:           include_uncertain        143 0.06612841 0.04223146 0.1176371
+3: reviewed_distance_below_015         93 0.06085721 0.05012324 0.2249208
+4: reviewed_distance_below_010         78 0.01150365 0.04844452 0.8123389
 
 Saved: results/conference_flags.rds
 Saved: results/res_05_conference.rds

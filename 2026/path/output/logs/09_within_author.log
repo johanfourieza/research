@@ -1,5 +1,5 @@
 ====================================================================
-  09_within_author -- run date: 2026-08-19 04:08 
+  09_within_author -- run date: 2026-10-08 09:05 
 ====================================================================
 
 Building paper-year panel...
@@ -8,44 +8,44 @@ Unique papers: 3250
 Years covered: 2014 - 2026 
 
 Running within-author FE regression...
-Authors with variation in conference presentation: 85 
+Authors with variation in conference presentation: 134 
 
 Model WA1: Author + paper-age fixed effects (SEs clustered by paper)
-  presented_at_conference: 0.0167 (cluster SE: 0.0344 )
-  log_cit_cum_lag1 (reinforcement): 0.55 (cluster SE: 0.012 )
+  presented_at_conference: 0.0511 (cluster SE: 0.0271 )
+  log_cit_cum_lag1 (reinforcement): 0.5487 (cluster SE: 0.0119 )
 
 Model WA2: Author-year fixed effects (stricter)
-  Author-years with variation: 13 
-  presented_at_conference: 0.5445 (cluster SE: 0.1712 )
+  Author-years with variation: 25 
+  presented_at_conference: 0.3318 (cluster SE: 0.1328 )
 
 
 % Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
-% Date and time: Wed, Aug 19, 2026 - 04:08:35
+% Date and time: Thu, Oct 08, 2026 - 09:05:27
 \begin{tabular}{@{\extracolsep{5pt}}lcc} 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
  & \multicolumn{2}{c}{\textit{Dependent variable:}} \\ 
 \cline{2-3} 
-\\[-1.8ex] & \multicolumn{2}{c}{Log(new citations)} \\ 
+\\[-1.8ex] & \multicolumn{2}{c}{Log(1 + new citations)} \\ 
 \\[-1.8ex] & (1) & (2)\\ 
 \hline \\[-1.8ex] 
- Presented at conference & 0.017 & 0.545$^{***}$ \\ 
-  & (0.034) & (0.171) \\ 
+ Presented at conference & 0.051$^{*}$ & 0.332$^{**}$ \\ 
+  & (0.027) & (0.133) \\ 
   & & \\ 
- Log(lagged citation stock) & 0.550$^{***}$ & 0.099$^{***}$ \\ 
+ Log(1 + lagged citation stock) & 0.549$^{***}$ & 0.100$^{***}$ \\ 
   & (0.012) & (0.037) \\ 
   & & \\ 
- Number of authors & 0.027$^{*}$ &  \\ 
+ Number of authors & 0.025$^{*}$ &  \\ 
   & (0.014) &  \\ 
   & & \\ 
 \hline \\[-1.8ex] 
-Author FE & Yes & No \\ 
-Author-by-year FE & No & Yes \\ 
+First-author FE & Yes & No \\ 
+First-author-by-publication-year FE & No & Yes \\ 
 Calendar-year FE & Yes & Yes \\ 
 Article-age FE & Yes & Yes \\ 
 Observations & 26,999 & 27,000 \\ 
-R$^{2}$ & 0.583 & 0.642 \\ 
-Adjusted R$^{2}$ & 0.552 & 0.598 \\ 
+R$^{2}$ & 0.584 & 0.642 \\ 
+Adjusted R$^{2}$ & 0.553 & 0.598 \\ 
 \hline 
 \hline \\[-1.8ex] 
 \textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
@@ -57,18 +57,18 @@ Saved: Table4_WithinAuthor.tex
 Reverse causality sample: 1262 
 
 RC1: log_longrun -> presented_at_conference (probit)
-  log_longrun: 0.1986 (SE: 0.1149 , p: 0.0839 )
-  log_early: 0.0951 (SE: 0.1135 , p: 0.4024 )
+  log_longrun: 0.2071 (SE: 0.0979 , p: 0.0344 )
+  log_early: 0.036 (SE: 0.0956 , p: 0.7063 )
 
 RC2: fast_starter -> presented_at_conference (probit)
-  fast_starter: 0.3377 (SE: 0.1218 , p: 0.0056 )
+  fast_starter: 0.3046 (SE: 0.1043 , p: 0.0035 )
 
 === BALANCE: PRESENTERS vs NON-PRESENTERS ===
 
-  n_authors        Presenters:  1.518  Others:  1.805  diff: -0.288  p: 0.0034
-  any_top_inst     Presenters:  0.318  Others:  0.221  diff:  0.097  p: 0.0671
-  cite_early       Presenters:  9.294  Others:  6.956  diff:  2.338  p: 0.0548
-  log_early        Presenters:  1.934  Others:  1.646  diff:  0.288  p: 0.0060
-  fast_starter     Presenters:  0.365  Others:  0.248  diff:  0.117  p: 0.0334
+  n_authors        Presenters:  1.854  Others:  1.778  diff:  0.076  p: 0.3414
+  any_top_inst     Presenters:  0.328  Others:  0.215  diff:  0.113  p: 0.0078
+  cite_early       Presenters:  9.547  Others:  6.817  diff:  2.731  p: 0.0093
+  log_early        Presenters:  1.924  Others:  1.634  diff:  0.290  p: 0.0008
+  fast_starter     Presenters:  0.365  Others:  0.243  diff:  0.122  p: 0.0052
 
 Saved: results/res_09_panel.rds
