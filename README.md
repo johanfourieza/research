@@ -24,6 +24,7 @@ stage.
 | [`2026/unequal_visibility/`](2026/unequal_visibility/) | The Unequal Visibility of Epidemic Death: Smallpox at the Cape, 1713 | Fourie (2026), working paper |
 | [`2026/uprooted/`](2026/uprooted/) | Uprooted: Migration, Coercion, and the Roots of Social Connectedness | Fourie (2026), *Economic Inquiry* (submitted) |
 | [`2026/voortrekker/`](2026/voortrekker/) | Selection into the Great Trek | Fourie & Links (2026), *European Review of Economic History* (forthcoming) |
+| [`2026/writing/`](2026/writing/) | Writing Is Not (Necessarily) Thinking | Fourie (2026), *Kyklos* (revise and resubmit) |
 
 ## License
 
