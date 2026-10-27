@@ -1,0 +1,3 @@
+comp,check,max_error,tolerance
+tests,REML vs lme4 y_bat,1.56163886266825e-08,1e-04
+tests,REML vs lme4 y_bowl,3.46285545793634e-07,1e-04

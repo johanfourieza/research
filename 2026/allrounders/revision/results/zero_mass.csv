@@ -1,0 +1,16 @@
+comp,bowl_zero_reason,players,evaluable
+tests,Positive bowling output,1946,677
+tests,No recorded bowling,856,0
+tests,Bowled; net nonpositive,452,0
+odis,Positive bowling output,1231,416
+odis,Bowled; net nonpositive,1026,169
+odis,No recorded bowling,823,0
+t20is,No recorded bowling,1434,0
+t20is,Positive bowling output,1767,275
+t20is,Bowled; net nonpositive,1478,79
+county,Positive bowling output,3024,1734
+county,Bowled; net nonpositive,528,0
+county,No recorded bowling,627,0
+sheffield,Positive bowling output,1446,639
+sheffield,No recorded bowling,508,0
+sheffield,Bowled; net nonpositive,361,0

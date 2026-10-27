@@ -1,0 +1,11 @@
+comp,outcome,max_share_rca_prediction_difference
+tests,future_bat_annual,3.97903932025656e-13
+tests,future_bowl_annual,1.4210854715202e-14
+odis,future_bat_annual,1.13686837721616e-13
+odis,future_bowl_annual,8.88178419700125e-15
+t20is,future_bat_annual,6.21724893790088e-14
+t20is,future_bowl_annual,2.66453525910038e-15
+county,future_bat_annual,6.82121026329696e-13
+county,future_bowl_annual,2.1316282072803e-14
+sheffield,future_bat_annual,1.70530256582424e-13
+sheffield,future_bowl_annual,1.06581410364015e-14

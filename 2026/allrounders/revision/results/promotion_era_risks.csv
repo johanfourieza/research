@@ -1,0 +1,17 @@
+entry_comp,era,role,n,events,risk
+county,Before 2000,Bowling role,283,28,0.0989399293286219
+county,Before 2000,Batting role,416,30,0.0721153846153846
+county,Before 2000,Insufficient/other,1171,27,0.0230572160546541
+sheffield,2000 onwards,Insufficient/other,259,13,0.0501930501930502
+county,2000 onwards,Batting role,202,14,0.0693069306930693
+sheffield,Before 2000,Insufficient/other,1326,54,0.0407239819004525
+county,2000 onwards,Insufficient/other,554,12,0.0216606498194946
+sheffield,2000 onwards,Bowling role,41,4,0.0975609756097561
+county,2000 onwards,Bowling role,94,11,0.117021276595745
+county,Before 2000,All-round role,56,9,0.160714285714286
+sheffield,Before 2000,Batting role,145,35,0.241379310344828
+county,2000 onwards,All-round role,13,2,0.153846153846154
+sheffield,2000 onwards,Batting role,73,9,0.123287671232877
+sheffield,Before 2000,Bowling role,118,31,0.26271186440678
+sheffield,Before 2000,All-round role,17,7,0.411764705882353
+sheffield,2000 onwards,All-round role,3,0,0

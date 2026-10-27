@@ -1,0 +1,3 @@
+comp,difference,lower,upper,clusters,method,evaluated_resamples,valid_resamples,valid_probability,seed,margin
+county,0.088737131680239,0.00035962714475694,0.184769092405928,18,Monte Carlo multinomial entry-team bootstrap distribution,1000000,1000000,1,2412,0.05
+sheffield,0.152368500565882,-0.0279647806245309,0.297962799180862,6,Exact multinomial entry-team bootstrap distribution,462,462,1,,0.05

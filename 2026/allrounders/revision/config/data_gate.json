@@ -1,0 +1,14 @@
+{
+  "status": "OPEN",
+  "updated": "2026-10-08",
+  "scope": ["verified scorecard output", "workload and composition", "output uncertainty", "chronologically held-out prediction", "domestic-to-Test observed transitions"],
+  "estimation_authorised": true,
+  "excluded_scopes": ["age-adjusted inference", "bowling-style inference", "national-eligibility selector models", "causal roster value"],
+  "excluded_identity_keys": 74,
+  "identity_quarantine": "audit/execution/identity_quarantine.csv",
+  "match_quarantine": "audit/execution/match_accounting_quarantine.csv",
+  "reason": "Confirmed errors repaired; unresolved source identities, nine non-county fixtures and one accounting-query match excluded; unverified biography removed from estimation inputs. Gate certifies stated checks and bounds, not flawless historical data.",
+  "paid_relabelling_authorised": false,
+  "human_role_labels": "declined; role pilot verifies implementation only",
+  "reviewer": "Codex source and code audit"
+}

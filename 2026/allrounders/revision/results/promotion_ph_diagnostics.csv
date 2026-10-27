@@ -1,0 +1,19 @@
+scope,term,chisq,df,p
+pooled,role,6.55407956856395,3,0.0875539651780195
+pooled,"splines::ns(log1p(past_matches), knots = log1p(c(5, 30)), Boundary.knots = c(0, log1p(200)))",6.70569534700879,3,0.0818939704525391
+pooled,"splines::ns(bat_rate, knots = c(20, 50), Boundary.knots = c(0, 150))",4.55864794221777,3,0.207118302267866
+pooled,"splines::ns(wicket_rate, knots = c(0.5, 1.5), Boundary.knots = c(0, 10))",1.77142779284165,3,0.621172217326433
+pooled,factor(entry_decade),20.2051103974816,13,0.0902125644172916
+pooled,GLOBAL,44.9754952181264,25,0.00841638915974054
+county,role,1.23922659621794,3,0.743612335767867
+county,"splines::ns(log1p(past_matches), knots = log1p(c(5, 30)), Boundary.knots = c(0, log1p(200)))",6.71889272705725,3,0.0814183312079652
+county,"splines::ns(bat_rate, knots = c(20, 50), Boundary.knots = c(0, 150))",1.55103383792639,3,0.670542807383434
+county,"splines::ns(wicket_rate, knots = c(0.5, 1.5), Boundary.knots = c(0, 10))",9.98480779839822,3,0.0186957171585934
+county,factor(entry_decade),2.46552660998778,7,0.929670497016434
+county,GLOBAL,19.569112573724,19,0.420912459137101
+sheffield,role,5.25046854290548,3,0.154348895306294
+sheffield,"splines::ns(log1p(past_matches), knots = log1p(c(5, 30)), Boundary.knots = c(0, log1p(200)))",8.58827499519316,3,0.035296724195304
+sheffield,"splines::ns(bat_rate, knots = c(20, 50), Boundary.knots = c(0, 150))",7.422905318784,3,0.0595727861245301
+sheffield,"splines::ns(wicket_rate, knots = c(0.5, 1.5), Boundary.knots = c(0, 10))",1.59680819729688,3,0.660113755966817
+sheffield,factor(entry_decade),19.4373622246106,13,0.11015485797063
+sheffield,GLOBAL,48.7837531764113,25,0.00300098142433443

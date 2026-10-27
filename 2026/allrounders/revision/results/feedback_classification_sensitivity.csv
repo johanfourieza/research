@@ -1,0 +1,31 @@
+comp,variant,dual_role,eligible,independent,all_couplings,some_coupling,expected
+tests,Baseline,154,677,1,0,1,2.70271489101589
+tests,Participation intensity,147,677,1,0,1,2.6712545892347
+tests,Ball intensity,115,677,1,0,1,2.41392983952201
+tests,Posterior-mean floors,154,677,3,3,3,4.41804015391324
+tests,"Player-specific variance, nu=5",154,677,0,0,1,2.46760508916623
+tests,"Player-specific variance, nu=20",154,677,0,0,1,2.5338194034059
+odis,Baseline,195,585,10,9,10,11.8891148253692
+odis,Participation intensity,147,585,10,8,10,11.7272293457307
+odis,Ball intensity,90,585,9,8,10,11.698420959167
+odis,Posterior-mean floors,195,585,14,14,16,15.2387879082871
+odis,"Player-specific variance, nu=5",195,585,8,6,10,11.1845605735457
+odis,"Player-specific variance, nu=20",195,585,9,7,10,11.3597327559614
+t20is,Baseline,176,354,22,22,23,27.3794967563408
+t20is,Participation intensity,135,354,22,22,22,25.7312590849321
+t20is,Ball intensity,79,354,24,23,24,27.7852916363161
+t20is,Posterior-mean floors,176,354,25,25,27,30.6412812712014
+t20is,"Player-specific variance, nu=5",176,354,21,19,21,25.3867188170968
+t20is,"Player-specific variance, nu=20",176,354,21,21,21,25.8539418350644
+county,Baseline,518,1734,10,10,11,13.905061594283
+county,Participation intensity,397,1734,10,9,11,12.9257487220234
+county,Ball intensity,290,1734,10,9,11,12.6645931187843
+county,Posterior-mean floors,518,1734,13,13,14,16.2500994827804
+county,"Player-specific variance, nu=5",518,1734,9,8,11,12.8665043809266
+county,"Player-specific variance, nu=20",518,1734,9,8,11,13.0813546175259
+sheffield,Baseline,174,639,3,3,3,3.91928703784645
+sheffield,Participation intensity,166,639,3,3,3,3.9320610979906
+sheffield,Ball intensity,141,639,3,3,3,3.59020958920341
+sheffield,Posterior-mean floors,174,639,4,4,4,4.7544085432788
+sheffield,"Player-specific variance, nu=5",174,639,3,3,3,3.54365734718892
+sheffield,"Player-specific variance, nu=20",174,639,3,3,3,3.67089818361669

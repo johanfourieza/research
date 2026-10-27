@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "date": "2026-10-27",
+  "checks": 72,
+  "original_files": 247,
+  "scope": "Audited and bounded scorecard-output analyses",
+  "source_limit": "Quarantine and documented source limits remain; no claim of flawless historical coverage"
+}
