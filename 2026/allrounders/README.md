@@ -1,4 +1,4 @@
-# Defining and Identifying All-Rounders in Cricket
+# Identifying All-Rounders in Cricket
 
 Replication code and aggregate results for Fourie (2026), under review at the
 *Journal of Sports Analytics*.
@@ -95,7 +95,7 @@ clubSandwich, mvtnorm, ggplot2, pdftools and xml2. Seed: 2412.
 
 ## Citation
 
-> Fourie, J. (2026). "Defining and Identifying All-Rounders in Cricket."
+> Fourie, J. (2026). "Identifying All-Rounders in Cricket."
 > Stellenbosch University. Under review, *Journal of Sports Analytics*.
 
 ## License
