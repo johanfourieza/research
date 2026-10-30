@@ -1,4 +1,4 @@
-# Writing Is Not (Necessarily) Thinking
+# When Everyone Writes Well: The Economics of Writing with AI
 
 Replication data and code for the working-paper evidence in Section 8 and
 Figure 1 of Fourie (2026), currently under revision at *Kyklos*.
@@ -102,7 +102,7 @@ classified papers covers only papers whose affiliations could be classified.
 
 ## Citation
 
-> Fourie, J. (2026). "Writing Is Not (Necessarily) Thinking." Stellenbosch
+> Fourie, J. (2026). "When Everyone Writes Well: The Economics of Writing with AI." Stellenbosch
 > University. Under revision, *Kyklos*.
 
 Detector: Goldsmith-Pinkham, P. (2026). *econ-ai-detector*. Software

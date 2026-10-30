@@ -1,4 +1,4 @@
-# run_all.R -- reproduce Section 8 and Figure 1 of Fourie (2026), "Writing Is Not (Necessarily) Thinking".
+# run_all.R -- reproduce Section 8 and Figure 1 of Fourie (2026), "When Everyone Writes Well: The Economics of Writing with AI".
 # Usage, from this folder:  Rscript run_all.R
 # Runs scripts/01-03, each in a fresh R session, then scripts/04_check_numbers.R, which stops with an
 # error if any number reported in the paper is not reproduced. Writes results/session_info.txt.
