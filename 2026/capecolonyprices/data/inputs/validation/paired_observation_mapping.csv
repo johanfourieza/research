@@ -1,0 +1,633 @@
+row_id,commodity,year,stable_model_source_id,model_source_id
+1,Beans,1702,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+2,Beans,1703,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+3,Beans,1704,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+4,Beans,1705,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+5,Beans,1706,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+6,Beans,1707,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+7,Beans,1708,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+8,Beans,1709,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+9,Beans,1710,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+10,Beans,1711,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+11,Beans,1712,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+12,Beans,1713,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+13,Beans,1714,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+14,Beans,1717,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+15,Beans,1718,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+16,Beans,1721,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+17,Beans,1723,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+18,Beans,1725,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+19,Beans,1726,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+20,Beans,1727,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+21,Beans,1728,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+22,Beans,1729,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+23,Beans,1730,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+24,Beans,1731,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+25,Beans,1732,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+26,Beans,1733,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+27,Beans,1734,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+28,Beans,1735,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+29,Beans,1736,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+30,Beans,1737,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+31,Beans,1738,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+32,Beans,1739,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+33,Beans,1740,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+34,Beans,1741,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+35,Beans,1742,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+36,Beans,1743,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+37,Beans,1744,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+38,Beans,1745,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+39,Beans,1746,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+40,Beans,1748,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+41,Beans,1749,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+42,Beans,1750,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+43,Beans,1751,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+44,Beans,1752,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+45,Beans,1753,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+46,Beans,1754,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+47,Beans,1755,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+48,Beans,1756,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+49,Beans,1757,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+50,Beans,1758,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+51,Beans,1759,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+52,Beans,1760,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+53,Beans,1761,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+54,Beans,1762,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+55,Beans,1763,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+56,Beans,1764,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+57,Beans,1765,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+58,Beans,1766,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+59,Beans,1767,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+60,Beans,1768,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+61,Beans,1769,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+62,Beans,1770,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+63,Beans,1771,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+64,Beans,1772,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+65,Beans,1773,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+66,Beans,1774,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+67,Beans,1775,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+68,Beans,1776,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+69,Beans,1777,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+70,Beans,1778,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+71,Beans,1779,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+72,Beans,1780,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+73,Beans,1781,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+74,Beans,1782,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+75,Beans,1783,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+76,Beans,1784,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+77,Beans,1785,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+78,Beans,1786,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+79,Beans,1787,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+80,Beans,1788,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+81,Beans,1789,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+82,Beans,1790,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+83,Beans,1791,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+84,Beans,1792,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+85,Beans,1793,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+86,Beans,1794,Beans | B | VOC | Guilder | Muid :: role=VOC_unspecified,Beans | B | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+87,Beans,1784,Beans | C | Cape Archives | Guilder | Muid :: role=government_account,Beans | C | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+88,Beans,1785,Beans | C | Cape Archives | Guilder | Muid :: role=government_account,Beans | C | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+89,Beans,1785,Beans | D | Cape Archives2 | Rds | Muid :: role=government_account,Beans | D | Cape Archives2 | Rds | Muid :: pre1795 :: role=government_account
+90,Beans,1786,Beans | D | Cape Archives2 | Rds | Muid :: role=government_account,Beans | D | Cape Archives2 | Rds | Muid :: pre1795 :: role=government_account
+91,Beans,1795,Beans | E | Theal | Rds | Muid :: role=secondary_compilation,Beans | E | Theal | Rds | Muid :: role=secondary_compilation
+92,Beans,1797,Beans | E | Theal | Rds | Muid :: role=secondary_compilation,Beans | E | Theal | Rds | Muid :: role=secondary_compilation
+93,Beans,1826,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+94,Beans,1827,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+95,Beans,1828,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+96,Beans,1829,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+97,Beans,1830,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+98,Beans,1831,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+99,Beans,1832,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+100,Beans,1833,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+101,Beans,1834,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper,Beans | F | South African Commerical Advertiser | Rds | Muid :: role=newspaper
+102,Butter,1700,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+103,Butter,1702,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+104,Butter,1703,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+105,Butter,1717,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+106,Butter,1741,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+107,Butter,1748,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+108,Butter,1783,Butter | C | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+109,Butter,1708,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+110,Butter,1716,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+111,Butter,1720,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+112,Butter,1760,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+113,Butter,1761,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+114,Butter,1762,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+115,Butter,1763,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+116,Butter,1764,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+117,Butter,1769,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+118,Butter,1784,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+119,Butter,1786,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+120,Butter,1789,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+121,Butter,1790,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+122,Butter,1791,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+123,Butter,1793,Butter | D | VOC | Guilder | Pond :: role=VOC_unspecified,Butter | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+124,Butter,1784,Butter | E | Cape Archives | Guilder | Pond :: role=government_account,Butter | E | Cape Archives | Guilder | Pond :: pre1795 :: role=government_account
+125,Butter,1785,Butter | E | Cape Archives | Guilder | Pond :: role=government_account,Butter | E | Cape Archives | Guilder | Pond :: pre1795 :: role=government_account
+126,Butter,1783,"Butter | G | Neumark, p. 110 | Rds | Lbs. :: role=secondary_compilation","Butter | G | Neumark, p. 110 | Rds | Lbs. :: role=secondary_compilation"
+127,Butter,1801,"Butter | G | Neumark, p. 110 | Rds | Lbs. :: role=secondary_compilation","Butter | G | Neumark, p. 110 | Rds | Lbs. :: role=secondary_compilation"
+128,Butter,1803,"Butter | G | Neumark, p. 110 | Rds | Lbs. :: role=secondary_compilation","Butter | G | Neumark, p. 110 | Rds | Lbs. :: role=secondary_compilation"
+129,Butter,1797,"Butter | H | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation","Butter | H | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation"
+130,Butter,1798,"Butter | H | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation","Butter | H | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation"
+131,Butter,1797,"Butter | I | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation","Butter | I | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation"
+132,Butter,1798,"Butter | I | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation","Butter | I | Neumark, p. 189 | Rds | Lbs :: role=secondary_compilation"
+133,Butter,1822,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+134,Butter,1823,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+135,Butter,1824,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+136,Butter,1825,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+137,Butter,1826,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+138,Butter,1827,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+139,Butter,1828,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+140,Butter,1829,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+141,Butter,1830,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+142,Butter,1831,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+143,Butter,1832,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+144,Butter,1833,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+145,Butter,1834,"Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation","Butter | J | Neumark, p. 155 | £ | Lbs :: role=secondary_compilation"
+146,Candles,1708,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+147,Candles,1716,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+148,Candles,1717,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+149,Candles,1720,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+150,Candles,1741,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+151,Candles,1759,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+152,Candles,1764,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+153,Candles,1772,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+154,Candles,1788,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+155,Candles,1793,Candles | D | VOC | Guilder | Pond :: role=VOC_unspecified,Candles | D | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+156,Candles,1784,Candles | F | Cape Archive | Guilder | Pond :: role=government_account,Candles | F | Cape Archive | Guilder | Pond :: pre1795 :: role=government_account
+157,Candles,1797,Candles | G | Neumark | Rds | Pond :: role=secondary_compilation,Candles | G | Neumark | Rds | Pond :: role=secondary_compilation
+158,Candles,1798,Candles | G | Neumark | Rds | Pond :: role=secondary_compilation,Candles | G | Neumark | Rds | Pond :: role=secondary_compilation
+159,Candles,1822,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+160,Candles,1823,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+161,Candles,1825,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+162,Candles,1828,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+163,Candles,1829,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+164,Candles,1830,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+165,Candles,1831,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+166,Candles,1832,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+167,Candles,1833,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+168,Candles,1834,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation,Candles | H | Neumark | £ | Lbs. :: role=secondary_compilation
+169,Cotton,1780,"Cotton (piece, sq m) | C | VOC | Guilder | Piece :: role=VOC_unspecified","Cotton (piece, sq m) | C | VOC | Guilder | Piece :: pre1795 :: role=VOC_unspecified"
+170,Cotton,1781,"Cotton (piece, sq m) | C | VOC | Guilder | Piece :: role=VOC_unspecified","Cotton (piece, sq m) | C | VOC | Guilder | Piece :: pre1795 :: role=VOC_unspecified"
+171,Cotton,1791,"Cotton (piece, sq m) | C | VOC | Guilder | Piece :: role=VOC_unspecified","Cotton (piece, sq m) | C | VOC | Guilder | Piece :: pre1795 :: role=VOC_unspecified"
+172,Cotton,1794,"Cotton (piece, sq m) | C | VOC | Guilder | Piece :: role=VOC_unspecified","Cotton (piece, sq m) | C | VOC | Guilder | Piece :: pre1795 :: role=VOC_unspecified"
+173,Cotton,1754,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+174,Cotton,1756,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+175,Cotton,1758,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+176,Cotton,1759,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+177,Cotton,1762,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+178,Cotton,1763,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+179,Cotton,1764,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+180,Cotton,1765,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+181,Cotton,1766,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+182,Cotton,1768,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+183,Cotton,1770,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+184,Cotton,1771,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+185,Cotton,1772,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+186,Cotton,1773,"Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+187,Cotton,1754,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+188,Cotton,1756,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+189,Cotton,1757,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+190,Cotton,1758,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+191,Cotton,1759,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+192,Cotton,1763,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+193,Cotton,1764,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+194,Cotton,1765,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+195,Cotton,1766,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+196,Cotton,1767,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+197,Cotton,1768,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+198,Cotton,1770,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+199,Cotton,1771,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+200,Cotton,1773,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+201,Cotton,1774,"Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+202,Cotton,1747,"Cotton (piece, sq m) | M | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | M | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+203,Cotton,1748,"Cotton (piece, sq m) | M | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | M | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+204,Cotton,1749,"Cotton (piece, sq m) | M | VOC, Rendement (Sales) | Guilder | Piece :: role=VOC_sale","Cotton (piece, sq m) | M | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale"
+205,Cotton,1784,"Cotton (piece, sq m) | N | Cape Archives | Guilder | Piece :: role=government_account","Cotton (piece, sq m) | N | Cape Archives | Guilder | Piece :: pre1795 :: role=government_account"
+206,Cotton,1785,"Cotton (piece, sq m) | N | Cape Archives | Guilder | Piece :: role=government_account","Cotton (piece, sq m) | N | Cape Archives | Guilder | Piece :: pre1795 :: role=government_account"
+207,Cotton,1712,native_MOOC_cloth_auction_transcribed_bafta :: role=auction_transcribed,native_MOOC_cloth_auction_transcribed_bafta :: role=auction_transcribed
+208,Cotton,1721,native_MOOC_cloth_auction_transcribed_bafta :: role=auction_transcribed,native_MOOC_cloth_auction_transcribed_bafta :: role=auction_transcribed
+209,Cotton,1713,"native_MOOC_cloth_auction_transcribed_bafta, blauw :: role=auction_transcribed","native_MOOC_cloth_auction_transcribed_bafta, blauw :: role=auction_transcribed"
+210,Cotton,1753,native_MOOC_cloth_inventory_valuation_bafta :: role=inventory_valuation,native_MOOC_cloth_inventory_valuation_bafta :: role=inventory_valuation
+211,Cotton,1757,native_MOOC_cloth_inventory_valuation_bafta :: role=inventory_valuation,native_MOOC_cloth_inventory_valuation_bafta :: role=inventory_valuation
+212,Cotton,1822,native_MOOC_cloth_inventory_valuation_bafta :: role=inventory_valuation,native_MOOC_cloth_inventory_valuation_bafta :: role=inventory_valuation
+213,Cotton,1771,"native_MOOC_cloth_inventory_valuation_bafta, blauw :: role=inventory_valuation","native_MOOC_cloth_inventory_valuation_bafta, blauw :: role=inventory_valuation"
+214,Cotton,1772,"native_MOOC_cloth_inventory_valuation_bafta, heel, wit :: role=inventory_valuation","native_MOOC_cloth_inventory_valuation_bafta, heel, wit :: role=inventory_valuation"
+215,Cotton,1772,"native_MOOC_cloth_inventory_valuation_bafta, wit :: role=inventory_valuation","native_MOOC_cloth_inventory_valuation_bafta, wit :: role=inventory_valuation"
+216,Cotton,1775,"native_MOOC_cloth_inventory_valuation_bafta, wit :: role=inventory_valuation","native_MOOC_cloth_inventory_valuation_bafta, wit :: role=inventory_valuation"
+217,Fuel,1702,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+218,Fuel,1703,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+219,Fuel,1704,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+220,Fuel,1705,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+221,Fuel,1706,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+222,Fuel,1717,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+223,Fuel,1786,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+224,Fuel,1793,Firewood | B | VOC | Guilder | Vracht :: role=VOC_unspecified,Firewood | B | VOC | Guilder | Vracht :: pre1795 :: role=VOC_unspecified
+225,Fuel,1779,Firewood | C | VOC | Guilder | Vadem :: role=VOC_unspecified,Firewood | C | VOC | Guilder | Vadem :: pre1795 :: role=VOC_unspecified
+226,Fuel,1785,Firewood | E | Cape Archives | Rds | Vracht :: role=government_account,Firewood | E | Cape Archives | Rds | Vracht :: pre1795 :: role=government_account
+227,Fuel,1805,Firewood | E | Cape Archives | Rds | Vracht :: role=government_account,Firewood | E | Cape Archives | Rds | Vracht :: post1795 :: role=government_account
+228,Fuel,1826,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+229,Fuel,1827,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+230,Fuel,1828,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+231,Fuel,1829,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+232,Fuel,1830,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+233,Fuel,1831,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+234,Fuel,1832,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+235,Fuel,1833,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+236,Fuel,1834,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper,Firewood | G | Charcoal | Silver | MBTU :: role=newspaper
+237,Meat,1702,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+238,Meat,1703,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+239,Meat,1704,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+240,Meat,1705,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+241,Meat,1710,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+242,Meat,1713,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+243,Meat,1716,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+244,Meat,1718,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+245,Meat,1726,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+246,Meat,1741,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+247,Meat,1748,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+248,Meat,1761,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+249,Meat,1764,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+250,Meat,1784,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+251,Meat,1789,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+252,Meat,1793,Meat | B | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | B | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+253,Meat,1702,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+254,Meat,1704,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+255,Meat,1705,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+256,Meat,1706,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+257,Meat,1707,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+258,Meat,1708,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+259,Meat,1709,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+260,Meat,1710,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+261,Meat,1711,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+262,Meat,1712,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+263,Meat,1713,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+264,Meat,1714,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+265,Meat,1715,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+266,Meat,1716,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+267,Meat,1717,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+268,Meat,1718,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+269,Meat,1719,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+270,Meat,1720,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+271,Meat,1721,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+272,Meat,1722,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+273,Meat,1723,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+274,Meat,1724,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+275,Meat,1725,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+276,Meat,1727,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+277,Meat,1728,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+278,Meat,1729,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+279,Meat,1731,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+280,Meat,1732,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+281,Meat,1733,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+282,Meat,1734,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+283,Meat,1735,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+284,Meat,1736,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+285,Meat,1737,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+286,Meat,1738,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+287,Meat,1739,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+288,Meat,1740,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+289,Meat,1741,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+290,Meat,1742,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+291,Meat,1743,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+292,Meat,1744,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+293,Meat,1745,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+294,Meat,1748,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+295,Meat,1749,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+296,Meat,1750,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+297,Meat,1751,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+298,Meat,1752,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+299,Meat,1753,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+300,Meat,1754,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+301,Meat,1755,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+302,Meat,1756,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+303,Meat,1757,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+304,Meat,1759,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+305,Meat,1760,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+306,Meat,1761,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+307,Meat,1762,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+308,Meat,1763,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+309,Meat,1764,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+310,Meat,1765,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+311,Meat,1766,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+312,Meat,1767,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+313,Meat,1768,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+314,Meat,1769,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+315,Meat,1770,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+316,Meat,1771,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+317,Meat,1772,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+318,Meat,1773,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+319,Meat,1774,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+320,Meat,1775,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+321,Meat,1776,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+322,Meat,1777,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+323,Meat,1778,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+324,Meat,1779,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+325,Meat,1780,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+326,Meat,1781,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+327,Meat,1783,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+328,Meat,1784,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+329,Meat,1785,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+330,Meat,1786,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+331,Meat,1787,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+332,Meat,1788,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+333,Meat,1789,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+334,Meat,1790,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+335,Meat,1791,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+336,Meat,1792,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+337,Meat,1793,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+338,Meat,1794,Meat | C | VOC | Guilder | Pond :: role=VOC_unspecified,Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+339,Meat,1784,Meat | E | Cape Archives | Guilder | Pond :: role=government_account,Meat | E | Cape Archives | Guilder | Pond :: pre1795 :: role=government_account
+340,Meat,1785,Meat | E | Cape Archives | Guilder | Pond :: role=government_account,Meat | E | Cape Archives | Guilder | Pond :: pre1795 :: role=government_account
+341,Meat,1789,Meat | E | Cape Archives | Guilder | Pond :: role=government_account,Meat | E | Cape Archives | Guilder | Pond :: pre1795 :: role=government_account
+342,Meat,1790,Meat | E | Cape Archives | Guilder | Pond :: role=government_account,Meat | E | Cape Archives | Guilder | Pond :: pre1795 :: role=government_account
+343,Meat,1786,Meat | F | Cape Archives | Rds | Pond :: role=government_account,Meat | F | Cape Archives | Rds | Pond :: pre1795 :: role=government_account
+344,Meat,1817,Meat | F | Cape Archives | Rds | Pond :: role=government_account,Meat | F | Cape Archives | Rds | Pond :: post1795 :: role=government_account
+345,Meat,1823,Meat | F | Cape Archives | Rds | Pond :: role=government_account,Meat | F | Cape Archives | Rds | Pond :: post1795 :: role=government_account
+346,Meat,1797,"Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation","Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation"
+347,Meat,1798,"Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation","Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation"
+348,Meat,1801,"Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation","Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation"
+349,Meat,1803,"Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation","Meat | G | Neumark, p. 110, 189. | Rds | Lbs :: role=secondary_compilation"
+350,Meat,1833,Meat | I | Blue Books / Statistical Tables | Silver | Kg :: role=official_statistics,Meat | I | Blue Books / Statistical Tables | Silver | Kg :: role=official_statistics
+351,Oil,1700,Lamp oil | D | VOC | Guilder | Mengel/Kan :: role=VOC_unspecified,Lamp oil | D | VOC | Guilder | Mengel/Kan :: pre1795 :: role=VOC_unspecified
+352,Oil,1701,Lamp oil | D | VOC | Guilder | Mengel/Kan :: role=VOC_unspecified,Lamp oil | D | VOC | Guilder | Mengel/Kan :: pre1795 :: role=VOC_unspecified
+353,Oil,1702,Lamp oil | D | VOC | Guilder | Mengel/Kan :: role=VOC_unspecified,Lamp oil | D | VOC | Guilder | Mengel/Kan :: pre1795 :: role=VOC_unspecified
+354,Oil,1703,Lamp oil | D | VOC | Guilder | Mengel/Kan :: role=VOC_unspecified,Lamp oil | D | VOC | Guilder | Mengel/Kan :: pre1795 :: role=VOC_unspecified
+355,Oil,1704,Lamp oil | D | VOC | Guilder | Mengel/Kan :: role=VOC_unspecified,Lamp oil | D | VOC | Guilder | Mengel/Kan :: pre1795 :: role=VOC_unspecified
+356,Oil,1705,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+357,Oil,1706,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+358,Oil,1708,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+359,Oil,1711,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+360,Oil,1712,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+361,Oil,1713,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+362,Oil,1714,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+363,Oil,1715,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+364,Oil,1717,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+365,Oil,1720,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+366,Oil,1721,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+367,Oil,1722,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+368,Oil,1729,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+369,Oil,1732,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+370,Oil,1733,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+371,Oil,1734,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+372,Oil,1735,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+373,Oil,1737,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+374,Oil,1739,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+375,Oil,1742,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+376,Oil,1769,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+377,Oil,1772,Lamp oil | H | VOC | Guilder | Kan :: role=VOC_unspecified,Lamp oil | H | VOC | Guilder | Kan :: pre1795 :: role=VOC_unspecified
+378,Oil,1784,Lamp oil | J | Cape Archives | Guilder | Kan :: role=government_account,Lamp oil | J | Cape Archives | Guilder | Kan :: pre1795 :: role=government_account
+379,Oil,1785,Lamp oil | J | Cape Archives | Guilder | Kan :: role=government_account,Lamp oil | J | Cape Archives | Guilder | Kan :: pre1795 :: role=government_account
+380,Soap,1700,Soap | C | VOC | Guilder | Pond :: role=VOC_unspecified,Soap | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+381,Soap,1702,Soap | C | VOC | Guilder | Pond :: role=VOC_unspecified,Soap | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified
+382,Soap,1747,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+383,Soap,1748,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+384,Soap,1749,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+385,Soap,1751,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+386,Soap,1752,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+387,Soap,1755,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+388,Soap,1756,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+389,Soap,1757,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+390,Soap,1758,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+391,Soap,1759,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+392,Soap,1760,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+393,Soap,1762,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+394,Soap,1764,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+395,Soap,1765,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+396,Soap,1767,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+397,Soap,1768,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+398,Soap,1770,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+399,Soap,1771,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+400,Soap,1773,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+401,Soap,1774,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+402,Soap,1775,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: role=VOC_sale,Soap | G | VOC (Rendementen: sales) | Guilder | Pond :: pre1795 :: role=VOC_sale
+403,Soap,1783,"Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation","Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation"
+404,Soap,1797,"Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation","Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation"
+405,Soap,1798,"Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation","Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation"
+406,Soap,1801,"Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation","Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation"
+407,Soap,1803,"Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation","Soap | H | Neumark, p. 110; 189. | Rds | Pond/Lbs. :: role=secondary_compilation"
+408,Soap,1822,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+409,Soap,1823,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+410,Soap,1825,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+411,Soap,1826,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+412,Soap,1827,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+413,Soap,1828,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+414,Soap,1829,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+415,Soap,1830,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+416,Soap,1831,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+417,Soap,1832,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+418,Soap,1833,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+419,Soap,1834,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation","Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation"
+420,Soap,1826,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+421,Soap,1827,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+422,Soap,1828,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+423,Soap,1829,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+424,Soap,1830,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+425,Soap,1831,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+426,Soap,1832,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+427,Soap,1833,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+428,Soap,1834,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper
+429,Soap,1770,project_auction_soap_cape_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_cape_lb_Dutch_label_Dutch_label :: role=auction
+430,Soap,1769,project_auction_soap_imported_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_imported_lb_Dutch_label_Dutch_label :: role=auction
+431,Soap,1760,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+432,Soap,1769,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+433,Soap,1771,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+434,Soap,1786,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+435,Soap,1787,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+436,Soap,1790,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+437,Soap,1802,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+438,Soap,1807,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+439,Soap,1816,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+440,Soap,1819,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+441,Soap,1827,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction
+442,Soap,1830,project_auction_soap_lb_English_label_English_label :: role=auction,project_auction_soap_lb_English_label_English_label :: role=auction
+443,Wheat,1700,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+444,Wheat,1701,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+445,Wheat,1702,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+446,Wheat,1703,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+447,Wheat,1704,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+448,Wheat,1705,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+449,Wheat,1706,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+450,Wheat,1710,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+451,Wheat,1717,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+452,Wheat,1718,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+453,Wheat,1719,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+454,Wheat,1720,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+455,Wheat,1722,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+456,Wheat,1723,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+457,Wheat,1724,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+458,Wheat,1725,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+459,Wheat,1726,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+460,Wheat,1728,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+461,Wheat,1729,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+462,Wheat,1730,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+463,Wheat,1731,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+464,Wheat,1732,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+465,Wheat,1733,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+466,Wheat,1734,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+467,Wheat,1735,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+468,Wheat,1736,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+469,Wheat,1737,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+470,Wheat,1738,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+471,Wheat,1739,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+472,Wheat,1740,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+473,Wheat,1742,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+474,Wheat,1743,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+475,Wheat,1744,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+476,Wheat,1745,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+477,Wheat,1746,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+478,Wheat,1747,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+479,Wheat,1748,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+480,Wheat,1749,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+481,Wheat,1750,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+482,Wheat,1751,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+483,Wheat,1752,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+484,Wheat,1753,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+485,Wheat,1754,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+486,Wheat,1755,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+487,Wheat,1756,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+488,Wheat,1757,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+489,Wheat,1759,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+490,Wheat,1760,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+491,Wheat,1761,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+492,Wheat,1762,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+493,Wheat,1763,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+494,Wheat,1764,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+495,Wheat,1765,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+496,Wheat,1766,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+497,Wheat,1767,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+498,Wheat,1768,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+499,Wheat,1769,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+500,Wheat,1770,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+501,Wheat,1771,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+502,Wheat,1772,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+503,Wheat,1773,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+504,Wheat,1774,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+505,Wheat,1775,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+506,Wheat,1776,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+507,Wheat,1777,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+508,Wheat,1778,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+509,Wheat,1779,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+510,Wheat,1780,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+511,Wheat,1781,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+512,Wheat,1783,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+513,Wheat,1784,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+514,Wheat,1785,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+515,Wheat,1786,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+516,Wheat,1787,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+517,Wheat,1788,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+518,Wheat,1789,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+519,Wheat,1790,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+520,Wheat,1791,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+521,Wheat,1792,Wheat | E | VOC | Guilder | Muid :: role=VOC_unspecified,Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified
+522,Wheat,1784,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account,Wheat | F | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+523,Wheat,1785,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account,Wheat | F | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+524,Wheat,1786,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account,Wheat | F | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+525,Wheat,1793,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account,Wheat | F | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+526,Wheat,1794,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account,Wheat | F | Cape Archives | Guilder | Muid :: pre1795 :: role=government_account
+527,Wheat,1795,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account,Wheat | F | Cape Archives | Guilder | Muid :: post1795 :: role=government_account
+528,Wheat,1805,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account_role_unspecified,Wheat | F | Cape Archives | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+529,Wheat,1815,Wheat | F | Cape Archives | Guilder | Muid :: role=government_account_role_unspecified,Wheat | F | Cape Archives | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+530,Wheat,1784,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_account,Wheat | G | Cape Archives2 | Guilder | Muid :: pre1795 :: role=government_account
+531,Wheat,1785,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_account,Wheat | G | Cape Archives2 | Guilder | Muid :: pre1795 :: role=government_account
+532,Wheat,1793,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_account,Wheat | G | Cape Archives2 | Guilder | Muid :: pre1795 :: role=government_account
+533,Wheat,1794,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_account,Wheat | G | Cape Archives2 | Guilder | Muid :: pre1795 :: role=government_account
+534,Wheat,1795,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_account,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_account
+535,Wheat,1818,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+536,Wheat,1819,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+537,Wheat,1820,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+538,Wheat,1821,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+539,Wheat,1822,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+540,Wheat,1823,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+541,Wheat,1824,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+542,Wheat,1825,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+543,Wheat,1826,Wheat | G | Cape Archives2 | Guilder | Muid :: role=government_sale,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale
+544,Wheat,1784,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account,Wheat | H | Cape Archives3 | Guilder | Muid :: pre1795 :: role=government_account
+545,Wheat,1794,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account,Wheat | H | Cape Archives3 | Guilder | Muid :: pre1795 :: role=government_account
+546,Wheat,1818,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account_role_unspecified,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+547,Wheat,1819,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account_role_unspecified,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+548,Wheat,1820,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account_role_unspecified,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+549,Wheat,1821,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account_role_unspecified,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+550,Wheat,1822,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account_role_unspecified,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+551,Wheat,1827,Wheat | H | Cape Archives3 | Guilder | Muid :: role=government_account_role_unspecified,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified
+552,Wheat,1797,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation
+553,Wheat,1798,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation
+554,Wheat,1801,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation
+555,Wheat,1802,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation
+556,Wheat,1825,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+557,Wheat,1826,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+558,Wheat,1827,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+559,Wheat,1828,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+560,Wheat,1829,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+561,Wheat,1830,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+562,Wheat,1831,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+563,Wheat,1832,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+564,Wheat,1833,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+565,Wheat,1834,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper
+566,Wheat,1828,Wheat | M | Blue Books | £ | Bushel :: role=official_statistics,Wheat | M | Blue Books | £ | Bushel :: role=official_statistics
+567,Wheat,1833,Wheat | M | Blue Books | £ | Bushel :: role=official_statistics,Wheat | M | Blue Books | £ | Bushel :: role=official_statistics
+568,Wheat,1729,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+569,Wheat,1731,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+570,Wheat,1733,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+571,Wheat,1734,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+572,Wheat,1737,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+573,Wheat,1738,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+574,Wheat,1739,project_auction_wheat_grain_blue :: role=auction,project_auction_wheat_grain_blue :: role=auction
+575,Wheat,1731,project_auction_wheat_grain_large :: role=auction,project_auction_wheat_grain_large :: role=auction
+576,Wheat,1734,project_auction_wheat_grain_large :: role=auction,project_auction_wheat_grain_large :: role=auction
+577,Wheat,1747,project_auction_wheat_grain_large :: role=auction,project_auction_wheat_grain_large :: role=auction
+578,Wheat,1729,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+579,Wheat,1731,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+580,Wheat,1733,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+581,Wheat,1734,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+582,Wheat,1736,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+583,Wheat,1738,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+584,Wheat,1739,project_auction_wheat_grain_small :: role=auction,project_auction_wheat_grain_small :: role=auction
+585,Wheat,1701,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+586,Wheat,1703,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+587,Wheat,1707,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+588,Wheat,1711,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+589,Wheat,1713,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+590,Wheat,1719,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+591,Wheat,1721,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+592,Wheat,1722,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+593,Wheat,1723,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+594,Wheat,1724,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+595,Wheat,1726,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+596,Wheat,1728,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+597,Wheat,1731,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+598,Wheat,1734,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+599,Wheat,1735,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+600,Wheat,1736,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+601,Wheat,1738,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+602,Wheat,1740,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+603,Wheat,1744,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+604,Wheat,1745,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+605,Wheat,1746,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+606,Wheat,1747,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+607,Wheat,1748,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+608,Wheat,1749,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+609,Wheat,1750,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+610,Wheat,1752,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+611,Wheat,1754,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+612,Wheat,1755,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+613,Wheat,1756,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+614,Wheat,1758,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+615,Wheat,1761,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+616,Wheat,1765,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+617,Wheat,1766,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+618,Wheat,1770,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+619,Wheat,1771,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+620,Wheat,1779,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+621,Wheat,1781,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+622,Wheat,1788,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+623,Wheat,1789,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+624,Wheat,1790,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+625,Wheat,1792,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+626,Wheat,1793,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+627,Wheat,1794,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+628,Wheat,1802,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+629,Wheat,1831,project_auction_wheat_grain_unspecified :: role=auction,project_auction_wheat_grain_unspecified :: role=auction
+630,Wheat,1738,project_auction_wheat_grain_white :: role=auction,project_auction_wheat_grain_white :: role=auction
+631,Wheat,1747,project_auction_wheat_grain_white :: role=auction,project_auction_wheat_grain_white :: role=auction
+632,Wheat,1737,project_auction_wheat_grain_zeeuws :: role=auction,project_auction_wheat_grain_zeeuws :: role=auction

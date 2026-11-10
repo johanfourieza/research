@@ -1,0 +1,12 @@
+loading,commodity,year,loaded_channel,unloaded_channel,loaded_role,unloaded_role,observed_log_wedge
+g_all,Soap,1827,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation",project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,other,auction,-0.5247407652097489
+g_all,Soap,1827,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,other,auction,0.553789989860888
+g_all,Wheat,1802,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation,project_auction_wheat_grain_unspecified :: role=auction,other,auction,0.34758021403284944
+g_all,Wheat,1831,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,project_auction_wheat_grain_unspecified :: role=auction,other,auction,0.24232890725349687
+g_new,Soap,1827,"Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation",project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,other,auction,-0.5247407652097489
+g_new,Soap,1827,Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper,project_auction_soap_lb_Dutch_label_Dutch_label :: role=auction,other,auction,0.553789989860888
+g_new,Wheat,1802,Wheat | K | Theal | Rds | Muid :: role=secondary_compilation,project_auction_wheat_grain_unspecified :: role=auction,other,auction,0.34758021403284944
+g_new,Wheat,1825,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale,other,official,0.10873320013646492
+g_new,Wheat,1826,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | G | Cape Archives2 | Guilder | Muid :: post1795 :: role=government_sale,other,official,0.0034236887093028745
+g_new,Wheat,1827,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,Wheat | H | Cape Archives3 | Guilder | Muid :: post1795 :: role=government_account_role_unspecified,other,official,0.04655325423820922
+g_new,Wheat,1831,Wheat | L | South African Commercial Advertiser | Silver | Kg :: role=newspaper,project_auction_wheat_grain_unspecified :: role=auction,other,auction,0.24232890725349687

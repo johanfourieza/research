@@ -1,0 +1,18 @@
+source(here::here('replication','R','helpers.R'))
+out <- file.path(v2_out,'validation','preferred1795')
+dir.create(out,recursive=TRUE,showWarnings=FALSE)
+read <- function(name) read_csv(here::here('data','inputs','validation',name),show_col_types=FALSE)
+mapping <- read('paired_observation_mapping.csv')
+primary_path <- file.path(v2_out,'annual_state_model.rds')
+f <- readRDS(primary_path)
+panel <- f$panel |> left_join(mapping,by=c('commodity','year','model_source_id')) |> arrange(row_id)
+membership <- read('test_membership.csv')
+folds <- split(as.integer(membership$row_id),factor(membership$fold_id,levels=unique(membership$fold_id)))
+stopifnot(nrow(panel)==632L,n_distinct(panel$model_source_id)==69L,!anyNA(panel$row_id),!anyDuplicated(panel$row_id),length(folds)==49L)
+design <- list(panel=panel,folds=folds,ledger=read('fold_ledger.csv'),primary_md5=unname(tools::md5sum(primary_path)),
+ neutral_inits=log(c(.05,.08,.2,.45,.15,.3,.2)),nsim=400L,seed=20261109L,
+ splice_donors=read('overlap_splice_selected_design.csv'),run_name='preferred1795')
+saveRDS(design,file.path(out,'design.rds'))
+stopifnot(file.copy(primary_path,file.path(out,'primary_snapshot.rds'),overwrite=TRUE))
+for(name in c('source_overlap_component_sizes.csv','actual_late_missingness_template.csv'))
+ write_csv(read(name),file.path(out,name))

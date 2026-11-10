@@ -1,0 +1,56 @@
+suppressPackageStartupMessages({library(tidyverse);library(here);library(digest)})
+base<-here::here("replication","work","analysis","simulation","revised_primary1795")
+addon<-here::here("replication","work","analysis","simulation","revised_primary1795_addon")
+refdir<-file.path(base,'flagged_optimizer_refinement')
+read<-function(dir,name)read_csv(file.path(dir,name),show_col_types=FALSE)
+bd<-read(base,'fit_diagnostics.csv');ad<-read(addon,'fit_diagnostics.csv')
+bs<-read(base,'frozen_schedule.csv');ads<-read(addon,'frozen_schedule.csv')
+stopifnot(nrow(bd)==1020,nrow(ad)==200,all(bd$success),all(ad$success),setequal(bd$key,bs$key),setequal(ad$key,ads$key),!anyDuplicated(c(bd$key,ad$key)))
+refs<-map(list.files(refdir,pattern='[.]rds$',full.names=TRUE),readRDS);stopifnot(length(refs)==4)
+best<-map(refs,function(r) {
+ opt<-r$optimization |> filter(str_starts(solution,'refined_'));stopifnot(all(opt$convergence==0))
+ selected<-opt$solution[which.min(opt$nll)]
+ list(scenario=r$scenario,replicate=r$replicate,selected=selected,evaluation=r$evaluations[[selected]],optimization=r$optimization,
+  convergence_gap=diff(range(opt$nll)))
+})
+selected<-map_dfr(best,~tibble(scenario=.x$scenario,replicate=.x$replicate,selected_solution=.x$selected,tight_start_nll_gap=.x$convergence_gap))
+write_csv(selected,file.path(refdir,'selected_refined_solutions.csv'))
+orig_ratio<-read(base,'replicate_ratios.csv') |> filter(fit_variant=='primary')
+new_ratio<-bind_rows(map(best,~.x$evaluation$ratios)) |> select(scenario,replicate,functional,new_log_error=log_error,new_covered=covered,new_point=point,new_q05=q05,new_q95=q95)
+counter<-orig_ratio |> left_join(new_ratio,by=c('scenario','replicate','functional')) |>
+ mutate(counter_log_error=coalesce(new_log_error,log_error),counter_covered=coalesce(new_covered,covered))
+impact<-counter |> group_by(scenario,functional) |> summarise(n=n(),n_refined=sum(!is.na(new_log_error)),original_log_bias=mean(log_error),counterfactual_log_bias=mean(counter_log_error),bias_mcse=sd(log_error)/sqrt(n()),
+  original_coverage=mean(covered),counterfactual_coverage=mean(counter_covered),coverage_mcse=sqrt(mean(covered)*(1-mean(covered))/n()),
+  n_coverage_events_changed=sum(covered!=counter_covered),original_log_rmse=sqrt(mean(log_error^2)),counterfactual_log_rmse=sqrt(mean(counter_log_error^2)),.groups='drop') |>
+ mutate(log_bias_change=counterfactual_log_bias-original_log_bias,coverage_change_pp=100*(counterfactual_coverage-original_coverage),bias_change_in_mcse=abs(log_bias_change)/bias_mcse,coverage_change_in_mcse=if_else(coverage_mcse>0,abs(counterfactual_coverage-original_coverage)/coverage_mcse,NA_real_))
+write_csv(impact,file.path(refdir,'aggregate_functional_refinement_impact.csv'))
+repchange<-counter |> filter(!is.na(new_log_error)) |> mutate(point_log_change=log(new_point/point),q05_log_change=log(new_q05/q05),q95_log_change=log(new_q95/q95),coverage_changed=covered!=new_covered)
+write_csv(repchange,file.path(refdir,'selected_refinement_functional_changes.csv'))
+om<-read(base,'replicate_metrics.csv') |> filter(fit_variant=='primary') |> pivot_longer(c(log_rmse,log_bias,pointwise_coverage,mean_interval_log_width),names_to='metric',values_to='original')
+nm<-bind_rows(map(best,~.x$evaluation$metrics)) |> pivot_longer(c(log_rmse,log_bias,pointwise_coverage,mean_interval_log_width),names_to='metric',values_to='refined') |> select(scenario,replicate,group,metric,refined)
+mi<-om |> left_join(nm,by=c('scenario','replicate','group','metric')) |> mutate(counterfactual=coalesce(refined,original)) |>
+ group_by(scenario,group,metric) |> summarise(n=n(),n_refined=sum(!is.na(refined)),original_mean=mean(original),counterfactual_mean=mean(counterfactual),mcse=sd(original)/sqrt(n()),.groups='drop') |>
+ mutate(change=counterfactual_mean-original_mean,change_in_mcse=if_else(mcse>0,abs(change)/mcse,NA_real_))
+write_csv(mi,file.path(refdir,'aggregate_annual_refinement_impact.csv'))
+op<-read(base,'replicate_peak.csv') |> filter(fit_variant=='primary')
+np<-bind_rows(map(best,~.x$evaluation$peak)) |> select(scenario,replicate,new_before1825=prob_peak_before1825,new_before1826=prob_peak_before1826,new_peak_coverage=covered)
+pc<-op |> left_join(np,by=c('scenario','replicate')) |> mutate(prob_change_before1825=new_before1825-prob_peak_before1825,prob_change_before1826=new_before1826-prob_peak_before1826)
+write_csv(pc |> filter(!is.na(new_before1825)),file.path(refdir,'selected_refinement_peak_changes.csv'))
+write_csv(pc |> group_by(scenario) |> summarise(n=n(),original_mean_before1825=mean(prob_peak_before1825),refined_mean_before1825=mean(coalesce(new_before1825,prob_peak_before1825)),original_mean_mcse=sd(prob_peak_before1825)/sqrt(n()),original_peak_coverage=mean(covered),refined_peak_coverage=mean(coalesce(new_peak_coverage,covered)),.groups='drop'),file.path(refdir,'aggregate_peak_refinement_impact.csv'))
+# Clean fixed-path baseline needed alongside paired stress-minus-reference effects.
+cr<-read(addon,'replicate_ratios.csv')
+clean<-cr |> group_by(functional) |> summarise(n=n(),log_bias=mean(log_error),bias_mcse=sd(log_error)/sqrt(n()),log_rmse=sqrt(mean(log_error^2)),coverage=mean(covered),coverage_mcse=sqrt(mean(covered)*(1-mean(covered))/n()),.groups='drop')
+write_csv(clean,file.path(addon,'clean_functional_recovery_summary.csv'))
+annual<-read(base,'basket_recovery_summary.csv') |> filter(scenario=='S0_prior_calibration',metric=='pointwise_coverage',group%in%c('all','post1795','goods_0'))
+historical<-c('ratio_1770s_to1700','ratio_1822_to1795','ratio_1818_1824_to1795','ratio_1834_to1795','ratio_1820_1824_to1770s')
+functional<-read(base,'functional_recovery_summary.csv') |> filter(scenario=='S0_prior_calibration',functional%in%historical)
+write_csv(annual,file.path(base,'AUTHOR_TABLE_S0_annual.csv'));write_csv(functional,file.path(base,'AUTHOR_TABLE_S0_functionals.csv'))
+paired<-read(addon,'paired_stress_functional_summary.csv') |> filter(functional%in%historical)
+write_csv(paired,file.path(addon,'AUTHOR_TABLE_paired_functionals.csv'))
+completion<-tibble(component=c('frozen_base','clean_reference','tight_refinement_optimizations'),expected=c(1020L,200L,8L),completed=c(nrow(bd),nrow(ad),8L),successful=c(sum(bd$success),sum(ad$success),8L),failures=c(sum(!bd$success),sum(!ad$success),0L))
+write_csv(completion,file.path(addon,'final_completion.csv'))
+write_csv(tibble(check=c('all1220scheduled_keys_unique_complete','all1220successful','four_refinements_two_starts_converged','allpaired_scenarios200perfunctional','original_base_code_unchanged','original_addon_code_unchanged'),passed=c(TRUE,TRUE,all(selected$tight_start_nll_gap<1e-5),all(read(addon,'paired_stress_functional_summary.csv')$n==200),all(read(base,'code_integrity.csv')$unchanged),all(read(addon,'code_integrity.csv')$unchanged))),file.path(addon,'final_integrity_checks.csv'))
+cat('COMPLETION\n');print(completion)
+cat('MAX CHECKED-CASE CHANGES\n');print(tibble(max_abs_functional_log_change=max(abs(repchange$point_log_change)),max_endpoint_log_change=max(abs(c(repchange$q05_log_change,repchange$q95_log_change))),changed_functional_events=sum(repchange$coverage_changed),max_peak_prob_change=max(abs(c(pc$prob_change_before1825,pc$prob_change_before1826)),na.rm=TRUE)))
+cat('MAX AGGREGATE IMPACT\n');print(tibble(max_bias_change_in_mcse=max(impact$bias_change_in_mcse,na.rm=TRUE),max_coverage_change_pp=max(abs(impact$coverage_change_pp)),max_coverage_change_in_mcse=max(impact$coverage_change_in_mcse,na.rm=TRUE),max_annual_metric_change_in_mcse=max(mi$change_in_mcse,na.rm=TRUE)))
+cat('S0 ANNUAL\n');print(annual |> select(fit_variant,group,n,mean,mcse))

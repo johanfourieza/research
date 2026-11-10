@@ -1,0 +1,51 @@
+fold_id,fold_type,description,n_test,n_train,status,paired_constant_mask,constant_component_id,component_id,n_preferred_components,size_rank
+portfolio_1720_01,portfolio_block,"All commodities and channels, 1720-1720",5,627,eligible,TRUE,,,,
+portfolio_1740_01,portfolio_block,"All commodities and channels, 1740-1740",4,628,eligible,TRUE,,,,
+portfolio_1760_01,portfolio_block,"All commodities and channels, 1760-1760",6,626,eligible,TRUE,,,,
+portfolio_1780_01,portfolio_block,"All commodities and channels, 1780-1780",4,628,eligible,TRUE,,,,
+portfolio_1800_01,portfolio_block,"All commodities and channels, 1800-1800",0,632,empty_test,TRUE,,,,
+portfolio_1820_01,portfolio_block,"All commodities and channels, 1820-1820",2,630,eligible,TRUE,,,,
+portfolio_1720_05,portfolio_block,"All commodities and channels, 1720-1724",21,611,eligible,TRUE,,,,
+portfolio_1740_05,portfolio_block,"All commodities and channels, 1740-1744",20,612,eligible,TRUE,,,,
+portfolio_1760_05,portfolio_block,"All commodities and channels, 1760-1764",33,599,eligible,TRUE,,,,
+portfolio_1780_05,portfolio_block,"All commodities and channels, 1780-1784",30,602,eligible,TRUE,,,,
+portfolio_1800_05,portfolio_block,"All commodities and channels, 1800-1804",10,622,eligible,TRUE,,,,
+portfolio_1820_05,portfolio_block,"All commodities and channels, 1820-1824",17,615,eligible,TRUE,,,,
+portfolio_1720_10,portfolio_block,"All commodities and channels, 1720-1729",40,592,eligible,TRUE,,,,
+portfolio_1740_10,portfolio_block,"All commodities and channels, 1740-1749",47,585,eligible,TRUE,,,,
+portfolio_1760_10,portfolio_block,"All commodities and channels, 1760-1769",64,568,eligible,TRUE,,,,
+portfolio_1780_10,portfolio_block,"All commodities and channels, 1780-1789",67,565,eligible,TRUE,,,,
+portfolio_1800_10,portfolio_block,"All commodities and channels, 1800-1809",13,619,eligible,TRUE,,,,
+portfolio_1820_10,portfolio_block,"All commodities and channels, 1820-1829",52,580,eligible,TRUE,,,,
+actual_missingness_shift-80,portfolio_actual_pattern,1795-1824 commodity-year absence pattern shifted -80 years,104,528,eligible,TRUE,,,,
+actual_missingness_shift-50,portfolio_actual_pattern,1795-1824 commodity-year absence pattern shifted -50 years,136,496,eligible,TRUE,,,,
+actual_missingness_shift-30,portfolio_actual_pattern,1795-1824 commodity-year absence pattern shifted -30 years,141,491,eligible,TRUE,,,,
+component_Beans__1,source_overlap_component,Whole same-year overlap component Beans__1,90,542,eligible,TRUE,Beans__1,Beans__1,1,1
+component_Beans__5,source_overlap_component,Whole same-year overlap component Beans__5,9,623,eligible,TRUE,Beans__5,Beans__5,1,2
+component_Butter__2,source_overlap_component,Whole same-year overlap component Butter__2,17,615,eligible,TRUE,Butter__2,Butter__2,1,1
+component_Butter__7,source_overlap_component,Whole same-year overlap component Butter__7,13,619,eligible,TRUE,Butter__7,Butter__7,1,2
+component_Candles__1,source_overlap_component,Whole same-year overlap component Candles__1,10,622,eligible,TRUE,Candles__1,Candles__1,1,1
+component_Candles__4,source_overlap_component,Whole same-year overlap component Candles__4,10,622,eligible,TRUE,Candles__4,Candles__4,1,2
+component_Cotton__2,source_overlap_component,Whole same-year overlap component Cotton__2,36,596,eligible,TRUE,Cotton__2,Cotton__2,1,1
+component_Cotton__1,source_overlap_component,Whole same-year overlap component Cotton__1,4,628,eligible,TRUE,Cotton__1,Cotton__1,1,2
+component_Fuel__4,source_overlap_component,Whole same-year overlap component Fuel__4,9,623,eligible,TRUE,Fuel__4,Fuel__5,1,1
+component_Fuel__1,source_overlap_component,Whole same-year overlap component Fuel__1,8,624,eligible,TRUE,Fuel__1,Fuel__1,1,2
+component_Meat__1,transported_component_union,Whole same-year overlap component Meat__1,109,523,eligible,TRUE,Meat__1,,2,
+component_Meat__5,source_overlap_component,Whole same-year overlap component Meat__5,4,628,eligible,TRUE,Meat__5,Meat__6,1,2
+component_Oil__2,source_overlap_component,Whole same-year overlap component Oil__2,22,610,eligible,TRUE,Oil__2,Oil__2,1,1
+component_Oil__1,source_overlap_component,Whole same-year overlap component Oil__1,5,627,eligible,TRUE,Oil__1,Oil__1,1,2
+component_Soap__2,source_overlap_component,Whole same-year overlap component Soap__2,56,576,eligible,TRUE,Soap__2,Soap__2,1,1
+component_Soap__3,source_overlap_component,Whole same-year overlap component Soap__3,5,627,eligible,TRUE,Soap__3,Soap__3,1,2
+component_Wheat__1,transported_component_union,Whole same-year overlap component Wheat__1,188,444,eligible,TRUE,Wheat__1,,2,
+component_Wheat__3,source_overlap_component,Whole same-year overlap component Wheat__3,2,630,eligible,TRUE,Wheat__3,Wheat__3,1,3
+component_preferred_Meat__1,source_overlap_component,Constituent of a split constant-offset component: Meat__1,107,525,eligible,FALSE,,Meat__1,1,1
+component_preferred_Meat__4,source_overlap_component,Constituent of a split constant-offset component: Meat__4,2,630,eligible,FALSE,,Meat__4,1,3
+component_preferred_Wheat__1,source_overlap_component,Constituent of a split constant-offset component: Wheat__1,186,446,eligible,FALSE,,Wheat__1,1,1
+component_preferred_Wheat__2,source_overlap_component,Constituent of a split constant-offset component: Wheat__2,2,630,eligible,FALSE,,Wheat__2,1,2
+overlap_splice_01,single_channel_partial,"Five observed target years, training-overlap calibrated donor Cotton (piece, sq m) | K | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale",5,627,eligible,FALSE,,,,
+overlap_splice_02,single_channel_partial,"Five observed target years, training-overlap calibrated donor Meat | C | VOC | Guilder | Pond :: pre1795 :: role=VOC_unspecified",5,627,eligible,FALSE,,,,
+overlap_splice_03,single_channel_partial,"Five observed target years, training-overlap calibrated donor Soap | I | Neumark, p. 89, 155. | £ | Lbs. :: role=secondary_compilation",5,627,eligible,FALSE,,,,
+overlap_splice_04,single_channel_partial,"Five observed target years, training-overlap calibrated donor Wheat | E | VOC | Guilder | Muid :: pre1795 :: role=VOC_unspecified",5,627,eligible,FALSE,,,,
+overlap_splice_05,single_channel_partial,"Five observed target years, training-overlap calibrated donor Cotton (piece, sq m) | I | VOC, Rendement (Sales) | Guilder | Piece :: pre1795 :: role=VOC_sale",5,627,eligible,FALSE,,,,
+overlap_splice_06,single_channel_partial,"Five observed target years, training-overlap calibrated donor Soap | L | South African Commerical Advertiser | Silver | Kg :: role=newspaper",5,627,eligible,FALSE,,,,
+overlap_splice_07,single_channel_partial,"Five observed target years, training-overlap calibrated donor project_auction_wheat_grain_unspecified :: role=auction",5,627,eligible,FALSE,,,,

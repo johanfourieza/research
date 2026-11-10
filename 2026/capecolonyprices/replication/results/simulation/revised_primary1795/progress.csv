@@ -1,0 +1,10 @@
+scenario,fit_variant,completed,successful,failed,neutral_retries,fit_seconds,total_seconds
+S0_prior_calibration,neutral_start_check,5,5,0,0,588.1100000000004,588.1100000000004
+S0_prior_calibration,primary,200,200,0,0,16659.019999999997,19094.059999999998
+S0_prior_calibration,true_parameter_plugin,200,200,0,0,198.059999999999,2591.540000000002
+S1_fixed_source_wedge,neutral_start_check,5,5,0,0,589.1199999999997,589.1499999999996
+S1_fixed_source_wedge,primary,200,200,0,0,11256.839999999997,13695.609999999997
+S2_official_channel_ar,neutral_start_check,5,5,0,0,815.8400000000001,815.8600000000001
+S2_official_channel_ar,primary,200,200,0,0,16798.51,19220.319999999996
+S3_administered_runs,neutral_start_check,5,5,0,0,655.3100000000001,655.3399999999998
+S3_administered_runs,primary,200,200,0,0,15669.730000000003,18089.620000000003

@@ -1,0 +1,5 @@
+source(here::here('replication','R','helpers.R'))
+primary <- readRDS(file.path(v2_out,'annual_state_model.rds'))
+panel <- prepare_price_panel(v2_read('nominal_observation_ledger.csv'),fixed_offsets=TRUE)
+f <- fit_checked(panel,inits=primary$optim$par)
+saveRDS(f,file.path(v2_out,'audited_constant_fit.rds'))

@@ -1,0 +1,21 @@
+source(here::here("replication","R","helpers.R"))
+ledger <- v2_read("nominal_observation_ledger.csv")
+panel <- prepare_price_panel(ledger,fixed_offsets=FALSE)
+start <- read_csv(here::here("data","inputs","estimation_initial_values.csv"),show_col_types=FALSE)$log_initial_value
+fit <- fit_checked(panel,inits=start)
+saveRDS(fit,file.path(v2_out,"annual_state_model.rds"))
+v2_write(panel,"annual_model_panel.csv")
+v2_write(summarise_price_fit(fit),"elementary_annual_state.csv")
+off <- fit$channels |> mutate(offset=as.numeric(fit$smooth$alphahat[1,fit$n_dynamic+seq_len(n())]),
+ offset_sd=sqrt(pmax(0,diag(fit$smooth$V[,,1])[fit$n_dynamic+seq_len(n())])),prior_sd=fit$offset_sd)
+v2_write(off,"source_offset_estimates.csv")
+v2_write(tibble(parameter=c("common_innovation_sd","commodity_innovation_sd","wheat_extra_innovation_sd","auction_observation_sd","official_observation_sd","other_observation_sd","wheat_transitory_sd"),
+ estimate=exp(fit$optim$par),convergence=fit$optim$convergence,negative_log_likelihood=fit$optim$value),"state_model_parameters.csv")
+d <- index_from_fit(fit)
+saveRDS(list(log_price=d$log_price,year=fit$years,commodity=fit$commodities,seed=d$seed),file.path(v2_out,"elementary_annual_draws.rds"))
+export_joint(d$joint,fit$years,"annual_index_joint_draws",d$seed)
+h <- historical_functionals(d$annual,d$joint,"primary")
+v2_write(h$relatives,"historical_functionals_primary.csv");v2_write(h$peak_summary,"peak_timing_primary.csv")
+v2_write(h$peak_draws,"peak_year_draws_primary.csv")
+cat("Primary fit complete:",nrow(panel),"channel-years,",nrow(fit$channels),"channels; NLL",fit$optim$value,"\n")
+print(h$relatives);print(h$peak_summary)

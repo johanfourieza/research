@@ -1,0 +1,43 @@
+placement,output,producer,generated_files
+paper,Table coverage,paper_tables.R,coverage_rows.tex
+paper,Table validation,validation_tables.R,validation_main_compact_rows.tex
+paper,Table relatives,extended_tables.R,historical_relative_rows.tex
+appendix,Table app_xml_audit,appendix_tables.R,appendix_xml_audit_rows.tex
+appendix,Table app_exclusions,build_inputs.R; appendix_tables.R,appendix_exclusions_rows.tex
+appendix,Table app_units,build_inputs.R,nominal_observation_ledger.csv
+appendix,Table app_connectivity,paper_source_connectivity.R; appendix_tables.R,appendix_connectivity_rows.tex
+appendix,Table app_bridges,extended_tables.R,bridge_rows.tex
+appendix,Table app_passthrough,offset_pass_through.R; appendix_tables.R,appendix_pass_through_rows.tex
+appendix,Table app_params,fit_primary.R; appendix_tables.R,appendix_parameters_rows.tex
+appendix,Table app_likelihoods,extended_tables.R,likelihood_rows.tex
+appendix,Table app_numerics,paper_model_numerics.R; variant_numerics.R; appendix_tables.R,appendix_numerical_checks_rows.tex; appendix_variant_numerical_checks_rows.tex
+appendix,Table app_regimes_decades,paper_tables.R,decade_rows.tex; regime_rows.tex
+appendix,Table app_joint_variants,extended_tables.R,structural_variant_main_rows.tex; joint_inference_variant_rows.tex
+appendix,Table app_variants_levels,paper_tables.R,structural_variant_rows.tex
+appendix,Table app_variants_params,appendix_tables.R,appendix_variant_parameters_rows.tex
+appendix,Table app_basket_silver,paper_companion_indices.R; paper_tables.R; appendix_tables.R,basket_variant_rows.tex; silver_comparator_rows.tex; appendix_equipment_allocations_rows.tex; appendix_market_weights_rows.tex
+appendix,Table app_published_comp,paper_published_comparison.R; appendix_tables.R,appendix_published_comparison_rows.tex
+appendix,Table app_val_complete,validation_tables.R,validation_complete_v2_rows.tex; validation_prior_diagnostic_rows.tex
+appendix,Table app_val_strata,validation_tables.R,validation_interpolation_rows.tex; validation_role_flat_rows.tex
+appendix,Table app_sim_calib,simulation_tables.R,simulation_calibration_rows.tex
+appendix,Table app_sim_truth,simulation_tables.R,simulation_truth_comparison_rows.tex
+appendix,Table app_sim_stress,simulation_tables.R,simulation_paired_stress_rows.tex
+appendix,Table app_sim_peak,simulation_tables.R,simulation_peak_rows.tex
+appendix,Table app_companions_key,paper_tables.R,companion_rows.tex
+appendix,Table app_companions,appendix_tables.R,appendix_enslaved_decades_rows.tex; appendix_excluded_assets_rows.tex
+appendix,Table app_dict,scripts/load_data.R,CODEBOOK.md; docs/variable_definitions.csv
+appendix,Table app_annual_full,extended_tables.R,annual_full_rows.tex
+appendix,Table app_history_events,appendix_tables.R,appendix_historical_events.csv
+main,Figure 1,figures_v2.R,fig1_provisioning_cost_index.png; fig1_provisioning_cost_index.pdf
+main,Figure 2,figures_v2.R,fig2_identification_map.png; fig2_identification_map.pdf
+main,Figure 3,figures_v2.R,fig3_assumption_sensitivity.png; fig3_assumption_sensitivity.pdf
+appendix,Figure 4,figures_v2.R,fig4_companion_price_series.png; fig4_companion_price_series.pdf
+appendix,Figure 5,figures_v2.R,fig5_basket_cost_composition.png; fig5_basket_cost_composition.pdf
+main,Figure 6,figures_v2.R,fig6_historical_context.png; fig6_historical_context.pdf
+main,Figure 7,figures_v2.R,fig7_joint_inference.png; fig7_joint_inference.pdf
+appendix,Figure 8,figures_v2.R,fig8_source_price_tapestry.png; fig8_source_price_tapestry.pdf
+appendix,Figure 9,figures_v2.R,fig9_variant_heatmap.png; fig9_variant_heatmap.pdf
+appendix,Figure 10,figures_v2.R,fig10_pass_through_tradeoff.png; fig10_pass_through_tradeoff.pdf
+appendix,Figure 11,figures_v2.R,fig11_validation_diagnostic.png; fig11_validation_diagnostic.pdf
+appendix,Figure 12,figures_v2.R,fig12_simulation_recovery.png; fig12_simulation_recovery.pdf
+main text,Numerical claims,results_registry.R; conclusion_rates.R; text_numbers.R,paper_claims_registry.csv; verified_period_rates.csv; largest_annual_increases.csv; additional_text_numbers.csv

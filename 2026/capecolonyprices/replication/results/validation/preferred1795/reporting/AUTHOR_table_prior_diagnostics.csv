@@ -1,0 +1,5 @@
+reporting_family,baseline,n_folds,n_prediction_cases,mean_fold_rmse_difference,share_folds_model_better,n_unique_cells,weighted_rmse_model,weighted_rmse_baseline,predictive_90_coverage
+component_rank1_prior_diagnostic,independent_drift,9,533,0.04587218001946945,0.4444444444444444,533,0.6205893685188496,0.7092934923533206,0.9399624765478424
+component_rank1_prior_diagnostic,pooled_loglinear,9,533,0.09114370436351682,0.1111111111111111,533,0.6205893685188496,0.5638444722638977,0.9399624765478424
+transported_union_prior_diagnostic,independent_drift,2,297,-0.27590688184435364,1,297,0.6888001063091344,0.9546887794374496,0.9124579124579124
+transported_union_prior_diagnostic,pooled_loglinear,2,297,-3.2136320605025137e-4,0.5,297,0.6888001063091344,0.7042901269382206,0.9124579124579124

@@ -1,0 +1,9 @@
+variant_id,target,window,point_peak_year,peak_q05,peak_median,peak_q95,prob_peak_before1825,prob_peak_before1826,prob_peak1818_1824,draws
+primary,basket_including_transitory_wheat,1700_1834,1822,1815,1822,1829,0.807,0.811,0.69,1000
+primary,basket_including_transitory_wheat,1795_1834,1822,1815,1822,1829,0.807,0.811,0.69,1000
+primary,persistent_price_component_only,1700_1834,1822,1815,1822,1829,0.813,0.829,0.679,1000
+primary,persistent_price_component_only,1795_1834,1822,1815,1822,1829,0.813,0.829,0.679,1000
+offsets_constant,basket_including_transitory_wheat,1700_1834,1822,1816,1822,1830,0.712,0.715,0.625,1000
+offsets_constant,basket_including_transitory_wheat,1795_1834,1822,1816,1822,1830,0.712,0.715,0.625,1000
+offsets_constant,persistent_price_component_only,1700_1834,1822,1816,1822,1830,0.674,0.691,0.586,1000
+offsets_constant,persistent_price_component_only,1795_1834,1822,1816,1822,1830,0.674,0.691,0.586,1000

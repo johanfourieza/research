@@ -1,0 +1,11 @@
+event_id,start_year,end_year,label,group,citation_key,source_locator,interpretation
+smallpox_1713,1713,1713,Smallpox,Disease,CapeJournalTranscription,28 November 1713; vc-1713-332; Excel row 21535,Epidemic aftermath and harvest labour losses; demand and supply effects can oppose each other.
+smallpox_1755,1755,1755,Smallpox,Disease,CapeJournalTranscription,20 May and 7 July 1755; vc-1755-140 and vc-1755-188; rows 36683 and 36731,Documented epidemic; no estimated net price effect.
+smallpox_1767,1767,1767,Smallpox,Disease,CapeJournalTranscription,5 May 1767; vc-1767-125; row 41050,Documented epidemic; contemporary transmission beliefs are not modern medical findings.
+french_garrison,1781,1784,French troops,Military,CapeJournalTranscription;Swart1953,"25 June and 3 July 1781; 13 and 16 April 1784; journal IDs in selected-entry ledger; Swart pp. 3-5, 9-10","French reinforcement/garrison episode; not all French shipping. Demand mechanism plausible, not identified."
+paper_rixdollars,1782,1782,Paper rixdollars,Money,Swart1953,pp. 3-5; paper issue 30 April/6 May 1782,Emergency note issue is not evidence of an immediate persistent inflation break.
+grain_relief,1786,1787,Grain scarcity / relief,Food,CapeJournalTranscription,"31 December 1786, vc-1786-365; relief arrivals 29 January, 3 and 26 February 1787","The 1786 report includes an improving harvest. Bar marks shortage/relief chronology, not uniformly failed harvests or a causal estimate of the 1787 index peak."
+british_1795,1795,1795,British occupation,Government,Swart1953,p. 21; surrender 16 September 1795,Regime change; source discontinuity and model dependence remain.
+batavian_1803,1803,1803,Batavian rule,Government,Swart1953,p. 46; restoration and early-1803 instructions,Year-level marker; no exact handover day established in reviewed passage.
+british_1806,1806,1806,British return,Government,Swart1953,p. 75; renewed British administration 1806,Year-level marker; does not conflate different stages of surrender.
+sterling_reform,1825,1826,Sterling reform,Money,Swart1953,pp. 602-604; Order-in-Council 23 March 1825; Cape Ordinance 6 June 1825; effective 1 January 1826,Decision and implementation differ; decline begins before reform. Inherited index conversion schedule remains unchanged.

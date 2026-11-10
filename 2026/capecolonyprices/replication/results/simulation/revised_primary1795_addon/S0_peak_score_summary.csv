@@ -1,0 +1,3 @@
+fit_variant,n,mean_brier,brier_mcse,n_zero_empirical_mass,empirical_mean_log_score,finite_only_mean_log_score
+primary,200,0.123201075,0.014437641680000834,1,-Inf,-2.698826403157117
+true_parameter_plugin,200,0.122323315,0.014337786172515361,0,-2.6827044548797874,-2.6827044548797874

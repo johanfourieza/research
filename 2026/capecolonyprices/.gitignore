@@ -1,0 +1,4 @@
+replication/work/
+data/series/*.rds
+.Rhistory
+.RData

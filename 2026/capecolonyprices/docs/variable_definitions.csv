@@ -1,0 +1,358 @@
+file,variable,type,n_rows,n_missing,description
+data/inputs/accepted_individual_sales.csv,record_id,character,5715,0,Stable identifier of an accepted historical sale row; no personal identifier is inferred.
+data/inputs/accepted_individual_sales.csv,auction_id,character,5715,0,Identifier grouping linked records belonging to one historical auction event.
+data/inputs/accepted_individual_sales.csv,year,integer,5715,0,Calendar year of observation or estimate.
+data/inputs/accepted_individual_sales.csv,decade,integer,5715,0,First calendar year of the decade; the final index decade ends in 1834.
+data/inputs/accepted_individual_sales.csv,price_rd,double,5715,0,Recorded total individual sale price in nominal rixdollars.
+data/inputs/accepted_individual_sales.csv,sex,character,5715,0,"Sex category as recorded or classified from the historical description, including unspecified."
+data/inputs/accepted_individual_sales.csv,origin_group,character,5715,0,Broad recorded origin label; not an inferred ethnicity.
+data/inputs/accepted_individual_sales.csv,age_lower,double,5715,5021,Lower bound on recorded age in years; blank when unrecorded.
+data/inputs/accepted_individual_sales.csv,age_band,character,5715,0,"Recorded age-band category, including unknown; no missing ages are imputed."
+data/inputs/accepted_individual_sales.csv,skilled_mentioned,logical,5715,0,Whether the source explicitly mentions a skill; absence of mention does not establish absence of skill.
+data/inputs/accepted_individual_sales.csv,health_mentioned,logical,5715,0,Whether the source explicitly mentions health; absence of mention does not establish health.
+data/inputs/accepted_price_ledger.csv,year,integer,1119,0,Calendar year of observation or estimate.
+data/inputs/accepted_price_ledger.csv,product_sheet,character,1119,318,Commodity sheet in the inherited historical-price workbook.
+data/inputs/accepted_price_ledger.csv,source_label,character,1119,318,Published or archival source attribution retained from the compilation.
+data/inputs/accepted_price_ledger.csv,currency,character,1119,318,Currency label in the source workbook.
+data/inputs/accepted_price_ledger.csv,unit,character,1119,318,Physical unit label in the source workbook.
+data/inputs/accepted_price_ledger.csv,price,double,1119,318,Numerical quoted workbook price before the package's currency and physical-unit conversion.
+data/inputs/accepted_price_ledger.csv,sheet,character,1119,318,Original workbook worksheet name.
+data/inputs/accepted_price_ledger.csv,cell,character,1119,318,Original workbook cell address.
+data/inputs/accepted_price_ledger.csv,formula,character,1119,1118,Original workbook formula when present; otherwise blank.
+data/inputs/accepted_price_ledger.csv,status,character,1119,318,Source-specific descriptive status; read together with the inclusion flag.
+data/inputs/accepted_price_ledger.csv,source_column,character,1119,318,Original workbook column identifier.
+data/inputs/accepted_price_ledger.csv,source_id,character,1119,0,Stable source/specification identifier before institutional regime splitting.
+data/inputs/accepted_price_ledger.csv,observation_id,character,1119,0,"Unique accepted-ledger observation identifier, retaining historical cell or document locator."
+data/inputs/accepted_price_ledger.csv,source_family,character,1119,318,"Broad provenance family, including published compilations and auction records."
+data/inputs/accepted_price_ledger.csv,currency_status,character,1119,318,Audit status of the source currency attribution.
+data/inputs/accepted_price_ledger.csv,formula_status,character,1119,318,Audit status of workbook arithmetic or cached formula values.
+data/inputs/accepted_price_ledger.csv,usable_as_independent_validation,logical,1119,318,Whether the source can be regarded as independent validation under the original classification.
+data/inputs/accepted_price_ledger.csv,source_type,character,1119,936,"Original source-type classification, where available."
+data/inputs/accepted_price_ledger.csv,gbp_per_rd,double,1119,954,Inherited assumed pounds sterling per rixdollar for the year; not a verified parity series.
+data/inputs/accepted_price_ledger.csv,rate_status,character,1119,318,Status of the inherited dated or interpolated monetary rate.
+data/inputs/accepted_price_ledger.csv,silver_per_gbp_inherited,double,1119,954,Inherited grams of silver per pound sterling used only for accounting comparisons.
+data/inputs/accepted_price_ledger.csv,commodity,character,1119,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/accepted_price_ledger.csv,native_amount,double,1119,0,Quoted price in the recorded native currency and unit.
+data/inputs/accepted_price_ledger.csv,native_currency,character,1119,0,Currency attached to the native amount.
+data/inputs/accepted_price_ledger.csv,native_unit,character,1119,0,Physical unit attached to the native amount.
+data/inputs/accepted_price_ledger.csv,source_role,character,1119,0,"Transaction-role classification, such as auction, official valuation, procurement or trade unit value."
+data/inputs/accepted_price_ledger.csv,dependency_group,character,1119,0,Common-source group used to flag dependence between observations.
+data/inputs/accepted_price_ledger.csv,conversion_rule,character,1119,0,Declared currency conversion convention; conditional assumptions are not verified exchange rates.
+data/inputs/accepted_price_ledger.csv,currency_factor,double,1119,38,Multiplier converting native currency to nominal rixdollars.
+data/inputs/accepted_price_ledger.csv,physical_factor,double,1119,4,Divisor converting the native physical unit to the standard unit.
+data/inputs/accepted_price_ledger.csv,physical_rule,character,1119,0,Declared physical-unit conversion convention.
+data/inputs/accepted_price_ledger.csv,standard_unit,character,1119,0,"Final price denominator: kg, square metre, litre or MBtu."
+data/inputs/accepted_price_ledger.csv,exclusion_reason,character,1119,727,Reason an observation is excluded from the main consumption reconstruction.
+data/inputs/accepted_price_ledger.csv,price_rd_standard,double,1119,42,"Native amount times currency_factor divided by physical_factor, in rixdollars per standard unit."
+data/inputs/accepted_price_ledger.csv,row_status,character,1119,0,Provenance and processing status of the observation.
+data/inputs/accepted_price_ledger.csv,n_documents,integer,1119,801,Number of source documents represented in a ledger aggregate.
+data/inputs/accepted_price_ledger.csv,n_lots,integer,1119,801,Number of accepted historical lots represented in a ledger aggregate.
+data/inputs/accepted_price_ledger.csv,precision_weight,integer,1119,0,Original relative precision annotation; model aggregation applies its declared precision rule.
+data/inputs/accepted_price_ledger.csv,specification,character,1119,0,Commodity or product specification used to define a source channel.
+data/inputs/accepted_price_ledger.csv,source_locator,character,1119,0,Historical document/row or workbook-cell locator for the quote.
+data/inputs/accepted_price_ledger.csv,conversion_assumption,logical,1119,0,Whether a currency or unit conversion involves a declared assumption.
+data/inputs/accepted_price_ledger.csv,original_file,character,1119,0,"Basename of the upstream source artifact; retained as attribution, not an executable path."
+data/inputs/accepted_price_ledger.csv,variant_use,character,1119,0,"Declared main, purchase-side, broad-grain or excluded use of the candidate row."
+data/inputs/accepted_price_ledger.csv,action,character,1119,1084,Accepted audit action applied before estimation.
+data/inputs/accepted_price_ledger.csv,reason,character,1119,1084,Recorded justification for the audit action.
+data/inputs/accepted_price_ledger.csv,currency_rule_override,character,1119,1093,"Accepted replacement currency rule, where applicable."
+data/inputs/accepted_price_ledger.csv,currency_factor_override,double,1119,1093,"Accepted replacement currency multiplier, where applicable."
+data/inputs/accepted_price_ledger.csv,source_role_override,character,1119,1093,"Accepted replacement transaction-role classification, where applicable."
+data/inputs/accepted_price_ledger.csv,native_unit_override,character,1119,1093,"Accepted replacement native-unit label, where applicable."
+data/inputs/accepted_price_ledger.csv,exclude_from_annual_observed_support,logical,1119,1084,Flag excluding a row from direct dated-quote support.
+data/inputs/accepted_price_ledger.csv,audit_note,character,1119,1074,Accepted source-audit annotation; not a new verification of the historical source.
+data/inputs/accepted_price_ledger.csv,document,character,1119,811,Historical archival document identifier.
+data/inputs/accepted_price_ledger.csv,grain,character,1119,825,"Accepted grain subtype, where relevant."
+data/inputs/accepted_price_ledger.csv,category,character,1119,825,Historical asset or product category; household categories identify the eight equipment items.
+data/inputs/accepted_price_ledger.csv,product,character,1119,1105,Accepted commodity specification or product class.
+data/inputs/accepted_price_ledger.csv,language,character,1119,1105,Historical description-language or unit-label convention.
+data/inputs/accepted_price_ledger.csv,included,logical,1119,0,Whether the candidate is eligible before the model excludes purchase-side roles.
+data/inputs/accepted_price_ledger.csv,regime,character,1119,0,Institutional-period classification used for channel definitions.
+data/inputs/accepted_price_ledger.csv,model_source_id,character,1119,0,"Source/specification/role channel, including any declared institutional split."
+data/inputs/additional_soap_document_observations.csv,year,integer,2,0,Calendar year of observation or estimate.
+data/inputs/additional_soap_document_observations.csv,document,character,2,0,Historical archival document identifier.
+data/inputs/additional_soap_document_observations.csv,product,character,2,0,Accepted commodity specification or product class.
+data/inputs/additional_soap_document_observations.csv,language,character,2,0,Historical description-language or unit-label convention.
+data/inputs/additional_soap_document_observations.csv,n_lots,integer,2,0,Number of accepted historical lots represented in a ledger aggregate.
+data/inputs/additional_soap_document_observations.csv,price_rd_standard,double,2,0,"Native amount times currency_factor divided by physical_factor, in rixdollars per standard unit."
+data/inputs/additional_soap_document_observations.csv,source_locator,character,2,0,Historical document/row or workbook-cell locator for the quote.
+data/inputs/additional_soap_document_observations.csv,physical_factor,double,2,0,Divisor converting the native physical unit to the standard unit.
+data/inputs/additional_soap_document_observations.csv,commodity,character,2,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/additional_soap_document_observations.csv,source_id,character,2,0,Stable source/specification identifier before institutional regime splitting.
+data/inputs/additional_soap_document_observations.csv,observation_id,character,2,0,"Unique accepted-ledger observation identifier, retaining historical cell or document locator."
+data/inputs/additional_soap_document_observations.csv,native_amount,double,2,0,Quoted price in the recorded native currency and unit.
+data/inputs/additional_soap_document_observations.csv,native_unit,character,2,0,Physical unit attached to the native amount.
+data/inputs/additional_soap_document_observations.csv,native_currency,character,2,0,Currency attached to the native amount.
+data/inputs/additional_soap_document_observations.csv,currency_factor,integer,2,0,Multiplier converting native currency to nominal rixdollars.
+data/inputs/additional_soap_document_observations.csv,conversion_rule,character,2,0,Declared currency conversion convention; conditional assumptions are not verified exchange rates.
+data/inputs/additional_soap_document_observations.csv,physical_rule,character,2,0,Declared physical-unit conversion convention.
+data/inputs/additional_soap_document_observations.csv,standard_unit,character,2,0,"Final price denominator: kg, square metre, litre or MBtu."
+data/inputs/additional_soap_document_observations.csv,source_role,character,2,0,"Transaction-role classification, such as auction, official valuation, procurement or trade unit value."
+data/inputs/additional_soap_document_observations.csv,dependency_group,character,2,0,Common-source group used to flag dependence between observations.
+data/inputs/additional_soap_document_observations.csv,specification,character,2,0,Commodity or product specification used to define a source channel.
+data/inputs/additional_soap_document_observations.csv,n_documents,integer,2,0,Number of source documents represented in a ledger aggregate.
+data/inputs/additional_soap_document_observations.csv,precision_weight,integer,2,0,Original relative precision annotation; model aggregation applies its declared precision rule.
+data/inputs/additional_soap_document_observations.csv,row_status,character,2,0,Provenance and processing status of the observation.
+data/inputs/additional_soap_document_observations.csv,conversion_assumption,logical,2,0,Whether a currency or unit conversion involves a declared assumption.
+data/inputs/additional_soap_document_observations.csv,exclusion_reason,character,2,2,Reason an observation is excluded from the main consumption reconstruction.
+data/inputs/additional_soap_document_observations.csv,variant_use,character,2,0,"Declared main, purchase-side, broad-grain or excluded use of the candidate row."
+data/inputs/additional_soap_document_observations.csv,included,logical,2,0,Whether the candidate is eligible before the model excludes purchase-side roles.
+data/inputs/additional_soap_document_observations.csv,original_file,character,2,0,"Basename of the upstream source artifact; retained as attribution, not an executable path."
+data/inputs/additional_soap_document_observations.csv,audit_note,character,2,0,Accepted source-audit annotation; not a new verification of the historical source.
+data/inputs/auction_audit_decisions.csv,audit_id,character,103,0,Identifier of an accepted probability-sample audit decision.
+data/inputs/auction_audit_decisions.csv,commodity,character,103,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/auction_audit_decisions.csv,source_group,character,103,0,Retained or nonretained sampling domain in the accepted source audit.
+data/inputs/auction_audit_decisions.csv,stratum,character,103,0,Sampling stratum of the source-audit row.
+data/inputs/auction_audit_decisions.csv,stratum_N,integer,103,0,Number of historical lot rows in the sampling stratum.
+data/inputs/auction_audit_decisions.csv,sampling_weight,double,103,0,Inverse within-stratum inclusion probability for Horvitz-Thompson aggregation.
+data/inputs/auction_audit_decisions.csv,definite_error,logical,103,0,Accepted disagreement with the prior pipeline disposition or arithmetic.
+data/inputs/currency_audit_actions.csv,observation_id,character,43,0,"Unique accepted-ledger observation identifier, retaining historical cell or document locator."
+data/inputs/currency_audit_actions.csv,commodity,character,43,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/currency_audit_actions.csv,old_year,integer,43,0,Year before the accepted audit correction.
+data/inputs/currency_audit_actions.csv,raw_year,integer,43,0,Year in the underlying workbook transcription.
+data/inputs/currency_audit_actions.csv,old_native_amount,double,43,0,Native quoted amount before the accepted audit correction.
+data/inputs/currency_audit_actions.csv,raw_mean_gbp,double,43,0,Mean source-transcribed price in pounds sterling.
+data/inputs/currency_audit_actions.csv,arithmetic_agrees,logical,43,0,Whether the compiled amount agrees with the underlying transcription arithmetic.
+data/inputs/currency_audit_actions.csv,raw_cells,character,43,0,Source workbook cells supporting the audit decision.
+data/inputs/currency_audit_actions.csv,raw_year_cells,character,43,0,Source workbook cells supporting the date correction.
+data/inputs/currency_audit_actions.csv,raw_notes,character,43,36,Source-transcription notes retained for the accepted decision.
+data/inputs/currency_audit_actions.csv,printed_source,character,43,0,"Published source locator supporting the audit decision, where inspected."
+data/inputs/currency_audit_actions.csv,aggregation,character,43,0,Rule used to aggregate source-transcribed quotes.
+data/inputs/currency_audit_actions.csv,year_discrepancy,logical,43,0,Recorded difference between compiled and source-transcribed dates.
+data/inputs/currency_audit_actions.csv,currency_provenance,character,43,0,Evidence and remaining uncertainty about the quoted currency.
+data/inputs/currency_audit_actions.csv,action,character,43,0,Accepted audit action applied before estimation.
+data/inputs/currency_audit_actions.csv,new_year,integer,43,0,Accepted corrected observation year.
+data/inputs/currency_audit_actions.csv,new_native_amount,double,43,0,"Accepted corrected native quoted amount, where applicable."
+data/inputs/currency_audit_actions.csv,reason,character,43,0,Recorded justification for the audit action.
+data/inputs/currency_audit_additions_ledger.csv,year,integer,1,0,Calendar year of observation or estimate.
+data/inputs/currency_audit_additions_ledger.csv,product_sheet,character,1,0,Commodity sheet in the inherited historical-price workbook.
+data/inputs/currency_audit_additions_ledger.csv,source_label,character,1,0,Published or archival source attribution retained from the compilation.
+data/inputs/currency_audit_additions_ledger.csv,currency,character,1,0,Currency label in the source workbook.
+data/inputs/currency_audit_additions_ledger.csv,unit,character,1,0,Physical unit label in the source workbook.
+data/inputs/currency_audit_additions_ledger.csv,price,double,1,0,Numerical quoted workbook price before the package's currency and physical-unit conversion.
+data/inputs/currency_audit_additions_ledger.csv,sheet,character,1,0,Original workbook worksheet name.
+data/inputs/currency_audit_additions_ledger.csv,cell,character,1,0,Original workbook cell address.
+data/inputs/currency_audit_additions_ledger.csv,formula,character,1,1,Original workbook formula when present; otherwise blank.
+data/inputs/currency_audit_additions_ledger.csv,status,character,1,0,Source-specific descriptive status; read together with the inclusion flag.
+data/inputs/currency_audit_additions_ledger.csv,source_column,character,1,0,Original workbook column identifier.
+data/inputs/currency_audit_additions_ledger.csv,source_id,character,1,0,Stable source/specification identifier before institutional regime splitting.
+data/inputs/currency_audit_additions_ledger.csv,observation_id,character,1,0,"Unique accepted-ledger observation identifier, retaining historical cell or document locator."
+data/inputs/currency_audit_additions_ledger.csv,source_family,character,1,0,"Broad provenance family, including published compilations and auction records."
+data/inputs/currency_audit_additions_ledger.csv,currency_status,character,1,0,Audit status of the source currency attribution.
+data/inputs/currency_audit_additions_ledger.csv,formula_status,character,1,0,Audit status of workbook arithmetic or cached formula values.
+data/inputs/currency_audit_additions_ledger.csv,usable_as_independent_validation,logical,1,0,Whether the source can be regarded as independent validation under the original classification.
+data/inputs/currency_audit_additions_ledger.csv,source_type,character,1,1,"Original source-type classification, where available."
+data/inputs/currency_audit_additions_ledger.csv,gbp_per_rd,double,1,0,Inherited assumed pounds sterling per rixdollar for the year; not a verified parity series.
+data/inputs/currency_audit_additions_ledger.csv,rate_status,character,1,0,Status of the inherited dated or interpolated monetary rate.
+data/inputs/currency_audit_additions_ledger.csv,silver_per_gbp_inherited,double,1,0,Inherited grams of silver per pound sterling used only for accounting comparisons.
+data/inputs/currency_audit_additions_ledger.csv,commodity,character,1,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/currency_audit_additions_ledger.csv,native_amount,double,1,0,Quoted price in the recorded native currency and unit.
+data/inputs/currency_audit_additions_ledger.csv,native_currency,character,1,0,Currency attached to the native amount.
+data/inputs/currency_audit_additions_ledger.csv,native_unit,character,1,0,Physical unit attached to the native amount.
+data/inputs/currency_audit_additions_ledger.csv,source_role,character,1,0,"Transaction-role classification, such as auction, official valuation, procurement or trade unit value."
+data/inputs/currency_audit_additions_ledger.csv,dependency_group,character,1,0,Common-source group used to flag dependence between observations.
+data/inputs/currency_audit_additions_ledger.csv,conversion_rule,character,1,0,Declared currency conversion convention; conditional assumptions are not verified exchange rates.
+data/inputs/currency_audit_additions_ledger.csv,currency_factor,double,1,0,Multiplier converting native currency to nominal rixdollars.
+data/inputs/currency_audit_additions_ledger.csv,physical_factor,double,1,0,Divisor converting the native physical unit to the standard unit.
+data/inputs/currency_audit_additions_ledger.csv,physical_rule,character,1,0,Declared physical-unit conversion convention.
+data/inputs/currency_audit_additions_ledger.csv,standard_unit,character,1,0,"Final price denominator: kg, square metre, litre or MBtu."
+data/inputs/currency_audit_additions_ledger.csv,exclusion_reason,character,1,1,Reason an observation is excluded from the main consumption reconstruction.
+data/inputs/currency_audit_additions_ledger.csv,price_rd_standard,double,1,0,"Native amount times currency_factor divided by physical_factor, in rixdollars per standard unit."
+data/inputs/currency_audit_additions_ledger.csv,row_status,character,1,0,Provenance and processing status of the observation.
+data/inputs/currency_audit_additions_ledger.csv,n_documents,character,1,1,Number of source documents represented in a ledger aggregate.
+data/inputs/currency_audit_additions_ledger.csv,n_lots,character,1,1,Number of accepted historical lots represented in a ledger aggregate.
+data/inputs/currency_audit_additions_ledger.csv,precision_weight,integer,1,0,Original relative precision annotation; model aggregation applies its declared precision rule.
+data/inputs/currency_audit_additions_ledger.csv,specification,character,1,0,Commodity or product specification used to define a source channel.
+data/inputs/currency_audit_additions_ledger.csv,source_locator,character,1,0,Historical document/row or workbook-cell locator for the quote.
+data/inputs/currency_audit_additions_ledger.csv,conversion_assumption,logical,1,0,Whether a currency or unit conversion involves a declared assumption.
+data/inputs/currency_audit_additions_ledger.csv,original_file,character,1,0,"Basename of the upstream source artifact; retained as attribution, not an executable path."
+data/inputs/currency_audit_additions_ledger.csv,variant_use,character,1,0,"Declared main, purchase-side, broad-grain or excluded use of the candidate row."
+data/inputs/currency_audit_additions_ledger.csv,action,character,1,0,Accepted audit action applied before estimation.
+data/inputs/currency_audit_additions_ledger.csv,reason,character,1,0,Recorded justification for the audit action.
+data/inputs/currency_audit_additions_ledger.csv,currency_rule_override,character,1,1,"Accepted replacement currency rule, where applicable."
+data/inputs/currency_audit_additions_ledger.csv,currency_factor_override,character,1,1,"Accepted replacement currency multiplier, where applicable."
+data/inputs/currency_audit_additions_ledger.csv,source_role_override,character,1,1,"Accepted replacement transaction-role classification, where applicable."
+data/inputs/currency_audit_additions_ledger.csv,native_unit_override,character,1,1,"Accepted replacement native-unit label, where applicable."
+data/inputs/currency_audit_additions_ledger.csv,exclude_from_annual_observed_support,character,1,1,Flag excluding a row from direct dated-quote support.
+data/inputs/currency_audit_additions_ledger.csv,audit_note,character,1,0,Accepted source-audit annotation; not a new verification of the historical source.
+data/inputs/currency_audit_additions_ledger.csv,document,character,1,1,Historical archival document identifier.
+data/inputs/currency_audit_additions_ledger.csv,grain,character,1,1,"Accepted grain subtype, where relevant."
+data/inputs/currency_audit_additions_ledger.csv,category,character,1,1,Historical asset or product category; household categories identify the eight equipment items.
+data/inputs/currency_audit_additions_ledger.csv,product,character,1,1,Accepted commodity specification or product class.
+data/inputs/currency_audit_additions_ledger.csv,language,character,1,1,Historical description-language or unit-label convention.
+data/inputs/currency_audit_additions_ledger.csv,included,logical,1,0,Whether the candidate is eligible before the model excludes purchase-side roles.
+data/inputs/currency_audit_additions_ledger.csv,regime,character,1,0,Institutional-period classification used for channel definitions.
+data/inputs/currency_audit_additions_ledger.csv,model_source_id,character,1,0,"Source/specification/role channel, including any declared institutional split."
+data/inputs/estimation_initial_values.csv,parameter,character,7,0,Model parameter identifier; initial values are logs of innovation or observation standard deviations.
+data/inputs/estimation_initial_values.csv,log_initial_value,double,7,0,Declared log standard deviation used to initialise the primary optimiser.
+data/inputs/excluded_asset_annual_counts.csv,category,character,694,0,Historical asset or product category; household categories identify the eight equipment items.
+data/inputs/excluded_asset_annual_counts.csv,source_series,character,694,0,Original series identifier used to count excluded asset lots.
+data/inputs/excluded_asset_annual_counts.csv,year,integer,694,0,Calendar year of observation or estimate.
+data/inputs/excluded_asset_annual_counts.csv,lots,integer,694,0,Number of accepted historical sale lots.
+data/inputs/historical_events.csv,event_id,character,10,0,Identifier of a dated historical event used for descriptive plot alignment.
+data/inputs/historical_events.csv,start_year,integer,10,0,First year of an event or observation span.
+data/inputs/historical_events.csv,end_year,integer,10,0,Last year of an event or observation span.
+data/inputs/historical_events.csv,label,character,10,0,Display label for the historical event.
+data/inputs/historical_events.csv,group,character,10,0,"Scenario group or historical-event lane, according to file."
+data/inputs/historical_events.csv,citation_key,character,10,0,Reference key identifying the historical event source.
+data/inputs/historical_events.csv,source_locator,character,10,0,Historical document/row or workbook-cell locator for the quote.
+data/inputs/historical_events.csv,interpretation,character,10,0,Scope or interpretation note; event alignment is not a causal estimate.
+data/inputs/household_observed_annual.csv,category,character,1080,0,Historical asset or product category; household categories identify the eight equipment items.
+data/inputs/household_observed_annual.csv,year,integer,1080,0,Calendar year of observation or estimate.
+data/inputs/household_observed_annual.csv,price_observed_rd,double,1080,162,Observed annual household-item price in rixdollars; blank years are subsequently interpolated or smoothed.
+data/inputs/household_observed_annual.csv,auctions,integer,1080,0,Number of contributing auction events in the year.
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,year,integer,270,0,Calendar year of observation or estimate.
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,basket,character,270,0,Inherited basket definition; cost_formula denotes the nine-good inherited comparison.
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,monetary_scenario,character,270,0,"Inherited silver-conversion convention, distinguished by pre-1795 guilder parity."
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,index,double,270,0,"Basket index, normalised to the 1770-1779 mean of 100; in joint-draw files one value belongs to one complete draw path."
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,inflation_pct,double,270,2,100 times the ratio of current to preceding annual index minus 100; blank in the first year.
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,index_nominal_conditional,double,270,0,Inherited nominal rixdollar comparison index conditional on the declared monetary conversion.
+data/inputs/inherited_basket_monetary_scenarios_NOT_HEADLINE.csv,inflation_nominal_conditional,double,270,2,Annual percentage change in the inherited nominal comparison index.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,year,integer,135,0,Calendar year of observation or estimate.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,gbp_per_rd,double,135,95,Inherited assumed pounds sterling per rixdollar for the year; not a verified parity series.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,source,character,135,113,Attribution for the inherited monetary schedule.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,rate_observed,logical,135,0,Whether the inherited exchange schedule records a dated rate rather than interpolation.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,rate_status,character,135,0,Status of the inherited dated or interpolated monetary rate.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,silver_per_guilder_inherited,double,135,40,Inherited grams of silver per guilder used for accounting comparisons.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,silver_per_gbp_inherited,double,135,95,Inherited grams of silver per pound sterling used only for accounting comparisons.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,silver_per_rd_2.4,double,135,0,Inherited grams of silver per rixdollar under the 2.4-guilder pre-1795 convention.
+data/inputs/inherited_monetary_assumptions_NOT_VERIFIED_PARITIES.csv,silver_per_rd_3,double,135,0,Inherited grams of silver per rixdollar under the 3-guilder pre-1795 convention.
+data/inputs/validation/actual_late_missingness_template.csv,commodity,character,270,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/validation/actual_late_missingness_template.csv,year,integer,270,0,Calendar year of observation or estimate.
+data/inputs/validation/actual_late_missingness_template.csv,observed_channels,integer,270,225,Number of retained observed channels for the commodity-year in the missingness template.
+data/inputs/validation/actual_late_missingness_template.csv,missing,logical,270,0,Whether the commodity-year has no observed channel in the missingness template.
+data/inputs/validation/fold_ledger.csv,fold_id,character,50,0,Prespecified blocked-holdout identifier.
+data/inputs/validation/fold_ledger.csv,fold_type,character,50,0,"Type of holdout mask, including portfolio, component and partial-channel designs."
+data/inputs/validation/fold_ledger.csv,description,character,50,0,Description of the prespecified holdout mask.
+data/inputs/validation/fold_ledger.csv,n_test,integer,50,0,Number of held-out channel-year cells in the fold.
+data/inputs/validation/fold_ledger.csv,n_train,integer,50,0,Number of retained training cells in the fold.
+data/inputs/validation/fold_ledger.csv,status,character,50,0,Source-specific descriptive status; read together with the inclusion flag.
+data/inputs/validation/fold_ledger.csv,paired_constant_mask,logical,50,0,Whether the mask is paired with the earlier constant-offset design.
+data/inputs/validation/fold_ledger.csv,constant_component_id,character,50,32,Overlap component in the stable-channel design used to define a transported mask.
+data/inputs/validation/fold_ledger.csv,component_id,character,50,30,Same-good same-year source-overlap component identifier.
+data/inputs/validation/fold_ledger.csv,n_preferred_components,integer,50,28,Number of preferred-design components represented in the holdout mask.
+data/inputs/validation/fold_ledger.csv,size_rank,integer,50,30,Within-commodity rank of a source-overlap component by observed-cell count.
+data/inputs/validation/overlap_splice_selected_design.csv,commodity,character,7,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/validation/overlap_splice_selected_design.csv,target,character,7,0,Target source channel whose selected quotes are withheld.
+data/inputs/validation/overlap_splice_selected_design.csv,donor,character,7,0,Source channel supplying the overlap-splice baseline.
+data/inputs/validation/overlap_splice_selected_design.csv,year_from,integer,7,0,First held-out year in the partial-channel mask.
+data/inputs/validation/overlap_splice_selected_design.csv,year_to,integer,7,0,Last held-out year in the partial-channel mask.
+data/inputs/validation/overlap_splice_selected_design.csv,held_years,character,7,0,Prespecified held-out years for the target source channel.
+data/inputs/validation/overlap_splice_selected_design.csv,test_row_ids,character,7,0,Semicolon-separated held-out panel-row identifiers.
+data/inputs/validation/overlap_splice_selected_design.csv,n_training_overlap,integer,7,0,Number of overlapping training years between target and donor channels.
+data/inputs/validation/overlap_splice_selected_design.csv,donor_role,character,7,0,Transaction role of the selected donor channel.
+data/inputs/validation/overlap_splice_selected_design.csv,donor_role_rank,integer,7,0,Prespecified priority rank of the donor role.
+data/inputs/validation/overlap_splice_selected_design.csv,donor_training_n,integer,7,0,Number of training quotes available for the donor channel.
+data/inputs/validation/overlap_splice_selected_design.csv,target_training_n,integer,7,0,Number of training quotes available for the target channel.
+data/inputs/validation/overlap_splice_selected_design.csv,within_good_rank,integer,7,0,Prespecified candidate rank within the commodity.
+data/inputs/validation/overlap_splice_selected_design.csv,fold_id,character,7,0,Prespecified blocked-holdout identifier.
+data/inputs/validation/paired_observation_mapping.csv,row_id,integer,632,0,Stable channel-year panel-row identifier used by the accepted holdout masks.
+data/inputs/validation/paired_observation_mapping.csv,commodity,character,632,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/validation/paired_observation_mapping.csv,year,integer,632,0,Calendar year of observation or estimate.
+data/inputs/validation/paired_observation_mapping.csv,stable_model_source_id,character,632,0,Source/specification/role identifier without institutional regime splitting.
+data/inputs/validation/paired_observation_mapping.csv,model_source_id,character,632,0,"Source/specification/role channel, including any declared institutional split."
+data/inputs/validation/source_overlap_component_sizes.csv,commodity,character,35,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/inputs/validation/source_overlap_component_sizes.csv,component_id,character,35,0,Same-good same-year source-overlap component identifier.
+data/inputs/validation/source_overlap_component_sizes.csv,n_rows,integer,35,0,Number of observed panel cells in the source-overlap component.
+data/inputs/validation/source_overlap_component_sizes.csv,size_rank,integer,35,0,Within-commodity rank of a source-overlap component by observed-cell count.
+data/inputs/validation/test_membership.csv,fold_id,character,1745,0,Prespecified blocked-holdout identifier.
+data/inputs/validation/test_membership.csv,row_id,integer,1745,0,Stable channel-year panel-row identifier used by the accepted holdout masks.
+data/series/alternative_annual_series.csv,year,integer,5805,0,Calendar year of observation or estimate.
+data/series/alternative_annual_series.csv,index_point,double,5805,0,"Fixed-quantity basket cost from exponentiated smoothed log prices, normalised to arithmetic mean 1770–1779 = 100; not a posterior mean"
+data/series/alternative_annual_series.csv,index_q05,double,5805,0,"5th, 50th and 95th percentiles of 1,000 joint conditional basket draws, normalised within each draw"
+data/series/alternative_annual_series.csv,index_draw_median,double,5805,0,"5th, 50th and 95th percentiles of 1,000 joint conditional basket draws, normalised within each draw"
+data/series/alternative_annual_series.csv,index_q95,double,5805,0,"5th, 50th and 95th percentiles of 1,000 joint conditional basket draws, normalised within each draw"
+data/series/alternative_annual_series.csv,inflation_pct,double,5805,43,100 times the ratio of current to preceding annual index minus 100; blank in the first year.
+data/series/alternative_annual_series.csv,inflation_q05,double,5805,43,Percentiles of annual percentage changes computed WITHIN each joint draw; NA in 1700
+data/series/alternative_annual_series.csv,inflation_draw_median,double,5805,43,Percentiles of annual percentage changes computed WITHIN each joint draw; NA in 1700
+data/series/alternative_annual_series.csv,inflation_q95,double,5805,43,Percentiles of annual percentage changes computed WITHIN each joint draw; NA in 1700
+data/series/alternative_annual_series.csv,annual_cost_rd,double,5805,0,"Sum of fixed basket quantities times exponentiated fitted log prices, in assumed nominal rixdollars; not a comprehensive household budget"
+data/series/alternative_annual_series.csv,variant_id,character,5805,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/alternative_assumption_interpretation.csv,variant_id,character,43,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/alternative_assumption_interpretation.csv,kind,character,43,0,Executable alternative-model change type.
+data/series/alternative_assumption_interpretation.csv,value,double,43,0,"Numerical value of the alternative setting; mean shifts are natural logs, scales are standard deviations."
+data/series/alternative_assumption_interpretation.csv,group,character,43,0,"Scenario group or historical-event lane, according to file."
+data/series/alternative_assumption_interpretation.csv,shared_loading,character,43,29,Channel-loading choice for a shared source-offset scenario.
+data/series/alternative_assumption_interpretation.csv,source_prior_mean_log,double,43,35,Prior mean shift in source quote log levels.
+data/series/alternative_assumption_interpretation.csv,source_prior_level_factor,double,43,35,"Exponentiated source prior mean, a multiplicative quote-level factor."
+data/series/alternative_assumption_interpretation.csv,source_prior_percent_deviation,double,43,35,100 times the source prior level factor minus 100.
+data/series/alternative_assumption_interpretation.csv,interpretation,character,43,0,Scope or interpretation note; event alignment is not a causal estimate.
+data/series/alternative_model_settings.csv,variant_id,character,43,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/alternative_model_settings.csv,kind,character,43,0,Executable alternative-model change type.
+data/series/alternative_model_settings.csv,value,double,43,0,"Numerical value of the alternative setting; mean shifts are natural logs, scales are standard deviations."
+data/series/alternative_model_settings.csv,group,character,43,0,"Scenario group or historical-event lane, according to file."
+data/series/annual_index_joint_draws.csv.gz,year,integer,135000,0,Calendar year of observation or estimate.
+data/series/annual_index_joint_draws.csv.gz,draw_id,integer,135000,0,Identifier for one joint trajectory; preserved across years within a model only.
+data/series/annual_index_joint_draws.csv.gz,index,double,135000,0,"Basket index, normalised to the 1770-1779 mean of 100; in joint-draw files one value belongs to one complete draw path."
+data/series/annual_inflation_1700_1834.csv,variant_id,character,135,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/annual_inflation_1700_1834.csv,year,integer,135,0,Calendar year of observation or estimate.
+data/series/annual_inflation_1700_1834.csv,index_point,double,135,0,"Fixed-quantity basket cost from exponentiated smoothed log prices, normalised to arithmetic mean 1770–1779 = 100; not a posterior mean"
+data/series/annual_inflation_1700_1834.csv,index_q05,double,135,0,"5th, 50th and 95th percentiles of 1,000 joint conditional basket draws, normalised within each draw"
+data/series/annual_inflation_1700_1834.csv,index_draw_median,double,135,0,"5th, 50th and 95th percentiles of 1,000 joint conditional basket draws, normalised within each draw"
+data/series/annual_inflation_1700_1834.csv,index_q95,double,135,0,"5th, 50th and 95th percentiles of 1,000 joint conditional basket draws, normalised within each draw"
+data/series/annual_inflation_1700_1834.csv,inflation_pct,double,135,1,100 times the ratio of current to preceding annual index minus 100; blank in the first year.
+data/series/annual_inflation_1700_1834.csv,inflation_q05,double,135,1,Percentiles of annual percentage changes computed WITHIN each joint draw; NA in 1700
+data/series/annual_inflation_1700_1834.csv,inflation_draw_median,double,135,1,Percentiles of annual percentage changes computed WITHIN each joint draw; NA in 1700
+data/series/annual_inflation_1700_1834.csv,inflation_q95,double,135,1,Percentiles of annual percentage changes computed WITHIN each joint draw; NA in 1700
+data/series/annual_inflation_1700_1834.csv,annual_cost_rd,double,135,0,"Sum of fixed basket quantities times exponentiated fitted log prices, in assumed nominal rixdollars; not a comprehensive household budget"
+data/series/annual_inflation_1700_1834.csv,interval_scope,character,135,0,"Intervals condition on fitted variance parameters, specified source priors, currency/unit conversions and model"
+data/series/annual_inflation_1700_1834.csv,observed_level_weight_share,double,135,0,Sum of fixed 1770s basket weights for goods with any retained dated quote in the year
+data/series/annual_inflation_1700_1834.csv,observed_change_weight_share,double,135,1,Identical aliases: fixed base-weight share with a retained quote in the same channel in consecutive years; NA in 1700
+data/series/annual_inflation_1700_1834.csv,market_level_weight_share,double,135,0,"Fixed base-weight share with auction, transcribed auction or newspaper quotes in the year"
+data/series/annual_inflation_1700_1834.csv,market_change_weight_share,double,135,1,Fixed base-weight share with consecutive-year quotes in the same market channel; NA in 1700
+data/series/annual_inflation_1700_1834.csv,flat_official_change_weight_share,double,135,1,Fixed base-weight share with a consecutive-year official quote unchanged within numerical tolerance; overlap with other support measures is possible
+data/series/annual_inflation_1700_1834.csv,weighted_anchor_distance,double,135,0,Base-weighted mean distance in years to nearest retained commodity quote
+data/series/annual_inflation_1700_1834.csv,beyond_anchor_weight,double,135,0,Fixed base-weight share of goods outside their first-to-last observed-year range
+data/series/annual_inflation_1700_1834.csv,dated_quote_change_weight_share,double,135,1,Identical aliases: fixed base-weight share with a retained quote in the same channel in consecutive years; NA in 1700
+data/series/annual_inflation_1700_1834.csv,support_class,character,135,0,"Level_only in 1700; otherwise class based on market_change_weight_share thresholds 0, .4 and .75; support is not estimated accuracy"
+data/series/annual_inflation_1700_1834.csv,release_status,character,135,0,v2_conditional_reconstruction; this field is not a claim that every analysis/review is complete
+data/series/basket_quantities_weights.csv,commodity,character,9,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/series/basket_quantities_weights.csv,quantity,double,9,0,Fixed annual physical quantity in the stated standard unit.
+data/series/basket_quantities_weights.csv,standard_unit,character,9,0,"Final price denominator: kg, square metre, litre or MBtu."
+data/series/basket_quantities_weights.csv,base_weight,double,9,0,Commodity cost share in the fitted arithmetic mean 1770-1779 basket; not an observed expenditure share.
+data/series/commodity_price_summaries.csv,commodity,character,1215,0,"One of the nine provisioning commodities, or the source commodity label before exclusion."
+data/series/commodity_price_summaries.csv,year,integer,1215,0,Calendar year of observation or estimate.
+data/series/commodity_price_summaries.csv,log_price,double,1215,0,Smoothed commodity log price in rixdollars per standard unit.
+data/series/commodity_price_summaries.csv,log_price_se,double,1215,0,Conditional standard error of the smoothed commodity log price.
+data/series/commodity_price_summaries.csv,price_median,double,1215,0,"Exponentiated smoothed commodity log price, in rixdollars per standard unit."
+data/series/commodity_price_summaries.csv,price_q05,double,1215,0,"Conditional fifth percentile of the commodity price, in rixdollars per standard unit."
+data/series/commodity_price_summaries.csv,price_q95,double,1215,0,"Conditional ninety-fifth percentile of the commodity price, in rixdollars per standard unit."
+data/series/decadal_index_joint_intervals.csv,decade,integer,14,0,First calendar year of the decade; the final index decade ends in 1834.
+data/series/decadal_index_joint_intervals.csv,q05,double,14,0,Fifth percentile of the relevant within-draw statistic (historical ratio or decadal mean index).
+data/series/decadal_index_joint_intervals.csv,median,double,14,0,Median of the relevant within-draw statistic (historical ratio or decadal mean index).
+data/series/decadal_index_joint_intervals.csv,q95,double,14,0,Ninety-fifth percentile of the relevant within-draw statistic (historical ratio or decadal mean index).
+data/series/historical_relatives.csv,variant_id,character,6,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/historical_relatives.csv,functional,character,6,0,Named historical ratio; date windows are arithmetic means before taking ratios within draws.
+data/series/historical_relatives.csv,point,double,6,0,Historical ratio evaluated on the point index path.
+data/series/historical_relatives.csv,q05,double,6,0,Fifth percentile of the relevant within-draw statistic (historical ratio or decadal mean index).
+data/series/historical_relatives.csv,median,double,6,0,Median of the relevant within-draw statistic (historical ratio or decadal mean index).
+data/series/historical_relatives.csv,q95,double,6,0,Ninety-fifth percentile of the relevant within-draw statistic (historical ratio or decadal mean index).
+data/series/historical_relatives.csv,prob_gt1,double,6,0,Fraction of conditional joint-draw ratios exceeding one.
+data/series/historical_relatives.csv,prob_gt3,double,6,0,Fraction of conditional joint-draw ratios exceeding three.
+data/series/historical_relatives.csv,draws,integer,6,0,Number of conditional joint trajectories used.
+data/series/joint_draw_metadata.csv,variant_id,character,1,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/joint_draw_metadata.csv,base_period,character,1,0,Normalisation convention for the annual index.
+data/series/joint_draw_metadata.csv,years,integer,1,0,Number of calendar years represented.
+data/series/joint_draw_metadata.csv,draws,integer,1,0,Number of conditional joint trajectories used.
+data/series/joint_draw_metadata.csv,seed,integer,1,0,Random-number seed for the conditional state draws.
+data/series/joint_draw_metadata.csv,draw_order,character,1,0,Order of year and draw identifiers in the portable joint export.
+data/series/joint_draw_metadata.csv,scope,character,1,0,Interpretive scope and conditioning assumptions of the released draws.
+data/series/joint_draw_metadata.csv,point_estimator,character,1,0,Definition of the published point estimate.
+data/series/joint_draw_metadata.csv,quantile_estimator,character,1,0,Definition of conditional quantiles after within-draw normalisation.
+data/series/joint_draw_metadata.csv,peak_tie_rule,character,1,0,Tie-breaking rule for a peak year: first chronological maximiser.
+data/series/joint_draw_metadata.csv,primary_offset_sd,double,1,0,Fixed channel-offset prior standard deviation (0.5 log units).
+data/series/joint_draw_metadata.csv,official_split_year,integer,1,0,Year at which the preferred official channel offsets reset (1795).
+data/series/offsets_constant_joint_draws.csv.gz,year,integer,135000,0,Calendar year of observation or estimate.
+data/series/offsets_constant_joint_draws.csv.gz,draw_id,integer,135000,0,Identifier for one joint trajectory; preserved across years within a model only.
+data/series/offsets_constant_joint_draws.csv.gz,index,double,135000,0,"Basket index, normalised to the 1770-1779 mean of 100; in joint-draw files one value belongs to one complete draw path."
+data/series/peak_timing_diagnostics.csv,variant_id,character,8,0,"Peak timing for full and post-1795 windows; first chronological maximiser for ties. Persistent-price-only target removes realised wheat transitory state from same fit, not a refit without that state"
+data/series/peak_timing_diagnostics.csv,target,character,8,0,Basket with realised transitory wheat or persistent-price-only target within the same fitted draws.
+data/series/peak_timing_diagnostics.csv,window,integer,8,0,Calendar-year window in which the maximum is located.
+data/series/peak_timing_diagnostics.csv,point_peak_year,integer,8,0,First year attaining the maximum of the point index in the window.
+data/series/peak_timing_diagnostics.csv,peak_q05,integer,8,0,Fifth percentile of the discrete conditional peak-year distribution.
+data/series/peak_timing_diagnostics.csv,peak_median,integer,8,0,Median of the conditional peak-year distribution.
+data/series/peak_timing_diagnostics.csv,peak_q95,integer,8,0,Ninety-fifth percentile of the discrete conditional peak-year distribution.
+data/series/peak_timing_diagnostics.csv,prob_peak_before1825,double,8,0,Fraction of conditional trajectories with a peak before 1825.
+data/series/peak_timing_diagnostics.csv,prob_peak_before1826,double,8,0,Fraction of conditional trajectories with a peak before 1826.
+data/series/peak_timing_diagnostics.csv,prob_peak1818_1824,double,8,0,Fraction of conditional trajectories peaking between 1818 and 1824 inclusive.
+data/series/peak_timing_diagnostics.csv,draws,integer,8,0,Number of conditional joint trajectories used.

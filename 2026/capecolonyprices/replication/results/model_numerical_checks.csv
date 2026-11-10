@@ -1,0 +1,5 @@
+test,start_id,convergence,negative_log_likelihood,nll_difference,max_log_price_difference
+full_sample_alternative_start,1,0,167.04258375890237,2.798643095047737e-8,1.7445588608833162e-5
+full_sample_alternative_start,2,0,167.04258370394945,-2.6966489485857892e-8,3.068730812283427e-5
+holdout_default_vs_warm_start,1723,0,159.73994130880405,3.438316298343125e-9,4.3997884557001044e-5
+holdout_default_vs_warm_start,1811,0,156.84622239593472,-4.919698426419927e-8,1.6422592108544798e-5

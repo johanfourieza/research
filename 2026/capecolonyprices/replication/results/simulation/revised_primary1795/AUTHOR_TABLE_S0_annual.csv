@@ -1,0 +1,7 @@
+scenario,fit_variant,group,metric,n,mean,replicate_sd,mcse
+S0_prior_calibration,primary,all,pointwise_coverage,200,0.897962962962963,0.06846203173594441,0.00484099668942949
+S0_prior_calibration,primary,goods_0,pointwise_coverage,200,0.8708333333333333,0.2028809119490483,0.01434584686124829
+S0_prior_calibration,primary,post1795,pointwise_coverage,200,0.886375,0.15538486624601336,0.01098736926163207
+S0_prior_calibration,true_parameter_plugin,all,pointwise_coverage,200,0.905074074074074,0.06200629670811621,0.0043845072878574
+S0_prior_calibration,true_parameter_plugin,goods_0,pointwise_coverage,200,0.8758333333333334,0.19377346942741244,0.01370185342461674
+S0_prior_calibration,true_parameter_plugin,post1795,pointwise_coverage,200,0.890875,0.15090134344087633,0.01067033632372038
