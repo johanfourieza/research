@@ -1,0 +1,17 @@
+outcome,task_label,papers,mean
+ra_count,no-disclosure,6774,0.829052258635961
+ra_count,operational-or-mixed,361,1.518005540166205
+ra_count,unlabelled,39,0.38461538461538464
+ra_count,writing-only,68,0.6470588235294118
+any_ra,no-disclosure,6775,0.28752767527675277
+any_ra,operational-or-mixed,361,0.37119113573407203
+any_ra,unlabelled,39,0.15384615384615385
+any_ra,writing-only,68,0.23529411764705882
+author_count,no-disclosure,7958,3.0777833626539333
+author_count,operational-or-mixed,425,3.327058823529412
+author_count,unlabelled,41,1.9024390243902438
+author_count,writing-only,78,3.2948717948717947
+pages,no-disclosure,7958,52.430258859009804
+pages,operational-or-mixed,425,62.258823529411764
+pages,unlabelled,41,43.4390243902439
+pages,writing-only,78,49.65384615384615
