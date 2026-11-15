@@ -1,0 +1,37 @@
+date,provider,label,source_url,date_source_url,note
+2022-11-30,OpenAI,ChatGPT (GPT-3.5),https://openai.com/index/chatgpt/,https://openai.com/index/chatgpt/,Public research preview
+2023-03-14,OpenAI,GPT-4,https://openai.com/index/gpt-4-research/,https://openai.com/index/gpt-4-research/,Initial release
+2023-11-06,OpenAI,GPT-4 Turbo,https://openai.com/index/new-models-and-developer-products-announced-at-devday/,https://openai.com/index/new-models-and-developer-products-announced-at-devday/,API preview announcement
+2024-05-13,OpenAI,GPT-4o,https://openai.com/index/hello-gpt-4o/,https://openai.com/index/hello-gpt-4o/,Initial rollout
+2024-09-12,OpenAI,o1-preview,https://openai.com/index/introducing-openai-o1-preview/,https://openai.com/index/introducing-openai-o1-preview/,Public preview; o1-mini announced alongside
+2024-12-05,OpenAI,o1,https://openai.com/index/introducing-chatgpt-pro/,https://openai.com/index/introducing-chatgpt-pro/,Full o1 release
+2025-02-27,OpenAI,GPT-4.5,https://openai.com/index/introducing-gpt-4-5/,https://openai.com/index/introducing-gpt-4-5/,Public research preview
+2025-04-16,OpenAI,o3 / o4-mini,https://openai.com/index/introducing-o3-and-o4-mini/,https://openai.com/index/introducing-o3-and-o4-mini/,Joint announcement
+2025-08-07,OpenAI,GPT-5,https://openai.com/index/introducing-gpt-5/,https://openai.com/index/introducing-gpt-5/,Initial rollout
+2025-11-12,OpenAI,GPT-5.1,https://openai.com/index/gpt-5-1/,https://openai.com/index/gpt-5-1/,Initial rollout
+2025-12-11,OpenAI,GPT-5.2,https://openai.com/index/introducing-gpt-5-2/,https://openai.com/index/introducing-gpt-5-2/,Initial rollout
+2026-03-03,OpenAI,GPT-5.3 Instant,https://openai.com/index/gpt-5-3-instant/,https://openai.com/index/gpt-5-3-instant/,ChatGPT release
+2026-03-05,OpenAI,GPT-5.4,https://openai.com/index/introducing-gpt-5-4/,https://openai.com/index/introducing-gpt-5-4/,Initial rollout
+2026-04-23,OpenAI,GPT-5.5,https://openai.com/index/introducing-gpt-5-5/,https://openai.com/index/introducing-gpt-5-5/,ChatGPT and Codex; API followed on 24 April
+2026-07-09,OpenAI,GPT-5.6,https://openai.com/index/gpt-5-6/,https://openai.com/index/gpt-5-6/,General release of Sol Terra and Luna; limited June preview not separately counted
+2026-09-03,OpenAI,GPT-6 Astra,https://openai.com/index/gpt-6-astra/,https://openai.com/index/safety-overview-gpt-6-astra/,Phased rollout began; not universal access on this date
+2026-09-22,OpenAI,GPT-6 Sol / Luna,https://openai.com/index/introducing-gpt-6-sol-and-luna/,https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925,Joint announcement
+2023-03-14,Anthropic,Claude,https://www.anthropic.com/news/introducing-claude,https://www.anthropic.com/news/introducing-claude,Initial Claude and Claude Instant announcement
+2023-07-11,Anthropic,Claude 2,https://www.anthropic.com/news/claude-2,https://www.anthropic.com/news/claude-2,Initial release
+2023-11-21,Anthropic,Claude 2.1,https://www.anthropic.com/news/claude-2-1,https://www.anthropic.com/news/claude-2-1,Initial release
+2024-03-04,Anthropic,Claude 3,https://www.anthropic.com/news/claude-3-family,https://www.anthropic.com/news/claude-3-family,Opus and Sonnet released; Haiku followed later
+2024-06-21,Anthropic,Sonnet 3.5,https://www.anthropic.com/news/claude-3-5-sonnet,https://www.anthropic.com/news/claude-3-5-sonnet,Date printed on the current official announcement
+2024-10-22,Anthropic,Sonnet 3.5 update,https://www.anthropic.com/news/3-5-models-and-computer-use,https://www.anthropic.com/news/3-5-models-and-computer-use,New Sonnet available immediately; Haiku announced for later
+2025-02-24,Anthropic,Sonnet 3.7,https://www.anthropic.com/news/claude-3-7-sonnet,https://www.anthropic.com/news/claude-3-7-sonnet,Initial release
+2025-05-22,Anthropic,Claude 4,https://www.anthropic.com/news/claude-4,https://www.anthropic.com/news/claude-4,Opus and Sonnet jointly released
+2025-08-05,Anthropic,Opus 4.1,https://www.anthropic.com/news/claude-opus-4-1,https://www.anthropic.com/news/claude-opus-4-1,Initial release
+2025-09-29,Anthropic,Sonnet 4.5,https://www.anthropic.com/news/claude-sonnet-4-5,https://www.anthropic.com/news/claude-sonnet-4-5,Initial release
+2025-11-24,Anthropic,Opus 4.5,https://www.anthropic.com/news/claude-opus-4-5,https://www.anthropic.com/news/claude-opus-4-5,Initial release
+2026-02-05,Anthropic,Opus 4.6,https://www.anthropic.com/news/claude-opus-4-6,https://www.anthropic.com/news/claude-opus-4-6,Initial release
+2026-02-17,Anthropic,Sonnet 4.6,https://www.anthropic.com/news/claude-sonnet-4-6,https://www.anthropic.com/news/claude-sonnet-4-6,Initial release
+2026-04-16,Anthropic,Opus 4.7,https://www.anthropic.com/news/claude-opus-4-7,https://www.anthropic.com/news/claude-opus-4-7,Initial release
+2026-05-28,Anthropic,Opus 4.8,https://www.anthropic.com/news/claude-opus-4-8,https://www.anthropic.com/news/claude-opus-4-8,Initial release
+2026-06-09,Anthropic,Fable 5,https://www.anthropic.com/news/claude-fable-5-mythos-5,https://www.anthropic.com/news/claude-fable-5-mythos-5,Access suspended 12 June and restored 1 July; restricted Mythos excluded
+2026-07-24,Anthropic,Opus 5,https://www.anthropic.com/news/claude-opus-5,https://www.anthropic.com/news/claude-opus-5,Initial release
+2026-09-01,Anthropic,Fable 5.1,https://www.anthropic.com/claude-fable-and-mythos-5-1,https://www.anthropic.com/claude/fable,Restricted Mythos 5.1 excluded
+2026-09-22,Anthropic,Opus 5.5,https://www.anthropic.com/claude-opus-5-5,https://www.anthropic.com/claude/opus,Initial release

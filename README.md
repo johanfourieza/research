@@ -19,6 +19,7 @@ stage.
 | [`2026/biplots/`](2026/biplots/) | Biplots for Historical Household Data: Evidence from Cape Tax Records | Fourie, Lubbe, Nienkemper-Swanepoel & von Fintel (2026), *Historical Methods* (revise and resubmit) |
 | [`2026/capecolonyprices/`](2026/capecolonyprices/) | Inflation in the long eighteenth-century Cape Colony | Fourie (2026), submitted to *Studies in Economics and Econometrics* |
 | [`2026/dismal-science-south-africa/`](2026/dismal-science-south-africa/) | The Dismal State of the Dismal Science in South Africa | Fourie (2026), submitted to the *South African Journal of Economics* |
+| [`2026/ferrara_comment/`](2026/ferrara_comment/) | Large language models and economic history: A comment on Ferrara (2026) | Fourie (2026), *Explorations in Economic History* (forthcoming) |
 | [`2026/follow-on/`](2026/follow-on/) | Do Cricket Captains Maximise Winning? Evidence from 125 Years of the Follow-On Rule | Fourie (2026), working paper |
 | [`2026/handedness/`](2026/handedness/) | Invisible Handedness: The Myth of Left–Right Batting Partnerships | Fourie & Siebrits (2026), *Journal of Sports Economics* (revise and resubmit) |
 | [`2026/path/`](2026/path/) | Testing for Path Dependence in Economic History Publications | Fourie (2026), *Cliometrica*, [doi:10.1007/s11698-026-00346-w](https://doi.org/10.1007/s11698-026-00346-w) (forthcoming) |
